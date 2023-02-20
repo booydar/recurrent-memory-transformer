@@ -213,6 +213,7 @@ class Trainer:
         # move model to gpu
         self.model.cuda()
 
+
         # Horovod: broadcast parameters & optimizer state.
         hvd.broadcast_parameters(self.model.state_dict(), root_rank=0)
         hvd.broadcast_optimizer_state(self.optimizer, root_rank=0)
@@ -299,7 +300,7 @@ class Trainer:
         batch_sizes = []
         for k in batch:
             # filter keys in batch to pass to model only supported arguments
-            if k in self.model_forward_args:
+            if k in self.model_forward_args or k.startswith('seg'):
                 batch[k] = batch[k].cuda()
                 batch_sizes += [batch[k].size(dim=0)]
         if not np.all(np.array(batch_sizes) == batch_sizes[0]):
@@ -309,10 +310,11 @@ class Trainer:
         batch_metrics = defaultdict(lambda: 0.0)
         batch_metrics_data = defaultdict(lambda: [])
         with torch.set_grad_enabled(is_train_mode):
+
             for j in range(0, batch_size, self.args.batch_size):
                 subbatch = {k: batch[k][j: j + self.args.batch_size] for k in batch}
                 # filter items from batch that are not used by model forward
-                outputs = self.model(**{k: subbatch[k] for k in subbatch if k in self.model_forward_args})
+                outputs = self.model(**{k: subbatch[k] for k in subbatch if k in self.model_forward_args or k.startswith('seg')})
                 loss = outputs['loss']
 
                 if not is_train_mode and self.args.use_generate_on_valid:
@@ -476,10 +478,10 @@ class Trainer:
                     metrics_data[k] = list(itertools.chain.from_iterable(metrics_data[k]))
                 elif len(m_shape) == 0:
                     # if scalars
-                    metrics_data[k] = torch.stack(metrics_data[k])
+                    metrics_data[k] = np.stack(metrics_data[k])
                 elif all(m_shape[1:] == t.shape[1:] for t in metrics_data[k]):
                     # concat tensors if all shapes are equal except the first
-                    metrics_data[k] = torch.cat(metrics_data[k])
+                    metrics_data[k] = np.concatenate(metrics_data[k])
                 else:
                     # can't concat tensors with diff last shapes, so collecting them into python list
                     metrics_data[k] = list(itertools.chain.from_iterable([t.tolist() for t in metrics_data[k]]))
@@ -555,7 +557,7 @@ class Trainer:
                                                    self.n_iter * self.global_batch_size)
 
             # validation
-            if self.valid_dataloader is not None and self.n_iter % self.args.valid_interval == 0:
+            if self.valid_dataloader is None and self.n_iter % self.args.valid_interval == 0:
                 # todo: we can use other metrics than loss here
                 valid_metrics = self.validate(self.valid_dataloader)
                 valid_loss = valid_metrics['loss']
