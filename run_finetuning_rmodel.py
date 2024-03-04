@@ -195,7 +195,7 @@ if __name__ == '__main__':
         # train_sample_size = [int(args.sample_size / i) for i in range(1, args.max_n_segments + 1)]
         #train_sample_size = [int(args.segment_size * i) for i in range(1, args.max_n_segments)] + [args.sample_size]
         #np.linargs(32, args.sample_size, 2)
-        train_sample_size = np.linspace(100, args.sample_size, 5).astype(int)
+        train_sample_size = np.linspace(240, args.sample_size, 5).astype(int)
         train_sample_size = [s - qa_margin for s in train_sample_size]
         logger.info(f'Will be choosing sample size randomly from {train_sample_size} for training')
     else:

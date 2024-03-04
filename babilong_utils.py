@@ -175,8 +175,9 @@ class NoiseInjectionDataset(Dataset):
 
         sample_size = self.get_sample_size()
         task_len = sum_lengths(facts_tok)
+        #print(f'sum length facts len: {task_len}')
         background_text_len = sample_size - task_len
-
+        #print(f"background len: {background_text_len}")
         background_text = self.noise_sampler.get_sample(background_text_len)
 
         sample['background_text'] = background_text
@@ -216,7 +217,6 @@ class NoiseInjectionDataset(Dataset):
         sample['input_tokens'] = tokens
         sample['question_tokens'] = question_tok
         sample['target_tokens'] = answer_tok
-
         return sample
     
     def __len__(self):
