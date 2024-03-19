@@ -644,6 +644,7 @@ class Trainer:
         if self.accelerator.is_main_process:
             # todo: separate logging from validation/training
             for k in metrics:
+                # print(f'Validation on {split} {k}: {metrics[k]:.4f}')
                 logger.info(f'Validation on {split} {k}: {metrics[k]:.4f}')
                 if self.tb and write_tb:
                     self.tb.add_scalar(f'{k}/iterations/{split}', metrics[k], self.n_iter)

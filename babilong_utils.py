@@ -179,7 +179,6 @@ class NoiseInjectionDataset(Dataset):
         background_text_len = sample_size - task_len
         #print(f"background len: {background_text_len}")
         background_text = self.noise_sampler.get_sample(background_text_len)
-
         sample['background_text'] = background_text
 
         if self.task_start_pct is None and self.task_end_pct is None:     # if fact position unspecified
@@ -218,7 +217,7 @@ class NoiseInjectionDataset(Dataset):
         sample['question_tokens'] = question_tok
         sample['target_tokens'] = answer_tok
         return sample
-    
+
     def __len__(self):
         return len(self.task_dataset)
     

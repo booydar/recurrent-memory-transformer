@@ -23,6 +23,7 @@ from torch.utils.data.distributed import DistributedSampler
 from peft import get_peft_model, LoraConfig, TaskType
 # load_dotenv()
 from babilong_utils import TaskDataset, SentenceSampler, NoiseInjectionDataset
+from rl import SequentialRetrievalPostprocessor
 
 logger_fmt = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 logging.basicConfig(format=logger_fmt, level=logging.INFO)
@@ -134,9 +135,15 @@ parser.add_argument('--pile_subset_names', type=str, default=None, help='use onl
 parser.add_argument('--min_tokens_in_document', type=int, default=None, help='do not use documents shorter than this value')
 parser.add_argument('--max_tokens_in_document', type=int, default=None, help='do not use documents longer than this value')
 
+# Retrieval args:
+parser.add_argument('--use_rag', action="store_true", default=False, help='Sequences is first preprocessed with multi-step retrieval')
+parser.add_argument('--retr_device', type=int, default=-1, help='Run retriever NN on specified device: -1 for cpu, N>=0 for cuda:N')
+
 
 if __name__ == '__main__':
     args = parser.parse_args()
+    args.retr_device = "cpu" if args.retr_device < 0 else f"cuda:{args.retr_device}"
+
     # set current working dir
     args.working_dir = str(Path(args.working_dir).expanduser().absolute())
     os.chdir(args.working_dir)
@@ -201,7 +208,7 @@ if __name__ == '__main__':
     if (args.task_start_pct is not None) and (args.task_end_pct is not None):
         # do not sample sentences longer than task position range * 0.5
         max_sentence_len = int((args.task_end_pct - args.task_start_pct) * 0.5 * args.sample_size)
-        
+
     noise_sampler_train = SentenceSampler(noise_dataset_train, tokenizer=tokenizer, max_sentence_len=max_sentence_len, shuffle=True, random_seed=None)
     noise_sampler_test = SentenceSampler(noise_dataset_test, tokenizer=tokenizer, max_sentence_len=max_sentence_len, shuffle=True, random_seed=42)
 
@@ -222,6 +229,8 @@ if __name__ == '__main__':
                                             task_start_pct=args.task_start_pct,
                                             task_end_pct=args.task_end_pct
                                             )
+    if args.use_rag:
+        test_dataset = SequentialRetrievalPostprocessor(test_dataset, device=args.retr_device)
     
     id_pad_value = tokenizer.pad_token_id if tokenizer.pad_token_id is not None else tokenizer.eos_token_id
     gen_token = tokenizer.encode('GEN')[0]
