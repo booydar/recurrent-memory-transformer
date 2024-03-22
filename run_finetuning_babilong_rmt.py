@@ -365,11 +365,11 @@ if __name__ == '__main__':
             max_n_segments = np.ceil(args.sample_size / args.segment_size)
         model = recurrent_wrapper_cls(cell,
                                       segment_size=args.segment_size,
-                                      max_n_segments=max_n_segments, 
+                                      max_n_segments=max_n_segments,
                                       segment_alignment=args.segment_alignment,
                                       k2=args.k2,
                                       retrieve_mode=args.retrieve_mode,
-        )
+                                      )
 
         ## load cpt of rmt
         if args.model_cpt:

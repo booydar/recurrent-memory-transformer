@@ -112,37 +112,61 @@ class RecurrentWrapper(torch.nn.Module):
         self.rmt_config = rmt_kwargs
         self.memory_dim = self.memory_cell.memory.shape[-1]
         self.retrieve_mode = self.rmt_config['retrieve_mode']  # 'attention' # top_1
+        self.intermediate_size = self.rmt_config.get('rmt_intermediate_size', self.memory_dim * 4)
+        self.attention_dropout_prob = self.rmt_config.get('rmt_attention_dropout', 0.1)
+        self.hid_dropout_prob = self.rmt_config.get('rmt_hidden_dropout', 0.1)
+        self.layer_norm_eps = self.rmt_config.get('rmt_layer_norm_eps', 1e-5)
 
+        # Q, K, V and output proj
         self.q_proj = torch.nn.Linear(self.memory_dim, self.memory_dim)
         self.k_proj = torch.nn.Linear(self.memory_dim, self.memory_dim)
         self.v_proj = torch.nn.Linear(self.memory_dim, self.memory_dim)
         self.o_proj = torch.nn.Linear(self.memory_dim, self.memory_dim)
+        # MLP
+        self.fc_1 = torch.nn.Linear(self.memory_dim, self.intermediate_size)
+        self.fc_2 = torch.nn.Linear(self.intermediate_size, self.memory_dim)
+        self.att_dropout = torch.nn.Dropout(self.attention_dropout_prob)
+        self.dropout_1 = torch.nn.Dropout(self.hid_dropout_prob)
+        self.dropout_2 = torch.nn.Dropout(self.hid_dropout_prob)
+        self.ln_q = torch.nn.LayerNorm(self.memory_dim, eps=self.layer_norm_eps)
+        self.ln_kv = torch.nn.LayerNorm(self.memory_dim, eps=self.layer_norm_eps)
+        self.ln_mlp = torch.nn.LayerNorm(self.memory_dim, eps=self.layer_norm_eps)
         self.act = ACT2FN[self.memory_cell.model.config.activation_function]
 
     def retrieve_from_past_memory_states(self, past_states, current_state):
         if len(past_states) == 0:
             return None
 
-        # smth like cross-attention between current state and past states
+        # smth like single-head cross-attention between current state and past states
         # get query from current states
-        q = self.act(self.q_proj(current_state))
+        q = self.q_proj(self.ln_q(current_state))
         hiddens = torch.cat(past_states, dim=1)
+        hiddens = self.ln_kv(hiddens)
         # get keys and values from past states
-        k = self.act(self.k_proj(hiddens))
-        v = self.act(self.v_proj(hiddens))
+        k = self.k_proj(hiddens)
+        v = self.v_proj(hiddens)
         att_scores = torch.matmul(q, k.transpose(-1, -2)) / math.sqrt(self.memory_dim)
 
         if self.retrieve_mode == 'attention':
             att_probs = torch.nn.functional.softmax(att_scores, dim=-1)
-            retrieved_values = torch.matmul(att_probs, v)
+            att_probs = self.att_dropout(att_probs)
         elif self.retrieve_mode == 'top_1':
             # top_1_indices = torch.argmax(att_probs, dim=-1)
             # top_1_ohe = torch.nn.functional.one_hot(top_1_indices, num_classes=att_scores.shape[2]).type(v.dtype)
             # retrieved_values = torch.matmul(top_1_ohe, v)
             # use softmax with very low temperature to make it looks like [0, 0, 1, 0, ..., 0]
             att_probs = torch.nn.functional.softmax(att_scores * 1e05, dim=-1)
-            retrieved_values = torch.matmul(att_probs, v)
-        retrieved_values = self.act(self.o_proj(retrieved_values))
+
+        retrieved_values = torch.matmul(att_probs, v)
+        retrieved_values = self.o_proj(retrieved_values)
+        retrieved_values = self.dropout_1(retrieved_values)
+        # skip connection over cross-attention
+        retrieved_values = retrieved_values + current_state
+        # mem_dim -> interm_dim -> mem_dim
+        mlp_hiddens = self.fc_2(self.act(self.fc_1(self.ln_mlp(retrieved_values))))
+        mlp_hiddens = self.dropout_2(mlp_hiddens)
+        # skip connection over MLP (?)
+        retrieved_values = retrieved_values + mlp_hiddens
         return retrieved_values
 
     def forward(self, input_ids, labels=None, labels_mask=None, inputs_embeds=None, attention_mask=None, output_attentions=None, output_hidden_states=None):
