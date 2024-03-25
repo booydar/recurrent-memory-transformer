@@ -6,36 +6,43 @@ CUBLAS_WORKSPACE_CONFIG=:4096:2
 CUDA_LAUNCH_BLOCKING=1
 
 MODEL_TYPE=decoder
-MEMORY_CELL=modeling_rmt.experimental:MemoryCellGenerate
+MEMORY_CELL=modeling_rmt.language_modeling:MemoryCell
 RECURRENT_WRAPPER=modeling_rmt.language_modeling:RecurrentWrapper
 BACKBONE_CLS=base_models.modeling_gpt_neox:GPTNeoXForCausalLM
 TASK_NAME=associative_retrieval
 METRIC=exact_match
 
-MEMORY_SIZE=8
-ITERS=3000
+
+MODEL_NAME=gpt-neox
+MEMORY_SIZE=4
+
 TBS=512
 INPUT_SIZE=2048
-KEY_SIZE=2
-NUM_PAIRS=2
+
+NUMS_PAIRS=(1 2 3 5 10 20 40 50)
+KEY_SIZES=(1 1 1 1 1 2 2 2)
+VALUE_SIZES=(1 1 1 1 1 1 1 1)
+BSS=(128 128 128 128 128 128 128 128)
+ITERSS=(2000 10000 10000 10000 10000 10000 10000 30000)
+
+# ITERSS=(1 1 1 1 1 1 1 1)
+
+DIM=128
+NUM_LAYERS=4
+
+
+for N in 1
+do
+
+for (( j=0; j<${#NUMS_PAIRS[@]}; j++ ))
+do
+NUM_PAIRS=${NUMS_PAIRS[j]}
+KEY_SIZE=${KEY_SIZES[j]}
+VALUE_SIZE=${VALUE_SIZES[j]}
 MAX_N_SEGMENTS=$((NUM_PAIRS + 1))
+BS=${BSS[j]}
+ITERS=${ITERSS[j]}
 
-
-for MEMORY_SIZE in $MEMORY_SIZE
-do 
-BS=128
-
-for N in 2
-do
-
-for VALUE_SIZE in 1
-do
-
-for DIM in 128
-do
-
-for NUM_LAYERS in 4
-do
 
 BLOCK_SIZE=$((KEY_SIZE + VALUE_SIZE + 2))
 cd base_models/gptconfigs
@@ -54,9 +61,17 @@ do
 for SCHEDULER in linear
 do
 
+if [[ j -gt 0 ]]
+then
+    PREV_NUM_PAIRS=${NUMS_PAIRS[j-1]}
+    PREV_MAX_N_SEGMENTS=$((PREV_NUM_PAIRS + 1))
+    MODEL_CPT=../runs/${TASK_NAME}/rmt/$MODEL_NAME/lr${LR}_${SCHEDULER}_adamw_wd1e-03_k${KEY_SIZES[j-1]}-v${VALUE_SIZES[j-1]}-p${PREV_NUM_PAIRS}-${PREV_MAX_N_SEGMENTS}x${INPUT_SIZE}_mem${MEMORY_SIZE}_bs${TBS}_${SEGMENT_ORDERING}_bptt-${PREV_MAX_N_SEGMENTS}_${NUM_LAYERS}l${NUM_LAYERS}hd${DIM}/run_$N 
+else
+    MODEL_CPT=None
+fi
 
 GRAD_ACC_STEPS=$(($TBS/($BS*$NP)))
-ACCEL_CONFIG=../../accel_configs/exp/accelerate.yaml
+ACCEL_CONFIG=./accel_configs/accelerate.yaml
 
 echo gradient accumulation steps $GRAD_ACC_STEPS
 
@@ -85,18 +100,18 @@ python run_finetuning_associative_retrieval.py \
         --optimizer AdamW  --weight_decay 0.001 \
         --lr ${LR} --lr_scheduler $SCHEDULER --num_warmup_steps $(($ITERS/10)) \
         --data_n_workers 2 \
-        --log_interval $(($ITERS/100)) --valid_interval $(($ITERS/20)) \
+        --log_interval 100 --valid_interval 500 \
         --optimize_metric $METRIC --optimize_mode max \
         --show_valid_examples 5 \
+        --early_stopping_patience 50 \
         --seed $(($N+42)) \
         --clip_grad_value 1.0 \
         --train_size 1000000 \
         --valid_size 1000 \
         --test_size 10000 \
+        --vary_n_segments \
+        --model_cpt $MODEL_CPT \
         --save_best
-done
-done
-done
 done
 done
 done

@@ -87,7 +87,8 @@ parser.add_argument('--train_size', type=int, default=10000, help='number of sam
 parser.add_argument('--valid_size', type=int, default=1000, help='number of samples in validation split')
 parser.add_argument('--test_size', type=int, default=2000, help='number of samples in test split')
 parser.add_argument('--segment_size', type=int, default=128, help='number of useful tokens in a segment')
-
+parser.add_argument('--rewrite_setting', action='store_true', default=False,
+                    help='keys can occur several times')
 
 # Aydar # RMT args 
 parser.add_argument('--input_size', type=int, default=None, help='maximal input size of the backbone model')
@@ -133,39 +134,45 @@ parser.add_argument('--warmup_init', action='store_true', default=False,
 
 
 NUM_SYMBOLS = 16
-def generate_pairs(key_size, value_size, num_pairs):
-    keys = torch.randint(0, NUM_SYMBOLS, (num_pairs * 2, key_size))
-    keys[:, 0] = torch.randint(1, NUM_SYMBOLS, (num_pairs * 2, ))
-    
-    unique = keys.unique(dim=0)
-    delta_pairs = num_pairs - unique.shape[0]
-    if delta_pairs > 0:
-        print('got unique')
-        return generate_pairs(key_size, value_size, num_pairs)
+from tqdm.auto import tqdm
 
-    selected_ids = torch.randperm(unique.shape[0])[:num_pairs]
-    keys = unique[selected_ids]
+def generate_pairs(key_size, value_size, num_pairs, num_samples):
+    keys = torch.empty((num_samples, num_pairs, key_size))
 
-    values = torch.randint(0, NUM_SYMBOLS, (num_pairs, value_size))
-    values[:, 0] = torch.randint(1, NUM_SYMBOLS, (num_pairs, ))
+    if not rewrite_setting:
+        for i in tqdm(range(num_samples)):
+            key = torch.randperm(NUM_SYMBOLS ** key_size)[:num_pairs]
+            for j in range(key_size):
+                keys[i, :, j] = key % NUM_SYMBOLS
+                key //= NUM_SYMBOLS
+    else:
+        keys = torch.randint(0, NUM_SYMBOLS, (num_samples, num_pairs, key_size))
+
+    values = torch.randint(0, NUM_SYMBOLS, (num_samples, num_pairs, value_size))
     return keys, values
 
 
 class ARDataset:
     def __init__(self, key_size, value_size, sample_len=1, num_samples=20_000):
         self.sample_len = sample_len
-        keys, values = generate_pairs(key_size, value_size, sample_len * num_samples)
-
-        self.keys = keys.reshape(num_samples, -1)
-        self.values = values.reshape(num_samples, -1)
-        self.target_key_inds = torch.randint(sample_len, (num_samples, ))
-
+        self.keys, self.values = generate_pairs(key_size, value_size, sample_len, num_samples)
+        if not rewrite_setting:
+            self.target_key_inds = torch.randint(sample_len, (num_samples, ))
+        else:
+            self.target_key_inds = torch.empty((num_samples,), dtype=torch.long)
+            for i in tqdm(range(num_samples)):
+                unique_keys = self.keys[i].unique(dim=0)
+                key = unique_keys[torch.randperm(len(unique_keys))[0]]
+                try:
+                    idx = torch.max(torch.where(torch.all(self.keys[i] == key, dim=-1))[0], dim=0)[0].long()
+                except Exception:
+                    print(f"{self.keys[i]}, {key}")
+                    raise 1
+                assert torch.all(self.keys[i][idx] == key)
+                self.target_key_inds[i] = idx
+    
     def __getitem__(self, idx):
         keys, values, tgt_ind = self.keys[idx], self.values[idx], self.target_key_inds[idx]
-        dim = 0 if keys.ndim == 1 else 1
-        keys = torch.chunk(keys, self.sample_len, dim=dim)
-        values = torch.chunk(values, self.sample_len, dim=dim)
-
         sample = {'keys': keys, 'values': values, 'target_key_ind': tgt_ind}
         return sample
     
@@ -189,6 +196,7 @@ if __name__ == '__main__':
     if args.model_path is None:
         logger.warning('model_path is not set: config, logs and checkpoints will not be saved.')
 
+    rewrite_setting = args.rewrite_setting
     # # create model path and save configuration
     # # todo: use prepare run
     # if accelerator.is_main_process and args.model_path is not None:
@@ -223,6 +231,7 @@ if __name__ == '__main__':
             eos_tokens = torch.ones(bs, 1) * eos_token
             gen_tokens = torch.ones(bs, 1) * gen_token
             sample = []
+
             for i in range(args.num_pairs):
                 sample.append(torch.stack([k[i] for k in keys]))
                 sample.append(sep_tokens)
@@ -332,7 +341,7 @@ if __name__ == '__main__':
                                     
 
         ## load cpt of rmt
-        if args.model_cpt:
+        if args.model_cpt and args.model_cpt != 'None':
             model_cpt = os.path.join(args.model_cpt, "model_best/pytorch_model.bin")
             cpt = torch.load(model_cpt, map_location='cpu')
             model.load_state_dict(cpt, strict=False)
@@ -413,7 +422,8 @@ if __name__ == '__main__':
         if 'generation_outputs' in data:
             y = data['labels']
             p = data['generation_outputs']
-            metrics['exact_match'] = np.mean([(len(p_) >= args.value_size + 1) and (y_[-args.value_size - 1:] == p_[-args.value_size - 1:]) \
+
+            metrics['exact_match'] = np.mean([(len(p_) >= args.value_size + 1) and torch.all(torch.tensor(y_)[-args.value_size - 1:] == torch.tensor(p_[-args.value_size - 1:])) \
                                               for p_, y_ in zip (p, y)])
 
             # replace -100 with pad token in labels

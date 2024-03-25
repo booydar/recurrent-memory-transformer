@@ -12,6 +12,7 @@ RECURRENT_WRAPPER=modeling_rmt.language_modeling:RecurrentWrapper
 BACKBONE_CLS=base_models.modeling_gpt_neox:GPTNeoXForCausalLM
 TASK_NAME=associative_retrieval_rq
 METRIC=exact_match
+MODEL_NAME=gpt-neox
 
 ITERS=5000
 TBS=64
