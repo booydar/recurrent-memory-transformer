@@ -1,10 +1,9 @@
 import json
 import logging
 import os
-import math
-import shutil
+
 from pathlib import Path
-from itertools import chain
+from argparse import Namespace
 
 # from dotenv import load_dotenv
 import torch
@@ -12,7 +11,7 @@ import numpy as np
 import datasets
 import transformers
 from torch.utils.data import DataLoader
-from huggingface_hub import hf_hub_download
+from tqdm.auto import tqdm
 
 from lm_experiments_tools.trainer import Trainer, TrainerArgs
 
@@ -66,6 +65,9 @@ parser.add_argument('--input_prefix', type=str, default='', help='add task prefi
 parser.add_argument('--sliding_window', action='store_true', help='use slinding window attention mask, '
                     'eval on last segment only', default=False)
 
+# if validate_only, load arguments from experiment's config.json
+parser.add_argument('--experiment_cfg', type=str, help='path experiment config.json (to get model_cfg, model_cls)')
+
 # model args
 parser.add_argument('--from_pretrained', type=str, help='model name in HF Model Hub (default: "")')
 parser.add_argument('--model_cfg', type=str, help='path to model configuration file (default: "")')
@@ -93,6 +95,8 @@ parser.add_argument('--rewrite_setting', action='store_true', default=False,
 # Aydar # RMT args 
 parser.add_argument('--input_size', type=int, default=None, help='maximal input size of the backbone model')
 parser.add_argument('--num_mem_tokens', type=int, default=None, help='number of memory tokens.')
+parser.add_argument('--num_read_mem_tokens', type=int, default=None, help='number of read memory tokens.')
+parser.add_argument('--num_write_mem_tokens', type=int, default=None, help='number of write memory tokens.')
 parser.add_argument('--max_n_segments', type=int, default=1, help='maximal segment number')
 parser.add_argument('--vary_n_segments', action='store_true', default=False, help='Randomly choose segment number from 1 to max_n_segments')
 parser.add_argument('--segment_alignment', type=str, default=None, help="How to align segments when splitting input")
@@ -116,6 +120,7 @@ parser.add_argument('--k2', type=int, default=-1, help='number of last segments 
 parser.add_argument('--freeze_model_weights', action='store_true', default=False,
                     help='Stop training all model weights except memory layers')
 parser.add_argument('--backbone_cpt', type=str, default=None, help='backbone model checkpoint path')
+parser.add_argument('--retrieve_mode', type=str, default=None, help='retrieval mode: attention, top_1')
 
 
 # tokenizer
@@ -134,7 +139,6 @@ parser.add_argument('--warmup_init', action='store_true', default=False,
 
 
 NUM_SYMBOLS = 16
-from tqdm.auto import tqdm
 
 def generate_pairs(key_size, value_size, num_pairs, num_samples):
     keys = torch.empty((num_samples, num_pairs, key_size))
@@ -148,10 +152,10 @@ def generate_pairs(key_size, value_size, num_pairs, num_samples):
     else:
         keys = torch.randint(0, NUM_SYMBOLS, (num_samples, num_pairs, key_size))
 
-    
+
     # keys = torch.randint(0, NUM_SYMBOLS, (num_pairs * 2, key_size))
     # keys[:, 0] = torch.randint(1, NUM_SYMBOLS, (num_pairs * 2, ))
-    
+
     # unique = keys.unique(dim=0)
     # delta_pairs = num_pairs - unique.shape[0]
     # if delta_pairs > 0:
@@ -186,7 +190,7 @@ class ARDataset:
                     raise 1
                 assert torch.all(self.keys[i][idx] == key)
                 self.target_key_inds[i] = idx
-    
+
     def __getitem__(self, idx):
         keys, values, tgt_ind = self.keys[idx], self.values[idx], self.target_key_inds[idx]
         # dim = 0 if keys.ndim == 1 else 1
@@ -194,16 +198,37 @@ class ARDataset:
         # values = torch.chunk(values, self.sample_len, dim=dim)
         sample = {'keys': keys, 'values': values, 'target_key_ind': tgt_ind}
         return sample
-    
+
     def __len__(self):
         return self.keys.shape[0]
-    
+
 
 if __name__ == '__main__':
     args = parser.parse_args()
     # set current working dir
     args.working_dir = str(Path(args.working_dir).expanduser().absolute())
     os.chdir(args.working_dir)
+
+    if args.validate_only:
+        # load all args from experiment config, except:
+        # segment_size, sample_size, max_n_segments, batch_size, gradient_accumulation_steps
+        # task_dataset, noise_dataset, babi_path, noise_dataset_split
+        # get unset args from experiment config
+        excepted_args = {'batch_size', 'gradient_accumulation_steps',
+                         'segment_size', 'max_n_segments',
+                         'dataset_path', 'task_name', 'key_size', 'value_size', 'num_pairs',
+                         'init_checkpoint', 'validate_only', 'experiment_cfg',
+                         'data_n_workers', 'show_valid_examples'}
+        if args.experiment_cfg:
+            exp_cfg = json.load(open(args.experiment_cfg, 'r'))
+            args = vars(args)
+            for k in exp_cfg:
+                if k in args and k not in excepted_args:
+                    args[k] = exp_cfg[k]
+            args = Namespace(**args)
+            args.model_path = None
+            args.lr_scheduler = None
+            args.reset_iteration = False
 
     accelerator = accelerate.Accelerator(gradient_accumulation_steps=args.gradient_accumulation_steps)
     from accelerate.logging import get_logger
@@ -279,24 +304,24 @@ if __name__ == '__main__':
             labels_mask = torch.zeros_like(input_ids).bool()
             labels_mask[:, -args.value_size - 2:] = True
 
-            collated = {'input_ids': input_ids.long(), 
-                        'input_ids_generate': input_ids_generate.long(), 
+            collated = {'input_ids': input_ids.long(),
+                        'input_ids_generate': input_ids_generate.long(),
                         'attention_mask': torch.ones_like(input_ids).bool(),
                         'attention_mask_generate': torch.ones_like(input_ids_generate).bool(),
-                        'labels': input_ids.long(), 
-                        'labels_mask': labels_mask, 
+                        'labels': input_ids.long(),
+                        'labels_mask': labels_mask,
                         }
-            
+
             # print(torch.chunk(collated['input_ids'][:4], args.num_pairs + 2, 1))
             return collated
-            
+
     else:
         raise NotImplementedError(f'Unknown model type {args.model_type}')
 
     kwargs = {'pin_memory': True, 'num_workers': args.data_n_workers}
     # get train dataset
     logger.info(f'preparing dataset for: {args.task_name}')
-    
+
     dataset_name = f"AR_k{args.key_size}_v{args.value_size}_p{args.num_pairs}"
     path = os.path.join(args.dataset_path, dataset_name)
 
@@ -306,26 +331,26 @@ if __name__ == '__main__':
         valid_dataset = torch.load(os.path.join(path, 'valid'))
         test_dataset = torch.load(os.path.join(path, 'test'))
     else:
-        os.system(f"mkdir {path}")
+        os.system(f"mkdir -p {path}")
         train_dataset = ARDataset(args.key_size, args.value_size, sample_len=args.num_pairs, num_samples=args.train_size)
         valid_dataset = ARDataset(args.key_size, args.value_size, sample_len=args.num_pairs, num_samples=args.valid_size)
         test_dataset = ARDataset(args.key_size, args.value_size, sample_len=args.num_pairs, num_samples=args.test_size)
 
         torch.save(train_dataset, os.path.join(path, 'train'))
         torch.save(valid_dataset, os.path.join(path, 'valid'))
-        torch.save(test_dataset,  os.path.join(path, 'test'))
+        torch.save(test_dataset, os.path.join(path, 'test'))
 
     train_rnd_generator = torch.Generator()
     train_rnd_generator.manual_seed(args.seed)
     per_worker_batch_size = args.batch_size * args.gradient_accumulation_steps
     kwargs = {'pin_memory': True, 'num_workers': args.data_n_workers}
-    train_dataloader = DataLoader(train_dataset, batch_size=per_worker_batch_size,  generator=train_rnd_generator,
+    train_dataloader = DataLoader(train_dataset, batch_size=per_worker_batch_size, generator=train_rnd_generator,
                                   collate_fn=collate_fn, **kwargs)
     valid_dataloader = DataLoader(valid_dataset, batch_size=per_worker_batch_size,
                                   collate_fn=collate_fn, **kwargs)
     test_dataloader = DataLoader(test_dataset, batch_size=per_worker_batch_size,
-                                  collate_fn=collate_fn, **kwargs)
-    
+                                 collate_fn=collate_fn, **kwargs)
+
 
     if args.valid_interval is None:
         args.valid_interval = args.log_interval
@@ -343,8 +368,8 @@ if __name__ == '__main__':
 
     # ## add [GEN] token
     # model.resize_token_embeddings(len(tokenizer))
-    
-    ## load cpt of backbone model
+
+    # load cpt of backbone model
     if args.backbone_cpt:
         backbone_cpt = os.path.join(args.backbone_cpt, "model_best.pth")
         cpt = torch.load(backbone_cpt, map_location='cpu')
@@ -352,21 +377,21 @@ if __name__ == '__main__':
         logger.info(f'Loaded baseline state dict from: {args.backbone_cpt}')
 
     # Pass memory settings to pretrained model
-    if args.num_mem_tokens is not None:
+    if args.num_mem_tokens is not None or args.num_read_mem_tokens is not None or args.num_write_mem_tokens is not None:
         memory_cell_cls = get_cls_by_name(args.memory_cell_cls)
         recurrent_wrapper_cls = get_cls_by_name(args.recurrent_wrapper_cls)
         logger.info(f'Wrapping in: {memory_cell_cls} and {recurrent_wrapper_cls}')
-        
-        
-        cell = memory_cell_cls(model, args.num_mem_tokens)
-        model = recurrent_wrapper_cls(cell, 
+
+        # todo: get back support of rmt without retrieval here
+        cell = memory_cell_cls(model, args.num_mem_tokens, args.num_read_mem_tokens, args.num_write_mem_tokens)
+        model = recurrent_wrapper_cls(cell,
                                       segment_size=block_size,
-                                      max_n_segments=args.max_n_segments, 
-                                    #   vary_n_segments=args.vary_n_segments,
+                                      max_n_segments=args.max_n_segments,
+                                      #   vary_n_segments=args.vary_n_segments,
                                       k2=args.k2,
-                                      segment_alignment=args.segment_alignment
-        )
-                                    
+                                      segment_alignment=args.segment_alignment,
+                                      retrieve_mode=args.retrieve_mode,
+                                      )
 
         ## load cpt of rmt
         if args.model_cpt and args.model_cpt != 'None':
@@ -389,7 +414,7 @@ if __name__ == '__main__':
     #         for param in module.parameters():
     #             param.set_(param.contiguous())
     # make_contiguous(model)
-    
+
     # define optimizer
     optimizer_cls = get_optimizer(args.optimizer)
     if optimizer_cls is None:
@@ -398,13 +423,9 @@ if __name__ == '__main__':
     logger.info(f'Using optimizer class: {optimizer_cls}')
 
     # todo: group optimizer params
-    if optimizer_cls in [transformers.optimization.Adafactor, optimizers.Adafactor]:
-        # https://github.com/huggingface/transformers/pull/9751/files -> transformers 4.3.0
-        optimizer = optimizer_cls(model.parameters(), lr=args.lr,
-                                  scale_parameter=args.scale_parameter,
-                                  relative_step=args.relative_step,
-                                  warmup_init=args.warmup_init,
-                                  weight_decay=args.weight_decay)
+    if args.validate_only:
+        # to save gpu ram
+        optimizer = None
     else:
         optimizer = optimizer_cls(model.parameters(), lr=args.lr, weight_decay=args.weight_decay)
 
@@ -417,15 +438,8 @@ if __name__ == '__main__':
             data['labels_mask'] = batch['labels_mask']
 
             data['generation_outputs'] = output['generation_outputs']
-            # if 'labels_mask' in batch:
-            #     data['generation_outputs'] = [data['generation_outputs'][i, mask] for i, mask in enumerate(batch['labels_mask'])]
-        # if args.model_type == 'encoder':
-            
-            ##### booydar
-            # data['predictions'] = torch.argmax(output['logits'].detach(), dim=-1)
-        # data['labels'] = batch['labels']
         for key in batch.keys():
-            if 'loss' in key: 
+            if 'loss' in key:
                 data[key] = batch[key]
         # else:
 
@@ -454,18 +468,6 @@ if __name__ == '__main__':
             metrics['exact_match'] = np.mean([(len(p_) >= args.value_size + 1) and torch.all(torch.tensor(y_)[-args.value_size - 1:] == torch.tensor(p_[-args.value_size - 1:])) \
                                               for p_, y_ in zip (p, y)])
 
-            # replace -100 with pad token in labels
-            # y = torch.stack([l[m] for l, m in zip(data['labels'], data['labels_mask'])])
-            # y = data['labels'][:, -args.value_size - 1:-1]
-            # p = data['generation_outputs']
-            # if not hasattr(p, 'shape'):
-            #     p = torch.stack([torch.tensor(x) for x in p])
-            # # p = p[:, -args.value_size - 1:-1]
-
-            # metrics['exact_match'] = np.mean([(len(y_) == len(p_)) and (y_ == p_) for p_, y_ in zip (p, y)])
-            # metrics['exact_match'] = np.mean([y_ == p_ for p_, y_ in zip (p, y)])
-            # preds = tokenizer.batch_decode(data['generation_outputs'], skip_special_tokens=False)
-            # p = [p[:p.index(tokenizer.eos_token)] if tokenizer.eos_token in p else p for p in preds]
             if args.show_valid_examples > 0:
                 for i in range(min(args.show_valid_examples, len(y))):
                     logger.info(f"labels: {data['labels'][i]}")
@@ -476,22 +478,7 @@ if __name__ == '__main__':
                     # logger.info('\n'.join([(y_, p_[:len(y_)], y_==p_[:len(y_)]) for p_, y_ in zip (p, y[:30])]))
 
                     logger.info('-' * 50)
-            # todo: do we need to better clean P to remove tokens after eos? not remove special tokens only
-        # elif args.model_type == 'encoder':
-        #     y, p = data['labels'], data['predictions']
 
-        # if y is not None and p is not None:
-            # if args.model_type == 'encoder-decoder':
-            # if not isinstance(y[0], list):
-                # y = [[_y] for _y in y]
-            # result = scrolls_metric.compute(predictions=p, references=y)
-            # for metric_name in task_to_metric[args.task_name]:
-            #     metrics[metric_name] = result[metric_name]
-
-            # metrics['exact_match'] = np.mean([y_ == p_[:len(y_)] for p_, y_ in zip (p, y)])
-            # elif args.model_type == 'encoder' and args.task_name == 'contract_nli':
-            #     metrics['exact_match'] = accuracy_score(y, p) * 100
-            #     metrics['f1_micro'] = f1_score(y, p, average='micro')
         return metrics
 
     # accelerate
@@ -529,10 +516,11 @@ if __name__ == '__main__':
     else:
         # run validation, do not write to tensorboard
         logger.info('Running validation on train set:')
-        trainer.validate(train_dataloader, split='train', write_tb=True)
+        # trainer.validate(train_dataloader, split='train', write_tb=True)
         if valid_dataloader is not None:
             logger.info('Running validation on valid data:')
-            trainer.validate(valid_dataloader, write_tb=True, split='valid')
+            trainer.validate(valid_dataloader, write_tb=False, split=f'valid_{dataset_name}')
+            trainer.save_metrics(save_path=Path(args.experiment_cfg).parent)
         # if test_dataloader is not None:
         #     logger.info('Runnning validation on test data:')
         #     trainer.validate(test_dataloader, write_tb=True, split='test')

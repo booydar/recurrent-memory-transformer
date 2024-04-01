@@ -43,7 +43,7 @@ class MemoryCell(torch.nn.Module):
         if memory_state is None:
             memory_state = self.set_memory(input_ids.shape)
 
-        seg_kwargs = self.process_input(input_ids, memory_state, **kwargs)
+        seg_kwargs = self.process_input(input_ids, memory_state, write_mem=True, **kwargs)
         out = self.model(**seg_kwargs)
         out, new_memory_state = self.process_output(out, **kwargs)
 
@@ -53,11 +53,11 @@ class MemoryCell(torch.nn.Module):
         if memory_state is None:
             memory_state = self.set_memory(input_ids.shape)
 
-        seg_kwargs = self.process_input(input_ids, memory_state, attention_mask=attention_mask)
+        seg_kwargs = self.process_input(input_ids, memory_state, attention_mask=attention_mask, write_mem=False)
         out = self.model.generate(inputs_embeds=seg_kwargs['inputs_embeds'], attention_mask=seg_kwargs['attention_mask'], **generate_kwargs)
         return out
 
-    def process_input(self, input_ids, memory_state, **kwargs):
+    def process_input(self, input_ids, memory_state, write_mem, **kwargs):
         seg_kwargs = dict(**kwargs)
 
         inputs_embeds = kwargs.get('inputs_embeds')
@@ -71,7 +71,10 @@ class MemoryCell(torch.nn.Module):
             #   - [retrieved_memory]
             read_memory_state = memory_state[:, -self.num_read_mem_tokens:, :]
             write_memory_state = memory_state[:, :self.num_write_mem_tokens, :]
-            inputs_embeds = torch.cat([read_memory_state, inputs_embeds, write_memory_state], dim=1)
+            if write_mem:
+                inputs_embeds = torch.cat([read_memory_state, inputs_embeds, write_memory_state], dim=1)
+            else:
+                inputs_embeds = torch.cat([read_memory_state, inputs_embeds], dim=1)
 
         seg_kwargs['input_ids'] = None
         seg_kwargs['inputs_embeds'] = inputs_embeds
@@ -85,7 +88,7 @@ class MemoryCell(torch.nn.Module):
             return attention_mask
         else:
             mask = torch.ones(*shape[:2], dtype=torch.int64).to(attention_mask.device)
-            mask[:, self.num_read_mem_tokens:-self.num_write_mem_tokens] = attention_mask
+            mask[:, self.num_read_mem_tokens: self.num_read_mem_tokens + attention_mask.shape[1]] = attention_mask
             return mask
 
     def process_output(self, model_outputs, **kwargs):
@@ -131,7 +134,7 @@ class RecurrentWrapper(torch.nn.Module):
         self.ln_q = torch.nn.LayerNorm(self.memory_dim, eps=self.layer_norm_eps)
         self.ln_kv = torch.nn.LayerNorm(self.memory_dim, eps=self.layer_norm_eps)
         self.ln_mlp = torch.nn.LayerNorm(self.memory_dim, eps=self.layer_norm_eps)
-        self.act = ACT2FN[self.memory_cell.model.config.activation_function]
+        self.act = ACT2FN[getattr(self.memory_cell.model.config, 'activation_function', 'gelu')]
 
     def retrieve_from_past_memory_states(self, past_states, current_state):
         if len(past_states) == 0:
@@ -173,7 +176,6 @@ class RecurrentWrapper(torch.nn.Module):
         memory_state = None
         memory_states = []
         segmented = self.segment(input_ids=input_ids, inputs_embeds=inputs_embeds, attention_mask=attention_mask)
-
         cell_outputs = []
         for seg_num, segment in enumerate(segmented):
             retrieved_memory = self.retrieve_from_past_memory_states(memory_states, memory_state)
