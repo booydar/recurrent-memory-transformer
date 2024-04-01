@@ -2,7 +2,7 @@ import os
 import json
 import argparse
 
-save_folder = "/home/jovyan/rmt/wip/base_models/gptconfigs/"
+save_folder = "."
 default_config = {
   "architectures": [
     "GPTNeoXForCausalLM"
