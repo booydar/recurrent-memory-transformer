@@ -230,19 +230,19 @@ class RecurrentWrapper(torch.nn.Module):
         return segments
 
     def split_tensor(self, tensor):
-        align = self.rmt_config.get('segment_alignment')
+        align = self.rmt_config.get('segment_alignment', 'left')
         segment_size = self.rmt_config.get('segment_size')
-        if align in {'left', None}:
+        if align == 'left':
             split_inds = list(range(0, tensor.shape[1], segment_size)) + [tensor.shape[1]]
             segments = [tensor[:, start:end] for (start, end) in zip(split_inds, split_inds[1:])]
-        elif align in {'right', None}:
+        elif align == 'right':
             split_inds = (list(range(tensor.shape[1], 0, -segment_size)) + [0])[::-1]
             segments = [tensor[:, start:end] for (start, end) in zip(split_inds, split_inds[1:])]
         elif align == 'center':
             n_seg = math.ceil(tensor.shape[1] / segment_size)
             segments = torch.chunk(tensor, n_seg, dim=1)
         else:
-            raise NotImplementedError
+            raise NotImplementedError(f'segment_alignment=={align}')
         return segments
 
     def process_outputs(self, cell_outputs, **kwargs):
@@ -321,7 +321,7 @@ class RecurrentWrapperLight(RecurrentWrapper):
                                    output_attentions=output_attentions,
                                    output_hidden_states=output_hidden_states)
         return out
-    
+
     def process_outputs(self, cell_outputs, **kwargs):
         out = CausalLMOutputWithCrossAttentions()
         full_logits = torch.cat([o.logits for o in cell_outputs], dim=1)
@@ -334,7 +334,7 @@ class RecurrentWrapperLight(RecurrentWrapper):
             shift_labels = shift_labels[:, -shift_logits.shape[1]:].contiguous()
             flat_labels = shift_labels.view(-1)
             flat_logits = shift_logits.view(-1, shift_logits.size(-1))
-            
+
             loss_fct = CrossEntropyLoss()
             labels_mask = kwargs.get('labels_mask')
             if labels_mask is not None:
@@ -343,7 +343,7 @@ class RecurrentWrapperLight(RecurrentWrapper):
 
                 flat_labels = flat_labels[shift_mask.view(-1)]
                 flat_logits = flat_logits[shift_mask.view(-1)]
-     
+
             out['loss'] = loss_fct(flat_logits, flat_labels)
             if out['loss'] is None:
                 raise ValueError
@@ -363,4 +363,4 @@ class RecurrentWrapperLight(RecurrentWrapper):
                 if any([sk in key for sk in segment_keys]):
                     out[f'{key}_{seg_num}'] = value
 
-        return out 
+        return out
