@@ -93,6 +93,8 @@ parser.add_argument('--max_n_facts', type=int, default=None, help='drop samples 
 parser.add_argument('--task_start_pct', type=float, default=None, help='left border of facts in sample, between 0 and 1')
 parser.add_argument('--task_end_pct', type=float, default=None, help='right border of facts in sample, between task_start_pct and 1')
 parser.add_argument('--max_n_valid_samples', type=int, default=None, help='how many samples take from valid set')
+parser.add_argument('--repeat_last_segment', default=False, action='store_true',
+                    help='whether to repeat question twice (last segment)')
 
 
 # RMT args 
@@ -105,7 +107,8 @@ parser.add_argument('--vary_n_segments', action='store_true', default=False, hel
 parser.add_argument('--mixed_length_ratio', type=float, default=0.0, help='used for mixed length curriculum. '
                     'r > 0.0 means that we will start to sample batches with lengths <= max_n_segments')
 parser.add_argument('--bptt_depth', type=int, default=-1, help='max number of previous segments in gradient computation.')
-parser.add_argument('--segment_alignment', type=str, help='way of aligning segments, one of right, left, center', default=None)
+parser.add_argument('--segment_alignment', type=str, help='way of aligning segments, one of right, left, center',
+                    default='left')
 parser.add_argument('--k2', type=int, default=-1, help='number of last segments used by backward')
 parser.add_argument('--freeze_model_weights', action='store_true', default=False,
                     help='Stop training all model weights except memory layers')
@@ -211,8 +214,8 @@ if __name__ == '__main__':
     except ConnectionError:
         noise_dataset_train = datasets.Dataset.from_file('/home/jovyan/.cache/huggingface/datasets/pg19/default/0.1.0/64837d6fce7251337df051ca74e9a5435d1c9cb7f3033ba257826e44d338f83c/pg19-train.arrow')
         noise_dataset_test = datasets.Dataset.from_file('/home/jovyan/.cache/huggingface/datasets/pg19/default/0.1.0/64837d6fce7251337df051ca74e9a5435d1c9cb7f3033ba257826e44d338f83c/pg19-test.arrow')
-    
-    # task dataset 
+
+    # task dataset
     train_path = os.path.join(args.babi_path, f"{args.task_dataset}_train.txt")
     test_path = os.path.join(args.babi_path, f"{args.task_dataset}_test.txt")
 
@@ -234,7 +237,7 @@ if __name__ == '__main__':
     if (args.task_start_pct is not None) and (args.task_end_pct is not None):
         # do not sample sentences longer than task position range * 0.5
         max_sentence_len = int((args.task_end_pct - args.task_start_pct) * 0.5 * args.sample_size)
-        
+
     noise_sampler_train = SentenceSampler(noise_dataset_train, tokenizer=tokenizer, max_sentence_len=max_sentence_len, shuffle=True, random_seed=None)
     noise_sampler_test = SentenceSampler(noise_dataset_test, tokenizer=tokenizer, max_sentence_len=max_sentence_len, shuffle=True, random_seed=42)
 
@@ -260,29 +263,79 @@ if __name__ == '__main__':
     gen_token = tokenizer.encode('GEN')[0]
     eos_token = tokenizer.eos_token_id
 
-    def collate_fn(batch):
-        targets = [torch.tensor(b['target_tokens']) for b in batch]
-        input_ids = [torch.tensor(b['input_tokens'] + b['question_tokens'] + [gen_token] + b['target_tokens'] + [eos_token]) for b in batch]
-        gen_inputs = [torch.tensor(b['input_tokens'] + b['question_tokens'] + [gen_token]) for b in batch]
+    if not args.repeat_last_segment:
+        def collate_fn(batch):
+            targets = [torch.tensor(b['target_tokens']) for b in batch]
+            input_ids = [torch.tensor(b['input_tokens'] + b['question_tokens'] + [gen_token] + b['target_tokens'] + [eos_token]) for b in batch]
+            gen_inputs = [torch.tensor(b['input_tokens'] + b['question_tokens'] + [gen_token]) for b in batch]
 
-        attention_mask = [torch.ones_like(b, dtype=int) for b in input_ids]
-        labels_mask = [torch.zeros_like(b, dtype=bool) for b in input_ids]
-        for m, t in zip(labels_mask, targets):
-            m[-len(t) - 2:] = True
+            attention_mask = [torch.ones_like(b, dtype=int) for b in input_ids]
+            labels_mask = [torch.zeros_like(b, dtype=bool) for b in input_ids]
+            for m, t in zip(labels_mask, targets):
+                m[-len(t) - 2:] = True
 
-        input_ids = pad_sequence(input_ids, padding_value=id_pad_value, batch_first=True)
-        gen_inputs = pad_sequence(gen_inputs, padding_value=id_pad_value, batch_first=True)
-        attention_mask = pad_sequence(attention_mask, padding_value=0, batch_first=True)
-        labels_mask = pad_sequence(labels_mask, padding_value=0, batch_first=True)
+            input_ids = pad_sequence(input_ids, padding_value=id_pad_value, batch_first=True)
+            gen_inputs = pad_sequence(gen_inputs, padding_value=id_pad_value, batch_first=True)
+            attention_mask = pad_sequence(attention_mask, padding_value=0, batch_first=True)
+            labels_mask = pad_sequence(labels_mask, padding_value=0, batch_first=True)
 
-        collated = {}
-        collated['input_ids'] = collated['labels'] = input_ids
-        collated['input_ids_generate'] = gen_inputs
-        collated['labels_mask'] = labels_mask
-        collated['attention_mask'] = attention_mask.bool()
-        collated['attention_mask_generate'] = (gen_inputs != id_pad_value).bool()
-        collated['target_text'] = [b['answer'] for b in batch]
-        return collated
+            collated = {}
+            collated['input_ids'] = collated['labels'] = input_ids
+            collated['input_ids_generate'] = gen_inputs
+            collated['labels_mask'] = labels_mask
+            collated['attention_mask'] = attention_mask.bool()
+            collated['attention_mask_generate'] = (gen_inputs != id_pad_value).bool()
+            collated['target_text'] = [b['answer'] for b in batch]
+            return collated
+    else:
+        def collate_fn(batch):
+            if args.use_generate_on_valid:
+                raise RuntimeError('use_generate_on_valid=True is not supported')
+            if args.segment_alignment != 'left':
+                raise RuntimeError('only segment_alignment==left is supported')
+
+            targets = [torch.tensor(b['target_tokens']) for b in batch]
+            input_ids = [torch.tensor(b['input_tokens'] + b['question_tokens'] + [gen_token] + b['target_tokens'] + [eos_token]) for b in batch]
+            gen_inputs = [torch.tensor(b['input_tokens'] + b['question_tokens'] + [gen_token]) for b in batch]
+
+            if args.segment_alignment == 'left':
+                input_ids_repeat_last = []
+                for sample_input_ids, sample_gen_inputs in zip(input_ids, gen_inputs):
+                    last_segment_len = (len(sample_input_ids) % args.segment_size) or args.segment_size
+                    # extract all segments except the last
+                    start_segments = sample_input_ids[:-last_segment_len]
+                    # extract the last segment
+                    last_segment = sample_input_ids[-last_segment_len:]
+                    # extract the last segment without targets
+                    wo_targets_len = (len(sample_gen_inputs) % args.segment_size) or args.segment_size
+                    # do not take gen token
+                    last_segment_without_targets = sample_gen_inputs[-wo_targets_len:-1]
+                    # pad to segment size
+                    last_segment_without_targets = torch.cat([last_segment_without_targets,
+                                                              torch.tensor([id_pad_value] * (-(wo_targets_len-1) % args.segment_size), dtype=torch.int64)
+                                                              ])
+
+                    input_ids_repeat_last += [torch.cat([start_segments, last_segment_without_targets, last_segment])]
+            else:
+                raise RuntimeError('only segment_alignment=left is supported')
+
+            labels_mask = [torch.zeros_like(b, dtype=bool) for b in input_ids_repeat_last]
+            for m, t in zip(labels_mask, targets):
+                m[-len(t) - 2:] = True
+
+            input_ids_repeat_last = pad_sequence(input_ids_repeat_last, padding_value=id_pad_value, batch_first=True)
+            labels_mask = pad_sequence(labels_mask, padding_value=0, batch_first=True)
+
+            attention_mask = torch.ones_like(input_ids_repeat_last, dtype=bool)
+            attention_mask[input_ids_repeat_last == id_pad_value] = False
+            attention_mask = attention_mask | labels_mask
+
+            collated = {}
+            collated['input_ids'] = collated['labels'] = input_ids_repeat_last
+            collated['labels_mask'] = labels_mask
+            collated['attention_mask'] = attention_mask.bool()
+            collated['target_text'] = [b['answer'] for b in batch]
+            return collated
 
     # train_dataset, valid_dataset, test_dataset = dataset["train"], dataset["validation"], dataset["test"]
     kwargs = {'pin_memory': True, 'num_workers': args.data_n_workers, 'collate_fn': collate_fn}
@@ -483,7 +536,7 @@ if __name__ == '__main__':
                     # print(f"gt: {data['target_text'][i]}, generated {o}")
                     generation_outputs[i] = o.split('<|endoftext|>')[1].strip()
 
-            metrics['exact_match'] = np.mean([text == pred for text, pred in zip (data['target_text'], generation_outputs)])
+            metrics['exact_match'] = np.mean([text == pred for text, pred in zip(data['target_text'], generation_outputs)])
 
         elif 'predictions' in data:
             y, p = data['labels'], data['predictions']
@@ -523,16 +576,13 @@ if __name__ == '__main__':
 
             return metrics
 
-
-
-
     ### booydar
     batch_metrics_fn = lambda _, y: {key: y[key] for key in y.keys() if (('loss' in key) or ('!log' in key))}
     trainer = Trainer(args, accelerator, model, optimizer, train_dataloader, test_dataloader,
                       keep_for_metrics_fn=keep_for_metrics_fn, metrics_fn=metrics_fn,
                       ###booydar
                       batch_metrics_fn=batch_metrics_fn,
-                      generate_kwargs={"pad_token_id": id_pad_value, "max_new_tokens":10})
+                      generate_kwargs={"pad_token_id": id_pad_value, "max_new_tokens": 10})
 
     if not args.validate_only:
         # train loop
