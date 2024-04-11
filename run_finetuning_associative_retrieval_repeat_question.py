@@ -99,7 +99,8 @@ parser.add_argument('--num_read_mem_tokens', type=int, default=None, help='numbe
 parser.add_argument('--num_write_mem_tokens', type=int, default=None, help='number of write memory tokens.')
 parser.add_argument('--max_n_segments', type=int, default=1, help='maximal segment number')
 parser.add_argument('--vary_n_segments', action='store_true', default=False, help='Randomly choose segment number from 1 to max_n_segments')
-parser.add_argument('--segment_alignment', type=str, default=None, help="How to align segments when splitting input")
+parser.add_argument('--segment_alignment', type=str, help='way of aligning segments, one of right, left, center',
+                    default='left')
 # parser.add_argument('--sum_loss', action='store_true', default=False,
 #                     help='with this flag task loss from all segments is summed')
 # parser.add_argument('--bptt_depth', type=int, default=-1, help='max number of previous segments in gradient computation.')
