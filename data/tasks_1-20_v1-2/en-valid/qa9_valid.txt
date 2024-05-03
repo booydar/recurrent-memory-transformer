@@ -1,0 +1,300 @@
+1 Sandra travelled to the garden.
+2 John journeyed to the kitchen.
+3 Is John in the bedroom? 	no	2
+4 Sandra journeyed to the bathroom.
+5 John travelled to the office.
+6 Is John in the office? 	yes	5
+7 John moved to the hallway.
+8 John is in the office.
+9 Is John in the office? 	yes	8
+10 Mary moved to the hallway.
+11 Mary went to the bedroom.
+12 Is Mary in the bedroom? 	yes	11
+13 Daniel is in the bathroom.
+14 Daniel travelled to the hallway.
+15 Is Mary in the office? 	no	11
+1 Mary is not in the garden.
+2 Sandra is in the hallway.
+3 Is Mary in the garden? 	no	1
+4 Daniel is not in the bathroom.
+5 Mary travelled to the hallway.
+6 Is Sandra in the hallway? 	yes	2
+7 Sandra is no longer in the hallway.
+8 Daniel is in the hallway.
+9 Is Daniel in the kitchen? 	no	8
+10 John went back to the bedroom.
+11 Mary went to the garden.
+12 Is Mary in the garden? 	yes	11
+13 Sandra travelled to the kitchen.
+14 Daniel is in the garden.
+15 Is Sandra in the bedroom? 	no	13
+1 Sandra travelled to the bedroom.
+2 Mary is in the bathroom.
+3 Is Sandra in the bathroom? 	no	1
+4 Sandra travelled to the kitchen.
+5 Sandra is in the hallway.
+6 Is Sandra in the hallway? 	yes	5
+7 John is no longer in the office.
+8 Sandra is no longer in the hallway.
+9 Is John in the office? 	no	7
+10 John is not in the hallway.
+11 Daniel is no longer in the bathroom.
+12 Is Sandra in the hallway? 	no	8
+13 Mary is no longer in the bathroom.
+14 Daniel travelled to the bedroom.
+15 Is Sandra in the hallway? 	no	8
+1 John is in the kitchen.
+2 Sandra went to the hallway.
+3 Is John in the office? 	no	1
+4 Sandra went to the bedroom.
+5 Mary is no longer in the kitchen.
+6 Is Sandra in the bedroom? 	yes	4
+7 Mary is in the kitchen.
+8 Mary is in the bathroom.
+9 Is Mary in the bathroom? 	yes	8
+10 Daniel is not in the garden.
+11 Mary is in the kitchen.
+12 Is Mary in the kitchen? 	yes	11
+13 Daniel went back to the bathroom.
+14 Sandra is in the hallway.
+15 Is Mary in the office? 	no	11
+1 John went back to the bedroom.
+2 John is in the garden.
+3 Is John in the garden? 	yes	2
+4 John went back to the hallway.
+5 Sandra went to the bathroom.
+6 Is John in the hallway? 	yes	4
+7 Mary is not in the bathroom.
+8 John journeyed to the bedroom.
+9 Is John in the bedroom? 	yes	8
+10 Mary is in the office.
+11 Sandra went back to the hallway.
+12 Is Mary in the bedroom? 	no	10
+13 Sandra moved to the bedroom.
+14 Sandra went to the bathroom.
+15 Is Sandra in the bathroom? 	yes	14
+1 Sandra journeyed to the bathroom.
+2 Mary travelled to the garden.
+3 Is Sandra in the bathroom? 	yes	1
+4 Daniel went to the hallway.
+5 John is in the office.
+6 Is Sandra in the bathroom? 	yes	1
+7 Sandra journeyed to the bedroom.
+8 Daniel is not in the hallway.
+9 Is Mary in the garden? 	yes	2
+10 Mary moved to the bedroom.
+11 Sandra is in the office.
+12 Is Daniel in the hallway? 	no	8
+13 John is not in the office.
+14 John went back to the office.
+15 Is John in the bedroom? 	no	14
+1 Mary went back to the hallway.
+2 Daniel is in the bedroom.
+3 Is Daniel in the bedroom? 	yes	2
+4 Daniel is not in the bedroom.
+5 John is in the bedroom.
+6 Is Mary in the garden? 	no	1
+7 John is in the bathroom.
+8 Mary went to the bathroom.
+9 Is John in the bathroom? 	yes	7
+10 Mary is in the garden.
+11 John journeyed to the hallway.
+12 Is John in the hallway? 	yes	11
+13 Sandra journeyed to the garden.
+14 John went back to the garden.
+15 Is Mary in the hallway? 	no	10
+1 Daniel is in the bathroom.
+2 Daniel is in the garden.
+3 Is Daniel in the garden? 	yes	2
+4 John moved to the office.
+5 Mary travelled to the kitchen.
+6 Is John in the bathroom? 	no	4
+7 Daniel went back to the kitchen.
+8 Sandra journeyed to the hallway.
+9 Is Daniel in the kitchen? 	yes	7
+10 Sandra is no longer in the hallway.
+11 John is not in the office.
+12 Is Sandra in the hallway? 	no	10
+13 Sandra travelled to the kitchen.
+14 Sandra went back to the bathroom.
+15 Is Sandra in the bathroom? 	yes	14
+1 Daniel is in the hallway.
+2 Sandra is no longer in the bedroom.
+3 Is Daniel in the hallway? 	yes	1
+4 Sandra journeyed to the office.
+5 Sandra is in the hallway.
+6 Is Sandra in the hallway? 	yes	5
+7 Sandra journeyed to the bathroom.
+8 Daniel is no longer in the hallway.
+9 Is Sandra in the bathroom? 	yes	7
+10 John journeyed to the kitchen.
+11 Sandra went back to the office.
+12 Is Sandra in the garden? 	no	11
+13 Sandra travelled to the hallway.
+14 John went back to the bathroom.
+15 Is Sandra in the kitchen? 	no	13
+1 Daniel is in the hallway.
+2 Daniel went back to the bathroom.
+3 Is Daniel in the office? 	no	2
+4 Daniel went to the hallway.
+5 Daniel is not in the hallway.
+6 Is Daniel in the hallway? 	no	5
+7 Daniel went to the garden.
+8 Mary journeyed to the kitchen.
+9 Is Daniel in the garden? 	yes	7
+10 Sandra journeyed to the garden.
+11 Daniel is in the bedroom.
+12 Is Daniel in the bedroom? 	yes	11
+13 Sandra moved to the hallway.
+14 Sandra moved to the bedroom.
+15 Is Daniel in the bathroom? 	no	11
+1 Daniel is not in the hallway.
+2 Daniel travelled to the hallway.
+3 Is Daniel in the hallway? 	yes	2
+4 Mary is not in the bathroom.
+5 Daniel is in the office.
+6 Is Daniel in the garden? 	no	5
+7 Sandra went back to the hallway.
+8 Mary is no longer in the office.
+9 Is Sandra in the hallway? 	yes	7
+10 John went to the bedroom.
+11 Daniel is in the garden.
+12 Is Daniel in the garden? 	yes	11
+13 Daniel moved to the office.
+14 John journeyed to the bathroom.
+15 Is John in the hallway? 	no	14
+1 Sandra is in the bedroom.
+2 Mary went to the kitchen.
+3 Is Sandra in the bedroom? 	yes	1
+4 Mary went back to the bedroom.
+5 Mary is no longer in the bedroom.
+6 Is Mary in the bedroom? 	no	5
+7 Mary is not in the office.
+8 Mary moved to the bedroom.
+9 Is Mary in the bathroom? 	no	8
+10 Daniel moved to the bathroom.
+11 John is in the kitchen.
+12 Is Mary in the bathroom? 	no	8
+13 Daniel is in the bedroom.
+14 Sandra went back to the office.
+15 Is Daniel in the hallway? 	no	13
+1 John is in the bedroom.
+2 John moved to the office.
+3 Is John in the bedroom? 	no	2
+4 Sandra travelled to the bathroom.
+5 John went to the hallway.
+6 Is Sandra in the bathroom? 	yes	4
+7 Sandra went to the kitchen.
+8 John went to the bedroom.
+9 Is John in the garden? 	no	8
+10 Mary went to the garden.
+11 Sandra is in the office.
+12 Is John in the bedroom? 	yes	8
+13 John moved to the hallway.
+14 Sandra is not in the office.
+15 Is Sandra in the office? 	no	14
+1 Daniel travelled to the bedroom.
+2 Daniel journeyed to the kitchen.
+3 Is Daniel in the kitchen? 	yes	2
+4 Daniel went to the office.
+5 Mary journeyed to the garden.
+6 Is Mary in the bathroom? 	no	5
+7 Daniel is no longer in the office.
+8 Sandra went to the kitchen.
+9 Is Daniel in the office? 	no	7
+10 Sandra is in the hallway.
+11 Mary went to the hallway.
+12 Is Mary in the office? 	no	11
+13 Sandra went to the garden.
+14 Mary went back to the bathroom.
+15 Is Sandra in the garden? 	yes	13
+1 Mary travelled to the bedroom.
+2 Daniel is not in the office.
+3 Is Mary in the bedroom? 	yes	1
+4 John is no longer in the office.
+5 Sandra went back to the garden.
+6 Is Sandra in the bedroom? 	no	5
+7 John went to the garden.
+8 Sandra is in the hallway.
+9 Is Sandra in the hallway? 	yes	8
+10 Mary is in the kitchen.
+11 Sandra went back to the bathroom.
+12 Is Sandra in the bathroom? 	yes	11
+13 Mary travelled to the hallway.
+14 Mary went back to the bathroom.
+15 Is Sandra in the garden? 	no	11
+1 Sandra went back to the bedroom.
+2 John went back to the bathroom.
+3 Is John in the bedroom? 	no	2
+4 Mary is in the kitchen.
+5 John moved to the kitchen.
+6 Is Sandra in the bedroom? 	yes	1
+7 John is not in the kitchen.
+8 Mary went back to the hallway.
+9 Is John in the kitchen? 	no	7
+10 Daniel is no longer in the bathroom.
+11 John is not in the bathroom.
+12 Is John in the bathroom? 	no	11
+13 Daniel journeyed to the hallway.
+14 Sandra is no longer in the bedroom.
+15 Is Mary in the hallway? 	yes	8
+1 John is in the garden.
+2 Sandra is in the garden.
+3 Is Sandra in the garden? 	yes	2
+4 Sandra is in the hallway.
+5 John moved to the bedroom.
+6 Is Sandra in the bathroom? 	no	4
+7 Sandra is not in the hallway.
+8 Sandra went back to the garden.
+9 Is Sandra in the office? 	no	8
+10 Daniel travelled to the kitchen.
+11 John is not in the bedroom.
+12 Is Sandra in the bedroom? 	no	8
+13 Sandra journeyed to the kitchen.
+14 Sandra journeyed to the bathroom.
+15 Is John in the bedroom? 	no	11
+1 Sandra is not in the garden.
+2 Daniel travelled to the kitchen.
+3 Is Daniel in the bedroom? 	no	2
+4 Daniel went back to the garden.
+5 Mary journeyed to the hallway.
+6 Is Mary in the bathroom? 	no	5
+7 John went to the garden.
+8 John journeyed to the bedroom.
+9 Is Daniel in the office? 	no	4
+10 Daniel moved to the bathroom.
+11 Daniel went back to the bedroom.
+12 Is Mary in the kitchen? 	no	5
+13 Daniel is no longer in the bedroom.
+14 Mary is not in the hallway.
+15 Is John in the garden? 	no	8
+1 Sandra journeyed to the bedroom.
+2 Daniel is in the bathroom.
+3 Is Daniel in the bedroom? 	no	2
+4 John is in the hallway.
+5 John is in the bathroom.
+6 Is Sandra in the bedroom? 	yes	1
+7 Mary moved to the hallway.
+8 Daniel went back to the garden.
+9 Is Daniel in the garden? 	yes	8
+10 Daniel is in the hallway.
+11 Daniel is no longer in the hallway.
+12 Is Daniel in the hallway? 	no	11
+13 John moved to the bedroom.
+14 John journeyed to the bathroom.
+15 Is Daniel in the hallway? 	no	11
+1 Sandra is no longer in the bedroom.
+2 Daniel journeyed to the bathroom.
+3 Is Daniel in the office? 	no	2
+4 Sandra moved to the hallway.
+5 Sandra is not in the hallway.
+6 Is Sandra in the hallway? 	no	5
+7 Sandra is no longer in the garden.
+8 Daniel travelled to the hallway.
+9 Is Sandra in the garden? 	no	7
+10 Mary went back to the office.
+11 Daniel went to the bedroom.
+12 Is Daniel in the garden? 	no	11
+13 Sandra is in the bathroom.
+14 Daniel went to the garden.
+15 Is Daniel in the hallway? 	no	14

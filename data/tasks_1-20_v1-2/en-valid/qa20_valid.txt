@@ -1,0 +1,192 @@
+1 Antoine is tired.
+2 Where will antoine go?	bedroom	1
+3 Yann is tired.
+4 Where will yann go?	bedroom	3
+5 Antoine went to the bedroom.
+6 Why did antoine go to the bedroom?	tired	1
+7 Sumit is bored.
+8 Where will sumit go?	garden	7
+9 Jason is thirsty.
+10 Where will jason go?	kitchen	9
+11 Yann moved to the bedroom.
+12 Why did yann go to the bedroom?	tired	3
+13 Antoine grabbed the pajamas there.
+14 Why did antoine get the pajamas?	tired	1
+15 Sumit went back to the garden.
+16 Why did sumit go to the garden?	bored	7
+17 Sumit took the football there.
+18 Why did sumit get the football?	bored	7
+19 Jason went back to the kitchen.
+20 Why did jason go to the kitchen?	thirsty	9
+21 Jason grabbed the milk there.
+22 Why did jason get the milk?	thirsty	9
+1 Sumit is tired.
+2 Where will sumit go?	bedroom	1
+3 Antoine is thirsty.
+4 Where will antoine go?	kitchen	3
+5 Antoine travelled to the kitchen.
+6 Why did antoine go to the kitchen?	thirsty	3
+7 Antoine got the milk there.
+8 Why did antoine get the milk?	thirsty	3
+9 Yann is hungry.
+10 Where will yann go?	kitchen	9
+11 Jason is hungry.
+12 Where will jason go?	kitchen	11
+13 Yann moved to the kitchen.
+14 Why did yann go to the kitchen?	hungry	9
+15 Jason went back to the kitchen.
+16 Why did jason go to the kitchen?	hungry	11
+17 Jason picked up the apple there.
+18 Why did jason get the apple?	hungry	11
+19 Sumit journeyed to the bedroom.
+20 Why did sumit go to the bedroom?	tired	1
+21 Sumit took the pajamas there.
+22 Why did sumit get the pajamas?	tired	1
+1 Sumit is hungry.
+2 Where will sumit go?	kitchen	1
+3 Sumit journeyed to the kitchen.
+4 Why did sumit go to the kitchen?	hungry	1
+5 Sumit got the apple there.
+6 Why did sumit get the apple?	hungry	1
+7 Yann is bored.
+8 Where will yann go?	garden	7
+9 Yann went back to the garden.
+10 Why did yann go to the garden?	bored	7
+11 Antoine is hungry.
+12 Where will antoine go?	kitchen	11
+13 Jason is tired.
+14 Where will jason go?	bedroom	13
+15 Antoine travelled to the kitchen.
+16 Why did antoine go to the kitchen?	hungry	11
+17 Yann got the football there.
+18 Why did yann get the football?	bored	7
+19 Jason moved to the bedroom.
+20 Why did jason go to the bedroom?	tired	13
+21 Jason grabbed the pajamas there.
+22 Why did jason get the pajamas?	tired	13
+1 Jason is bored.
+2 Where will jason go?	garden	1
+3 Yann is bored.
+4 Where will yann go?	garden	3
+5 Yann travelled to the garden.
+6 Why did yann go to the garden?	bored	3
+7 Antoine is hungry.
+8 Where will antoine go?	kitchen	7
+9 Jason travelled to the garden.
+10 Why did jason go to the garden?	bored	1
+11 Yann picked up the football there.
+12 Why did yann get the football?	bored	3
+13 Sumit is bored.
+14 Where will sumit go?	garden	13
+15 Sumit went back to the garden.
+16 Why did sumit go to the garden?	bored	13
+17 Antoine moved to the kitchen.
+18 Why did antoine go to the kitchen?	hungry	7
+19 Antoine took the apple there.
+20 Why did antoine get the apple?	hungry	7
+1 Yann is tired.
+2 Where will yann go?	bedroom	1
+3 Sumit is bored.
+4 Where will sumit go?	garden	3
+5 Antoine is tired.
+6 Where will antoine go?	bedroom	5
+7 Jason is bored.
+8 Where will jason go?	garden	7
+9 Antoine journeyed to the bedroom.
+10 Why did antoine go to the bedroom?	tired	5
+11 Sumit went back to the garden.
+12 Why did sumit go to the garden?	bored	3
+13 Sumit grabbed the football there.
+14 Why did sumit get the football?	bored	3
+15 Yann went to the bedroom.
+16 Why did yann go to the bedroom?	tired	1
+17 Antoine got the pajamas there.
+18 Why did antoine get the pajamas?	tired	5
+19 Jason moved to the garden.
+20 Why did jason go to the garden?	bored	7
+1 Yann is bored.
+2 Where will yann go?	garden	1
+3 Yann went back to the garden.
+4 Why did yann go to the garden?	bored	1
+5 Yann took the football there.
+6 Why did yann get the football?	bored	1
+7 Sumit is bored.
+8 Where will sumit go?	garden	7
+9 Jason is thirsty.
+10 Where will jason go?	kitchen	9
+11 Sumit went back to the garden.
+12 Why did sumit go to the garden?	bored	7
+13 Jason went to the kitchen.
+14 Why did jason go to the kitchen?	thirsty	9
+15 Jason took the milk there.
+16 Why did jason get the milk?	thirsty	9
+17 Antoine is hungry.
+18 Where will antoine go?	kitchen	17
+19 Antoine went back to the kitchen.
+20 Why did antoine go to the kitchen?	hungry	17
+21 Antoine took the apple there.
+22 Why did antoine get the apple?	hungry	17
+1 Sumit is tired.
+2 Where will sumit go?	bedroom	1
+3 Jason is tired.
+4 Where will jason go?	bedroom	3
+5 Yann is hungry.
+6 Where will yann go?	kitchen	5
+7 Antoine is tired.
+8 Where will antoine go?	bedroom	7
+9 Jason went back to the bedroom.
+10 Why did jason go to the bedroom?	tired	3
+11 Jason picked up the pajamas there.
+12 Why did jason get the pajamas?	tired	3
+13 Yann journeyed to the kitchen.
+14 Why did yann go to the kitchen?	hungry	5
+15 Antoine moved to the bedroom.
+16 Why did antoine go to the bedroom?	tired	7
+17 Sumit went back to the bedroom.
+18 Why did sumit go to the bedroom?	tired	1
+19 Yann got the apple there.
+20 Why did yann get the apple?	hungry	5
+1 Yann is hungry.
+2 Where will yann go?	kitchen	1
+3 Jason is thirsty.
+4 Where will jason go?	kitchen	3
+5 Jason went to the kitchen.
+6 Why did jason go to the kitchen?	thirsty	3
+7 Sumit is hungry.
+8 Where will sumit go?	kitchen	7
+9 Sumit moved to the kitchen.
+10 Why did sumit go to the kitchen?	hungry	7
+11 Sumit took the apple there.
+12 Why did sumit get the apple?	hungry	7
+13 Jason picked up the milk there.
+14 Why did jason get the milk?	thirsty	3
+15 Yann journeyed to the kitchen.
+16 Why did yann go to the kitchen?	hungry	1
+17 Antoine is bored.
+18 Where will antoine go?	garden	17
+19 Antoine travelled to the garden.
+20 Why did antoine go to the garden?	bored	17
+21 Antoine picked up the football there.
+22 Why did antoine get the football?	bored	17
+1 Yann is bored.
+2 Where will yann go?	garden	1
+3 Jason is thirsty.
+4 Where will jason go?	kitchen	3
+5 Sumit is tired.
+6 Where will sumit go?	bedroom	5
+7 Antoine is tired.
+8 Where will antoine go?	bedroom	7
+9 Sumit went to the bedroom.
+10 Why did sumit go to the bedroom?	tired	5
+11 Yann journeyed to the garden.
+12 Why did yann go to the garden?	bored	1
+13 Jason journeyed to the kitchen.
+14 Why did jason go to the kitchen?	thirsty	3
+15 Sumit picked up the pajamas there.
+16 Why did sumit get the pajamas?	tired	5
+17 Antoine travelled to the bedroom.
+18 Why did antoine go to the bedroom?	tired	7
+19 Jason picked up the milk there.
+20 Why did jason get the milk?	thirsty	3
+21 Yann grabbed the football there.
+22 Why did yann get the football?	bored	1

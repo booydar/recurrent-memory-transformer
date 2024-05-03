@@ -1,0 +1,2000 @@
+1 Ram pyasa hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Shyaam pyasa hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Shyaam rasoi ghar mein gaya.
+6 Shyaam rasoi ghar mein kyoun gaya?	pyasa	3
+7 Sumit thaka hua hai.
+8 Sumit kahan jayega?	sayankaksh	7
+9 Ram rasoi ghar gaya.
+10 Ram rasoi ghar mein kyoun gaya?	pyasa	1
+11 Sumit sayanakaksh mein chala gaya.
+12 Sumit sayanakaksh mein kyoun gaya?	thaka hua	7
+13 Sumit pajama le aaya.
+14 Sumit pajama kyoun le kar aaya?	thaka hua	7
+15 Shyaam dhoodh le kar aaya.
+16 Shyaam dhoodh kyoun le kar aaya?	pyasa	3
+17 Harsh pyasa hai.
+18 Harsh kahan jayega?	rasoi ghar	17
+19 Harsh rasoi ghar mein gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	pyasa	17
+1 Shyaam bhuka hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Shyaam rasoi ghar mein gaya.
+4 Shyaam rasoi ghar mein kyoun gaya?	bhuka	1
+5 Harsh ooba hua hai.
+6 Harsh kahan jayega?	bagicha	5
+7 Shyaam seb le aaya.
+8 Shyaam seb kyoun le kar aaya?	bhuka	1
+9 Ram ooba hua hai.
+10 Ram kahan jayega?	bagicha	9
+11 Sumit bhuka hai.
+12 Sumit kahan jayega?	rasoi ghar	11
+13 Harsh bagichey mein chala gaya.
+14 Harsh bagichey mein kyoun gaya?	ooba hua	5
+15 Sumit rasoi ghar mein gaya.
+16 Sumit rasoi ghar mein kyoun gaya?	bhuka	11
+17 Ram bagichey mein chala gaya.
+18 Ram bagichey mein kyoun gaya?	ooba hua	9
+19 Ram gayend le kar aaya.
+20 Ram gayend kyoun le kar aaya?	ooba hua	9
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Harsh sayanakaksh mein gaya.
+4 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Shyaam ooba hua hai.
+6 Shyaam kahan jayega?	bagicha	5
+7 Harsh pajama le kar aaya.
+8 Harsh pajama kyoun le kar aaya?	thaka hua	1
+9 Shyaam bagichey mein chala gaya.
+10 Shyaam bagichey mein kyoun gaya?	ooba hua	5
+11 Ram bhuka hai.
+12 Ram kahan jayega?	rasoi ghar	11
+13 Shyaam gayend le aaya.
+14 Shyaam gayend kyoun le kar aaya?	ooba hua	5
+15 Sumit thaka hua hai.
+16 Sumit kahan jayega?	sayankaksh	15
+17 Ram rasoi ghar gaya.
+18 Ram rasoi ghar mein kyoun gaya?	bhuka	11
+19 Ram seb le kar aaya.
+20 Ram seb kyoun le kar aaya?	bhuka	11
+21 Sumit sayanakaksh gaya.
+22 Sumit sayanakaksh mein kyoun gaya?	thaka hua	15
+1 Sumit ooba hua hai.
+2 Sumit kahan jayega?	bagicha	1
+3 Ram bhuka hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Sumit bagichey mein chala gaya.
+6 Sumit bagichey mein kyoun gaya?	ooba hua	1
+7 Sumit gayend le aaya.
+8 Sumit gayend kyoun le kar aaya?	ooba hua	1
+9 Harsh bhuka hai.
+10 Harsh kahan jayega?	rasoi ghar	9
+11 Harsh rasoi ghar gaya.
+12 Harsh rasoi ghar mein kyoun gaya?	bhuka	9
+13 Harsh seb le aaya.
+14 Harsh seb kyoun le kar aaya?	bhuka	9
+15 Ram rasoi ghar mein chala gaya.
+16 Ram rasoi ghar mein kyoun gaya?	bhuka	3
+17 Shyaam bhuka hai.
+18 Shyaam kahan jayega?	rasoi ghar	17
+19 Shyaam rasoi ghar mein gaya.
+20 Shyaam rasoi ghar mein kyoun gaya?	bhuka	17
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Shyaam bhuka hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Ram pyasa hai.
+6 Ram kahan jayega?	rasoi ghar	5
+7 Shyaam rasoi ghar gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	bhuka	3
+9 Sumit rasoi ghar gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+11 Sumit seb le aaya.
+12 Sumit seb kyoun le kar aaya?	bhuka	1
+13 Harsh pyasa hai.
+14 Harsh kahan jayega?	rasoi ghar	13
+15 Ram rasoi ghar mein chala gaya.
+16 Ram rasoi ghar mein kyoun gaya?	pyasa	5
+17 Harsh rasoi ghar gaya.
+18 Harsh rasoi ghar mein kyoun gaya?	pyasa	13
+19 Ram dhoodh le aaya.
+20 Ram dhoodh kyoun le kar aaya?	pyasa	5
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Shyaam pyasa hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Sumit thaka hua hai.
+6 Sumit kahan jayega?	sayankaksh	5
+7 Harsh pyasa hai.
+8 Harsh kahan jayega?	rasoi ghar	7
+9 Sumit sayanakaksh mein chala gaya.
+10 Sumit sayanakaksh mein kyoun gaya?	thaka hua	5
+11 Harsh rasoi ghar mein chala gaya.
+12 Harsh rasoi ghar mein kyoun gaya?	pyasa	7
+13 Sumit pajama le kar aaya.
+14 Sumit pajama kyoun le kar aaya?	thaka hua	5
+15 Shyaam rasoi ghar gaya.
+16 Shyaam rasoi ghar mein kyoun gaya?	pyasa	3
+17 Shyaam dhoodh le aaya.
+18 Shyaam dhoodh kyoun le kar aaya?	pyasa	3
+19 Ram sayanakaksh gaya.
+20 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Sumit pyasa hai.
+4 Sumit kahan jayega?	rasoi ghar	3
+5 Ram pyasa hai.
+6 Ram kahan jayega?	rasoi ghar	5
+7 Harsh sayanakaksh mein chala gaya.
+8 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+9 Shyaam thaka hua hai.
+10 Shyaam kahan jayega?	sayankaksh	9
+11 Ram rasoi ghar gaya.
+12 Ram rasoi ghar mein kyoun gaya?	pyasa	5
+13 Sumit rasoi ghar mein gaya.
+14 Sumit rasoi ghar mein kyoun gaya?	pyasa	3
+15 Harsh pajama le aaya.
+16 Harsh pajama kyoun le kar aaya?	thaka hua	1
+17 Ram dhoodh le kar aaya.
+18 Ram dhoodh kyoun le kar aaya?	pyasa	5
+19 Shyaam sayanakaksh mein chala gaya.
+20 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	9
+1 Sumit thaka hua hai.
+2 Sumit kahan jayega?	sayankaksh	1
+3 Sumit sayanakaksh mein gaya.
+4 Sumit sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Sumit pajama le aaya.
+6 Sumit pajama kyoun le kar aaya?	thaka hua	1
+7 Ram thaka hua hai.
+8 Ram kahan jayega?	sayankaksh	7
+9 Harsh bhuka hai.
+10 Harsh kahan jayega?	rasoi ghar	9
+11 Harsh rasoi ghar mein gaya.
+12 Harsh rasoi ghar mein kyoun gaya?	bhuka	9
+13 Shyaam ooba hua hai.
+14 Shyaam kahan jayega?	bagicha	13
+15 Harsh seb le kar aaya.
+16 Harsh seb kyoun le kar aaya?	bhuka	9
+17 Ram sayanakaksh mein chala gaya.
+18 Ram sayanakaksh mein kyoun gaya?	thaka hua	7
+19 Shyaam bagichey mein chala gaya.
+20 Shyaam bagichey mein kyoun gaya?	ooba hua	13
+21 Shyaam gayend le kar aaya.
+22 Shyaam gayend kyoun le kar aaya?	ooba hua	13
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Ram pyasa hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Sumit ooba hua hai.
+6 Sumit kahan jayega?	bagicha	5
+7 Harsh rasoi ghar gaya.
+8 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+9 Harsh dhoodh le kar aaya.
+10 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+11 Shyaam bhuka hai.
+12 Shyaam kahan jayega?	rasoi ghar	11
+13 Ram rasoi ghar mein chala gaya.
+14 Ram rasoi ghar mein kyoun gaya?	pyasa	3
+15 Shyaam rasoi ghar gaya.
+16 Shyaam rasoi ghar mein kyoun gaya?	bhuka	11
+17 Sumit bagichey mein gaya.
+18 Sumit bagichey mein kyoun gaya?	ooba hua	5
+19 Sumit gayend le kar aaya.
+20 Sumit gayend kyoun le kar aaya?	ooba hua	5
+21 Shyaam seb le aaya.
+22 Shyaam seb kyoun le kar aaya?	bhuka	11
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Harsh rasoi ghar mein gaya.
+4 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+5 Sumit thaka hua hai.
+6 Sumit kahan jayega?	sayankaksh	5
+7 Harsh dhoodh le kar aaya.
+8 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+9 Sumit sayanakaksh mein chala gaya.
+10 Sumit sayanakaksh mein kyoun gaya?	thaka hua	5
+11 Sumit pajama le aaya.
+12 Sumit pajama kyoun le kar aaya?	thaka hua	5
+13 Ram pyasa hai.
+14 Ram kahan jayega?	rasoi ghar	13
+15 Shyaam pyasa hai.
+16 Shyaam kahan jayega?	rasoi ghar	15
+17 Shyaam rasoi ghar gaya.
+18 Shyaam rasoi ghar mein kyoun gaya?	pyasa	15
+19 Ram rasoi ghar gaya.
+20 Ram rasoi ghar mein kyoun gaya?	pyasa	13
+1 Shyaam bhuka hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Harsh bhuka hai.
+4 Harsh kahan jayega?	rasoi ghar	3
+5 Sumit thaka hua hai.
+6 Sumit kahan jayega?	sayankaksh	5
+7 Sumit sayanakaksh mein chala gaya.
+8 Sumit sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Ram ooba hua hai.
+10 Ram kahan jayega?	bagicha	9
+11 Sumit pajama le kar aaya.
+12 Sumit pajama kyoun le kar aaya?	thaka hua	5
+13 Harsh rasoi ghar mein gaya.
+14 Harsh rasoi ghar mein kyoun gaya?	bhuka	3
+15 Shyaam rasoi ghar gaya.
+16 Shyaam rasoi ghar mein kyoun gaya?	bhuka	1
+17 Harsh seb le aaya.
+18 Harsh seb kyoun le kar aaya?	bhuka	3
+19 Ram bagichey gaya.
+20 Ram bagichey mein kyoun gaya?	ooba hua	9
+21 Ram gayend le aaya.
+22 Ram gayend kyoun le kar aaya?	ooba hua	9
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Sumit rasoi ghar gaya.
+4 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+5 Sumit seb le aaya.
+6 Sumit seb kyoun le kar aaya?	bhuka	1
+7 Shyaam thaka hua hai.
+8 Shyaam kahan jayega?	sayankaksh	7
+9 Harsh ooba hua hai.
+10 Harsh kahan jayega?	bagicha	9
+11 Shyaam sayanakaksh mein chala gaya.
+12 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	7
+13 Harsh bagichey mein gaya.
+14 Harsh bagichey mein kyoun gaya?	ooba hua	9
+15 Ram pyasa hai.
+16 Ram kahan jayega?	rasoi ghar	15
+17 Shyaam pajama le aaya.
+18 Shyaam pajama kyoun le kar aaya?	thaka hua	7
+19 Ram rasoi ghar mein chala gaya.
+20 Ram rasoi ghar mein kyoun gaya?	pyasa	15
+21 Harsh gayend le kar aaya.
+22 Harsh gayend kyoun le kar aaya?	ooba hua	9
+23 Ram dhoodh le kar aaya.
+24 Ram dhoodh kyoun le kar aaya?	pyasa	15
+1 Ram pyasa hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Ram rasoi ghar mein gaya.
+4 Ram rasoi ghar mein kyoun gaya?	pyasa	1
+5 Ram dhoodh le kar aaya.
+6 Ram dhoodh kyoun le kar aaya?	pyasa	1
+7 Shyaam bhuka hai.
+8 Shyaam kahan jayega?	rasoi ghar	7
+9 Sumit ooba hua hai.
+10 Sumit kahan jayega?	bagicha	9
+11 Harsh bhuka hai.
+12 Harsh kahan jayega?	rasoi ghar	11
+13 Harsh rasoi ghar mein chala gaya.
+14 Harsh rasoi ghar mein kyoun gaya?	bhuka	11
+15 Harsh seb le kar aaya.
+16 Harsh seb kyoun le kar aaya?	bhuka	11
+17 Shyaam rasoi ghar mein chala gaya.
+18 Shyaam rasoi ghar mein kyoun gaya?	bhuka	7
+19 Sumit bagichey mein chala gaya.
+20 Sumit bagichey mein kyoun gaya?	ooba hua	9
+21 Sumit gayend le kar aaya.
+22 Sumit gayend kyoun le kar aaya?	ooba hua	9
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Shyaam ooba hua hai.
+4 Shyaam kahan jayega?	bagicha	3
+5 Ram thaka hua hai.
+6 Ram kahan jayega?	sayankaksh	5
+7 Shyaam bagichey mein gaya.
+8 Shyaam bagichey mein kyoun gaya?	ooba hua	3
+9 Harsh bhuka hai.
+10 Harsh kahan jayega?	rasoi ghar	9
+11 Sumit rasoi ghar gaya.
+12 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+13 Shyaam gayend le aaya.
+14 Shyaam gayend kyoun le kar aaya?	ooba hua	3
+15 Ram sayanakaksh gaya.
+16 Ram sayanakaksh mein kyoun gaya?	thaka hua	5
+17 Sumit seb le kar aaya.
+18 Sumit seb kyoun le kar aaya?	bhuka	1
+19 Harsh rasoi ghar mein chala gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	bhuka	9
+21 Ram pajama le kar aaya.
+22 Ram pajama kyoun le kar aaya?	thaka hua	5
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Sumit rasoi ghar gaya.
+4 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+5 Shyaam thaka hua hai.
+6 Shyaam kahan jayega?	sayankaksh	5
+7 Shyaam sayanakaksh gaya.
+8 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Harsh bhuka hai.
+10 Harsh kahan jayega?	rasoi ghar	9
+11 Shyaam pajama le kar aaya.
+12 Shyaam pajama kyoun le kar aaya?	thaka hua	5
+13 Sumit seb le aaya.
+14 Sumit seb kyoun le kar aaya?	bhuka	1
+15 Ram bhuka hai.
+16 Ram kahan jayega?	rasoi ghar	15
+17 Ram rasoi ghar gaya.
+18 Ram rasoi ghar mein kyoun gaya?	bhuka	15
+19 Harsh rasoi ghar mein gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	bhuka	9
+1 Ram pyasa hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Harsh ooba hua hai.
+4 Harsh kahan jayega?	bagicha	3
+5 Ram rasoi ghar mein gaya.
+6 Ram rasoi ghar mein kyoun gaya?	pyasa	1
+7 Sumit bhuka hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Ram dhoodh le kar aaya.
+10 Ram dhoodh kyoun le kar aaya?	pyasa	1
+11 Harsh bagichey gaya.
+12 Harsh bagichey mein kyoun gaya?	ooba hua	3
+13 Shyaam bhuka hai.
+14 Shyaam kahan jayega?	rasoi ghar	13
+15 Harsh gayend le kar aaya.
+16 Harsh gayend kyoun le kar aaya?	ooba hua	3
+17 Sumit rasoi ghar mein chala gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	bhuka	7
+19 Sumit seb le aaya.
+20 Sumit seb kyoun le kar aaya?	bhuka	7
+21 Shyaam rasoi ghar mein chala gaya.
+22 Shyaam rasoi ghar mein kyoun gaya?	bhuka	13
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Ram bhuka hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Harsh sayanakaksh mein gaya.
+6 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+7 Ram rasoi ghar mein chala gaya.
+8 Ram rasoi ghar mein kyoun gaya?	bhuka	3
+9 Shyaam thaka hua hai.
+10 Shyaam kahan jayega?	sayankaksh	9
+11 Sumit pyasa hai.
+12 Sumit kahan jayega?	rasoi ghar	11
+13 Harsh pajama le kar aaya.
+14 Harsh pajama kyoun le kar aaya?	thaka hua	1
+15 Sumit rasoi ghar mein gaya.
+16 Sumit rasoi ghar mein kyoun gaya?	pyasa	11
+17 Shyaam sayanakaksh mein chala gaya.
+18 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	9
+19 Sumit dhoodh le kar aaya.
+20 Sumit dhoodh kyoun le kar aaya?	pyasa	11
+21 Ram seb le aaya.
+22 Ram seb kyoun le kar aaya?	bhuka	3
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Sumit thaka hua hai.
+4 Sumit kahan jayega?	sayankaksh	3
+5 Shyaam thaka hua hai.
+6 Shyaam kahan jayega?	sayankaksh	5
+7 Ram thaka hua hai.
+8 Ram kahan jayega?	sayankaksh	7
+9 Sumit sayanakaksh mein chala gaya.
+10 Sumit sayanakaksh mein kyoun gaya?	thaka hua	3
+11 Harsh rasoi ghar gaya.
+12 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+13 Harsh dhoodh le kar aaya.
+14 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+15 Sumit pajama le kar aaya.
+16 Sumit pajama kyoun le kar aaya?	thaka hua	3
+17 Ram sayanakaksh gaya.
+18 Ram sayanakaksh mein kyoun gaya?	thaka hua	7
+19 Shyaam sayanakaksh mein gaya.
+20 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	5
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Ram thaka hua hai.
+4 Ram kahan jayega?	sayankaksh	3
+5 Sumit thaka hua hai.
+6 Sumit kahan jayega?	sayankaksh	5
+7 Shyaam bhuka hai.
+8 Shyaam kahan jayega?	rasoi ghar	7
+9 Sumit sayanakaksh mein chala gaya.
+10 Sumit sayanakaksh mein kyoun gaya?	thaka hua	5
+11 Shyaam rasoi ghar gaya.
+12 Shyaam rasoi ghar mein kyoun gaya?	bhuka	7
+13 Ram sayanakaksh mein gaya.
+14 Ram sayanakaksh mein kyoun gaya?	thaka hua	3
+15 Harsh rasoi ghar gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+17 Shyaam seb le kar aaya.
+18 Shyaam seb kyoun le kar aaya?	bhuka	7
+19 Ram pajama le kar aaya.
+20 Ram pajama kyoun le kar aaya?	thaka hua	3
+21 Harsh dhoodh le kar aaya.
+22 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+1 Shyaam pyasa hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Ram pyasa hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Ram rasoi ghar gaya.
+6 Ram rasoi ghar mein kyoun gaya?	pyasa	3
+7 Sumit bhuka hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Sumit rasoi ghar mein chala gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	7
+11 Sumit seb le kar aaya.
+12 Sumit seb kyoun le kar aaya?	bhuka	7
+13 Shyaam rasoi ghar mein gaya.
+14 Shyaam rasoi ghar mein kyoun gaya?	pyasa	1
+15 Ram dhoodh le kar aaya.
+16 Ram dhoodh kyoun le kar aaya?	pyasa	3
+17 Harsh bhuka hai.
+18 Harsh kahan jayega?	rasoi ghar	17
+19 Harsh rasoi ghar mein chala gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	bhuka	17
+1 Harsh ooba hua hai.
+2 Harsh kahan jayega?	bagicha	1
+3 Sumit pyasa hai.
+4 Sumit kahan jayega?	rasoi ghar	3
+5 Harsh bagichey gaya.
+6 Harsh bagichey mein kyoun gaya?	ooba hua	1
+7 Sumit rasoi ghar mein gaya.
+8 Sumit rasoi ghar mein kyoun gaya?	pyasa	3
+9 Harsh gayend le aaya.
+10 Harsh gayend kyoun le kar aaya?	ooba hua	1
+11 Sumit dhoodh le aaya.
+12 Sumit dhoodh kyoun le kar aaya?	pyasa	3
+13 Ram thaka hua hai.
+14 Ram kahan jayega?	sayankaksh	13
+15 Shyaam pyasa hai.
+16 Shyaam kahan jayega?	rasoi ghar	15
+17 Shyaam rasoi ghar mein gaya.
+18 Shyaam rasoi ghar mein kyoun gaya?	pyasa	15
+19 Ram sayanakaksh mein chala gaya.
+20 Ram sayanakaksh mein kyoun gaya?	thaka hua	13
+21 Ram pajama le aaya.
+22 Ram pajama kyoun le kar aaya?	thaka hua	13
+1 Shyaam bhuka hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Sumit thaka hua hai.
+4 Sumit kahan jayega?	sayankaksh	3
+5 Sumit sayanakaksh mein gaya.
+6 Sumit sayanakaksh mein kyoun gaya?	thaka hua	3
+7 Harsh thaka hua hai.
+8 Harsh kahan jayega?	sayankaksh	7
+9 Ram bhuka hai.
+10 Ram kahan jayega?	rasoi ghar	9
+11 Ram rasoi ghar mein chala gaya.
+12 Ram rasoi ghar mein kyoun gaya?	bhuka	9
+13 Shyaam rasoi ghar gaya.
+14 Shyaam rasoi ghar mein kyoun gaya?	bhuka	1
+15 Harsh sayanakaksh mein gaya.
+16 Harsh sayanakaksh mein kyoun gaya?	thaka hua	7
+17 Ram seb le kar aaya.
+18 Ram seb kyoun le kar aaya?	bhuka	9
+19 Sumit pajama le aaya.
+20 Sumit pajama kyoun le kar aaya?	thaka hua	3
+1 Shyaam pyasa hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Ram thaka hua hai.
+4 Ram kahan jayega?	sayankaksh	3
+5 Ram sayanakaksh gaya.
+6 Ram sayanakaksh mein kyoun gaya?	thaka hua	3
+7 Shyaam rasoi ghar mein gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	pyasa	1
+9 Shyaam dhoodh le kar aaya.
+10 Shyaam dhoodh kyoun le kar aaya?	pyasa	1
+11 Ram pajama le kar aaya.
+12 Ram pajama kyoun le kar aaya?	thaka hua	3
+13 Sumit pyasa hai.
+14 Sumit kahan jayega?	rasoi ghar	13
+15 Harsh pyasa hai.
+16 Harsh kahan jayega?	rasoi ghar	15
+17 Sumit rasoi ghar mein chala gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	pyasa	13
+19 Harsh rasoi ghar mein chala gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	pyasa	15
+1 Ram pyasa hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Shyaam thaka hua hai.
+4 Shyaam kahan jayega?	sayankaksh	3
+5 Sumit ooba hua hai.
+6 Sumit kahan jayega?	bagicha	5
+7 Ram rasoi ghar mein gaya.
+8 Ram rasoi ghar mein kyoun gaya?	pyasa	1
+9 Harsh bhuka hai.
+10 Harsh kahan jayega?	rasoi ghar	9
+11 Shyaam sayanakaksh mein chala gaya.
+12 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	3
+13 Shyaam pajama le aaya.
+14 Shyaam pajama kyoun le kar aaya?	thaka hua	3
+15 Harsh rasoi ghar gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	bhuka	9
+17 Harsh seb le kar aaya.
+18 Harsh seb kyoun le kar aaya?	bhuka	9
+19 Ram dhoodh le aaya.
+20 Ram dhoodh kyoun le kar aaya?	pyasa	1
+21 Sumit bagichey mein chala gaya.
+22 Sumit bagichey mein kyoun gaya?	ooba hua	5
+23 Sumit gayend le kar aaya.
+24 Sumit gayend kyoun le kar aaya?	ooba hua	5
+1 Shyaam ooba hua hai.
+2 Shyaam kahan jayega?	bagicha	1
+3 Harsh ooba hua hai.
+4 Harsh kahan jayega?	bagicha	3
+5 Harsh bagichey mein gaya.
+6 Harsh bagichey mein kyoun gaya?	ooba hua	3
+7 Shyaam bagichey mein chala gaya.
+8 Shyaam bagichey mein kyoun gaya?	ooba hua	1
+9 Harsh gayend le kar aaya.
+10 Harsh gayend kyoun le kar aaya?	ooba hua	3
+11 Sumit bhuka hai.
+12 Sumit kahan jayega?	rasoi ghar	11
+13 Sumit rasoi ghar mein chala gaya.
+14 Sumit rasoi ghar mein kyoun gaya?	bhuka	11
+15 Sumit seb le aaya.
+16 Sumit seb kyoun le kar aaya?	bhuka	11
+17 Ram thaka hua hai.
+18 Ram kahan jayega?	sayankaksh	17
+19 Ram sayanakaksh gaya.
+20 Ram sayanakaksh mein kyoun gaya?	thaka hua	17
+21 Ram pajama le aaya.
+22 Ram pajama kyoun le kar aaya?	thaka hua	17
+1 Harsh ooba hua hai.
+2 Harsh kahan jayega?	bagicha	1
+3 Sumit pyasa hai.
+4 Sumit kahan jayega?	rasoi ghar	3
+5 Shyaam ooba hua hai.
+6 Shyaam kahan jayega?	bagicha	5
+7 Harsh bagichey mein gaya.
+8 Harsh bagichey mein kyoun gaya?	ooba hua	1
+9 Ram ooba hua hai.
+10 Ram kahan jayega?	bagicha	9
+11 Shyaam bagichey mein chala gaya.
+12 Shyaam bagichey mein kyoun gaya?	ooba hua	5
+13 Sumit rasoi ghar mein chala gaya.
+14 Sumit rasoi ghar mein kyoun gaya?	pyasa	3
+15 Shyaam gayend le aaya.
+16 Shyaam gayend kyoun le kar aaya?	ooba hua	5
+17 Ram bagichey gaya.
+18 Ram bagichey mein kyoun gaya?	ooba hua	9
+19 Sumit dhoodh le kar aaya.
+20 Sumit dhoodh kyoun le kar aaya?	pyasa	3
+1 Harsh bhuka hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Shyaam pyasa hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Sumit thaka hua hai.
+6 Sumit kahan jayega?	sayankaksh	5
+7 Shyaam rasoi ghar mein gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	pyasa	3
+9 Sumit sayanakaksh mein chala gaya.
+10 Sumit sayanakaksh mein kyoun gaya?	thaka hua	5
+11 Shyaam dhoodh le kar aaya.
+12 Shyaam dhoodh kyoun le kar aaya?	pyasa	3
+13 Ram thaka hua hai.
+14 Ram kahan jayega?	sayankaksh	13
+15 Harsh rasoi ghar mein chala gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	bhuka	1
+17 Ram sayanakaksh gaya.
+18 Ram sayanakaksh mein kyoun gaya?	thaka hua	13
+19 Harsh seb le kar aaya.
+20 Harsh seb kyoun le kar aaya?	bhuka	1
+21 Ram pajama le aaya.
+22 Ram pajama kyoun le kar aaya?	thaka hua	13
+1 Shyaam thaka hua hai.
+2 Shyaam kahan jayega?	sayankaksh	1
+3 Shyaam sayanakaksh mein chala gaya.
+4 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Ram thaka hua hai.
+6 Ram kahan jayega?	sayankaksh	5
+7 Sumit thaka hua hai.
+8 Sumit kahan jayega?	sayankaksh	7
+9 Harsh thaka hua hai.
+10 Harsh kahan jayega?	sayankaksh	9
+11 Shyaam pajama le aaya.
+12 Shyaam pajama kyoun le kar aaya?	thaka hua	1
+13 Harsh sayanakaksh gaya.
+14 Harsh sayanakaksh mein kyoun gaya?	thaka hua	9
+15 Ram sayanakaksh gaya.
+16 Ram sayanakaksh mein kyoun gaya?	thaka hua	5
+17 Sumit sayanakaksh gaya.
+18 Sumit sayanakaksh mein kyoun gaya?	thaka hua	7
+1 Ram bhuka hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Harsh thaka hua hai.
+4 Harsh kahan jayega?	sayankaksh	3
+5 Shyaam pyasa hai.
+6 Shyaam kahan jayega?	rasoi ghar	5
+7 Sumit bhuka hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Ram rasoi ghar mein gaya.
+10 Ram rasoi ghar mein kyoun gaya?	bhuka	1
+11 Sumit rasoi ghar mein chala gaya.
+12 Sumit rasoi ghar mein kyoun gaya?	bhuka	7
+13 Sumit seb le kar aaya.
+14 Sumit seb kyoun le kar aaya?	bhuka	7
+15 Harsh sayanakaksh mein chala gaya.
+16 Harsh sayanakaksh mein kyoun gaya?	thaka hua	3
+17 Harsh pajama le aaya.
+18 Harsh pajama kyoun le kar aaya?	thaka hua	3
+19 Shyaam rasoi ghar mein chala gaya.
+20 Shyaam rasoi ghar mein kyoun gaya?	pyasa	5
+21 Shyaam dhoodh le aaya.
+22 Shyaam dhoodh kyoun le kar aaya?	pyasa	5
+1 Harsh bhuka hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Ram thaka hua hai.
+4 Ram kahan jayega?	sayankaksh	3
+5 Sumit bhuka hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Ram sayanakaksh mein chala gaya.
+8 Ram sayanakaksh mein kyoun gaya?	thaka hua	3
+9 Ram pajama le aaya.
+10 Ram pajama kyoun le kar aaya?	thaka hua	3
+11 Harsh rasoi ghar mein chala gaya.
+12 Harsh rasoi ghar mein kyoun gaya?	bhuka	1
+13 Shyaam thaka hua hai.
+14 Shyaam kahan jayega?	sayankaksh	13
+15 Harsh seb le kar aaya.
+16 Harsh seb kyoun le kar aaya?	bhuka	1
+17 Sumit rasoi ghar mein chala gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	bhuka	5
+19 Shyaam sayanakaksh mein chala gaya.
+20 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	13
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Shyaam thaka hua hai.
+4 Shyaam kahan jayega?	sayankaksh	3
+5 Shyaam sayanakaksh mein gaya.
+6 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	3
+7 Harsh sayanakaksh gaya.
+8 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+9 Sumit thaka hua hai.
+10 Sumit kahan jayega?	sayankaksh	9
+11 Shyaam pajama le kar aaya.
+12 Shyaam pajama kyoun le kar aaya?	thaka hua	3
+13 Ram ooba hua hai.
+14 Ram kahan jayega?	bagicha	13
+15 Sumit sayanakaksh mein chala gaya.
+16 Sumit sayanakaksh mein kyoun gaya?	thaka hua	9
+17 Ram bagichey mein gaya.
+18 Ram bagichey mein kyoun gaya?	ooba hua	13
+19 Ram gayend le kar aaya.
+20 Ram gayend kyoun le kar aaya?	ooba hua	13
+1 Sumit pyasa hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Harsh thaka hua hai.
+4 Harsh kahan jayega?	sayankaksh	3
+5 Sumit rasoi ghar mein chala gaya.
+6 Sumit rasoi ghar mein kyoun gaya?	pyasa	1
+7 Shyaam pyasa hai.
+8 Shyaam kahan jayega?	rasoi ghar	7
+9 Sumit dhoodh le aaya.
+10 Sumit dhoodh kyoun le kar aaya?	pyasa	1
+11 Harsh sayanakaksh mein chala gaya.
+12 Harsh sayanakaksh mein kyoun gaya?	thaka hua	3
+13 Shyaam rasoi ghar mein chala gaya.
+14 Shyaam rasoi ghar mein kyoun gaya?	pyasa	7
+15 Harsh pajama le kar aaya.
+16 Harsh pajama kyoun le kar aaya?	thaka hua	3
+17 Ram pyasa hai.
+18 Ram kahan jayega?	rasoi ghar	17
+19 Ram rasoi ghar gaya.
+20 Ram rasoi ghar mein kyoun gaya?	pyasa	17
+1 Sumit ooba hua hai.
+2 Sumit kahan jayega?	bagicha	1
+3 Sumit bagichey mein chala gaya.
+4 Sumit bagichey mein kyoun gaya?	ooba hua	1
+5 Sumit gayend le aaya.
+6 Sumit gayend kyoun le kar aaya?	ooba hua	1
+7 Ram pyasa hai.
+8 Ram kahan jayega?	rasoi ghar	7
+9 Harsh ooba hua hai.
+10 Harsh kahan jayega?	bagicha	9
+11 Ram rasoi ghar mein gaya.
+12 Ram rasoi ghar mein kyoun gaya?	pyasa	7
+13 Harsh bagichey gaya.
+14 Harsh bagichey mein kyoun gaya?	ooba hua	9
+15 Ram dhoodh le aaya.
+16 Ram dhoodh kyoun le kar aaya?	pyasa	7
+17 Shyaam ooba hua hai.
+18 Shyaam kahan jayega?	bagicha	17
+19 Shyaam bagichey gaya.
+20 Shyaam bagichey mein kyoun gaya?	ooba hua	17
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Shyaam bhuka hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Sumit bhuka hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Shyaam rasoi ghar mein gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	bhuka	3
+9 Sumit rasoi ghar gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	5
+11 Harsh rasoi ghar mein chala gaya.
+12 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+13 Harsh dhoodh le kar aaya.
+14 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+15 Sumit seb le aaya.
+16 Sumit seb kyoun le kar aaya?	bhuka	5
+17 Ram thaka hua hai.
+18 Ram kahan jayega?	sayankaksh	17
+19 Ram sayanakaksh mein chala gaya.
+20 Ram sayanakaksh mein kyoun gaya?	thaka hua	17
+21 Ram pajama le kar aaya.
+22 Ram pajama kyoun le kar aaya?	thaka hua	17
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Shyaam ooba hua hai.
+4 Shyaam kahan jayega?	bagicha	3
+5 Harsh rasoi ghar mein chala gaya.
+6 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+7 Shyaam bagichey mein gaya.
+8 Shyaam bagichey mein kyoun gaya?	ooba hua	3
+9 Sumit pyasa hai.
+10 Sumit kahan jayega?	rasoi ghar	9
+11 Shyaam gayend le kar aaya.
+12 Shyaam gayend kyoun le kar aaya?	ooba hua	3
+13 Harsh dhoodh le kar aaya.
+14 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+15 Sumit rasoi ghar mein gaya.
+16 Sumit rasoi ghar mein kyoun gaya?	pyasa	9
+17 Ram ooba hua hai.
+18 Ram kahan jayega?	bagicha	17
+19 Ram bagichey gaya.
+20 Ram bagichey mein kyoun gaya?	ooba hua	17
+1 Ram pyasa hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Shyaam pyasa hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Sumit bhuka hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Shyaam rasoi ghar gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	pyasa	3
+9 Sumit rasoi ghar gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	5
+11 Ram rasoi ghar gaya.
+12 Ram rasoi ghar mein kyoun gaya?	pyasa	1
+13 Shyaam dhoodh le kar aaya.
+14 Shyaam dhoodh kyoun le kar aaya?	pyasa	3
+15 Sumit seb le kar aaya.
+16 Sumit seb kyoun le kar aaya?	bhuka	5
+17 Harsh thaka hua hai.
+18 Harsh kahan jayega?	sayankaksh	17
+19 Harsh sayanakaksh gaya.
+20 Harsh sayanakaksh mein kyoun gaya?	thaka hua	17
+21 Harsh pajama le aaya.
+22 Harsh pajama kyoun le kar aaya?	thaka hua	17
+1 Shyaam pyasa hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Harsh ooba hua hai.
+4 Harsh kahan jayega?	bagicha	3
+5 Sumit ooba hua hai.
+6 Sumit kahan jayega?	bagicha	5
+7 Sumit bagichey gaya.
+8 Sumit bagichey mein kyoun gaya?	ooba hua	5
+9 Shyaam rasoi ghar gaya.
+10 Shyaam rasoi ghar mein kyoun gaya?	pyasa	1
+11 Shyaam dhoodh le kar aaya.
+12 Shyaam dhoodh kyoun le kar aaya?	pyasa	1
+13 Harsh bagichey mein gaya.
+14 Harsh bagichey mein kyoun gaya?	ooba hua	3
+15 Sumit gayend le aaya.
+16 Sumit gayend kyoun le kar aaya?	ooba hua	5
+17 Ram thaka hua hai.
+18 Ram kahan jayega?	sayankaksh	17
+19 Ram sayanakaksh mein gaya.
+20 Ram sayanakaksh mein kyoun gaya?	thaka hua	17
+21 Ram pajama le kar aaya.
+22 Ram pajama kyoun le kar aaya?	thaka hua	17
+1 Shyaam bhuka hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Sumit ooba hua hai.
+4 Sumit kahan jayega?	bagicha	3
+5 Harsh thaka hua hai.
+6 Harsh kahan jayega?	sayankaksh	5
+7 Shyaam rasoi ghar mein gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	bhuka	1
+9 Harsh sayanakaksh gaya.
+10 Harsh sayanakaksh mein kyoun gaya?	thaka hua	5
+11 Sumit bagichey gaya.
+12 Sumit bagichey mein kyoun gaya?	ooba hua	3
+13 Harsh pajama le aaya.
+14 Harsh pajama kyoun le kar aaya?	thaka hua	5
+15 Shyaam seb le aaya.
+16 Shyaam seb kyoun le kar aaya?	bhuka	1
+17 Sumit gayend le aaya.
+18 Sumit gayend kyoun le kar aaya?	ooba hua	3
+19 Ram bhuka hai.
+20 Ram kahan jayega?	rasoi ghar	19
+21 Ram rasoi ghar mein chala gaya.
+22 Ram rasoi ghar mein kyoun gaya?	bhuka	19
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Harsh sayanakaksh gaya.
+4 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Ram ooba hua hai.
+6 Ram kahan jayega?	bagicha	5
+7 Harsh pajama le kar aaya.
+8 Harsh pajama kyoun le kar aaya?	thaka hua	1
+9 Sumit bhuka hai.
+10 Sumit kahan jayega?	rasoi ghar	9
+11 Shyaam thaka hua hai.
+12 Shyaam kahan jayega?	sayankaksh	11
+13 Sumit rasoi ghar mein gaya.
+14 Sumit rasoi ghar mein kyoun gaya?	bhuka	9
+15 Ram bagichey mein chala gaya.
+16 Ram bagichey mein kyoun gaya?	ooba hua	5
+17 Ram gayend le aaya.
+18 Ram gayend kyoun le kar aaya?	ooba hua	5
+19 Shyaam sayanakaksh gaya.
+20 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	11
+21 Sumit seb le kar aaya.
+22 Sumit seb kyoun le kar aaya?	bhuka	9
+1 Shyaam pyasa hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Shyaam rasoi ghar gaya.
+4 Shyaam rasoi ghar mein kyoun gaya?	pyasa	1
+5 Shyaam dhoodh le kar aaya.
+6 Shyaam dhoodh kyoun le kar aaya?	pyasa	1
+7 Sumit bhuka hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Sumit rasoi ghar mein chala gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	7
+11 Sumit seb le kar aaya.
+12 Sumit seb kyoun le kar aaya?	bhuka	7
+13 Harsh pyasa hai.
+14 Harsh kahan jayega?	rasoi ghar	13
+15 Ram bhuka hai.
+16 Ram kahan jayega?	rasoi ghar	15
+17 Harsh rasoi ghar gaya.
+18 Harsh rasoi ghar mein kyoun gaya?	pyasa	13
+19 Ram rasoi ghar mein chala gaya.
+20 Ram rasoi ghar mein kyoun gaya?	bhuka	15
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Sumit pyasa hai.
+4 Sumit kahan jayega?	rasoi ghar	3
+5 Sumit rasoi ghar mein gaya.
+6 Sumit rasoi ghar mein kyoun gaya?	pyasa	3
+7 Sumit dhoodh le kar aaya.
+8 Sumit dhoodh kyoun le kar aaya?	pyasa	3
+9 Ram sayanakaksh mein gaya.
+10 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+11 Shyaam ooba hua hai.
+12 Shyaam kahan jayega?	bagicha	11
+13 Ram pajama le aaya.
+14 Ram pajama kyoun le kar aaya?	thaka hua	1
+15 Shyaam bagichey gaya.
+16 Shyaam bagichey mein kyoun gaya?	ooba hua	11
+17 Harsh pyasa hai.
+18 Harsh kahan jayega?	rasoi ghar	17
+19 Harsh rasoi ghar mein gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	pyasa	17
+21 Shyaam gayend le kar aaya.
+22 Shyaam gayend kyoun le kar aaya?	ooba hua	11
+1 Ram bhuka hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Shyaam thaka hua hai.
+4 Shyaam kahan jayega?	sayankaksh	3
+5 Sumit pyasa hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Harsh thaka hua hai.
+8 Harsh kahan jayega?	sayankaksh	7
+9 Shyaam sayanakaksh mein chala gaya.
+10 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	3
+11 Sumit rasoi ghar mein chala gaya.
+12 Sumit rasoi ghar mein kyoun gaya?	pyasa	5
+13 Ram rasoi ghar mein chala gaya.
+14 Ram rasoi ghar mein kyoun gaya?	bhuka	1
+15 Ram seb le kar aaya.
+16 Ram seb kyoun le kar aaya?	bhuka	1
+17 Shyaam pajama le kar aaya.
+18 Shyaam pajama kyoun le kar aaya?	thaka hua	3
+19 Harsh sayanakaksh gaya.
+20 Harsh sayanakaksh mein kyoun gaya?	thaka hua	7
+21 Sumit dhoodh le aaya.
+22 Sumit dhoodh kyoun le kar aaya?	pyasa	5
+1 Sumit thaka hua hai.
+2 Sumit kahan jayega?	sayankaksh	1
+3 Shyaam ooba hua hai.
+4 Shyaam kahan jayega?	bagicha	3
+5 Shyaam bagichey gaya.
+6 Shyaam bagichey mein kyoun gaya?	ooba hua	3
+7 Shyaam gayend le aaya.
+8 Shyaam gayend kyoun le kar aaya?	ooba hua	3
+9 Sumit sayanakaksh mein chala gaya.
+10 Sumit sayanakaksh mein kyoun gaya?	thaka hua	1
+11 Harsh ooba hua hai.
+12 Harsh kahan jayega?	bagicha	11
+13 Ram ooba hua hai.
+14 Ram kahan jayega?	bagicha	13
+15 Sumit pajama le aaya.
+16 Sumit pajama kyoun le kar aaya?	thaka hua	1
+17 Ram bagichey gaya.
+18 Ram bagichey mein kyoun gaya?	ooba hua	13
+19 Harsh bagichey mein chala gaya.
+20 Harsh bagichey mein kyoun gaya?	ooba hua	11
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Ram sayanakaksh mein chala gaya.
+4 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Harsh bhuka hai.
+6 Harsh kahan jayega?	rasoi ghar	5
+7 Sumit pyasa hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Shyaam thaka hua hai.
+10 Shyaam kahan jayega?	sayankaksh	9
+11 Shyaam sayanakaksh gaya.
+12 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	9
+13 Harsh rasoi ghar mein chala gaya.
+14 Harsh rasoi ghar mein kyoun gaya?	bhuka	5
+15 Harsh seb le aaya.
+16 Harsh seb kyoun le kar aaya?	bhuka	5
+17 Ram pajama le aaya.
+18 Ram pajama kyoun le kar aaya?	thaka hua	1
+19 Sumit rasoi ghar gaya.
+20 Sumit rasoi ghar mein kyoun gaya?	pyasa	7
+21 Sumit dhoodh le aaya.
+22 Sumit dhoodh kyoun le kar aaya?	pyasa	7
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Sumit rasoi ghar gaya.
+4 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+5 Sumit seb le aaya.
+6 Sumit seb kyoun le kar aaya?	bhuka	1
+7 Shyaam bhuka hai.
+8 Shyaam kahan jayega?	rasoi ghar	7
+9 Harsh pyasa hai.
+10 Harsh kahan jayega?	rasoi ghar	9
+11 Shyaam rasoi ghar gaya.
+12 Shyaam rasoi ghar mein kyoun gaya?	bhuka	7
+13 Harsh rasoi ghar gaya.
+14 Harsh rasoi ghar mein kyoun gaya?	pyasa	9
+15 Harsh dhoodh le aaya.
+16 Harsh dhoodh kyoun le kar aaya?	pyasa	9
+17 Ram bhuka hai.
+18 Ram kahan jayega?	rasoi ghar	17
+19 Ram rasoi ghar mein gaya.
+20 Ram rasoi ghar mein kyoun gaya?	bhuka	17
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Ram ooba hua hai.
+4 Ram kahan jayega?	bagicha	3
+5 Sumit rasoi ghar mein gaya.
+6 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+7 Shyaam bhuka hai.
+8 Shyaam kahan jayega?	rasoi ghar	7
+9 Sumit seb le aaya.
+10 Sumit seb kyoun le kar aaya?	bhuka	1
+11 Shyaam rasoi ghar gaya.
+12 Shyaam rasoi ghar mein kyoun gaya?	bhuka	7
+13 Harsh ooba hua hai.
+14 Harsh kahan jayega?	bagicha	13
+15 Harsh bagichey mein gaya.
+16 Harsh bagichey mein kyoun gaya?	ooba hua	13
+17 Harsh gayend le aaya.
+18 Harsh gayend kyoun le kar aaya?	ooba hua	13
+19 Ram bagichey mein gaya.
+20 Ram bagichey mein kyoun gaya?	ooba hua	3
+1 Ram ooba hua hai.
+2 Ram kahan jayega?	bagicha	1
+3 Ram bagichey mein gaya.
+4 Ram bagichey mein kyoun gaya?	ooba hua	1
+5 Ram gayend le kar aaya.
+6 Ram gayend kyoun le kar aaya?	ooba hua	1
+7 Shyaam thaka hua hai.
+8 Shyaam kahan jayega?	sayankaksh	7
+9 Shyaam sayanakaksh mein gaya.
+10 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	7
+11 Sumit ooba hua hai.
+12 Sumit kahan jayega?	bagicha	11
+13 Sumit bagichey gaya.
+14 Sumit bagichey mein kyoun gaya?	ooba hua	11
+15 Shyaam pajama le kar aaya.
+16 Shyaam pajama kyoun le kar aaya?	thaka hua	7
+17 Harsh thaka hua hai.
+18 Harsh kahan jayega?	sayankaksh	17
+19 Harsh sayanakaksh mein gaya.
+20 Harsh sayanakaksh mein kyoun gaya?	thaka hua	17
+1 Sumit pyasa hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Harsh bhuka hai.
+4 Harsh kahan jayega?	rasoi ghar	3
+5 Shyaam ooba hua hai.
+6 Shyaam kahan jayega?	bagicha	5
+7 Ram bhuka hai.
+8 Ram kahan jayega?	rasoi ghar	7
+9 Harsh rasoi ghar gaya.
+10 Harsh rasoi ghar mein kyoun gaya?	bhuka	3
+11 Harsh seb le aaya.
+12 Harsh seb kyoun le kar aaya?	bhuka	3
+13 Shyaam bagichey mein chala gaya.
+14 Shyaam bagichey mein kyoun gaya?	ooba hua	5
+15 Ram rasoi ghar mein chala gaya.
+16 Ram rasoi ghar mein kyoun gaya?	bhuka	7
+17 Shyaam gayend le aaya.
+18 Shyaam gayend kyoun le kar aaya?	ooba hua	5
+19 Sumit rasoi ghar mein chala gaya.
+20 Sumit rasoi ghar mein kyoun gaya?	pyasa	1
+21 Sumit dhoodh le kar aaya.
+22 Sumit dhoodh kyoun le kar aaya?	pyasa	1
+1 Ram bhuka hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Shyaam pyasa hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Sumit pyasa hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Sumit rasoi ghar mein gaya.
+8 Sumit rasoi ghar mein kyoun gaya?	pyasa	5
+9 Shyaam rasoi ghar mein gaya.
+10 Shyaam rasoi ghar mein kyoun gaya?	pyasa	3
+11 Ram rasoi ghar mein gaya.
+12 Ram rasoi ghar mein kyoun gaya?	bhuka	1
+13 Sumit dhoodh le aaya.
+14 Sumit dhoodh kyoun le kar aaya?	pyasa	5
+15 Ram seb le kar aaya.
+16 Ram seb kyoun le kar aaya?	bhuka	1
+17 Harsh bhuka hai.
+18 Harsh kahan jayega?	rasoi ghar	17
+19 Harsh rasoi ghar mein chala gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	bhuka	17
+1 Harsh bhuka hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Ram bhuka hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Sumit pyasa hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Harsh rasoi ghar gaya.
+8 Harsh rasoi ghar mein kyoun gaya?	bhuka	1
+9 Shyaam pyasa hai.
+10 Shyaam kahan jayega?	rasoi ghar	9
+11 Sumit rasoi ghar mein chala gaya.
+12 Sumit rasoi ghar mein kyoun gaya?	pyasa	5
+13 Harsh seb le kar aaya.
+14 Harsh seb kyoun le kar aaya?	bhuka	1
+15 Sumit dhoodh le kar aaya.
+16 Sumit dhoodh kyoun le kar aaya?	pyasa	5
+17 Shyaam rasoi ghar mein gaya.
+18 Shyaam rasoi ghar mein kyoun gaya?	pyasa	9
+19 Ram rasoi ghar mein chala gaya.
+20 Ram rasoi ghar mein kyoun gaya?	bhuka	3
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Sumit ooba hua hai.
+4 Sumit kahan jayega?	bagicha	3
+5 Ram sayanakaksh mein chala gaya.
+6 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+7 Ram pajama le kar aaya.
+8 Ram pajama kyoun le kar aaya?	thaka hua	1
+9 Shyaam thaka hua hai.
+10 Shyaam kahan jayega?	sayankaksh	9
+11 Harsh pyasa hai.
+12 Harsh kahan jayega?	rasoi ghar	11
+13 Shyaam sayanakaksh gaya.
+14 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	9
+15 Harsh rasoi ghar mein gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	pyasa	11
+17 Harsh dhoodh le kar aaya.
+18 Harsh dhoodh kyoun le kar aaya?	pyasa	11
+19 Sumit bagichey mein chala gaya.
+20 Sumit bagichey mein kyoun gaya?	ooba hua	3
+21 Sumit gayend le aaya.
+22 Sumit gayend kyoun le kar aaya?	ooba hua	3
+1 Harsh bhuka hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Ram bhuka hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Sumit thaka hua hai.
+6 Sumit kahan jayega?	sayankaksh	5
+7 Ram rasoi ghar mein gaya.
+8 Ram rasoi ghar mein kyoun gaya?	bhuka	3
+9 Ram seb le kar aaya.
+10 Ram seb kyoun le kar aaya?	bhuka	3
+11 Harsh rasoi ghar mein chala gaya.
+12 Harsh rasoi ghar mein kyoun gaya?	bhuka	1
+13 Sumit sayanakaksh gaya.
+14 Sumit sayanakaksh mein kyoun gaya?	thaka hua	5
+15 Sumit pajama le kar aaya.
+16 Sumit pajama kyoun le kar aaya?	thaka hua	5
+17 Shyaam ooba hua hai.
+18 Shyaam kahan jayega?	bagicha	17
+19 Shyaam bagichey gaya.
+20 Shyaam bagichey mein kyoun gaya?	ooba hua	17
+21 Shyaam gayend le kar aaya.
+22 Shyaam gayend kyoun le kar aaya?	ooba hua	17
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Sumit bhuka hai.
+4 Sumit kahan jayega?	rasoi ghar	3
+5 Harsh rasoi ghar gaya.
+6 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+7 Shyaam thaka hua hai.
+8 Shyaam kahan jayega?	sayankaksh	7
+9 Sumit rasoi ghar mein chala gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	3
+11 Sumit seb le aaya.
+12 Sumit seb kyoun le kar aaya?	bhuka	3
+13 Harsh dhoodh le kar aaya.
+14 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+15 Shyaam sayanakaksh gaya.
+16 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	7
+17 Ram thaka hua hai.
+18 Ram kahan jayega?	sayankaksh	17
+19 Shyaam pajama le kar aaya.
+20 Shyaam pajama kyoun le kar aaya?	thaka hua	7
+21 Ram sayanakaksh mein gaya.
+22 Ram sayanakaksh mein kyoun gaya?	thaka hua	17
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Harsh pyasa hai.
+4 Harsh kahan jayega?	rasoi ghar	3
+5 Ram thaka hua hai.
+6 Ram kahan jayega?	sayankaksh	5
+7 Ram sayanakaksh mein gaya.
+8 Ram sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Harsh rasoi ghar mein chala gaya.
+10 Harsh rasoi ghar mein kyoun gaya?	pyasa	3
+11 Shyaam thaka hua hai.
+12 Shyaam kahan jayega?	sayankaksh	11
+13 Shyaam sayanakaksh mein chala gaya.
+14 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	11
+15 Shyaam pajama le kar aaya.
+16 Shyaam pajama kyoun le kar aaya?	thaka hua	11
+17 Sumit rasoi ghar mein chala gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+19 Sumit seb le aaya.
+20 Sumit seb kyoun le kar aaya?	bhuka	1
+21 Harsh dhoodh le aaya.
+22 Harsh dhoodh kyoun le kar aaya?	pyasa	3
+1 Ram ooba hua hai.
+2 Ram kahan jayega?	bagicha	1
+3 Sumit thaka hua hai.
+4 Sumit kahan jayega?	sayankaksh	3
+5 Sumit sayanakaksh gaya.
+6 Sumit sayanakaksh mein kyoun gaya?	thaka hua	3
+7 Harsh pyasa hai.
+8 Harsh kahan jayega?	rasoi ghar	7
+9 Ram bagichey gaya.
+10 Ram bagichey mein kyoun gaya?	ooba hua	1
+11 Sumit pajama le kar aaya.
+12 Sumit pajama kyoun le kar aaya?	thaka hua	3
+13 Harsh rasoi ghar mein gaya.
+14 Harsh rasoi ghar mein kyoun gaya?	pyasa	7
+15 Harsh dhoodh le aaya.
+16 Harsh dhoodh kyoun le kar aaya?	pyasa	7
+17 Shyaam thaka hua hai.
+18 Shyaam kahan jayega?	sayankaksh	17
+19 Shyaam sayanakaksh mein gaya.
+20 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	17
+21 Ram gayend le kar aaya.
+22 Ram gayend kyoun le kar aaya?	ooba hua	1
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Ram pyasa hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Ram rasoi ghar mein chala gaya.
+6 Ram rasoi ghar mein kyoun gaya?	pyasa	3
+7 Sumit pyasa hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Harsh rasoi ghar gaya.
+10 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+11 Shyaam ooba hua hai.
+12 Shyaam kahan jayega?	bagicha	11
+13 Harsh dhoodh le kar aaya.
+14 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+15 Shyaam bagichey gaya.
+16 Shyaam bagichey mein kyoun gaya?	ooba hua	11
+17 Sumit rasoi ghar gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	pyasa	7
+19 Shyaam gayend le aaya.
+20 Shyaam gayend kyoun le kar aaya?	ooba hua	11
+1 Ram ooba hua hai.
+2 Ram kahan jayega?	bagicha	1
+3 Shyaam bhuka hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Harsh thaka hua hai.
+6 Harsh kahan jayega?	sayankaksh	5
+7 Shyaam rasoi ghar mein chala gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	bhuka	3
+9 Ram bagichey mein chala gaya.
+10 Ram bagichey mein kyoun gaya?	ooba hua	1
+11 Sumit bhuka hai.
+12 Sumit kahan jayega?	rasoi ghar	11
+13 Sumit rasoi ghar mein chala gaya.
+14 Sumit rasoi ghar mein kyoun gaya?	bhuka	11
+15 Harsh sayanakaksh mein gaya.
+16 Harsh sayanakaksh mein kyoun gaya?	thaka hua	5
+17 Shyaam seb le aaya.
+18 Shyaam seb kyoun le kar aaya?	bhuka	3
+19 Harsh pajama le aaya.
+20 Harsh pajama kyoun le kar aaya?	thaka hua	5
+21 Ram gayend le kar aaya.
+22 Ram gayend kyoun le kar aaya?	ooba hua	1
+1 Sumit pyasa hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Shyaam bhuka hai.
+4 Shyaam kahan jayega?	rasoi ghar	3
+5 Ram bhuka hai.
+6 Ram kahan jayega?	rasoi ghar	5
+7 Sumit rasoi ghar gaya.
+8 Sumit rasoi ghar mein kyoun gaya?	pyasa	1
+9 Sumit dhoodh le kar aaya.
+10 Sumit dhoodh kyoun le kar aaya?	pyasa	1
+11 Ram rasoi ghar mein chala gaya.
+12 Ram rasoi ghar mein kyoun gaya?	bhuka	5
+13 Shyaam rasoi ghar gaya.
+14 Shyaam rasoi ghar mein kyoun gaya?	bhuka	3
+15 Shyaam seb le kar aaya.
+16 Shyaam seb kyoun le kar aaya?	bhuka	3
+17 Harsh ooba hua hai.
+18 Harsh kahan jayega?	bagicha	17
+19 Harsh bagichey gaya.
+20 Harsh bagichey mein kyoun gaya?	ooba hua	17
+21 Harsh gayend le kar aaya.
+22 Harsh gayend kyoun le kar aaya?	ooba hua	17
+1 Shyaam pyasa hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Ram pyasa hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Harsh ooba hua hai.
+6 Harsh kahan jayega?	bagicha	5
+7 Shyaam rasoi ghar mein gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	pyasa	1
+9 Harsh bagichey gaya.
+10 Harsh bagichey mein kyoun gaya?	ooba hua	5
+11 Sumit ooba hua hai.
+12 Sumit kahan jayega?	bagicha	11
+13 Shyaam dhoodh le kar aaya.
+14 Shyaam dhoodh kyoun le kar aaya?	pyasa	1
+15 Harsh gayend le kar aaya.
+16 Harsh gayend kyoun le kar aaya?	ooba hua	5
+17 Ram rasoi ghar mein gaya.
+18 Ram rasoi ghar mein kyoun gaya?	pyasa	3
+19 Sumit bagichey mein chala gaya.
+20 Sumit bagichey mein kyoun gaya?	ooba hua	11
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Shyaam thaka hua hai.
+4 Shyaam kahan jayega?	sayankaksh	3
+5 Harsh sayanakaksh gaya.
+6 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+7 Shyaam sayanakaksh mein gaya.
+8 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	3
+9 Sumit pyasa hai.
+10 Sumit kahan jayega?	rasoi ghar	9
+11 Harsh pajama le aaya.
+12 Harsh pajama kyoun le kar aaya?	thaka hua	1
+13 Ram thaka hua hai.
+14 Ram kahan jayega?	sayankaksh	13
+15 Ram sayanakaksh gaya.
+16 Ram sayanakaksh mein kyoun gaya?	thaka hua	13
+17 Sumit rasoi ghar gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	pyasa	9
+19 Sumit dhoodh le kar aaya.
+20 Sumit dhoodh kyoun le kar aaya?	pyasa	9
+1 Sumit pyasa hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Ram bhuka hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Shyaam thaka hua hai.
+6 Shyaam kahan jayega?	sayankaksh	5
+7 Shyaam sayanakaksh mein chala gaya.
+8 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Sumit rasoi ghar mein chala gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	pyasa	1
+11 Sumit dhoodh le kar aaya.
+12 Sumit dhoodh kyoun le kar aaya?	pyasa	1
+13 Ram rasoi ghar gaya.
+14 Ram rasoi ghar mein kyoun gaya?	bhuka	3
+15 Ram seb le aaya.
+16 Ram seb kyoun le kar aaya?	bhuka	3
+17 Shyaam pajama le kar aaya.
+18 Shyaam pajama kyoun le kar aaya?	thaka hua	5
+19 Harsh ooba hua hai.
+20 Harsh kahan jayega?	bagicha	19
+21 Harsh bagichey mein chala gaya.
+22 Harsh bagichey mein kyoun gaya?	ooba hua	19
+23 Harsh gayend le kar aaya.
+24 Harsh gayend kyoun le kar aaya?	ooba hua	19
+1 Harsh ooba hua hai.
+2 Harsh kahan jayega?	bagicha	1
+3 Shyaam thaka hua hai.
+4 Shyaam kahan jayega?	sayankaksh	3
+5 Shyaam sayanakaksh mein chala gaya.
+6 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	3
+7 Sumit bhuka hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Sumit rasoi ghar gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	7
+11 Ram bhuka hai.
+12 Ram kahan jayega?	rasoi ghar	11
+13 Shyaam pajama le aaya.
+14 Shyaam pajama kyoun le kar aaya?	thaka hua	3
+15 Sumit seb le aaya.
+16 Sumit seb kyoun le kar aaya?	bhuka	7
+17 Harsh bagichey mein gaya.
+18 Harsh bagichey mein kyoun gaya?	ooba hua	1
+19 Harsh gayend le aaya.
+20 Harsh gayend kyoun le kar aaya?	ooba hua	1
+21 Ram rasoi ghar mein gaya.
+22 Ram rasoi ghar mein kyoun gaya?	bhuka	11
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Ram thaka hua hai.
+4 Ram kahan jayega?	sayankaksh	3
+5 Ram sayanakaksh mein chala gaya.
+6 Ram sayanakaksh mein kyoun gaya?	thaka hua	3
+7 Harsh sayanakaksh mein chala gaya.
+8 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+9 Sumit pyasa hai.
+10 Sumit kahan jayega?	rasoi ghar	9
+11 Sumit rasoi ghar mein gaya.
+12 Sumit rasoi ghar mein kyoun gaya?	pyasa	9
+13 Shyaam ooba hua hai.
+14 Shyaam kahan jayega?	bagicha	13
+15 Sumit dhoodh le aaya.
+16 Sumit dhoodh kyoun le kar aaya?	pyasa	9
+17 Harsh pajama le aaya.
+18 Harsh pajama kyoun le kar aaya?	thaka hua	1
+19 Shyaam bagichey mein chala gaya.
+20 Shyaam bagichey mein kyoun gaya?	ooba hua	13
+21 Shyaam gayend le kar aaya.
+22 Shyaam gayend kyoun le kar aaya?	ooba hua	13
+1 Harsh bhuka hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Harsh rasoi ghar mein gaya.
+4 Harsh rasoi ghar mein kyoun gaya?	bhuka	1
+5 Shyaam bhuka hai.
+6 Shyaam kahan jayega?	rasoi ghar	5
+7 Ram pyasa hai.
+8 Ram kahan jayega?	rasoi ghar	7
+9 Shyaam rasoi ghar mein chala gaya.
+10 Shyaam rasoi ghar mein kyoun gaya?	bhuka	5
+11 Harsh seb le aaya.
+12 Harsh seb kyoun le kar aaya?	bhuka	1
+13 Ram rasoi ghar gaya.
+14 Ram rasoi ghar mein kyoun gaya?	pyasa	7
+15 Ram dhoodh le aaya.
+16 Ram dhoodh kyoun le kar aaya?	pyasa	7
+17 Sumit ooba hua hai.
+18 Sumit kahan jayega?	bagicha	17
+19 Sumit bagichey gaya.
+20 Sumit bagichey mein kyoun gaya?	ooba hua	17
+21 Sumit gayend le aaya.
+22 Sumit gayend kyoun le kar aaya?	ooba hua	17
+1 Harsh ooba hua hai.
+2 Harsh kahan jayega?	bagicha	1
+3 Ram bhuka hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Shyaam thaka hua hai.
+6 Shyaam kahan jayega?	sayankaksh	5
+7 Shyaam sayanakaksh mein chala gaya.
+8 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Sumit ooba hua hai.
+10 Sumit kahan jayega?	bagicha	9
+11 Sumit bagichey mein gaya.
+12 Sumit bagichey mein kyoun gaya?	ooba hua	9
+13 Sumit gayend le kar aaya.
+14 Sumit gayend kyoun le kar aaya?	ooba hua	9
+15 Ram rasoi ghar mein gaya.
+16 Ram rasoi ghar mein kyoun gaya?	bhuka	3
+17 Shyaam pajama le aaya.
+18 Shyaam pajama kyoun le kar aaya?	thaka hua	5
+19 Harsh bagichey mein gaya.
+20 Harsh bagichey mein kyoun gaya?	ooba hua	1
+21 Ram seb le aaya.
+22 Ram seb kyoun le kar aaya?	bhuka	3
+1 Sumit thaka hua hai.
+2 Sumit kahan jayega?	sayankaksh	1
+3 Shyaam ooba hua hai.
+4 Shyaam kahan jayega?	bagicha	3
+5 Ram bhuka hai.
+6 Ram kahan jayega?	rasoi ghar	5
+7 Shyaam bagichey gaya.
+8 Shyaam bagichey mein kyoun gaya?	ooba hua	3
+9 Ram rasoi ghar mein chala gaya.
+10 Ram rasoi ghar mein kyoun gaya?	bhuka	5
+11 Harsh ooba hua hai.
+12 Harsh kahan jayega?	bagicha	11
+13 Ram seb le aaya.
+14 Ram seb kyoun le kar aaya?	bhuka	5
+15 Sumit sayanakaksh gaya.
+16 Sumit sayanakaksh mein kyoun gaya?	thaka hua	1
+17 Shyaam gayend le aaya.
+18 Shyaam gayend kyoun le kar aaya?	ooba hua	3
+19 Sumit pajama le aaya.
+20 Sumit pajama kyoun le kar aaya?	thaka hua	1
+21 Harsh bagichey gaya.
+22 Harsh bagichey mein kyoun gaya?	ooba hua	11
+1 Sumit pyasa hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Harsh bhuka hai.
+4 Harsh kahan jayega?	rasoi ghar	3
+5 Ram thaka hua hai.
+6 Ram kahan jayega?	sayankaksh	5
+7 Ram sayanakaksh mein gaya.
+8 Ram sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Sumit rasoi ghar gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	pyasa	1
+11 Ram pajama le kar aaya.
+12 Ram pajama kyoun le kar aaya?	thaka hua	5
+13 Sumit dhoodh le aaya.
+14 Sumit dhoodh kyoun le kar aaya?	pyasa	1
+15 Harsh rasoi ghar mein gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	bhuka	3
+17 Shyaam pyasa hai.
+18 Shyaam kahan jayega?	rasoi ghar	17
+19 Harsh seb le aaya.
+20 Harsh seb kyoun le kar aaya?	bhuka	3
+21 Shyaam rasoi ghar gaya.
+22 Shyaam rasoi ghar mein kyoun gaya?	pyasa	17
+1 Harsh ooba hua hai.
+2 Harsh kahan jayega?	bagicha	1
+3 Shyaam ooba hua hai.
+4 Shyaam kahan jayega?	bagicha	3
+5 Ram thaka hua hai.
+6 Ram kahan jayega?	sayankaksh	5
+7 Ram sayanakaksh gaya.
+8 Ram sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Sumit pyasa hai.
+10 Sumit kahan jayega?	rasoi ghar	9
+11 Harsh bagichey mein gaya.
+12 Harsh bagichey mein kyoun gaya?	ooba hua	1
+13 Ram pajama le aaya.
+14 Ram pajama kyoun le kar aaya?	thaka hua	5
+15 Harsh gayend le aaya.
+16 Harsh gayend kyoun le kar aaya?	ooba hua	1
+17 Shyaam bagichey mein chala gaya.
+18 Shyaam bagichey mein kyoun gaya?	ooba hua	3
+19 Sumit rasoi ghar mein chala gaya.
+20 Sumit rasoi ghar mein kyoun gaya?	pyasa	9
+21 Sumit dhoodh le aaya.
+22 Sumit dhoodh kyoun le kar aaya?	pyasa	9
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Harsh sayanakaksh mein chala gaya.
+4 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Sumit thaka hua hai.
+6 Sumit kahan jayega?	sayankaksh	5
+7 Ram ooba hua hai.
+8 Ram kahan jayega?	bagicha	7
+9 Sumit sayanakaksh mein gaya.
+10 Sumit sayanakaksh mein kyoun gaya?	thaka hua	5
+11 Ram bagichey mein gaya.
+12 Ram bagichey mein kyoun gaya?	ooba hua	7
+13 Sumit pajama le aaya.
+14 Sumit pajama kyoun le kar aaya?	thaka hua	5
+15 Shyaam ooba hua hai.
+16 Shyaam kahan jayega?	bagicha	15
+17 Shyaam bagichey gaya.
+18 Shyaam bagichey mein kyoun gaya?	ooba hua	15
+19 Ram gayend le aaya.
+20 Ram gayend kyoun le kar aaya?	ooba hua	7
+1 Harsh ooba hua hai.
+2 Harsh kahan jayega?	bagicha	1
+3 Sumit thaka hua hai.
+4 Sumit kahan jayega?	sayankaksh	3
+5 Shyaam pyasa hai.
+6 Shyaam kahan jayega?	rasoi ghar	5
+7 Ram bhuka hai.
+8 Ram kahan jayega?	rasoi ghar	7
+9 Harsh bagichey mein chala gaya.
+10 Harsh bagichey mein kyoun gaya?	ooba hua	1
+11 Sumit sayanakaksh mein chala gaya.
+12 Sumit sayanakaksh mein kyoun gaya?	thaka hua	3
+13 Shyaam rasoi ghar mein gaya.
+14 Shyaam rasoi ghar mein kyoun gaya?	pyasa	5
+15 Harsh gayend le aaya.
+16 Harsh gayend kyoun le kar aaya?	ooba hua	1
+17 Shyaam dhoodh le aaya.
+18 Shyaam dhoodh kyoun le kar aaya?	pyasa	5
+19 Ram rasoi ghar mein chala gaya.
+20 Ram rasoi ghar mein kyoun gaya?	bhuka	7
+21 Ram seb le aaya.
+22 Ram seb kyoun le kar aaya?	bhuka	7
+23 Sumit pajama le aaya.
+24 Sumit pajama kyoun le kar aaya?	thaka hua	3
+1 Harsh bhuka hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Harsh rasoi ghar mein gaya.
+4 Harsh rasoi ghar mein kyoun gaya?	bhuka	1
+5 Shyaam pyasa hai.
+6 Shyaam kahan jayega?	rasoi ghar	5
+7 Shyaam rasoi ghar mein chala gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	pyasa	5
+9 Shyaam dhoodh le kar aaya.
+10 Shyaam dhoodh kyoun le kar aaya?	pyasa	5
+11 Harsh seb le aaya.
+12 Harsh seb kyoun le kar aaya?	bhuka	1
+13 Ram ooba hua hai.
+14 Ram kahan jayega?	bagicha	13
+15 Sumit thaka hua hai.
+16 Sumit kahan jayega?	sayankaksh	15
+17 Ram bagichey gaya.
+18 Ram bagichey mein kyoun gaya?	ooba hua	13
+19 Sumit sayanakaksh mein chala gaya.
+20 Sumit sayanakaksh mein kyoun gaya?	thaka hua	15
+21 Sumit pajama le kar aaya.
+22 Sumit pajama kyoun le kar aaya?	thaka hua	15
+23 Ram gayend le kar aaya.
+24 Ram gayend kyoun le kar aaya?	ooba hua	13
+1 Sumit ooba hua hai.
+2 Sumit kahan jayega?	bagicha	1
+3 Harsh thaka hua hai.
+4 Harsh kahan jayega?	sayankaksh	3
+5 Shyaam thaka hua hai.
+6 Shyaam kahan jayega?	sayankaksh	5
+7 Shyaam sayanakaksh gaya.
+8 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	5
+9 Shyaam pajama le aaya.
+10 Shyaam pajama kyoun le kar aaya?	thaka hua	5
+11 Harsh sayanakaksh gaya.
+12 Harsh sayanakaksh mein kyoun gaya?	thaka hua	3
+13 Ram bhuka hai.
+14 Ram kahan jayega?	rasoi ghar	13
+15 Sumit bagichey mein gaya.
+16 Sumit bagichey mein kyoun gaya?	ooba hua	1
+17 Sumit gayend le aaya.
+18 Sumit gayend kyoun le kar aaya?	ooba hua	1
+19 Ram rasoi ghar mein chala gaya.
+20 Ram rasoi ghar mein kyoun gaya?	bhuka	13
+21 Ram seb le aaya.
+22 Ram seb kyoun le kar aaya?	bhuka	13
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Ram ooba hua hai.
+4 Ram kahan jayega?	bagicha	3
+5 Shyaam bhuka hai.
+6 Shyaam kahan jayega?	rasoi ghar	5
+7 Ram bagichey mein chala gaya.
+8 Ram bagichey mein kyoun gaya?	ooba hua	3
+9 Shyaam rasoi ghar mein chala gaya.
+10 Shyaam rasoi ghar mein kyoun gaya?	bhuka	5
+11 Harsh bhuka hai.
+12 Harsh kahan jayega?	rasoi ghar	11
+13 Shyaam seb le aaya.
+14 Shyaam seb kyoun le kar aaya?	bhuka	5
+15 Sumit rasoi ghar gaya.
+16 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+17 Ram gayend le aaya.
+18 Ram gayend kyoun le kar aaya?	ooba hua	3
+19 Harsh rasoi ghar mein gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	bhuka	11
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Ram thaka hua hai.
+4 Ram kahan jayega?	sayankaksh	3
+5 Harsh ooba hua hai.
+6 Harsh kahan jayega?	bagicha	5
+7 Shyaam thaka hua hai.
+8 Shyaam kahan jayega?	sayankaksh	7
+9 Shyaam sayanakaksh mein gaya.
+10 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	7
+11 Ram sayanakaksh mein gaya.
+12 Ram sayanakaksh mein kyoun gaya?	thaka hua	3
+13 Shyaam pajama le aaya.
+14 Shyaam pajama kyoun le kar aaya?	thaka hua	7
+15 Harsh bagichey mein chala gaya.
+16 Harsh bagichey mein kyoun gaya?	ooba hua	5
+17 Sumit rasoi ghar gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+19 Harsh gayend le kar aaya.
+20 Harsh gayend kyoun le kar aaya?	ooba hua	5
+21 Sumit seb le kar aaya.
+22 Sumit seb kyoun le kar aaya?	bhuka	1
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Harsh thaka hua hai.
+4 Harsh kahan jayega?	sayankaksh	3
+5 Shyaam ooba hua hai.
+6 Shyaam kahan jayega?	bagicha	5
+7 Shyaam bagichey gaya.
+8 Shyaam bagichey mein kyoun gaya?	ooba hua	5
+9 Shyaam gayend le kar aaya.
+10 Shyaam gayend kyoun le kar aaya?	ooba hua	5
+11 Ram sayanakaksh mein chala gaya.
+12 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+13 Sumit thaka hua hai.
+14 Sumit kahan jayega?	sayankaksh	13
+15 Sumit sayanakaksh gaya.
+16 Sumit sayanakaksh mein kyoun gaya?	thaka hua	13
+17 Ram pajama le aaya.
+18 Ram pajama kyoun le kar aaya?	thaka hua	1
+19 Harsh sayanakaksh mein gaya.
+20 Harsh sayanakaksh mein kyoun gaya?	thaka hua	3
+1 Sumit pyasa hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Sumit rasoi ghar mein chala gaya.
+4 Sumit rasoi ghar mein kyoun gaya?	pyasa	1
+5 Shyaam thaka hua hai.
+6 Shyaam kahan jayega?	sayankaksh	5
+7 Ram thaka hua hai.
+8 Ram kahan jayega?	sayankaksh	7
+9 Sumit dhoodh le aaya.
+10 Sumit dhoodh kyoun le kar aaya?	pyasa	1
+11 Shyaam sayanakaksh mein chala gaya.
+12 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	5
+13 Ram sayanakaksh gaya.
+14 Ram sayanakaksh mein kyoun gaya?	thaka hua	7
+15 Shyaam pajama le aaya.
+16 Shyaam pajama kyoun le kar aaya?	thaka hua	5
+17 Harsh thaka hua hai.
+18 Harsh kahan jayega?	sayankaksh	17
+19 Harsh sayanakaksh gaya.
+20 Harsh sayanakaksh mein kyoun gaya?	thaka hua	17
+1 Shyaam bhuka hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Shyaam rasoi ghar mein chala gaya.
+4 Shyaam rasoi ghar mein kyoun gaya?	bhuka	1
+5 Ram ooba hua hai.
+6 Ram kahan jayega?	bagicha	5
+7 Sumit pyasa hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Shyaam seb le aaya.
+10 Shyaam seb kyoun le kar aaya?	bhuka	1
+11 Ram bagichey mein chala gaya.
+12 Ram bagichey mein kyoun gaya?	ooba hua	5
+13 Sumit rasoi ghar mein gaya.
+14 Sumit rasoi ghar mein kyoun gaya?	pyasa	7
+15 Ram gayend le aaya.
+16 Ram gayend kyoun le kar aaya?	ooba hua	5
+17 Sumit dhoodh le aaya.
+18 Sumit dhoodh kyoun le kar aaya?	pyasa	7
+19 Harsh ooba hua hai.
+20 Harsh kahan jayega?	bagicha	19
+21 Harsh bagichey mein chala gaya.
+22 Harsh bagichey mein kyoun gaya?	ooba hua	19
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Sumit rasoi ghar gaya.
+4 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+5 Shyaam bhuka hai.
+6 Shyaam kahan jayega?	rasoi ghar	5
+7 Shyaam rasoi ghar mein gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	bhuka	5
+9 Sumit seb le kar aaya.
+10 Sumit seb kyoun le kar aaya?	bhuka	1
+11 Harsh pyasa hai.
+12 Harsh kahan jayega?	rasoi ghar	11
+13 Ram ooba hua hai.
+14 Ram kahan jayega?	bagicha	13
+15 Harsh rasoi ghar mein gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	pyasa	11
+17 Ram bagichey mein chala gaya.
+18 Ram bagichey mein kyoun gaya?	ooba hua	13
+19 Ram gayend le aaya.
+20 Ram gayend kyoun le kar aaya?	ooba hua	13
+21 Harsh dhoodh le aaya.
+22 Harsh dhoodh kyoun le kar aaya?	pyasa	11
+1 Sumit bhuka hai.
+2 Sumit kahan jayega?	rasoi ghar	1
+3 Sumit rasoi ghar gaya.
+4 Sumit rasoi ghar mein kyoun gaya?	bhuka	1
+5 Sumit seb le aaya.
+6 Sumit seb kyoun le kar aaya?	bhuka	1
+7 Shyaam pyasa hai.
+8 Shyaam kahan jayega?	rasoi ghar	7
+9 Harsh ooba hua hai.
+10 Harsh kahan jayega?	bagicha	9
+11 Shyaam rasoi ghar mein chala gaya.
+12 Shyaam rasoi ghar mein kyoun gaya?	pyasa	7
+13 Ram pyasa hai.
+14 Ram kahan jayega?	rasoi ghar	13
+15 Shyaam dhoodh le kar aaya.
+16 Shyaam dhoodh kyoun le kar aaya?	pyasa	7
+17 Ram rasoi ghar gaya.
+18 Ram rasoi ghar mein kyoun gaya?	pyasa	13
+19 Harsh bagichey mein gaya.
+20 Harsh bagichey mein kyoun gaya?	ooba hua	9
+21 Harsh gayend le aaya.
+22 Harsh gayend kyoun le kar aaya?	ooba hua	9
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Ram sayanakaksh mein chala gaya.
+4 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Sumit bhuka hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Shyaam thaka hua hai.
+8 Shyaam kahan jayega?	sayankaksh	7
+9 Shyaam sayanakaksh gaya.
+10 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	7
+11 Shyaam pajama le aaya.
+12 Shyaam pajama kyoun le kar aaya?	thaka hua	7
+13 Sumit rasoi ghar mein gaya.
+14 Sumit rasoi ghar mein kyoun gaya?	bhuka	5
+15 Sumit seb le kar aaya.
+16 Sumit seb kyoun le kar aaya?	bhuka	5
+17 Harsh thaka hua hai.
+18 Harsh kahan jayega?	sayankaksh	17
+19 Harsh sayanakaksh mein chala gaya.
+20 Harsh sayanakaksh mein kyoun gaya?	thaka hua	17
+1 Shyaam ooba hua hai.
+2 Shyaam kahan jayega?	bagicha	1
+3 Ram thaka hua hai.
+4 Ram kahan jayega?	sayankaksh	3
+5 Harsh pyasa hai.
+6 Harsh kahan jayega?	rasoi ghar	5
+7 Sumit bhuka hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Sumit rasoi ghar gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	bhuka	7
+11 Ram sayanakaksh mein chala gaya.
+12 Ram sayanakaksh mein kyoun gaya?	thaka hua	3
+13 Ram pajama le kar aaya.
+14 Ram pajama kyoun le kar aaya?	thaka hua	3
+15 Sumit seb le aaya.
+16 Sumit seb kyoun le kar aaya?	bhuka	7
+17 Shyaam bagichey mein chala gaya.
+18 Shyaam bagichey mein kyoun gaya?	ooba hua	1
+19 Shyaam gayend le kar aaya.
+20 Shyaam gayend kyoun le kar aaya?	ooba hua	1
+21 Harsh rasoi ghar gaya.
+22 Harsh rasoi ghar mein kyoun gaya?	pyasa	5
+23 Harsh dhoodh le aaya.
+24 Harsh dhoodh kyoun le kar aaya?	pyasa	5
+1 Ram pyasa hai.
+2 Ram kahan jayega?	rasoi ghar	1
+3 Ram rasoi ghar mein chala gaya.
+4 Ram rasoi ghar mein kyoun gaya?	pyasa	1
+5 Shyaam pyasa hai.
+6 Shyaam kahan jayega?	rasoi ghar	5
+7 Sumit ooba hua hai.
+8 Sumit kahan jayega?	bagicha	7
+9 Shyaam rasoi ghar mein gaya.
+10 Shyaam rasoi ghar mein kyoun gaya?	pyasa	5
+11 Ram dhoodh le kar aaya.
+12 Ram dhoodh kyoun le kar aaya?	pyasa	1
+13 Sumit bagichey mein chala gaya.
+14 Sumit bagichey mein kyoun gaya?	ooba hua	7
+15 Harsh bhuka hai.
+16 Harsh kahan jayega?	rasoi ghar	15
+17 Sumit gayend le kar aaya.
+18 Sumit gayend kyoun le kar aaya?	ooba hua	7
+19 Harsh rasoi ghar mein gaya.
+20 Harsh rasoi ghar mein kyoun gaya?	bhuka	15
+21 Harsh seb le aaya.
+22 Harsh seb kyoun le kar aaya?	bhuka	15
+1 Harsh ooba hua hai.
+2 Harsh kahan jayega?	bagicha	1
+3 Harsh bagichey mein gaya.
+4 Harsh bagichey mein kyoun gaya?	ooba hua	1
+5 Ram pyasa hai.
+6 Ram kahan jayega?	rasoi ghar	5
+7 Ram rasoi ghar gaya.
+8 Ram rasoi ghar mein kyoun gaya?	pyasa	5
+9 Shyaam ooba hua hai.
+10 Shyaam kahan jayega?	bagicha	9
+11 Shyaam bagichey mein chala gaya.
+12 Shyaam bagichey mein kyoun gaya?	ooba hua	9
+13 Harsh gayend le aaya.
+14 Harsh gayend kyoun le kar aaya?	ooba hua	1
+15 Ram dhoodh le kar aaya.
+16 Ram dhoodh kyoun le kar aaya?	pyasa	5
+17 Sumit ooba hua hai.
+18 Sumit kahan jayega?	bagicha	17
+19 Sumit bagichey mein gaya.
+20 Sumit bagichey mein kyoun gaya?	ooba hua	17
+1 Harsh pyasa hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Shyaam ooba hua hai.
+4 Shyaam kahan jayega?	bagicha	3
+5 Shyaam bagichey mein chala gaya.
+6 Shyaam bagichey mein kyoun gaya?	ooba hua	3
+7 Shyaam gayend le kar aaya.
+8 Shyaam gayend kyoun le kar aaya?	ooba hua	3
+9 Ram pyasa hai.
+10 Ram kahan jayega?	rasoi ghar	9
+11 Ram rasoi ghar mein chala gaya.
+12 Ram rasoi ghar mein kyoun gaya?	pyasa	9
+13 Sumit bhuka hai.
+14 Sumit kahan jayega?	rasoi ghar	13
+15 Harsh rasoi ghar mein chala gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	pyasa	1
+17 Sumit rasoi ghar mein chala gaya.
+18 Sumit rasoi ghar mein kyoun gaya?	bhuka	13
+19 Sumit seb le aaya.
+20 Sumit seb kyoun le kar aaya?	bhuka	13
+21 Harsh dhoodh le kar aaya.
+22 Harsh dhoodh kyoun le kar aaya?	pyasa	1
+1 Harsh thaka hua hai.
+2 Harsh kahan jayega?	sayankaksh	1
+3 Harsh sayanakaksh gaya.
+4 Harsh sayanakaksh mein kyoun gaya?	thaka hua	1
+5 Harsh pajama le kar aaya.
+6 Harsh pajama kyoun le kar aaya?	thaka hua	1
+7 Ram ooba hua hai.
+8 Ram kahan jayega?	bagicha	7
+9 Shyaam thaka hua hai.
+10 Shyaam kahan jayega?	sayankaksh	9
+11 Sumit thaka hua hai.
+12 Sumit kahan jayega?	sayankaksh	11
+13 Shyaam sayanakaksh gaya.
+14 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	9
+15 Sumit sayanakaksh mein gaya.
+16 Sumit sayanakaksh mein kyoun gaya?	thaka hua	11
+17 Ram bagichey mein gaya.
+18 Ram bagichey mein kyoun gaya?	ooba hua	7
+19 Ram gayend le aaya.
+20 Ram gayend kyoun le kar aaya?	ooba hua	7
+1 Harsh bhuka hai.
+2 Harsh kahan jayega?	rasoi ghar	1
+3 Ram ooba hua hai.
+4 Ram kahan jayega?	bagicha	3
+5 Sumit pyasa hai.
+6 Sumit kahan jayega?	rasoi ghar	5
+7 Ram bagichey gaya.
+8 Ram bagichey mein kyoun gaya?	ooba hua	3
+9 Ram gayend le kar aaya.
+10 Ram gayend kyoun le kar aaya?	ooba hua	3
+11 Sumit rasoi ghar mein chala gaya.
+12 Sumit rasoi ghar mein kyoun gaya?	pyasa	5
+13 Sumit dhoodh le kar aaya.
+14 Sumit dhoodh kyoun le kar aaya?	pyasa	5
+15 Harsh rasoi ghar mein gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	bhuka	1
+17 Shyaam thaka hua hai.
+18 Shyaam kahan jayega?	sayankaksh	17
+19 Shyaam sayanakaksh mein chala gaya.
+20 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	17
+21 Shyaam pajama le aaya.
+22 Shyaam pajama kyoun le kar aaya?	thaka hua	17
+23 Harsh seb le kar aaya.
+24 Harsh seb kyoun le kar aaya?	bhuka	1
+1 Shyaam pyasa hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Harsh pyasa hai.
+4 Harsh kahan jayega?	rasoi ghar	3
+5 Ram ooba hua hai.
+6 Ram kahan jayega?	bagicha	5
+7 Harsh rasoi ghar mein chala gaya.
+8 Harsh rasoi ghar mein kyoun gaya?	pyasa	3
+9 Ram bagichey mein chala gaya.
+10 Ram bagichey mein kyoun gaya?	ooba hua	5
+11 Ram gayend le kar aaya.
+12 Ram gayend kyoun le kar aaya?	ooba hua	5
+13 Shyaam rasoi ghar mein chala gaya.
+14 Shyaam rasoi ghar mein kyoun gaya?	pyasa	1
+15 Sumit thaka hua hai.
+16 Sumit kahan jayega?	sayankaksh	15
+17 Harsh dhoodh le aaya.
+18 Harsh dhoodh kyoun le kar aaya?	pyasa	3
+19 Sumit sayanakaksh mein chala gaya.
+20 Sumit sayanakaksh mein kyoun gaya?	thaka hua	15
+21 Sumit pajama le aaya.
+22 Sumit pajama kyoun le kar aaya?	thaka hua	15
+1 Shyaam ooba hua hai.
+2 Shyaam kahan jayega?	bagicha	1
+3 Harsh bhuka hai.
+4 Harsh kahan jayega?	rasoi ghar	3
+5 Ram pyasa hai.
+6 Ram kahan jayega?	rasoi ghar	5
+7 Harsh rasoi ghar mein gaya.
+8 Harsh rasoi ghar mein kyoun gaya?	bhuka	3
+9 Sumit thaka hua hai.
+10 Sumit kahan jayega?	sayankaksh	9
+11 Harsh seb le aaya.
+12 Harsh seb kyoun le kar aaya?	bhuka	3
+13 Sumit sayanakaksh mein chala gaya.
+14 Sumit sayanakaksh mein kyoun gaya?	thaka hua	9
+15 Sumit pajama le kar aaya.
+16 Sumit pajama kyoun le kar aaya?	thaka hua	9
+17 Ram rasoi ghar gaya.
+18 Ram rasoi ghar mein kyoun gaya?	pyasa	5
+19 Shyaam bagichey mein chala gaya.
+20 Shyaam bagichey mein kyoun gaya?	ooba hua	1
+21 Shyaam gayend le aaya.
+22 Shyaam gayend kyoun le kar aaya?	ooba hua	1
+23 Ram dhoodh le kar aaya.
+24 Ram dhoodh kyoun le kar aaya?	pyasa	5
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Sumit pyasa hai.
+4 Sumit kahan jayega?	rasoi ghar	3
+5 Ram sayanakaksh mein gaya.
+6 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+7 Shyaam thaka hua hai.
+8 Shyaam kahan jayega?	sayankaksh	7
+9 Sumit rasoi ghar mein chala gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	pyasa	3
+11 Shyaam sayanakaksh mein chala gaya.
+12 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	7
+13 Shyaam pajama le kar aaya.
+14 Shyaam pajama kyoun le kar aaya?	thaka hua	7
+15 Harsh pyasa hai.
+16 Harsh kahan jayega?	rasoi ghar	15
+17 Harsh rasoi ghar mein gaya.
+18 Harsh rasoi ghar mein kyoun gaya?	pyasa	15
+19 Sumit dhoodh le kar aaya.
+20 Sumit dhoodh kyoun le kar aaya?	pyasa	3
+1 Shyaam thaka hua hai.
+2 Shyaam kahan jayega?	sayankaksh	1
+3 Ram pyasa hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Ram rasoi ghar gaya.
+6 Ram rasoi ghar mein kyoun gaya?	pyasa	3
+7 Harsh thaka hua hai.
+8 Harsh kahan jayega?	sayankaksh	7
+9 Shyaam sayanakaksh gaya.
+10 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	1
+11 Shyaam pajama le kar aaya.
+12 Shyaam pajama kyoun le kar aaya?	thaka hua	1
+13 Ram dhoodh le kar aaya.
+14 Ram dhoodh kyoun le kar aaya?	pyasa	3
+15 Harsh sayanakaksh gaya.
+16 Harsh sayanakaksh mein kyoun gaya?	thaka hua	7
+17 Sumit thaka hua hai.
+18 Sumit kahan jayega?	sayankaksh	17
+19 Sumit sayanakaksh mein gaya.
+20 Sumit sayanakaksh mein kyoun gaya?	thaka hua	17
+1 Ram thaka hua hai.
+2 Ram kahan jayega?	sayankaksh	1
+3 Sumit ooba hua hai.
+4 Sumit kahan jayega?	bagicha	3
+5 Sumit bagichey mein gaya.
+6 Sumit bagichey mein kyoun gaya?	ooba hua	3
+7 Ram sayanakaksh mein chala gaya.
+8 Ram sayanakaksh mein kyoun gaya?	thaka hua	1
+9 Harsh bhuka hai.
+10 Harsh kahan jayega?	rasoi ghar	9
+11 Shyaam pyasa hai.
+12 Shyaam kahan jayega?	rasoi ghar	11
+13 Sumit gayend le kar aaya.
+14 Sumit gayend kyoun le kar aaya?	ooba hua	3
+15 Harsh rasoi ghar mein chala gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	bhuka	9
+17 Shyaam rasoi ghar mein chala gaya.
+18 Shyaam rasoi ghar mein kyoun gaya?	pyasa	11
+19 Shyaam dhoodh le kar aaya.
+20 Shyaam dhoodh kyoun le kar aaya?	pyasa	11
+21 Harsh seb le aaya.
+22 Harsh seb kyoun le kar aaya?	bhuka	9
+23 Ram pajama le aaya.
+24 Ram pajama kyoun le kar aaya?	thaka hua	1
+1 Shyaam bhuka hai.
+2 Shyaam kahan jayega?	rasoi ghar	1
+3 Ram bhuka hai.
+4 Ram kahan jayega?	rasoi ghar	3
+5 Harsh bhuka hai.
+6 Harsh kahan jayega?	rasoi ghar	5
+7 Shyaam rasoi ghar gaya.
+8 Shyaam rasoi ghar mein kyoun gaya?	bhuka	1
+9 Sumit pyasa hai.
+10 Sumit kahan jayega?	rasoi ghar	9
+11 Sumit rasoi ghar gaya.
+12 Sumit rasoi ghar mein kyoun gaya?	pyasa	9
+13 Ram rasoi ghar mein chala gaya.
+14 Ram rasoi ghar mein kyoun gaya?	bhuka	3
+15 Harsh rasoi ghar mein chala gaya.
+16 Harsh rasoi ghar mein kyoun gaya?	bhuka	5
+17 Ram seb le kar aaya.
+18 Ram seb kyoun le kar aaya?	bhuka	3
+19 Sumit dhoodh le aaya.
+20 Sumit dhoodh kyoun le kar aaya?	pyasa	9
+1 Shyaam ooba hua hai.
+2 Shyaam kahan jayega?	bagicha	1
+3 Shyaam bagichey mein chala gaya.
+4 Shyaam bagichey mein kyoun gaya?	ooba hua	1
+5 Shyaam gayend le aaya.
+6 Shyaam gayend kyoun le kar aaya?	ooba hua	1
+7 Ram pyasa hai.
+8 Ram kahan jayega?	rasoi ghar	7
+9 Ram rasoi ghar mein chala gaya.
+10 Ram rasoi ghar mein kyoun gaya?	pyasa	7
+11 Ram dhoodh le kar aaya.
+12 Ram dhoodh kyoun le kar aaya?	pyasa	7
+13 Harsh thaka hua hai.
+14 Harsh kahan jayega?	sayankaksh	13
+15 Harsh sayanakaksh mein gaya.
+16 Harsh sayanakaksh mein kyoun gaya?	thaka hua	13
+17 Harsh pajama le kar aaya.
+18 Harsh pajama kyoun le kar aaya?	thaka hua	13
+19 Sumit ooba hua hai.
+20 Sumit kahan jayega?	bagicha	19
+21 Sumit bagichey gaya.
+22 Sumit bagichey mein kyoun gaya?	ooba hua	19
+1 Shyaam thaka hua hai.
+2 Shyaam kahan jayega?	sayankaksh	1
+3 Harsh ooba hua hai.
+4 Harsh kahan jayega?	bagicha	3
+5 Harsh bagichey gaya.
+6 Harsh bagichey mein kyoun gaya?	ooba hua	3
+7 Sumit pyasa hai.
+8 Sumit kahan jayega?	rasoi ghar	7
+9 Sumit rasoi ghar mein gaya.
+10 Sumit rasoi ghar mein kyoun gaya?	pyasa	7
+11 Sumit dhoodh le aaya.
+12 Sumit dhoodh kyoun le kar aaya?	pyasa	7
+13 Shyaam sayanakaksh mein gaya.
+14 Shyaam sayanakaksh mein kyoun gaya?	thaka hua	1
+15 Ram pyasa hai.
+16 Ram kahan jayega?	rasoi ghar	15

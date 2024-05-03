@@ -62,13 +62,13 @@ elif args.fp16:
 else:
     precision = ""
 
-accel_config_path = "/home/jovyan/rmt/wip/accel_configs/exp/accelerate/deepspeed_" + precision + "tbs{}bs{}g{}c{}np{}.yaml"
+accel_config_path = "/home/jovyan/rmt/babilong/accel_configs/deepspeed_" + precision + "tbs{}bs{}g{}c{}np{}.yaml"
 accel_config_path = accel_config_path.format(args.train_batch_size,
                                             args.train_micro_batch_size_per_gpu,
                                             args.gradient_accumulation_steps,
                                             args.gradient_clipping, 
                                             args.np)
-deepspeed_config_path = "/home/jovyan/rmt/wip/accel_configs/exp/deepspeed/0s2_" + precision + "tbs{}bs{}g{}c{}.json"
+deepspeed_config_path = "/home/jovyan/rmt/babilong/accel_configs/0s2_" + precision + "tbs{}bs{}g{}c{}.json"
 deepspeed_config_path = deepspeed_config_path.format(args.train_batch_size,
                                                      args.train_micro_batch_size_per_gpu,
                                                      args.gradient_accumulation_steps,

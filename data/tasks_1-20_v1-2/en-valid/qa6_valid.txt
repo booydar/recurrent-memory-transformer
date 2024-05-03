@@ -1,0 +1,306 @@
+1 Sandra moved to the office.
+2 John went back to the garden.
+3 Is Sandra in the office? 	yes	1
+4 Sandra went to the hallway.
+5 Sandra went to the kitchen.
+6 Is Sandra in the bathroom? 	no	5
+7 Mary went to the office.
+8 Sandra got the apple there.
+9 Is Sandra in the kitchen? 	yes	5
+10 Mary journeyed to the hallway.
+11 Mary journeyed to the bedroom.
+12 Is Mary in the bedroom? 	yes	11
+13 Mary journeyed to the garden.
+14 Mary went to the kitchen.
+15 Is Mary in the kitchen? 	yes	14
+1 Sandra grabbed the football there.
+2 Sandra went back to the hallway.
+3 Is Sandra in the garden? 	no	2
+4 Mary journeyed to the kitchen.
+5 Mary moved to the office.
+6 Is Mary in the office? 	yes	5
+7 John moved to the kitchen.
+8 Sandra put down the football there.
+9 Is John in the bathroom? 	no	7
+10 Mary took the apple there.
+11 John travelled to the hallway.
+12 Is John in the garden? 	no	11
+13 Daniel moved to the hallway.
+14 Mary travelled to the kitchen.
+15 Is John in the garden? 	no	11
+1 Daniel journeyed to the hallway.
+2 Mary went back to the kitchen.
+3 Is Mary in the kitchen? 	yes	2
+4 John moved to the hallway.
+5 John picked up the apple there.
+6 Is Daniel in the kitchen? 	no	1
+7 Daniel moved to the bathroom.
+8 John went to the garden.
+9 Is Mary in the kitchen? 	yes	2
+10 Mary moved to the hallway.
+11 John dropped the apple.
+12 Is John in the bedroom? 	no	8
+13 Sandra grabbed the apple there.
+14 Sandra left the apple.
+15 Is John in the garden? 	yes	8
+1 John went to the hallway.
+2 Sandra picked up the apple there.
+3 Is John in the hallway? 	yes	1
+4 Daniel moved to the garden.
+5 Mary journeyed to the bedroom.
+6 Is Mary in the bedroom? 	yes	5
+7 Mary moved to the bathroom.
+8 Sandra left the apple.
+9 Is Daniel in the bedroom? 	no	4
+10 Mary grabbed the milk there.
+11 Daniel moved to the office.
+12 Is Mary in the bedroom? 	no	7
+13 John took the football there.
+14 John moved to the bedroom.
+15 Is John in the bedroom? 	yes	14
+1 Mary went back to the hallway.
+2 John grabbed the apple there.
+3 Is Mary in the hallway? 	yes	1
+4 John put down the apple.
+5 John took the apple there.
+6 Is Mary in the hallway? 	yes	1
+7 John put down the apple there.
+8 Mary moved to the kitchen.
+9 Is Mary in the kitchen? 	yes	8
+10 Mary travelled to the bathroom.
+11 Sandra went back to the garden.
+12 Is Sandra in the garden? 	yes	11
+13 Daniel went to the bedroom.
+14 Mary took the milk there.
+15 Is Sandra in the bedroom? 	no	11
+1 Daniel moved to the hallway.
+2 Sandra got the apple there.
+3 Is Daniel in the bathroom? 	no	1
+4 Sandra left the apple.
+5 Mary travelled to the bathroom.
+6 Is Daniel in the garden? 	no	1
+7 Mary took the football there.
+8 Mary discarded the football.
+9 Is Mary in the bathroom? 	yes	5
+10 Daniel grabbed the apple there.
+11 Mary picked up the football there.
+12 Is Mary in the bathroom? 	yes	5
+13 Mary left the football.
+14 John went back to the bedroom.
+15 Is John in the bedroom? 	yes	14
+1 Daniel travelled to the bedroom.
+2 Mary went to the hallway.
+3 Is Daniel in the bedroom? 	yes	1
+4 Daniel went to the hallway.
+5 Mary travelled to the kitchen.
+6 Is Daniel in the hallway? 	yes	4
+7 John picked up the football there.
+8 Sandra moved to the bathroom.
+9 Is Sandra in the bathroom? 	yes	8
+10 Sandra moved to the office.
+11 John dropped the football.
+12 Is Sandra in the office? 	yes	10
+13 John travelled to the bedroom.
+14 Sandra journeyed to the bedroom.
+15 Is John in the garden? 	no	13
+1 Sandra went back to the bathroom.
+2 Mary journeyed to the office.
+3 Is Mary in the office? 	yes	2
+4 Sandra went back to the hallway.
+5 Sandra got the football there.
+6 Is Sandra in the hallway? 	yes	4
+7 Mary grabbed the milk there.
+8 Mary went to the kitchen.
+9 Is Sandra in the office? 	no	4
+10 Sandra went to the kitchen.
+11 Sandra left the football.
+12 Is Mary in the garden? 	no	8
+13 Sandra took the football there.
+14 Sandra travelled to the hallway.
+15 Is Sandra in the hallway? 	yes	14
+1 Mary picked up the apple there.
+2 Mary dropped the apple.
+3 Daniel went to the bathroom.
+4 Daniel journeyed to the garden.
+5 Is Daniel in the garden? 	yes	4
+6 Daniel picked up the football there.
+7 Daniel discarded the football.
+8 Is Daniel in the bedroom? 	no	4
+9 John moved to the bedroom.
+10 Sandra went back to the bedroom.
+11 Is Daniel in the office? 	no	4
+12 Daniel went back to the bedroom.
+13 Daniel journeyed to the kitchen.
+14 Is Daniel in the kitchen? 	yes	13
+15 Sandra got the milk there.
+16 Sandra journeyed to the kitchen.
+17 Is Daniel in the garden? 	no	13
+1 Sandra went to the kitchen.
+2 Sandra went back to the bathroom.
+3 Is Sandra in the bedroom? 	no	2
+4 Daniel journeyed to the hallway.
+5 Mary journeyed to the office.
+6 Is Sandra in the bathroom? 	yes	2
+7 Mary moved to the garden.
+8 John took the football there.
+9 Is Mary in the bathroom? 	no	7
+10 Mary travelled to the bathroom.
+11 John moved to the kitchen.
+12 Is Mary in the kitchen? 	no	10
+13 Mary travelled to the hallway.
+14 Sandra journeyed to the bedroom.
+15 Is Mary in the hallway? 	yes	13
+1 Mary went to the office.
+2 John travelled to the bedroom.
+3 Is Mary in the hallway? 	no	1
+4 Mary went to the bedroom.
+5 Mary travelled to the bathroom.
+6 Is Mary in the bathroom? 	yes	5
+7 John moved to the hallway.
+8 Mary picked up the milk there.
+9 Is Mary in the kitchen? 	no	5
+10 John got the apple there.
+11 John journeyed to the bedroom.
+12 Is John in the office? 	no	11
+13 Mary dropped the milk.
+14 Mary went to the office.
+15 Is John in the garden? 	no	11
+1 Daniel went to the bedroom.
+2 Sandra got the apple there.
+3 Is Daniel in the kitchen? 	no	1
+4 Daniel got the football there.
+5 John journeyed to the bathroom.
+6 Is John in the kitchen? 	no	5
+7 Sandra went to the bathroom.
+8 Daniel put down the football.
+9 Is Sandra in the office? 	no	7
+10 Mary journeyed to the office.
+11 Sandra left the apple there.
+12 Is Sandra in the bedroom? 	no	7
+13 Daniel picked up the football there.
+14 Mary travelled to the hallway.
+15 Is Mary in the hallway? 	yes	14
+1 Sandra travelled to the bathroom.
+2 Sandra got the football there.
+3 Is Sandra in the bathroom? 	yes	1
+4 Sandra discarded the football there.
+5 Sandra journeyed to the bedroom.
+6 Is Sandra in the bedroom? 	yes	5
+7 John went back to the garden.
+8 Mary went to the bathroom.
+9 Is John in the kitchen? 	no	7
+10 Mary travelled to the hallway.
+11 John travelled to the hallway.
+12 Is Mary in the bedroom? 	no	10
+13 John travelled to the bedroom.
+14 John journeyed to the hallway.
+15 Is John in the hallway? 	yes	14
+1 Daniel went to the bathroom.
+2 Mary travelled to the bathroom.
+3 Is Mary in the kitchen? 	no	2
+4 Mary journeyed to the kitchen.
+5 Mary went to the garden.
+6 Is Mary in the bathroom? 	no	5
+7 Mary got the football there.
+8 John moved to the bathroom.
+9 Is Mary in the bathroom? 	no	5
+10 John went back to the bedroom.
+11 Mary dropped the football.
+12 Is John in the bedroom? 	yes	10
+13 Mary travelled to the kitchen.
+14 Sandra moved to the bedroom.
+15 Is John in the bedroom? 	yes	10
+1 Daniel went to the hallway.
+2 Sandra went to the kitchen.
+3 Is Sandra in the bathroom? 	no	2
+4 John moved to the hallway.
+5 Sandra picked up the milk there.
+6 Is John in the kitchen? 	no	4
+7 John got the apple there.
+8 Sandra went to the bedroom.
+9 Is John in the office? 	no	4
+10 Mary travelled to the kitchen.
+11 Sandra went back to the garden.
+12 Is Sandra in the kitchen? 	no	11
+13 John went to the garden.
+14 Sandra went to the hallway.
+15 Is Sandra in the hallway? 	yes	14
+1 Sandra picked up the milk there.
+2 Mary journeyed to the kitchen.
+3 Is Mary in the kitchen? 	yes	2
+4 Sandra took the football there.
+5 John went to the office.
+6 Is Mary in the hallway? 	no	2
+7 Sandra dropped the football there.
+8 Sandra put down the milk there.
+9 Is Mary in the garden? 	no	2
+10 Sandra got the milk there.
+11 Sandra put down the milk.
+12 Is John in the office? 	yes	5
+13 Sandra got the milk there.
+14 Sandra left the milk.
+15 Sandra went back to the hallway.
+16 Sandra went to the kitchen.
+17 Is Sandra in the bedroom? 	no	16
+1 Sandra took the football there.
+2 Sandra took the apple there.
+3 Mary went to the hallway.
+4 Mary journeyed to the kitchen.
+5 Is Mary in the office? 	no	4
+6 John moved to the office.
+7 Sandra travelled to the bathroom.
+8 Is John in the office? 	yes	6
+9 Daniel moved to the kitchen.
+10 John got the milk there.
+11 Is Sandra in the kitchen? 	no	7
+12 Daniel journeyed to the bathroom.
+13 Sandra put down the football.
+14 Is Daniel in the bathroom? 	yes	12
+15 Sandra journeyed to the office.
+16 John dropped the milk there.
+17 Is Sandra in the office? 	yes	15
+1 John went back to the bedroom.
+2 Daniel grabbed the milk there.
+3 Is John in the bathroom? 	no	1
+4 John journeyed to the bathroom.
+5 Mary went to the garden.
+6 Is John in the bathroom? 	yes	4
+7 Daniel dropped the milk.
+8 Sandra went to the bathroom.
+9 Is Sandra in the bathroom? 	yes	8
+10 Daniel got the milk there.
+11 Daniel went to the office.
+12 Is Mary in the garden? 	yes	5
+13 Mary went to the kitchen.
+14 John took the football there.
+15 Is Daniel in the office? 	yes	11
+1 Mary went back to the office.
+2 Mary got the milk there.
+3 Is Mary in the garden? 	no	1
+4 Daniel grabbed the apple there.
+5 Daniel journeyed to the kitchen.
+6 Is Mary in the office? 	yes	1
+7 Mary travelled to the garden.
+8 Mary travelled to the bedroom.
+9 Is Mary in the kitchen? 	no	8
+10 Mary grabbed the football there.
+11 Mary left the milk there.
+12 Is Daniel in the garden? 	no	5
+13 Sandra travelled to the hallway.
+14 John journeyed to the bedroom.
+15 Is John in the office? 	no	14
+1 Daniel journeyed to the office.
+2 Daniel picked up the football there.
+3 Is Daniel in the kitchen? 	no	1
+4 Daniel put down the football.
+5 Daniel travelled to the bathroom.
+6 Is Daniel in the garden? 	no	5
+7 John took the milk there.
+8 John went to the office.
+9 Is John in the hallway? 	no	8
+10 Daniel went to the kitchen.
+11 John discarded the milk.
+12 Is John in the garden? 	no	8
+13 Daniel journeyed to the bedroom.
+14 Mary went back to the bathroom.
+15 Is Daniel in the hallway? 	no	13

@@ -1,0 +1,6140 @@
+1 Manoj daftar mein chala gaya.
+2 Manoj gendh le aaya.
+3 Manoj gendh chod aaya.
+4 Manoj gendh le kar aaya.
+5 Manoj gendh rakh aaya.
+6 Sita daftar mein chali gayi.
+7 Hari bagichey gaya.
+8 Sita bagichey mein chali gayi.
+9 Sita gusalkhane mein chali gayi.
+10 Arjun gusalkhane mein gaya.
+11 Arjun seb le kar aaya.
+12 Arjun ne sita ko seb diya.
+13 Arjun ne seb kisko diya?	sita	12
+14 Sita ne arjun ko seb diya.
+15 Arjun ne sita ko seb diya.
+16 Arjun ne sita ko kya diya? 	seb	15
+17 Sita ne arjun ko seb diya.
+18 Manoj gusalkhane mein gaya.
+19 Arjun ko seb kisney diya?	sita	17
+20 Hari gusalkhane mein chala gaya.
+21 Hari galiyare mein chala gaya.
+22 Seb kisko mila? 	arjun	17
+23 Sita bagichey mein gayi.
+24 Arjun ne manoj ko seb diya.
+25 Arjun ne manoj ko kya diya? 	seb	24
+1 Sita dhoodh le aayi.
+2 Sita daftar gayi.
+3 Sita dhoodh rakh aayi.
+4 Arjun gendh le aaya.
+5 Hari daftar gaya.
+6 Sita gusalkhane mein chali gayi.
+7 Hari dhoodh le aaya.
+8 Arjun gendh rakh aaya.
+9 Hari dhoodh rakh aaya.
+10 Manoj galiyare mein gaya.
+11 Arjun gendh le kar aaya.
+12 Manoj seb le aaya.
+13 Manoj seb chod aaya.
+14 Manoj seb le kar aaya.
+15 Arjun daftar mein gaya.
+16 Hari galiyare mein gaya.
+17 Arjun dhoodh le aaya.
+18 Arjun gendh rakh aaya.
+19 Sita bagichey mein chali gayi.
+20 Arjun galiyare gaya.
+21 Manoj ne hari ko seb diya.
+22 Manoj daftar gaya.
+23 Seb kisney diya? 	manoj	21
+24 Arjun dhoodh chod aaya.
+25 Manoj rasoi ghar mein gaya.
+26 Manoj ne hari ko kya diya? 	seb	21
+27 Hari daftar mein chala gaya.
+28 Hari bagichey mein gaya.
+29 Manoj galiyare mein gaya.
+30 Hari daftar mein gaya.
+31 Sita gusalkhane mein chali gayi.
+32 Hari gendh le kar aaya.
+33 Manoj dhoodh le kar aaya.
+34 Manoj ne arjun ko dhoodh diya.
+35 Manoj ne arjun ko kya diya? 	dhoodh	34
+36 Arjun ne manoj ko dhoodh diya.
+37 Arjun sayanakaksh gaya.
+38 Arjun ne manoj ko kya diya? 	dhoodh	36
+39 Hari gusalkhane mein gaya.
+40 Sita galiyare gayi.
+41 Dhoodh kisney diya? 	arjun	36
+1 Arjun gendh le aaya.
+2 Arjun ne hari ko gendh di.
+3 Gendh kisney di? 	arjun	2
+4 Hari ne arjun ko gendh di.
+5 Arjun gendh chod aaya.
+6 Gendh kisko mili? 	arjun	4
+7 Arjun gendh le aaya.
+8 Arjun ne hari ko gendh di.
+9 Arjun ne gendh kisko di?	hari	8
+10 Hari ne arjun ko gendh di.
+11 Hari gusalkhane mein chala gaya.
+12 Hari ne arjun ko kya diya? 	gendh	10
+13 Manoj seb le kar aaya.
+14 Arjun gendh rakh aaya.
+15 Hari ne gendh kisko di?	arjun	10
+1 Hari daftar mein gaya.
+2 Arjun bagichey mein chala gaya.
+3 Sita dhoodh le aayi.
+4 Hari rasoi ghar gaya.
+5 Sita ne manoj ko dhoodh diya.
+6 Manoj ne sita ko dhoodh diya.
+7 Dhoodh kisko mila? 	sita	6
+8 Hari sayanakaksh mein chala gaya.
+9 Manoj rasoi ghar gaya.
+10 Dhoodh kisko mila? 	sita	6
+11 Arjun rasoi ghar mein chala gaya.
+12 Arjun gendh le kar aaya.
+13 Dhoodh kisko mila? 	sita	6
+14 Arjun gendh chod aaya.
+15 Hari bagichey mein gaya.
+16 Arjun gusalkhane mein chala gaya.
+17 Arjun galiyare mein gaya.
+18 Sita ne hari ko dhoodh diya.
+19 Hari ne sita ko dhoodh diya.
+20 Hari ne dhoodh kisko diya?	sita	19
+21 Arjun rasoi ghar mein gaya.
+22 Sita gusalkhane mein chali gayi.
+23 Hari ne dhoodh kisko diya?	sita	19
+1 Arjun rasoi ghar mein gaya.
+2 Manoj sayanakaksh mein gaya.
+3 Sita gendh le aayi.
+4 Sita gendh chod aayi.
+5 Sita daftar mein gayi.
+6 Sita bagichey mein gayi.
+7 Sita sayanakaksh gayi.
+8 Arjun galiyare gaya.
+9 Arjun gusalkhane mein chala gaya.
+10 Manoj daftar gaya.
+11 Manoj seb le kar aaya.
+12 Arjun gendh le aaya.
+13 Manoj gusalkhane mein chala gaya.
+14 Hari rasoi ghar mein gaya.
+15 Arjun gendh rakh aaya.
+16 Arjun sayanakaksh mein gaya.
+17 Manoj gendh le aaya.
+18 Arjun daftar mein gaya.
+19 Manoj gendh chod aaya.
+20 Sita galiyare mein gayi.
+21 Sita sayanakaksh mein gayi.
+22 Manoj seb rakh aaya.
+23 Sita rasoi ghar mein gayi.
+24 Manoj gendh le kar aaya.
+25 Arjun galiyare mein chala gaya.
+26 Manoj daftar mein gaya.
+27 Manoj gendh rakh aaya.
+28 Manoj gendh le kar aaya.
+29 Manoj dhoodh le aaya.
+30 Hari bagichey gaya.
+31 Hari daftar gaya.
+32 Manoj galiyare gaya.
+33 Arjun rasoi ghar gaya.
+34 Arjun daftar mein gaya.
+35 Arjun galiyare mein gaya.
+36 Sita daftar gayi.
+37 Hari sayanakaksh mein gaya.
+38 Manoj ne arjun ko gendh di.
+39 Manoj ne arjun ko kya diya? 	gendh	38
+40 Sita bagichey mein chali gayi.
+41 Manoj dhoodh rakh aaya.
+42 Gendh kisney di? 	manoj	38
+43 Sita gusalkhane mein chali gayi.
+44 Arjun ne manoj ko gendh di.
+45 Gendh kisney di? 	arjun	44
+46 Manoj ne arjun ko gendh di.
+47 Arjun ne manoj ko gendh di.
+48 Arjun ne manoj ko kya diya? 	gendh	47
+49 Manoj bagichey mein gaya.
+50 Arjun dhoodh le kar aaya.
+51 Gendh kisney di? 	arjun	47
+1 Hari daftar mein chala gaya.
+2 Arjun gusalkhane gaya.
+3 Arjun rasoi ghar gaya.
+4 Manoj rasoi ghar mein gaya.
+5 Sita rasoi ghar mein gayi.
+6 Sita seb le kar aayi.
+7 Sita ne manoj ko seb diya.
+8 Manoj ne sita ko seb diya.
+9 Manoj ne seb kisko diya?	sita	8
+10 Arjun gusalkhane mein gaya.
+11 Sita seb chod aayi.
+12 Manoj ne sita ko kya diya? 	seb	8
+13 Sita seb le kar aayi.
+14 Manoj galiyare gaya.
+15 Seb kisko mila? 	sita	8
+16 Sita gusalkhane mein gayi.
+17 Arjun daftar mein gaya.
+18 Hari bagichey gaya.
+19 Manoj bagichey mein gaya.
+20 Sita seb rakh aayi.
+21 Hari daftar gaya.
+22 Arjun galiyare gaya.
+23 Manoj galiyare mein chala gaya.
+24 Sita seb le kar aayi.
+25 Manoj gusalkhane mein gaya.
+26 Arjun rasoi ghar mein gaya.
+27 Manoj bagichey mein gaya.
+28 Hari sayanakaksh mein gaya.
+29 Manoj dhoodh le aaya.
+30 Sita seb chod aayi.
+31 Hari gendh le kar aaya.
+32 Hari gusalkhane mein chala gaya.
+33 Hari seb le aaya.
+34 Hari ne sita ko seb diya.
+35 Sita ne hari ko seb diya.
+36 Sita ne hari ko kya diya? 	seb	35
+37 Manoj sayanakaksh mein chala gaya.
+38 Arjun gusalkhane gaya.
+39 Sita ne hari ko kya diya? 	seb	35
+1 Hari dhoodh le aaya.
+2 Sita seb le aayi.
+3 Sita seb rakh aayi.
+4 Hari bagichey gaya.
+5 Hari seb le aaya.
+6 Sita daftar mein gayi.
+7 Arjun sayanakaksh gaya.
+8 Hari galiyare mein gaya.
+9 Sita bagichey mein gayi.
+10 Hari seb chod aaya.
+11 Sita sayanakaksh gayi.
+12 Arjun bagichey mein gaya.
+13 Hari dhoodh chod aaya.
+14 Manoj daftar mein gaya.
+15 Manoj bagichey gaya.
+16 Sita bagichey mein gayi.
+17 Sita gusalkhane mein chali gayi.
+18 Arjun sayanakaksh gaya.
+19 Arjun bagichey mein gaya.
+20 Hari seb le aaya.
+21 Hari dhoodh le kar aaya.
+22 Manoj rasoi ghar mein gaya.
+23 Sita daftar gayi.
+24 Arjun gusalkhane gaya.
+25 Sita gendh le kar aayi.
+26 Sita gendh rakh aayi.
+27 Sita gendh le kar aayi.
+28 Sita gendh rakh aayi.
+29 Hari dhoodh rakh aaya.
+30 Sita gusalkhane mein gayi.
+31 Hari dhoodh le kar aaya.
+32 Sita bagichey mein chali gayi.
+33 Manoj sayanakaksh mein chala gaya.
+34 Hari sayanakaksh mein chala gaya.
+35 Hari ne manoj ko seb diya.
+36 Arjun galiyare gaya.
+37 Seb kisko mila? 	manoj	35
+38 Manoj seb chod aaya.
+39 Hari ne manoj ko dhoodh diya.
+40 Manoj ko dhoodh kisney diya?	hari	39
+41 Manoj ne hari ko dhoodh diya.
+42 Hari ne manoj ko dhoodh diya.
+43 Dhoodh kisko mila? 	manoj	42
+44 Manoj seb le kar aaya.
+45 Manoj ne hari ko seb diya.
+46 Manoj ko dhoodh kisney diya?	hari	42
+47 Hari ne manoj ko seb diya.
+48 Manoj ne hari ko seb diya.
+49 Hari ne manoj ko kya diya? 	dhoodh	42
+1 Manoj rasoi ghar mein chala gaya.
+2 Sita galiyare gayi.
+3 Hari seb le kar aaya.
+4 Sita sayanakaksh mein chali gayi.
+5 Arjun gusalkhane gaya.
+6 Arjun dhoodh le aaya.
+7 Manoj daftar gaya.
+8 Sita daftar mein gayi.
+9 Arjun galiyare mein gaya.
+10 Hari sayanakaksh mein chala gaya.
+11 Arjun dhoodh chod aaya.
+12 Sita rasoi ghar mein chali gayi.
+13 Hari gusalkhane mein chala gaya.
+14 Hari daftar mein chala gaya.
+15 Sita daftar mein chali gayi.
+16 Hari gusalkhane mein chala gaya.
+17 Sita gusalkhane mein gayi.
+18 Hari bagichey mein chala gaya.
+19 Manoj gusalkhane gaya.
+20 Sita daftar mein gayi.
+21 Arjun gendh le aaya.
+22 Hari seb rakh aaya.
+23 Hari seb le kar aaya.
+24 Hari rasoi ghar gaya.
+25 Arjun gendh rakh aaya.
+26 Sita galiyare gayi.
+27 Manoj sayanakaksh gaya.
+28 Hari seb rakh aaya.
+29 Sita sayanakaksh mein gayi.
+30 Arjun gendh le aaya.
+31 Arjun sayanakaksh gaya.
+32 Sita daftar gayi.
+33 Manoj daftar gaya.
+34 Arjun gendh chod aaya.
+35 Arjun gendh le kar aaya.
+36 Hari sayanakaksh gaya.
+37 Manoj rasoi ghar gaya.
+38 Hari rasoi ghar mein chala gaya.
+39 Manoj galiyare gaya.
+40 Arjun rasoi ghar mein gaya.
+41 Arjun ne hari ko gendh di.
+42 Hari ne arjun ko gendh di.
+43 Hari ne arjun ko kya diya? 	gendh	42
+44 Sita sayanakaksh gayi.
+45 Arjun ne hari ko gendh di.
+46 Arjun ne hari ko kya diya? 	gendh	45
+47 Manoj sayanakaksh mein gaya.
+48 Arjun gusalkhane mein chala gaya.
+49 Hari ko gendh kisney di?	arjun	45
+50 Arjun sayanakaksh mein gaya.
+51 Manoj bagichey gaya.
+52 Gendh kisko mili? 	hari	45
+53 Manoj galiyare mein gaya.
+54 Manoj rasoi ghar mein gaya.
+55 Hari ne manoj ko gendh di.
+56 Manoj ne hari ko gendh di.
+57 Manoj ne hari ko kya diya? 	gendh	56
+1 Arjun bagichey mein chala gaya.
+2 Sita daftar mein gayi.
+3 Manoj galiyare mein chala gaya.
+4 Arjun rasoi ghar gaya.
+5 Manoj dhoodh le kar aaya.
+6 Sita gusalkhane mein gayi.
+7 Sita bagichey gayi.
+8 Sita rasoi ghar gayi.
+9 Manoj dhoodh rakh aaya.
+10 Manoj rasoi ghar mein chala gaya.
+11 Arjun sayanakaksh gaya.
+12 Manoj gusalkhane mein gaya.
+13 Arjun bagichey mein gaya.
+14 Sita sayanakaksh mein chali gayi.
+15 Manoj daftar mein gaya.
+16 Sita seb le kar aayi.
+17 Hari sayanakaksh mein gaya.
+18 Hari rasoi ghar gaya.
+19 Sita seb chod aayi.
+20 Manoj bagichey mein gaya.
+21 Arjun rasoi ghar mein chala gaya.
+22 Arjun galiyare mein chala gaya.
+23 Manoj galiyare gaya.
+24 Manoj dhoodh le kar aaya.
+25 Manoj rasoi ghar mein chala gaya.
+26 Sita daftar mein chali gayi.
+27 Manoj ne hari ko dhoodh diya.
+28 Hari ne manoj ko dhoodh diya.
+29 Hari ne dhoodh kisko diya?	manoj	28
+30 Manoj ne hari ko dhoodh diya.
+31 Sita rasoi ghar mein chali gayi.
+32 Dhoodh kisney diya? 	manoj	30
+33 Sita gusalkhane mein gayi.
+34 Manoj daftar mein gaya.
+35 Dhoodh kisko mila? 	hari	30
+36 Sita gendh le aayi.
+37 Hari dhoodh chod aaya.
+38 Arjun sayanakaksh gaya.
+39 Hari sayanakaksh mein gaya.
+40 Hari seb le aaya.
+41 Hari ne arjun ko seb diya.
+42 Seb kisko mila? 	arjun	41
+43 Arjun ne hari ko seb diya.
+44 Hari ne arjun ko seb diya.
+45 Hari ne seb kisko diya?	arjun	44
+1 Hari seb le aaya.
+2 Hari seb rakh aaya.
+3 Arjun dhoodh le kar aaya.
+4 Manoj gusalkhane gaya.
+5 Manoj bagichey mein gaya.
+6 Arjun ne manoj ko dhoodh diya.
+7 Dhoodh kisney diya? 	arjun	6
+8 Manoj ne arjun ko dhoodh diya.
+9 Arjun ne manoj ko dhoodh diya.
+10 Arjun ne manoj ko kya diya? 	dhoodh	9
+11 Arjun sayanakaksh mein chala gaya.
+12 Arjun seb le aaya.
+13 Arjun ne dhoodh kisko diya?	manoj	9
+14 Arjun ne hari ko seb diya.
+15 Manoj dhoodh chod aaya.
+16 Dhoodh kisko mila? 	manoj	9
+17 Hari ne arjun ko seb diya.
+18 Sita daftar mein chali gayi.
+19 Hari ne arjun ko kya diya? 	seb	17
+1 Manoj galiyare gaya.
+2 Sita galiyare mein gayi.
+3 Manoj bagichey mein chala gaya.
+4 Sita seb le kar aayi.
+5 Sita seb chod aayi.
+6 Arjun gendh le kar aaya.
+7 Arjun gendh chod aaya.
+8 Arjun bagichey mein gaya.
+9 Sita daftar gayi.
+10 Hari gusalkhane mein gaya.
+11 Arjun rasoi ghar mein gaya.
+12 Manoj sayanakaksh gaya.
+13 Sita bagichey mein gayi.
+14 Hari bagichey gaya.
+15 Sita rasoi ghar mein gayi.
+16 Manoj galiyare gaya.
+17 Arjun bagichey gaya.
+18 Manoj seb le aaya.
+19 Sita sayanakaksh gayi.
+20 Hari rasoi ghar gaya.
+21 Arjun rasoi ghar mein chala gaya.
+22 Manoj seb rakh aaya.
+23 Manoj dhoodh le aaya.
+24 Sita rasoi ghar gayi.
+25 Sita galiyare mein chali gayi.
+26 Manoj ne sita ko dhoodh diya.
+27 Dhoodh kisko mila? 	sita	26
+28 Manoj bagichey gaya.
+29 Sita dhoodh rakh aayi.
+30 Dhoodh kisney diya? 	manoj	26
+31 Hari galiyare mein chala gaya.
+32 Sita rasoi ghar mein chali gayi.
+33 Dhoodh kisney diya? 	manoj	26
+34 Arjun bagichey gaya.
+35 Hari gusalkhane gaya.
+36 Arjun sayanakaksh mein gaya.
+37 Arjun gusalkhane mein chala gaya.
+38 Arjun sayanakaksh mein gaya.
+39 Manoj gusalkhane mein chala gaya.
+40 Hari rasoi ghar gaya.
+41 Hari sayanakaksh mein gaya.
+42 Arjun gusalkhane mein chala gaya.
+43 Arjun bagichey mein gaya.
+44 Arjun gusalkhane mein chala gaya.
+45 Sita sayanakaksh mein chali gayi.
+46 Sita galiyare mein gayi.
+47 Manoj rasoi ghar mein gaya.
+48 Sita seb le kar aayi.
+49 Hari rasoi ghar mein gaya.
+50 Sita daftar mein chali gayi.
+51 Hari galiyare mein gaya.
+52 Sita gendh le aayi.
+53 Sita seb chod aayi.
+54 Sita gendh rakh aayi.
+55 Hari daftar mein gaya.
+56 Hari gusalkhane mein chala gaya.
+57 Arjun bagichey mein chala gaya.
+58 Arjun galiyare mein gaya.
+59 Manoj bagichey gaya.
+60 Hari daftar gaya.
+61 Hari bagichey gaya.
+62 Hari daftar gaya.
+63 Arjun bagichey mein chala gaya.
+64 Manoj rasoi ghar mein chala gaya.
+65 Manoj sayanakaksh mein chala gaya.
+66 Manoj gusalkhane mein gaya.
+67 Manoj bagichey gaya.
+68 Manoj galiyare mein gaya.
+69 Arjun rasoi ghar gaya.
+70 Hari sayanakaksh mein gaya.
+71 Hari gusalkhane mein chala gaya.
+72 Sita sayanakaksh mein chali gayi.
+73 Manoj dhoodh le aaya.
+74 Hari sayanakaksh gaya.
+75 Hari gusalkhane mein chala gaya.
+76 Sita bagichey mein chali gayi.
+77 Sita sayanakaksh mein gayi.
+78 Arjun bagichey mein chala gaya.
+79 Manoj sayanakaksh mein gaya.
+80 Manoj ne sita ko dhoodh diya.
+81 Manoj daftar mein gaya.
+82 Manoj ne dhoodh kisko diya?	sita	80
+83 Sita dhoodh chod aayi.
+84 Manoj bagichey mein chala gaya.
+85 Dhoodh kisney diya? 	manoj	80
+1 Sita seb le kar aayi.
+2 Manoj sayanakaksh mein chala gaya.
+3 Hari bagichey gaya.
+4 Arjun sayanakaksh gaya.
+5 Arjun bagichey gaya.
+6 Hari daftar mein chala gaya.
+7 Hari bagichey mein gaya.
+8 Sita seb chod aayi.
+9 Arjun sayanakaksh mein gaya.
+10 Hari galiyare mein chala gaya.
+11 Manoj rasoi ghar mein gaya.
+12 Manoj daftar gaya.
+13 Hari daftar gaya.
+14 Hari rasoi ghar mein chala gaya.
+15 Hari gendh le aaya.
+16 Sita bagichey mein gayi.
+17 Arjun bagichey mein chala gaya.
+18 Manoj rasoi ghar mein gaya.
+19 Sita gusalkhane mein chali gayi.
+20 Hari galiyare mein gaya.
+21 Hari gendh rakh aaya.
+22 Sita rasoi ghar mein chali gayi.
+23 Arjun daftar gaya.
+24 Hari dhoodh le aaya.
+25 Hari dhoodh rakh aaya.
+26 Hari sayanakaksh mein chala gaya.
+27 Sita daftar mein gayi.
+28 Sita gusalkhane mein gayi.
+29 Hari rasoi ghar mein chala gaya.
+30 Sita seb le kar aayi.
+31 Hari bagichey mein gaya.
+32 Sita seb rakh aayi.
+33 Manoj bagichey gaya.
+34 Manoj daftar gaya.
+35 Hari galiyare mein chala gaya.
+36 Sita galiyare mein gayi.
+37 Hari sayanakaksh mein gaya.
+38 Sita gusalkhane mein gayi.
+39 Manoj galiyare gaya.
+40 Sita rasoi ghar mein gayi.
+41 Sita bagichey mein gayi.
+42 Sita gusalkhane mein gayi.
+43 Sita seb le kar aayi.
+44 Sita seb rakh aayi.
+45 Manoj dhoodh le aaya.
+46 Sita galiyare mein chali gayi.
+47 Manoj ne sita ko dhoodh diya.
+48 Manoj gendh le kar aaya.
+49 Sita ko dhoodh kisney diya?	manoj	47
+50 Sita bagichey gayi.
+51 Arjun galiyare mein chala gaya.
+52 Manoj ne sita ko kya diya? 	dhoodh	47
+53 Manoj ne arjun ko gendh di.
+54 Arjun ne manoj ko gendh di.
+55 Arjun ne manoj ko kya diya? 	gendh	54
+56 Sita dhoodh rakh aayi.
+57 Manoj gendh chod aaya.
+58 Gendh kisney di? 	arjun	54
+59 Arjun rasoi ghar mein gaya.
+60 Hari galiyare gaya.
+61 Gendh kisko mili? 	manoj	54
+1 Manoj bagichey mein chala gaya.
+2 Arjun sayanakaksh mein gaya.
+3 Hari dhoodh le kar aaya.
+4 Hari dhoodh chod aaya.
+5 Hari dhoodh le kar aaya.
+6 Sita daftar mein chali gayi.
+7 Arjun rasoi ghar mein chala gaya.
+8 Sita seb le kar aayi.
+9 Hari dhoodh chod aaya.
+10 Hari dhoodh le aaya.
+11 Hari dhoodh chod aaya.
+12 Hari dhoodh le kar aaya.
+13 Manoj rasoi ghar gaya.
+14 Hari dhoodh rakh aaya.
+15 Sita galiyare mein gayi.
+16 Sita seb chod aayi.
+17 Hari gusalkhane mein chala gaya.
+18 Arjun daftar gaya.
+19 Sita dhoodh le kar aayi.
+20 Sita gusalkhane gayi.
+21 Hari gendh le kar aaya.
+22 Sita rasoi ghar gayi.
+23 Sita ne manoj ko dhoodh diya.
+24 Manoj ne sita ko dhoodh diya.
+25 Manoj ne sita ko kya diya? 	dhoodh	24
+26 Arjun gusalkhane mein chala gaya.
+27 Hari ne arjun ko gendh di.
+28 Dhoodh kisney diya? 	manoj	24
+29 Arjun ne hari ko gendh di.
+30 Arjun sayanakaksh mein chala gaya.
+31 Manoj ne sita ko kya diya? 	dhoodh	24
+32 Sita ne manoj ko dhoodh diya.
+33 Manoj ne sita ko dhoodh diya.
+34 Manoj ne sita ko kya diya? 	dhoodh	33
+35 Sita ne manoj ko dhoodh diya.
+36 Manoj ne sita ko dhoodh diya.
+37 Dhoodh kisney diya? 	manoj	36
+1 Hari sayanakaksh mein gaya.
+2 Manoj seb le kar aaya.
+3 Hari daftar mein gaya.
+4 Manoj dhoodh le aaya.
+5 Hari sayanakaksh gaya.
+6 Hari gendh le aaya.
+7 Hari bagichey gaya.
+8 Hari gendh chod aaya.
+9 Manoj ne hari ko seb diya.
+10 Hari ne manoj ko seb diya.
+11 Manoj ko seb kisney diya?	hari	10
+12 Manoj ne hari ko seb diya.
+13 Hari rasoi ghar mein gaya.
+14 Seb kisney diya? 	manoj	12
+15 Manoj gendh le kar aaya.
+16 Hari ne sita ko seb diya.
+17 Seb kisney diya? 	hari	16
+18 Sita ne hari ko seb diya.
+19 Hari ne sita ko seb diya.
+20 Hari ne seb kisko diya?	sita	19
+21 Sita ne hari ko seb diya.
+22 Arjun bagichey mein gaya.
+23 Hari ko seb kisney diya?	sita	21
+1 Manoj bagichey mein gaya.
+2 Arjun sayanakaksh mein chala gaya.
+3 Sita seb le kar aayi.
+4 Hari galiyare gaya.
+5 Sita ne hari ko seb diya.
+6 Hari dhoodh le kar aaya.
+7 Sita ne hari ko kya diya? 	seb	5
+8 Hari sayanakaksh mein gaya.
+9 Manoj galiyare mein chala gaya.
+10 Seb kisney diya? 	sita	5
+11 Sita sayanakaksh mein gayi.
+12 Hari ne sita ko seb diya.
+13 Hari ne seb kisko diya?	sita	12
+14 Manoj rasoi ghar mein gaya.
+15 Hari daftar mein gaya.
+16 Hari ne seb kisko diya?	sita	12
+17 Manoj sayanakaksh mein gaya.
+18 Sita ne manoj ko seb diya.
+19 Sita ne seb kisko diya?	manoj	18
+1 Manoj rasoi ghar gaya.
+2 Sita seb le kar aayi.
+3 Arjun bagichey mein gaya.
+4 Sita bagichey gayi.
+5 Sita seb chod aayi.
+6 Hari seb le kar aaya.
+7 Hari gusalkhane gaya.
+8 Manoj bagichey gaya.
+9 Sita rasoi ghar mein gayi.
+10 Hari seb chod aaya.
+11 Sita galiyare mein gayi.
+12 Hari seb le kar aaya.
+13 Hari sayanakaksh gaya.
+14 Hari seb rakh aaya.
+15 Manoj galiyare gaya.
+16 Hari daftar gaya.
+17 Hari gendh le kar aaya.
+18 Manoj gusalkhane gaya.
+19 Hari gendh rakh aaya.
+20 Hari galiyare gaya.
+21 Arjun rasoi ghar gaya.
+22 Manoj bagichey mein gaya.
+23 Arjun sayanakaksh gaya.
+24 Arjun gusalkhane mein chala gaya.
+25 Manoj rasoi ghar mein chala gaya.
+26 Arjun sayanakaksh mein gaya.
+27 Arjun dhoodh le aaya.
+28 Hari sayanakaksh mein chala gaya.
+29 Arjun dhoodh chod aaya.
+30 Hari galiyare mein chala gaya.
+31 Sita sayanakaksh gayi.
+32 Sita seb le kar aayi.
+33 Sita ne arjun ko seb diya.
+34 Sita daftar mein chali gayi.
+35 Sita ne arjun ko kya diya? 	seb	33
+36 Arjun dhoodh le aaya.
+37 Manoj galiyare gaya.
+38 Sita ne arjun ko kya diya? 	seb	33
+39 Sita gendh le kar aayi.
+40 Hari gusalkhane mein gaya.
+41 Sita galiyare mein chali gayi.
+42 Arjun dhoodh chod aaya.
+43 Sita ne manoj ko gendh di.
+44 Arjun seb rakh aaya.
+45 Sita ne manoj ko kya diya? 	gendh	43
+46 Sita bagichey gayi.
+47 Sita galiyare gayi.
+48 Gendh kisko mili? 	manoj	43
+49 Sita sayanakaksh gayi.
+50 Manoj gendh rakh aaya.
+51 Sita dhoodh le kar aayi.
+52 Sita ne arjun ko dhoodh diya.
+53 Dhoodh kisney diya? 	sita	52
+1 Arjun dhoodh le kar aaya.
+2 Arjun daftar gaya.
+3 Arjun ne sita ko dhoodh diya.
+4 Manoj rasoi ghar mein chala gaya.
+5 Dhoodh kisney diya? 	arjun	3
+6 Sita ne arjun ko dhoodh diya.
+7 Arjun ne sita ko dhoodh diya.
+8 Sita ko dhoodh kisney diya?	arjun	7
+9 Sita ne arjun ko dhoodh diya.
+10 Manoj bagichey mein gaya.
+11 Sita ne arjun ko kya diya? 	dhoodh	9
+12 Arjun ne sita ko dhoodh diya.
+13 Sita ne arjun ko dhoodh diya.
+14 Dhoodh kisney diya? 	sita	13
+15 Hari daftar gaya.
+16 Sita sayanakaksh gayi.
+17 Sita ne arjun ko kya diya? 	dhoodh	13
+1 Manoj daftar mein gaya.
+2 Hari galiyare gaya.
+3 Arjun sayanakaksh mein gaya.
+4 Sita gusalkhane mein gayi.
+5 Arjun galiyare mein chala gaya.
+6 Sita galiyare mein chali gayi.
+7 Manoj gusalkhane mein gaya.
+8 Arjun daftar gaya.
+9 Manoj rasoi ghar mein chala gaya.
+10 Manoj gusalkhane mein gaya.
+11 Arjun sayanakaksh gaya.
+12 Sita gusalkhane mein chali gayi.
+13 Arjun bagichey gaya.
+14 Arjun gendh le aaya.
+15 Hari gusalkhane mein gaya.
+16 Arjun rasoi ghar gaya.
+17 Sita bagichey gayi.
+18 Sita rasoi ghar mein gayi.
+19 Arjun gendh chod aaya.
+20 Sita gusalkhane mein chali gayi.
+21 Sita daftar mein gayi.
+22 Arjun dhoodh le aaya.
+23 Sita rasoi ghar mein gayi.
+24 Manoj galiyare mein chala gaya.
+25 Arjun bagichey mein gaya.
+26 Hari sayanakaksh gaya.
+27 Manoj rasoi ghar gaya.
+28 Arjun dhoodh rakh aaya.
+29 Arjun dhoodh le aaya.
+30 Manoj gendh le aaya.
+31 Manoj ne sita ko gendh di.
+32 Arjun dhoodh rakh aaya.
+33 Manoj ne sita ko kya diya? 	gendh	31
+34 Sita ne manoj ko gendh di.
+35 Arjun rasoi ghar mein gaya.
+36 Gendh kisney di? 	sita	34
+37 Manoj seb le aaya.
+38 Arjun bagichey gaya.
+39 Sita ne manoj ko kya diya? 	gendh	34
+40 Manoj ne sita ko seb diya.
+41 Sita ne manoj ko seb diya.
+42 Seb kisko mila? 	manoj	41
+43 Hari daftar mein chala gaya.
+44 Manoj ne sita ko seb diya.
+45 Seb kisko mila? 	sita	44
+1 Manoj seb le kar aaya.
+2 Manoj galiyare gaya.
+3 Manoj gusalkhane gaya.
+4 Sita dhoodh le kar aayi.
+5 Sita dhoodh rakh aayi.
+6 Manoj ne sita ko seb diya.
+7 Sita ko seb kisney diya?	manoj	6
+8 Sita ne hari ko seb diya.
+9 Sita dhoodh le aayi.
+10 Seb kisko mila? 	hari	8
+11 Hari seb chod aaya.
+12 Hari seb le kar aaya.
+13 Sita ne hari ko kya diya? 	seb	8
+14 Hari ne sita ko seb diya.
+15 Sita rasoi ghar mein gayi.
+16 Seb kisney diya? 	hari	14
+17 Hari rasoi ghar mein chala gaya.
+18 Sita ne hari ko seb diya.
+19 Sita ne hari ko kya diya? 	seb	18
+1 Hari bagichey mein chala gaya.
+2 Hari seb le aaya.
+3 Sita gendh le aayi.
+4 Sita gendh chod aayi.
+5 Manoj bagichey mein gaya.
+6 Hari ne manoj ko seb diya.
+7 Hari ne manoj ko kya diya? 	seb	6
+8 Sita galiyare gayi.
+9 Manoj ne hari ko seb diya.
+10 Manoj ne hari ko kya diya? 	seb	9
+11 Hari ne manoj ko seb diya.
+12 Arjun daftar mein chala gaya.
+13 Hari ne seb kisko diya?	manoj	11
+14 Manoj ne hari ko seb diya.
+15 Hari ne manoj ko seb diya.
+16 Hari ne seb kisko diya?	manoj	15
+17 Arjun galiyare gaya.
+18 Manoj ne hari ko seb diya.
+19 Hari ko seb kisney diya?	manoj	18
+1 Hari daftar mein gaya.
+2 Sita galiyare mein chali gayi.
+3 Arjun bagichey mein chala gaya.
+4 Sita seb le kar aayi.
+5 Sita seb rakh aayi.
+6 Sita gusalkhane gayi.
+7 Hari rasoi ghar mein chala gaya.
+8 Arjun sayanakaksh mein gaya.
+9 Manoj sayanakaksh mein gaya.
+10 Manoj daftar gaya.
+11 Hari daftar gaya.
+12 Sita sayanakaksh gayi.
+13 Arjun galiyare mein gaya.
+14 Sita galiyare gayi.
+15 Arjun rasoi ghar gaya.
+16 Arjun galiyare mein gaya.
+17 Arjun gendh le kar aaya.
+18 Arjun ne sita ko gendh di.
+19 Gendh kisko mili? 	sita	18
+20 Manoj galiyare mein chala gaya.
+21 Sita ne manoj ko gendh di.
+22 Sita ne manoj ko kya diya? 	gendh	21
+23 Sita rasoi ghar mein gayi.
+24 Manoj ne arjun ko gendh di.
+25 Manoj ne arjun ko kya diya? 	gendh	24
+26 Manoj seb le kar aaya.
+27 Arjun dhoodh le kar aaya.
+28 Gendh kisney di? 	manoj	24
+29 Manoj ne arjun ko seb diya.
+30 Sita galiyare mein gayi.
+31 Manoj ne arjun ko kya diya? 	gendh	24
+1 Sita gendh le kar aayi.
+2 Sita sayanakaksh gayi.
+3 Sita ne hari ko gendh di.
+4 Hari ne sita ko gendh di.
+5 Hari ne gendh kisko di?	sita	4
+6 Arjun bagichey gaya.
+7 Hari gusalkhane gaya.
+8 Gendh kisney di? 	hari	4
+9 Arjun gusalkhane gaya.
+10 Sita rasoi ghar mein gayi.
+11 Hari ne sita ko kya diya? 	gendh	4
+12 Hari sayanakaksh mein gaya.
+13 Arjun sayanakaksh gaya.
+14 Manoj daftar gaya.
+15 Sita bagichey gayi.
+16 Hari dhoodh le aaya.
+17 Hari ne arjun ko dhoodh diya.
+18 Arjun ko dhoodh kisney diya?	hari	17
+19 Arjun ne hari ko dhoodh diya.
+20 Hari ne arjun ko dhoodh diya.
+21 Dhoodh kisney diya? 	hari	20
+1 Manoj gendh le aaya.
+2 Manoj gendh rakh aaya.
+3 Hari galiyare mein gaya.
+4 Manoj dhoodh le aaya.
+5 Arjun sayanakaksh gaya.
+6 Manoj galiyare mein chala gaya.
+7 Manoj ne hari ko dhoodh diya.
+8 Manoj bagichey mein gaya.
+9 Dhoodh kisney diya? 	manoj	7
+10 Hari dhoodh rakh aaya.
+11 Sita rasoi ghar gayi.
+12 Dhoodh kisko mila? 	hari	7
+13 Manoj sayanakaksh mein chala gaya.
+14 Hari dhoodh le kar aaya.
+15 Sita gusalkhane mein chali gayi.
+16 Sita galiyare gayi.
+17 Sita daftar mein chali gayi.
+18 Sita seb le aayi.
+19 Hari rasoi ghar mein chala gaya.
+20 Hari sayanakaksh mein gaya.
+21 Hari ne manoj ko dhoodh diya.
+22 Sita sayanakaksh gayi.
+23 Dhoodh kisney diya? 	hari	21
+24 Sita seb chod aayi.
+25 Manoj ne sita ko dhoodh diya.
+26 Manoj ne dhoodh kisko diya?	sita	25
+27 Arjun bagichey mein chala gaya.
+28 Hari seb le aaya.
+29 Manoj ne dhoodh kisko diya?	sita	25
+1 Manoj gusalkhane mein chala gaya.
+2 Sita daftar mein chali gayi.
+3 Hari gusalkhane gaya.
+4 Hari sayanakaksh mein gaya.
+5 Manoj daftar mein chala gaya.
+6 Sita galiyare gayi.
+7 Sita rasoi ghar mein gayi.
+8 Arjun galiyare mein gaya.
+9 Hari galiyare gaya.
+10 Arjun bagichey mein chala gaya.
+11 Hari gendh le aaya.
+12 Hari sayanakaksh gaya.
+13 Manoj bagichey gaya.
+14 Sita bagichey mein chali gayi.
+15 Arjun gusalkhane gaya.
+16 Hari daftar gaya.
+17 Hari gendh chod aaya.
+18 Hari gendh le aaya.
+19 Sita gusalkhane mein chali gayi.
+20 Arjun daftar gaya.
+21 Hari gendh chod aaya.
+22 Sita daftar mein chali gayi.
+23 Sita gendh le aayi.
+24 Sita bagichey mein gayi.
+25 Sita ne manoj ko gendh di.
+26 Manoj ne sita ko gendh di.
+27 Gendh kisko mili? 	sita	26
+28 Sita ne manoj ko gendh di.
+29 Hari sayanakaksh mein gaya.
+30 Manoj ko gendh kisney di?	sita	28
+31 Hari gusalkhane mein chala gaya.
+32 Manoj ne sita ko gendh di.
+33 Manoj ne gendh kisko di?	sita	32
+34 Sita ne manoj ko gendh di.
+35 Manoj ne sita ko gendh di.
+36 Gendh kisney di? 	manoj	35
+37 Sita ne manoj ko gendh di.
+38 Manoj ne sita ko gendh di.
+39 Manoj ne gendh kisko di?	sita	38
+1 Sita sayanakaksh mein gayi.
+2 Arjun bagichey gaya.
+3 Hari gusalkhane mein gaya.
+4 Arjun seb le aaya.
+5 Manoj bagichey mein gaya.
+6 Arjun ne manoj ko seb diya.
+7 Seb kisko mila? 	manoj	6
+8 Manoj ne arjun ko seb diya.
+9 Hari daftar mein chala gaya.
+10 Seb kisney diya? 	manoj	8
+11 Arjun sayanakaksh gaya.
+12 Hari galiyare gaya.
+13 Manoj ne arjun ko kya diya? 	seb	8
+14 Hari gendh le aaya.
+15 Arjun ne sita ko seb diya.
+16 Seb kisney diya? 	arjun	15
+17 Sita ne arjun ko seb diya.
+18 Hari gendh chod aaya.
+19 Sita ne arjun ko kya diya? 	seb	17
+1 Sita dhoodh le kar aayi.
+2 Arjun gendh le kar aaya.
+3 Arjun gendh chod aaya.
+4 Hari daftar mein chala gaya.
+5 Sita dhoodh rakh aayi.
+6 Manoj daftar gaya.
+7 Sita rasoi ghar mein chali gayi.
+8 Manoj bagichey mein chala gaya.
+9 Hari seb le kar aaya.
+10 Hari sayanakaksh mein chala gaya.
+11 Hari galiyare mein gaya.
+12 Manoj gusalkhane mein chala gaya.
+13 Arjun bagichey mein gaya.
+14 Hari dhoodh le aaya.
+15 Sita galiyare mein gayi.
+16 Hari ne sita ko seb diya.
+17 Seb kisko mila? 	sita	16
+18 Manoj galiyare mein gaya.
+19 Hari dhoodh rakh aaya.
+20 Seb kisney diya? 	hari	16
+21 Sita rasoi ghar gayi.
+22 Sita seb rakh aayi.
+23 Hari ne sita ko kya diya? 	seb	16
+24 Sita seb le aayi.
+25 Sita galiyare gayi.
+26 Sita ne hari ko seb diya.
+27 Hari ne sita ko seb diya.
+28 Hari ne seb kisko diya?	sita	27
+29 Sita ne hari ko seb diya.
+30 Hari dhoodh le aaya.
+31 Seb kisney diya? 	sita	29
+1 Arjun bagichey gaya.
+2 Manoj sayanakaksh mein gaya.
+3 Manoj gusalkhane gaya.
+4 Arjun gendh le kar aaya.
+5 Arjun ne sita ko gendh di.
+6 Sita gendh rakh aayi.
+7 Arjun ne sita ko kya diya? 	gendh	5
+8 Sita gendh le aayi.
+9 Sita gendh rakh aayi.
+10 Gendh kisney di? 	arjun	5
+11 Manoj seb le kar aaya.
+12 Arjun gendh le aaya.
+13 Manoj seb chod aaya.
+14 Arjun ne sita ko gendh di.
+15 Arjun ne sita ko kya diya? 	gendh	14
+16 Sita ne arjun ko gendh di.
+17 Arjun galiyare gaya.
+18 Gendh kisko mili? 	arjun	16
+19 Sita daftar mein gayi.
+20 Manoj seb le aaya.
+21 Sita ne arjun ko kya diya? 	gendh	16
+1 Hari bagichey mein gaya.
+2 Manoj gendh le kar aaya.
+3 Arjun seb le kar aaya.
+4 Manoj gendh chod aaya.
+5 Arjun seb chod aaya.
+6 Hari rasoi ghar mein chala gaya.
+7 Arjun seb le kar aaya.
+8 Arjun seb rakh aaya.
+9 Hari gusalkhane gaya.
+10 Manoj galiyare mein gaya.
+11 Arjun seb le aaya.
+12 Manoj daftar mein chala gaya.
+13 Arjun ne manoj ko seb diya.
+14 Manoj ne arjun ko seb diya.
+15 Seb kisney diya? 	manoj	14
+16 Arjun sayanakaksh mein chala gaya.
+17 Arjun rasoi ghar gaya.
+18 Arjun ko seb kisney diya?	manoj	14
+19 Manoj gusalkhane gaya.
+20 Arjun sayanakaksh gaya.
+21 Arjun ko seb kisney diya?	manoj	14
+22 Arjun galiyare mein chala gaya.
+23 Arjun bagichey mein gaya.
+24 Manoj bagichey mein gaya.
+25 Arjun ne manoj ko seb diya.
+26 Manoj ko seb kisney diya?	arjun	25
+27 Manoj ne arjun ko seb diya.
+28 Arjun ne manoj ko seb diya.
+29 Arjun ne seb kisko diya?	manoj	28
+1 Sita bagichey gayi.
+2 Arjun daftar gaya.
+3 Hari dhoodh le aaya.
+4 Hari rasoi ghar mein gaya.
+5 Hari seb le kar aaya.
+6 Hari dhoodh chod aaya.
+7 Hari seb rakh aaya.
+8 Manoj gusalkhane mein chala gaya.
+9 Sita rasoi ghar mein chali gayi.
+10 Hari sayanakaksh gaya.
+11 Hari daftar mein gaya.
+12 Hari sayanakaksh mein gaya.
+13 Manoj sayanakaksh mein chala gaya.
+14 Manoj gusalkhane mein chala gaya.
+15 Sita bagichey gayi.
+16 Manoj sayanakaksh gaya.
+17 Sita galiyare mein chali gayi.
+18 Arjun gusalkhane mein gaya.
+19 Arjun rasoi ghar gaya.
+20 Hari rasoi ghar mein gaya.
+21 Manoj gusalkhane mein gaya.
+22 Hari seb le aaya.
+23 Hari ne arjun ko seb diya.
+24 Arjun ne hari ko seb diya.
+25 Seb kisney diya? 	arjun	24
+26 Hari ne arjun ko seb diya.
+27 Arjun ne hari ko seb diya.
+28 Arjun ne hari ko kya diya? 	seb	27
+29 Hari ne arjun ko seb diya.
+30 Arjun bagichey mein gaya.
+31 Hari ne arjun ko kya diya? 	seb	29
+32 Manoj rasoi ghar mein chala gaya.
+33 Sita sayanakaksh mein chali gayi.
+34 Arjun ko seb kisney diya?	hari	29
+35 Arjun gusalkhane gaya.
+36 Hari gendh le aaya.
+37 Manoj dhoodh le aaya.
+38 Sita bagichey mein chali gayi.
+39 Manoj gusalkhane gaya.
+40 Arjun ne manoj ko seb diya.
+41 Arjun ne manoj ko kya diya? 	seb	40
+1 Arjun dhoodh le aaya.
+2 Manoj seb le kar aaya.
+3 Arjun dhoodh chod aaya.
+4 Manoj galiyare mein chala gaya.
+5 Manoj gendh le kar aaya.
+6 Hari rasoi ghar mein gaya.
+7 Manoj gusalkhane gaya.
+8 Arjun dhoodh le aaya.
+9 Sita sayanakaksh mein gayi.
+10 Sita gusalkhane gayi.
+11 Manoj ne sita ko seb diya.
+12 Sita ne manoj ko seb diya.
+13 Seb kisney diya? 	sita	12
+14 Hari sayanakaksh mein chala gaya.
+15 Manoj ne sita ko seb diya.
+16 Manoj ne seb kisko diya?	sita	15
+17 Sita galiyare mein gayi.
+18 Arjun dhoodh chod aaya.
+19 Manoj ne sita ko kya diya? 	seb	15
+20 Sita sayanakaksh mein gayi.
+21 Sita ne hari ko seb diya.
+22 Sita ne seb kisko diya?	hari	21
+23 Hari ne sita ko seb diya.
+24 Manoj gendh chod aaya.
+25 Hari ne seb kisko diya?	sita	23
+1 Hari gendh le aaya.
+2 Arjun rasoi ghar mein chala gaya.
+3 Arjun bagichey gaya.
+4 Sita gusalkhane mein gayi.
+5 Sita galiyare mein chali gayi.
+6 Arjun rasoi ghar mein gaya.
+7 Hari daftar mein gaya.
+8 Hari seb le aaya.
+9 Hari seb chod aaya.
+10 Arjun sayanakaksh mein gaya.
+11 Manoj bagichey mein chala gaya.
+12 Hari seb le aaya.
+13 Sita daftar gayi.
+14 Hari ne sita ko seb diya.
+15 Hari ne sita ko kya diya? 	seb	14
+16 Sita ne hari ko seb diya.
+17 Hari galiyare gaya.
+18 Hari ko seb kisney diya?	sita	16
+19 Manoj daftar gaya.
+20 Arjun rasoi ghar mein chala gaya.
+21 Sita ne hari ko kya diya? 	seb	16
+22 Manoj bagichey gaya.
+23 Hari seb rakh aaya.
+24 Manoj sayanakaksh gaya.
+25 Sita bagichey mein chali gayi.
+26 Hari rasoi ghar mein gaya.
+27 Sita daftar gayi.
+28 Hari ne arjun ko gendh di.
+29 Arjun ne hari ko gendh di.
+30 Gendh kisko mili? 	hari	29
+31 Arjun gusalkhane gaya.
+32 Manoj rasoi ghar mein gaya.
+33 Arjun ne gendh kisko di?	hari	29
+1 Hari dhoodh le kar aaya.
+2 Sita bagichey gayi.
+3 Hari seb le kar aaya.
+4 Manoj bagichey mein chala gaya.
+5 Sita daftar mein chali gayi.
+6 Sita bagichey mein gayi.
+7 Sita galiyare mein gayi.
+8 Manoj sayanakaksh mein chala gaya.
+9 Sita rasoi ghar mein gayi.
+10 Hari sayanakaksh mein gaya.
+11 Hari seb chod aaya.
+12 Hari ne manoj ko dhoodh diya.
+13 Manoj ko dhoodh kisney diya?	hari	12
+14 Manoj seb le aaya.
+15 Manoj ne hari ko seb diya.
+16 Seb kisko mila? 	hari	15
+17 Hari ne manoj ko seb diya.
+18 Manoj ne hari ko seb diya.
+19 Hari ne dhoodh kisko diya?	manoj	12
+20 Hari seb chod aaya.
+21 Hari daftar gaya.
+22 Manoj ne seb kisko diya?	hari	18
+23 Sita sayanakaksh mein chali gayi.
+24 Manoj ne sita ko dhoodh diya.
+25 Manoj ne seb kisko diya?	hari	18
+1 Arjun galiyare mein gaya.
+2 Arjun gendh le aaya.
+3 Arjun ne hari ko gendh di.
+4 Hari ne arjun ko gendh di.
+5 Gendh kisko mili? 	arjun	4
+6 Manoj rasoi ghar gaya.
+7 Arjun dhoodh le kar aaya.
+8 Hari ne gendh kisko di?	arjun	4
+9 Arjun ne hari ko gendh di.
+10 Hari ne arjun ko gendh di.
+11 Hari ne arjun ko kya diya? 	gendh	10
+12 Hari bagichey gaya.
+13 Arjun dhoodh rakh aaya.
+14 Hari ne arjun ko kya diya? 	gendh	10
+15 Arjun sayanakaksh mein gaya.
+16 Arjun ne sita ko gendh di.
+17 Gendh kisney di? 	arjun	16
+1 Manoj sayanakaksh mein gaya.
+2 Sita sayanakaksh mein gayi.
+3 Manoj gusalkhane mein gaya.
+4 Sita seb le aayi.
+5 Sita gendh le kar aayi.
+6 Arjun galiyare gaya.
+7 Manoj dhoodh le kar aaya.
+8 Manoj dhoodh rakh aaya.
+9 Hari bagichey mein gaya.
+10 Arjun gusalkhane gaya.
+11 Arjun dhoodh le aaya.
+12 Arjun daftar gaya.
+13 Arjun rasoi ghar mein chala gaya.
+14 Sita seb chod aayi.
+15 Sita seb le kar aayi.
+16 Sita daftar mein gayi.
+17 Arjun dhoodh rakh aaya.
+18 Arjun dhoodh le kar aaya.
+19 Arjun dhoodh rakh aaya.
+20 Manoj bagichey mein gaya.
+21 Hari galiyare mein chala gaya.
+22 Arjun galiyare gaya.
+23 Sita galiyare mein gayi.
+24 Sita ne hari ko seb diya.
+25 Hari ko seb kisney diya?	sita	24
+26 Hari ne sita ko seb diya.
+27 Sita ne hari ko seb diya.
+28 Seb kisney diya? 	sita	27
+29 Hari ne sita ko seb diya.
+30 Sita ne hari ko seb diya.
+31 Seb kisko mila? 	hari	30
+32 Hari ne sita ko seb diya.
+33 Sita ne hari ko seb diya.
+34 Sita ne hari ko kya diya? 	seb	33
+35 Hari ne sita ko seb diya.
+36 Sita daftar mein chali gayi.
+37 Hari ne seb kisko diya?	sita	35
+1 Manoj bagichey mein gaya.
+2 Manoj rasoi ghar mein gaya.
+3 Arjun bagichey gaya.
+4 Hari rasoi ghar mein gaya.
+5 Manoj seb le aaya.
+6 Manoj ne hari ko seb diya.
+7 Manoj ne hari ko kya diya? 	seb	6
+8 Hari ne manoj ko seb diya.
+9 Manoj ne hari ko seb diya.
+10 Manoj ne seb kisko diya?	hari	9
+11 Hari ne manoj ko seb diya.
+12 Manoj gendh le aaya.
+13 Hari ne manoj ko kya diya? 	seb	11
+14 Manoj ne hari ko seb diya.
+15 Hari ne manoj ko seb diya.
+16 Hari ne seb kisko diya?	manoj	15
+17 Manoj ne hari ko seb diya.
+18 Sita gusalkhane gayi.
+19 Manoj ne seb kisko diya?	hari	17
+1 Hari sayanakaksh mein chala gaya.
+2 Arjun dhoodh le kar aaya.
+3 Manoj seb le kar aaya.
+4 Hari daftar mein chala gaya.
+5 Hari rasoi ghar mein gaya.
+6 Arjun dhoodh rakh aaya.
+7 Arjun dhoodh le aaya.
+8 Manoj gendh le aaya.
+9 Arjun galiyare gaya.
+10 Arjun ne sita ko dhoodh diya.
+11 Dhoodh kisney diya? 	arjun	10
+12 Sita bagichey mein chali gayi.
+13 Sita galiyare gayi.
+14 Arjun ne dhoodh kisko diya?	sita	10
+15 Sita dhoodh rakh aayi.
+16 Manoj gendh chod aaya.
+17 Arjun ne sita ko kya diya? 	dhoodh	10
+18 Hari bagichey mein chala gaya.
+19 Manoj gendh le kar aaya.
+20 Manoj galiyare mein chala gaya.
+21 Manoj ne sita ko seb diya.
+22 Manoj ne sita ko kya diya? 	seb	21
+23 Manoj gendh chod aaya.
+24 Manoj dhoodh le kar aaya.
+25 Sita ko seb kisney diya?	manoj	21
+1 Hari seb le kar aaya.
+2 Arjun gendh le kar aaya.
+3 Arjun bagichey mein chala gaya.
+4 Hari ne arjun ko seb diya.
+5 Seb kisko mila? 	arjun	4
+6 Arjun ne hari ko seb diya.
+7 Sita sayanakaksh mein gayi.
+8 Hari ko seb kisney diya?	arjun	6
+9 Hari ne arjun ko seb diya.
+10 Arjun seb chod aaya.
+11 Arjun ko seb kisney diya?	hari	9
+12 Arjun sayanakaksh mein chala gaya.
+13 Sita galiyare mein chali gayi.
+14 Hari ne seb kisko diya?	arjun	9
+15 Sita sayanakaksh mein gayi.
+16 Arjun ne sita ko gendh di.
+17 Arjun ne sita ko kya diya? 	gendh	16
+1 Hari sayanakaksh mein gaya.
+2 Arjun daftar mein gaya.
+3 Hari seb le aaya.
+4 Arjun gusalkhane mein chala gaya.
+5 Sita daftar mein chali gayi.
+6 Arjun sayanakaksh gaya.
+7 Arjun daftar mein chala gaya.
+8 Arjun rasoi ghar mein gaya.
+9 Manoj rasoi ghar mein chala gaya.
+10 Hari rasoi ghar mein gaya.
+11 Hari ne manoj ko seb diya.
+12 Manoj ne hari ko seb diya.
+13 Hari ko seb kisney diya?	manoj	12
+14 Hari ne manoj ko seb diya.
+15 Manoj ne hari ko seb diya.
+16 Seb kisney diya? 	manoj	15
+17 Hari ne manoj ko seb diya.
+18 Manoj ne hari ko seb diya.
+19 Hari ko seb kisney diya?	manoj	18
+20 Hari ne manoj ko seb diya.
+21 Hari bagichey mein gaya.
+22 Seb kisney diya? 	hari	20
+23 Manoj ne arjun ko seb diya.
+24 Arjun seb chod aaya.
+25 Arjun ko seb kisney diya?	manoj	23
+1 Arjun bagichey mein gaya.
+2 Arjun gusalkhane gaya.
+3 Manoj seb le aaya.
+4 Manoj gendh le aaya.
+5 Manoj ne arjun ko seb diya.
+6 Sita gusalkhane mein chali gayi.
+7 Manoj ne seb kisko diya?	arjun	5
+8 Arjun ne sita ko seb diya.
+9 Sita ne manoj ko seb diya.
+10 Seb kisney diya? 	sita	9
+11 Manoj ne sita ko seb diya.
+12 Sita ne manoj ko seb diya.
+13 Seb kisko mila? 	manoj	12
+14 Manoj seb chod aaya.
+15 Hari bagichey mein chala gaya.
+16 Sita ne manoj ko kya diya? 	seb	12
+17 Arjun daftar gaya.
+18 Manoj seb le kar aaya.
+19 Sita ne seb kisko diya?	manoj	12
+1 Arjun bagichey gaya.
+2 Sita seb le kar aayi.
+3 Sita galiyare mein chali gayi.
+4 Arjun dhoodh le kar aaya.
+5 Manoj gendh le aaya.
+6 Hari bagichey mein gaya.
+7 Sita ne manoj ko seb diya.
+8 Manoj gendh rakh aaya.
+9 Manoj ko seb kisney diya?	sita	7
+10 Manoj ne sita ko seb diya.
+11 Sita seb rakh aayi.
+12 Seb kisko mila? 	sita	10
+13 Sita gendh le kar aayi.
+14 Sita ne manoj ko gendh di.
+15 Sita ne gendh kisko di?	manoj	14
+16 Sita seb le kar aayi.
+17 Sita seb chod aayi.
+18 Sita ne manoj ko kya diya? 	gendh	14
+19 Manoj ne sita ko gendh di.
+20 Sita ne manoj ko gendh di.
+21 Sita ne gendh kisko di?	manoj	20
+1 Arjun dhoodh le kar aaya.
+2 Arjun dhoodh chod aaya.
+3 Hari gendh le kar aaya.
+4 Arjun dhoodh le aaya.
+5 Hari gusalkhane mein gaya.
+6 Sita seb le kar aayi.
+7 Sita daftar mein chali gayi.
+8 Sita ne manoj ko seb diya.
+9 Sita ne seb kisko diya?	manoj	8
+10 Manoj bagichey gaya.
+11 Arjun sayanakaksh mein chala gaya.
+12 Seb kisney diya? 	sita	8
+13 Manoj seb chod aaya.
+14 Manoj sayanakaksh mein chala gaya.
+15 Sita ne manoj ko kya diya? 	seb	8
+16 Arjun ne manoj ko dhoodh diya.
+17 Manoj ne arjun ko dhoodh diya.
+18 Arjun ko dhoodh kisney diya?	manoj	17
+19 Arjun rasoi ghar mein chala gaya.
+20 Hari rasoi ghar mein gaya.
+21 Arjun ko dhoodh kisney diya?	manoj	17
+1 Hari sayanakaksh mein gaya.
+2 Hari seb le kar aaya.
+3 Arjun gusalkhane mein gaya.
+4 Hari ne sita ko seb diya.
+5 Sita ko seb kisney diya?	hari	4
+6 Sita ne hari ko seb diya.
+7 Hari ne sita ko seb diya.
+8 Seb kisko mila? 	sita	7
+9 Sita ne hari ko seb diya.
+10 Hari ne sita ko seb diya.
+11 Seb kisko mila? 	sita	10
+12 Hari rasoi ghar mein gaya.
+13 Hari galiyare gaya.
+14 Hari ne seb kisko diya?	sita	10
+15 Sita daftar gayi.
+16 Manoj sayanakaksh gaya.
+17 Sita ko seb kisney diya?	hari	10
+1 Arjun rasoi ghar mein gaya.
+2 Sita rasoi ghar mein chali gayi.
+3 Arjun gendh le aaya.
+4 Arjun ne sita ko gendh di.
+5 Arjun ne sita ko kya diya? 	gendh	4
+6 Sita ne arjun ko gendh di.
+7 Hari galiyare mein gaya.
+8 Gendh kisney di? 	sita	6
+9 Arjun bagichey mein chala gaya.
+10 Hari dhoodh le aaya.
+11 Gendh kisko mili? 	arjun	6
+12 Arjun gendh chod aaya.
+13 Hari rasoi ghar gaya.
+14 Hari dhoodh rakh aaya.
+15 Arjun gendh le kar aaya.
+16 Arjun seb le aaya.
+17 Arjun sayanakaksh mein gaya.
+18 Arjun bagichey mein gaya.
+19 Hari gusalkhane gaya.
+20 Sita dhoodh le kar aayi.
+21 Manoj sayanakaksh gaya.
+22 Hari sayanakaksh mein gaya.
+23 Sita dhoodh chod aayi.
+24 Arjun sayanakaksh mein gaya.
+25 Arjun seb rakh aaya.
+26 Arjun ne hari ko gendh di.
+27 Manoj seb le kar aaya.
+28 Arjun ne gendh kisko di?	hari	26
+29 Manoj seb chod aaya.
+30 Manoj seb le aaya.
+31 Hari ko gendh kisney di?	arjun	26
+1 Sita seb le aayi.
+2 Sita seb rakh aayi.
+3 Manoj galiyare mein chala gaya.
+4 Arjun sayanakaksh mein gaya.
+5 Manoj bagichey mein gaya.
+6 Arjun gusalkhane mein gaya.
+7 Manoj galiyare gaya.
+8 Manoj gusalkhane mein chala gaya.
+9 Manoj galiyare gaya.
+10 Arjun rasoi ghar mein chala gaya.
+11 Arjun bagichey mein gaya.
+12 Hari daftar mein chala gaya.
+13 Hari galiyare mein chala gaya.
+14 Manoj sayanakaksh gaya.
+15 Sita seb le aayi.
+16 Sita ne manoj ko seb diya.
+17 Sita ne seb kisko diya?	manoj	16
+18 Manoj gusalkhane mein chala gaya.
+19 Manoj rasoi ghar mein chala gaya.
+20 Sita ne seb kisko diya?	manoj	16
+21 Manoj gusalkhane mein gaya.
+22 Sita gusalkhane mein chali gayi.
+23 Manoj ko seb kisney diya?	sita	16
+24 Manoj ne sita ko seb diya.
+25 Manoj galiyare gaya.
+26 Manoj ne sita ko kya diya? 	seb	24
+27 Manoj rasoi ghar mein chala gaya.
+28 Sita seb rakh aayi.
+29 Sita ko seb kisney diya?	manoj	24
+1 Arjun sayanakaksh mein chala gaya.
+2 Sita bagichey mein gayi.
+3 Manoj seb le aaya.
+4 Manoj seb chod aaya.
+5 Arjun bagichey mein gaya.
+6 Sita sayanakaksh mein chali gayi.
+7 Manoj seb le kar aaya.
+8 Hari bagichey mein gaya.
+9 Arjun daftar gaya.
+10 Arjun galiyare gaya.
+11 Arjun dhoodh le kar aaya.
+12 Hari rasoi ghar gaya.
+13 Manoj seb chod aaya.
+14 Manoj seb le aaya.
+15 Arjun dhoodh rakh aaya.
+16 Manoj seb rakh aaya.
+17 Manoj rasoi ghar mein gaya.
+18 Sita galiyare mein gayi.
+19 Arjun dhoodh le aaya.
+20 Arjun ne sita ko dhoodh diya.
+21 Arjun ne dhoodh kisko diya?	sita	20
+22 Manoj gendh le aaya.
+23 Manoj gendh rakh aaya.
+24 Dhoodh kisney diya? 	arjun	20
+25 Hari sayanakaksh mein gaya.
+26 Manoj gendh le aaya.
+27 Sita ko dhoodh kisney diya?	arjun	20
+28 Arjun sayanakaksh mein chala gaya.
+29 Hari bagichey mein gaya.
+30 Sita dhoodh chod aayi.
+31 Arjun daftar gaya.
+32 Hari rasoi ghar mein gaya.
+33 Sita bagichey mein gayi.
+34 Manoj gendh rakh aaya.
+35 Arjun rasoi ghar mein chala gaya.
+36 Manoj gendh le aaya.
+37 Manoj ne hari ko gendh di.
+38 Gendh kisko mili? 	hari	37
+39 Hari ne manoj ko gendh di.
+40 Arjun galiyare mein chala gaya.
+41 Hari ne gendh kisko di?	manoj	39
+1 Sita rasoi ghar mein gayi.
+2 Manoj daftar gaya.
+3 Hari bagichey mein chala gaya.
+4 Hari gusalkhane mein gaya.
+5 Arjun seb le kar aaya.
+6 Arjun ne sita ko seb diya.
+7 Seb kisko mila? 	sita	6
+8 Sita seb chod aayi.
+9 Arjun galiyare mein gaya.
+10 Arjun ne sita ko kya diya? 	seb	6
+11 Hari sayanakaksh mein gaya.
+12 Hari gendh le kar aaya.
+13 Arjun ne sita ko kya diya? 	seb	6
+14 Hari galiyare mein gaya.
+15 Hari ne arjun ko gendh di.
+16 Hari ne gendh kisko di?	arjun	15
+17 Arjun ne hari ko gendh di.
+18 Hari gusalkhane mein gaya.
+19 Arjun ne hari ko kya diya? 	gendh	17
+1 Arjun galiyare mein chala gaya.
+2 Hari dhoodh le kar aaya.
+3 Manoj gusalkhane mein gaya.
+4 Hari dhoodh chod aaya.
+5 Sita gusalkhane mein gayi.
+6 Manoj galiyare mein gaya.
+7 Arjun daftar mein gaya.
+8 Hari seb le kar aaya.
+9 Manoj daftar mein chala gaya.
+10 Arjun bagichey mein chala gaya.
+11 Manoj gendh le kar aaya.
+12 Manoj rasoi ghar mein chala gaya.
+13 Hari dhoodh le kar aaya.
+14 Manoj bagichey mein chala gaya.
+15 Hari ne manoj ko seb diya.
+16 Manoj ne hari ko seb diya.
+17 Seb kisney diya? 	manoj	16
+18 Hari ne manoj ko seb diya.
+19 Manoj sayanakaksh mein gaya.
+20 Seb kisney diya? 	hari	18
+21 Hari dhoodh chod aaya.
+22 Hari dhoodh le kar aaya.
+23 Seb kisney diya? 	hari	18
+24 Hari dhoodh rakh aaya.
+25 Manoj gendh chod aaya.
+26 Sita rasoi ghar gayi.
+27 Manoj gendh le kar aaya.
+28 Manoj seb rakh aaya.
+29 Sita bagichey gayi.
+30 Arjun rasoi ghar gaya.
+31 Arjun daftar gaya.
+32 Manoj seb le kar aaya.
+33 Sita dhoodh le kar aayi.
+34 Arjun rasoi ghar gaya.
+35 Sita ne hari ko dhoodh diya.
+36 Hari ko dhoodh kisney diya?	sita	35
+37 Hari ne sita ko dhoodh diya.
+38 Manoj gusalkhane mein gaya.
+39 Dhoodh kisko mila? 	sita	37
+1 Arjun sayanakaksh mein chala gaya.
+2 Arjun seb le kar aaya.
+3 Manoj bagichey mein gaya.
+4 Hari daftar mein gaya.
+5 Manoj rasoi ghar gaya.
+6 Sita galiyare mein chali gayi.
+7 Arjun rasoi ghar mein chala gaya.
+8 Hari gusalkhane mein chala gaya.
+9 Hari bagichey mein gaya.
+10 Arjun galiyare gaya.
+11 Arjun ne sita ko seb diya.
+12 Sita sayanakaksh mein chali gayi.
+13 Arjun ne seb kisko diya?	sita	11
+14 Manoj daftar gaya.
+15 Arjun gendh le kar aaya.
+16 Seb kisney diya? 	arjun	11
+17 Sita seb chod aayi.
+18 Arjun dhoodh le aaya.
+19 Sita seb le aayi.
+20 Sita galiyare mein chali gayi.
+21 Arjun sayanakaksh mein gaya.
+22 Arjun bagichey gaya.
+23 Arjun ne hari ko gendh di.
+24 Arjun daftar mein gaya.
+25 Hari ko gendh kisney di?	arjun	23
+26 Hari gendh rakh aaya.
+27 Hari rasoi ghar gaya.
+28 Gendh kisney di? 	arjun	23
+29 Arjun dhoodh chod aaya.
+30 Arjun sayanakaksh gaya.
+31 Hari daftar mein gaya.
+32 Hari sayanakaksh mein chala gaya.
+33 Hari daftar gaya.
+34 Hari rasoi ghar gaya.
+35 Sita seb chod aayi.
+36 Sita bagichey mein chali gayi.
+37 Sita gendh le kar aayi.
+38 Arjun daftar mein chala gaya.
+39 Arjun dhoodh le kar aaya.
+40 Arjun rasoi ghar gaya.
+41 Hari galiyare mein gaya.
+42 Arjun dhoodh rakh aaya.
+43 Sita sayanakaksh mein chali gayi.
+44 Sita gusalkhane mein chali gayi.
+45 Arjun sayanakaksh mein chala gaya.
+46 Sita galiyare gayi.
+47 Manoj bagichey mein gaya.
+48 Sita ne hari ko gendh di.
+49 Sita ne hari ko kya diya? 	gendh	48
+1 Hari gendh le kar aaya.
+2 Sita bagichey mein chali gayi.
+3 Hari ne sita ko gendh di.
+4 Sita ne hari ko gendh di.
+5 Sita ne hari ko kya diya? 	gendh	4
+6 Manoj galiyare mein chala gaya.
+7 Hari rasoi ghar mein chala gaya.
+8 Sita ne hari ko kya diya? 	gendh	4
+9 Hari gendh chod aaya.
+10 Sita galiyare mein chali gayi.
+11 Sita ne hari ko kya diya? 	gendh	4
+12 Hari gendh le kar aaya.
+13 Hari gendh chod aaya.
+14 Hari gendh le aaya.
+15 Hari gendh rakh aaya.
+16 Sita bagichey gayi.
+17 Arjun bagichey gaya.
+18 Sita galiyare gayi.
+19 Hari gendh le kar aaya.
+20 Hari sayanakaksh gaya.
+21 Hari seb le aaya.
+22 Sita rasoi ghar mein gayi.
+23 Arjun rasoi ghar gaya.
+24 Manoj sayanakaksh mein chala gaya.
+25 Hari ne manoj ko seb diya.
+26 Seb kisko mila? 	manoj	25
+27 Manoj ne hari ko seb diya.
+28 Hari ne manoj ko seb diya.
+29 Hari ne manoj ko kya diya? 	seb	28
+1 Hari gendh le aaya.
+2 Hari bagichey mein gaya.
+3 Sita galiyare mein chali gayi.
+4 Sita bagichey mein chali gayi.
+5 Hari galiyare mein chala gaya.
+6 Hari gusalkhane mein chala gaya.
+7 Hari ne manoj ko gendh di.
+8 Manoj ne hari ko gendh di.
+9 Manoj ne hari ko kya diya? 	gendh	8
+10 Arjun seb le aaya.
+11 Hari galiyare mein gaya.
+12 Gendh kisney di? 	manoj	8
+13 Arjun ne hari ko seb diya.
+14 Hari gendh rakh aaya.
+15 Hari ko seb kisney diya?	arjun	13
+16 Hari gendh le kar aaya.
+17 Arjun bagichey mein gaya.
+18 Seb kisko mila? 	hari	13
+19 Arjun sayanakaksh gaya.
+20 Arjun bagichey gaya.
+21 Arjun sayanakaksh mein gaya.
+22 Hari daftar mein chala gaya.
+23 Hari bagichey mein chala gaya.
+24 Hari ne sita ko seb diya.
+25 Hari ne sita ko kya diya? 	seb	24
+1 Sita bagichey gayi.
+2 Manoj gendh le aaya.
+3 Manoj ne arjun ko gendh di.
+4 Arjun gendh rakh aaya.
+5 Gendh kisko mili? 	arjun	3
+6 Sita rasoi ghar gayi.
+7 Arjun gendh le kar aaya.
+8 Gendh kisney di? 	manoj	3
+9 Arjun gendh rakh aaya.
+10 Manoj gendh le kar aaya.
+11 Manoj ne arjun ko gendh di.
+12 Hari bagichey mein gaya.
+13 Manoj ne arjun ko kya diya? 	gendh	11
+14 Arjun ne manoj ko gendh di.
+15 Manoj ne arjun ko gendh di.
+16 Gendh kisney di? 	manoj	15
+17 Sita bagichey mein chali gayi.
+18 Arjun ne manoj ko gendh di.
+19 Arjun ne manoj ko kya diya? 	gendh	18
+1 Sita gendh le aayi.
+2 Manoj bagichey gaya.
+3 Sita gendh rakh aayi.
+4 Arjun gendh le kar aaya.
+5 Arjun ne sita ko gendh di.
+6 Sita gendh chod aayi.
+7 Arjun ne gendh kisko di?	sita	5
+8 Hari galiyare mein chala gaya.
+9 Sita gendh le aayi.
+10 Sita ko gendh kisney di?	arjun	5
+11 Sita ne hari ko gendh di.
+12 Hari ne sita ko gendh di.
+13 Hari ne gendh kisko di?	sita	12
+14 Arjun gusalkhane mein gaya.
+15 Sita ne hari ko gendh di.
+16 Gendh kisney di? 	sita	15
+17 Hari ne sita ko gendh di.
+18 Sita ne hari ko gendh di.
+19 Sita ne hari ko kya diya? 	gendh	18
+1 Arjun galiyare mein gaya.
+2 Sita galiyare mein chali gayi.
+3 Manoj sayanakaksh mein gaya.
+4 Arjun bagichey gaya.
+5 Hari rasoi ghar gaya.
+6 Arjun sayanakaksh mein chala gaya.
+7 Sita bagichey mein chali gayi.
+8 Arjun rasoi ghar mein chala gaya.
+9 Sita galiyare mein gayi.
+10 Hari seb le kar aaya.
+11 Hari seb rakh aaya.
+12 Hari seb le kar aaya.
+13 Hari ne arjun ko seb diya.
+14 Sita daftar mein gayi.
+15 Seb kisney diya? 	hari	13
+16 Arjun ne hari ko seb diya.
+17 Arjun gendh le aaya.
+18 Seb kisney diya? 	arjun	16
+19 Arjun bagichey gaya.
+20 Hari daftar mein chala gaya.
+21 Hari ko seb kisney diya?	arjun	16
+22 Manoj rasoi ghar gaya.
+23 Hari ne sita ko seb diya.
+24 Seb kisko mila? 	sita	23
+25 Arjun gendh rakh aaya.
+26 Sita seb rakh aayi.
+27 Seb kisney diya? 	hari	23
+1 Sita rasoi ghar mein chali gayi.
+2 Manoj seb le kar aaya.
+3 Sita sayanakaksh mein chali gayi.
+4 Manoj seb rakh aaya.
+5 Sita gendh le aayi.
+6 Hari bagichey mein gaya.
+7 Manoj seb le aaya.
+8 Sita gendh chod aayi.
+9 Hari galiyare mein chala gaya.
+10 Sita gendh le aayi.
+11 Sita gendh rakh aayi.
+12 Manoj ne hari ko seb diya.
+13 Manoj ne hari ko kya diya? 	seb	12
+14 Hari seb rakh aaya.
+15 Hari seb le aaya.
+16 Manoj ne hari ko kya diya? 	seb	12
+17 Sita gendh le aayi.
+18 Hari ne manoj ko seb diya.
+19 Seb kisney diya? 	hari	18
+20 Manoj ne hari ko seb diya.
+21 Hari ne manoj ko seb diya.
+22 Hari ne manoj ko kya diya? 	seb	21
+23 Manoj ne hari ko seb diya.
+24 Sita gendh chod aayi.
+25 Manoj ne seb kisko diya?	hari	23
+1 Hari gusalkhane gaya.
+2 Sita rasoi ghar mein chali gayi.
+3 Sita sayanakaksh mein chali gayi.
+4 Sita galiyare mein chali gayi.
+5 Hari bagichey gaya.
+6 Hari gendh le kar aaya.
+7 Sita rasoi ghar mein gayi.
+8 Arjun rasoi ghar mein chala gaya.
+9 Arjun galiyare mein chala gaya.
+10 Hari gusalkhane gaya.
+11 Sita bagichey mein gayi.
+12 Hari sayanakaksh mein chala gaya.
+13 Arjun rasoi ghar mein chala gaya.
+14 Sita seb le kar aayi.
+15 Sita seb rakh aayi.
+16 Hari gendh rakh aaya.
+17 Sita rasoi ghar gayi.
+18 Arjun galiyare mein chala gaya.
+19 Hari gendh le kar aaya.
+20 Sita galiyare gayi.
+21 Arjun dhoodh le aaya.
+22 Sita sayanakaksh mein chali gayi.
+23 Manoj gusalkhane mein chala gaya.
+24 Arjun dhoodh chod aaya.
+25 Arjun daftar mein chala gaya.
+26 Hari gendh rakh aaya.
+27 Sita gendh le aayi.
+28 Sita ne hari ko gendh di.
+29 Gendh kisko mili? 	hari	28
+30 Arjun sayanakaksh gaya.
+31 Hari ne sita ko gendh di.
+32 Sita ko gendh kisney di?	hari	31
+33 Sita ne hari ko gendh di.
+34 Manoj bagichey mein chala gaya.
+35 Hari ko gendh kisney di?	sita	33
+36 Hari ne sita ko gendh di.
+37 Sita ne hari ko gendh di.
+38 Gendh kisko mili? 	hari	37
+39 Arjun daftar mein chala gaya.
+40 Manoj galiyare mein chala gaya.
+41 Sita ne hari ko kya diya? 	gendh	37
+1 Arjun daftar mein chala gaya.
+2 Sita gusalkhane mein gayi.
+3 Sita gendh le kar aayi.
+4 Hari rasoi ghar mein gaya.
+5 Sita gendh rakh aayi.
+6 Arjun galiyare mein chala gaya.
+7 Sita bagichey mein gayi.
+8 Arjun rasoi ghar gaya.
+9 Sita rasoi ghar gayi.
+10 Manoj galiyare mein gaya.
+11 Hari gusalkhane gaya.
+12 Hari gendh le aaya.
+13 Manoj sayanakaksh gaya.
+14 Hari daftar mein gaya.
+15 Hari rasoi ghar mein gaya.
+16 Hari bagichey mein chala gaya.
+17 Manoj bagichey mein chala gaya.
+18 Hari daftar mein chala gaya.
+19 Sita bagichey gayi.
+20 Sita gusalkhane mein gayi.
+21 Arjun sayanakaksh mein chala gaya.
+22 Arjun dhoodh le kar aaya.
+23 Arjun dhoodh chod aaya.
+24 Hari gendh rakh aaya.
+25 Arjun dhoodh le kar aaya.
+26 Sita sayanakaksh mein gayi.
+27 Arjun ne sita ko dhoodh diya.
+28 Hari bagichey mein chala gaya.
+29 Sita ko dhoodh kisney diya?	arjun	27
+30 Arjun rasoi ghar mein chala gaya.
+31 Sita dhoodh rakh aayi.
+32 Arjun ne dhoodh kisko diya?	sita	27
+33 Manoj daftar mein chala gaya.
+34 Sita dhoodh le kar aayi.
+35 Manoj gendh le aaya.
+36 Manoj gusalkhane gaya.
+37 Manoj daftar gaya.
+38 Manoj gendh chod aaya.
+39 Sita galiyare mein gayi.
+40 Arjun galiyare mein gaya.
+41 Sita seb le aayi.
+42 Sita ne arjun ko seb diya.
+43 Seb kisko mila? 	arjun	42
+44 Sita dhoodh chod aayi.
+45 Arjun ne sita ko seb diya.
+46 Seb kisko mila? 	sita	45
+47 Sita gusalkhane gayi.
+48 Arjun bagichey mein gaya.
+49 Seb kisney diya? 	arjun	45
+1 Arjun galiyare gaya.
+2 Hari bagichey gaya.
+3 Arjun gendh le kar aaya.
+4 Arjun seb le aaya.
+5 Arjun bagichey mein chala gaya.
+6 Sita gusalkhane mein gayi.
+7 Arjun ne hari ko seb diya.
+8 Arjun sayanakaksh gaya.
+9 Arjun ne hari ko kya diya? 	seb	7
+10 Arjun gendh rakh aaya.
+11 Hari ne manoj ko seb diya.
+12 Manoj ko seb kisney diya?	hari	11
+13 Arjun gendh le aaya.
+14 Manoj ne hari ko seb diya.
+15 Manoj ne hari ko kya diya? 	seb	14
+16 Hari daftar mein gaya.
+17 Manoj gusalkhane gaya.
+18 Manoj ne seb kisko diya?	hari	14
+19 Manoj bagichey mein gaya.
+20 Manoj gusalkhane gaya.
+21 Manoj ne hari ko kya diya? 	seb	14
+1 Arjun gusalkhane mein chala gaya.
+2 Manoj seb le aaya.
+3 Manoj seb chod aaya.
+4 Sita bagichey mein gayi.
+5 Hari daftar gaya.
+6 Hari rasoi ghar mein chala gaya.
+7 Arjun galiyare mein chala gaya.
+8 Arjun gendh le kar aaya.
+9 Arjun sayanakaksh gaya.
+10 Arjun gendh chod aaya.
+11 Manoj gendh le aaya.
+12 Manoj ne arjun ko gendh di.
+13 Manoj ne gendh kisko di?	arjun	12
+14 Arjun ne manoj ko gendh di.
+15 Manoj ne arjun ko gendh di.
+16 Manoj ne arjun ko kya diya? 	gendh	15
+17 Arjun gendh rakh aaya.
+18 Sita galiyare mein gayi.
+19 Manoj ne arjun ko kya diya? 	gendh	15
+20 Manoj gendh le kar aaya.
+21 Arjun seb le kar aaya.
+22 Arjun ko gendh kisney di?	manoj	15
+23 Arjun galiyare gaya.
+24 Manoj gendh chod aaya.
+25 Sita sayanakaksh gayi.
+26 Sita gendh le aayi.
+27 Sita gendh rakh aayi.
+28 Arjun rasoi ghar gaya.
+29 Arjun ne hari ko seb diya.
+30 Hari ne arjun ko seb diya.
+31 Hari ne seb kisko diya?	arjun	30
+1 Hari sayanakaksh gaya.
+2 Sita bagichey mein gayi.
+3 Manoj daftar mein chala gaya.
+4 Manoj seb le kar aaya.
+5 Manoj galiyare mein gaya.
+6 Arjun sayanakaksh mein gaya.
+7 Hari daftar gaya.
+8 Sita gusalkhane gayi.
+9 Manoj rasoi ghar gaya.
+10 Hari rasoi ghar mein gaya.
+11 Manoj ne hari ko seb diya.
+12 Hari ne manoj ko seb diya.
+13 Hari ne seb kisko diya?	manoj	12
+14 Manoj ne hari ko seb diya.
+15 Hari ne manoj ko seb diya.
+16 Hari ne seb kisko diya?	manoj	15
+17 Manoj ne hari ko seb diya.
+18 Hari ne manoj ko seb diya.
+19 Seb kisko mila? 	manoj	18
+20 Manoj ne hari ko seb diya.
+21 Manoj gendh le aaya.
+22 Hari ko seb kisney diya?	manoj	20
+23 Sita galiyare mein gayi.
+24 Manoj gendh rakh aaya.
+25 Manoj ne hari ko kya diya? 	seb	20
+1 Arjun dhoodh le aaya.
+2 Manoj daftar mein chala gaya.
+3 Arjun sayanakaksh gaya.
+4 Arjun ne hari ko dhoodh diya.
+5 Arjun ne hari ko kya diya? 	dhoodh	4
+6 Sita galiyare gayi.
+7 Hari ne arjun ko dhoodh diya.
+8 Dhoodh kisney diya? 	hari	7
+9 Arjun ne hari ko dhoodh diya.
+10 Manoj gusalkhane mein chala gaya.
+11 Dhoodh kisney diya? 	arjun	9
+12 Hari dhoodh rakh aaya.
+13 Arjun daftar mein chala gaya.
+14 Arjun ne hari ko kya diya? 	dhoodh	9
+15 Sita rasoi ghar gayi.
+16 Manoj galiyare mein gaya.
+17 Manoj daftar mein chala gaya.
+18 Manoj gusalkhane gaya.
+19 Arjun sayanakaksh mein gaya.
+20 Manoj bagichey mein gaya.
+21 Sita daftar mein gayi.
+22 Arjun dhoodh le aaya.
+23 Hari daftar mein gaya.
+24 Manoj gendh le kar aaya.
+25 Manoj sayanakaksh mein chala gaya.
+26 Arjun galiyare mein chala gaya.
+27 Hari sayanakaksh mein gaya.
+28 Manoj ne hari ko gendh di.
+29 Manoj ne hari ko kya diya? 	gendh	28
+1 Sita seb le aayi.
+2 Hari gendh le kar aaya.
+3 Sita seb rakh aayi.
+4 Hari gendh chod aaya.
+5 Arjun gusalkhane mein chala gaya.
+6 Hari dhoodh le aaya.
+7 Sita gendh le kar aayi.
+8 Sita ne hari ko gendh di.
+9 Sita ne hari ko kya diya? 	gendh	8
+10 Arjun seb le aaya.
+11 Arjun ne sita ko seb diya.
+12 Sita ne hari ko kya diya? 	gendh	8
+13 Sita ne hari ko seb diya.
+14 Hari ne sita ko seb diya.
+15 Sita ko seb kisney diya?	hari	14
+16 Hari rasoi ghar mein gaya.
+17 Sita ne arjun ko seb diya.
+18 Sita ne arjun ko kya diya? 	seb	17
+19 Arjun ne sita ko seb diya.
+20 Sita ne arjun ko seb diya.
+21 Seb kisney diya? 	sita	20
+1 Arjun gusalkhane mein chala gaya.
+2 Arjun daftar gaya.
+3 Hari bagichey mein chala gaya.
+4 Hari dhoodh le aaya.
+5 Hari gusalkhane mein gaya.
+6 Hari ne sita ko dhoodh diya.
+7 Hari ne sita ko kya diya? 	dhoodh	6
+8 Manoj galiyare mein chala gaya.
+9 Manoj sayanakaksh mein gaya.
+10 Sita ko dhoodh kisney diya?	hari	6
+11 Sita ne hari ko dhoodh diya.
+12 Hari ne sita ko dhoodh diya.
+13 Hari ne sita ko kya diya? 	dhoodh	12
+14 Sita ne hari ko dhoodh diya.
+15 Arjun rasoi ghar gaya.
+16 Dhoodh kisney diya? 	sita	14
+17 Hari dhoodh rakh aaya.
+18 Sita dhoodh le kar aayi.
+19 Sita ne hari ko kya diya? 	dhoodh	14
+1 Arjun sayanakaksh mein chala gaya.
+2 Hari rasoi ghar gaya.
+3 Arjun galiyare mein chala gaya.
+4 Hari dhoodh le aaya.
+5 Arjun gusalkhane mein gaya.
+6 Arjun gendh le kar aaya.
+7 Arjun ne sita ko gendh di.
+8 Sita ne arjun ko gendh di.
+9 Gendh kisney di? 	sita	8
+10 Arjun ne sita ko gendh di.
+11 Sita ne arjun ko gendh di.
+12 Sita ne arjun ko kya diya? 	gendh	11
+13 Arjun ne sita ko gendh di.
+14 Manoj galiyare gaya.
+15 Arjun ne sita ko kya diya? 	gendh	13
+16 Hari dhoodh rakh aaya.
+17 Sita ne arjun ko gendh di.
+18 Sita ne gendh kisko di?	arjun	17
+19 Hari dhoodh le kar aaya.
+20 Arjun ne sita ko gendh di.
+21 Arjun ne gendh kisko di?	sita	20
+1 Arjun galiyare mein gaya.
+2 Sita gusalkhane mein gayi.
+3 Arjun daftar mein gaya.
+4 Hari gusalkhane gaya.
+5 Manoj dhoodh le kar aaya.
+6 Sita daftar mein chali gayi.
+7 Hari galiyare mein gaya.
+8 Hari gendh le aaya.
+9 Manoj ne sita ko dhoodh diya.
+10 Arjun bagichey gaya.
+11 Manoj ne sita ko kya diya? 	dhoodh	9
+12 Sita dhoodh chod aayi.
+13 Arjun gusalkhane mein gaya.
+14 Manoj ne sita ko kya diya? 	dhoodh	9
+15 Manoj rasoi ghar mein chala gaya.
+16 Sita rasoi ghar mein gayi.
+17 Hari daftar mein gaya.
+18 Manoj gusalkhane gaya.
+19 Hari dhoodh le kar aaya.
+20 Sita galiyare mein gayi.
+21 Manoj bagichey gaya.
+22 Sita bagichey mein gayi.
+23 Arjun daftar mein gaya.
+24 Hari ne arjun ko gendh di.
+25 Gendh kisko mili? 	arjun	24
+26 Sita daftar mein chali gayi.
+27 Manoj gusalkhane mein chala gaya.
+28 Hari ne arjun ko kya diya? 	gendh	24
+29 Arjun ne sita ko gendh di.
+30 Sita ne hari ko gendh di.
+31 Gendh kisko mili? 	hari	30
+1 Sita daftar gayi.
+2 Sita galiyare gayi.
+3 Manoj sayanakaksh gaya.
+4 Manoj daftar mein chala gaya.
+5 Hari sayanakaksh gaya.
+6 Sita dhoodh le aayi.
+7 Sita seb le aayi.
+8 Arjun bagichey mein chala gaya.
+9 Manoj bagichey gaya.
+10 Arjun daftar gaya.
+11 Manoj gusalkhane mein chala gaya.
+12 Arjun rasoi ghar mein chala gaya.
+13 Manoj rasoi ghar mein chala gaya.
+14 Manoj daftar gaya.
+15 Sita seb rakh aayi.
+16 Sita rasoi ghar gayi.
+17 Sita ne arjun ko dhoodh diya.
+18 Sita gusalkhane gayi.
+19 Sita ne arjun ko kya diya? 	dhoodh	17
+20 Manoj sayanakaksh gaya.
+21 Manoj daftar mein gaya.
+22 Sita ne dhoodh kisko diya?	arjun	17
+23 Arjun galiyare gaya.
+24 Arjun sayanakaksh gaya.
+25 Arjun dhoodh chod aaya.
+26 Hari dhoodh le aaya.
+27 Hari ne arjun ko dhoodh diya.
+28 Arjun ne hari ko dhoodh diya.
+29 Dhoodh kisko mila? 	hari	28
+30 Hari galiyare mein chala gaya.
+31 Manoj gendh le kar aaya.
+32 Arjun ne hari ko kya diya? 	dhoodh	28
+33 Hari rasoi ghar mein chala gaya.
+34 Arjun daftar mein gaya.
+35 Arjun ne hari ko kya diya? 	dhoodh	28
+1 Sita rasoi ghar mein gayi.
+2 Sita dhoodh le kar aayi.
+3 Arjun sayanakaksh mein gaya.
+4 Sita gusalkhane mein chali gayi.
+5 Sita ne hari ko dhoodh diya.
+6 Hari ne sita ko dhoodh diya.
+7 Dhoodh kisko mila? 	sita	6
+8 Sita sayanakaksh gayi.
+9 Manoj daftar mein gaya.
+10 Hari ne sita ko kya diya? 	dhoodh	6
+11 Sita dhoodh rakh aayi.
+12 Arjun dhoodh le aaya.
+13 Dhoodh kisko mila? 	sita	6
+14 Sita galiyare mein chali gayi.
+15 Manoj sayanakaksh mein gaya.
+16 Manoj rasoi ghar mein gaya.
+17 Sita seb le aayi.
+18 Manoj gusalkhane mein gaya.
+19 Hari daftar gaya.
+20 Sita gusalkhane gayi.
+21 Arjun daftar mein chala gaya.
+22 Manoj bagichey mein chala gaya.
+23 Arjun ne hari ko dhoodh diya.
+24 Dhoodh kisney diya? 	arjun	23
+25 Manoj daftar mein gaya.
+26 Hari ne manoj ko dhoodh diya.
+27 Dhoodh kisko mila? 	manoj	26
+1 Sita bagichey mein gayi.
+2 Sita daftar mein chali gayi.
+3 Sita rasoi ghar gayi.
+4 Sita seb le aayi.
+5 Sita ne arjun ko seb diya.
+6 Hari daftar mein chala gaya.
+7 Sita ne arjun ko kya diya? 	seb	5
+8 Arjun ne sita ko seb diya.
+9 Sita ne arjun ko seb diya.
+10 Sita ne arjun ko kya diya? 	seb	9
+11 Arjun ne sita ko seb diya.
+12 Manoj sayanakaksh mein chala gaya.
+13 Arjun ne sita ko kya diya? 	seb	11
+14 Sita ne arjun ko seb diya.
+15 Sita daftar gayi.
+16 Arjun ko seb kisney diya?	sita	14
+17 Sita bagichey gayi.
+18 Manoj rasoi ghar gaya.
+19 Arjun ko seb kisney diya?	sita	14
+1 Hari sayanakaksh gaya.
+2 Sita sayanakaksh mein chali gayi.
+3 Hari dhoodh le kar aaya.
+4 Arjun galiyare mein gaya.
+5 Sita rasoi ghar gayi.
+6 Manoj sayanakaksh mein chala gaya.
+7 Hari ne manoj ko dhoodh diya.
+8 Manoj ne hari ko dhoodh diya.
+9 Hari ko dhoodh kisney diya?	manoj	8
+10 Hari ne manoj ko dhoodh diya.
+11 Manoj ne hari ko dhoodh diya.
+12 Manoj ne dhoodh kisko diya?	hari	11
+13 Sita daftar mein chali gayi.
+14 Manoj seb le kar aaya.
+15 Manoj ne dhoodh kisko diya?	hari	11
+16 Hari dhoodh chod aaya.
+17 Manoj ne hari ko seb diya.
+18 Seb kisko mila? 	hari	17
+19 Hari dhoodh le aaya.
+20 Hari galiyare mein chala gaya.
+21 Seb kisko mila? 	hari	17
+1 Sita gusalkhane gayi.
+2 Manoj sayanakaksh mein chala gaya.
+3 Manoj bagichey gaya.
+4 Arjun gusalkhane mein gaya.
+5 Arjun rasoi ghar gaya.
+6 Sita sayanakaksh mein chali gayi.
+7 Sita gendh le kar aayi.
+8 Arjun daftar mein chala gaya.
+9 Hari gusalkhane mein gaya.
+10 Hari galiyare mein chala gaya.
+11 Arjun rasoi ghar mein chala gaya.
+12 Hari rasoi ghar gaya.
+13 Sita gusalkhane mein gayi.
+14 Sita gendh rakh aayi.
+15 Manoj galiyare mein chala gaya.
+16 Sita dhoodh le kar aayi.
+17 Sita dhoodh rakh aayi.
+18 Sita dhoodh le kar aayi.
+19 Sita gendh le aayi.
+20 Manoj daftar mein chala gaya.
+21 Sita rasoi ghar mein gayi.
+22 Hari gusalkhane mein chala gaya.
+23 Manoj seb le kar aaya.
+24 Sita gendh chod aayi.
+25 Arjun gendh le kar aaya.
+26 Arjun ne sita ko gendh di.
+27 Arjun ne sita ko kya diya? 	gendh	26
+28 Sita ne arjun ko gendh di.
+29 Sita dhoodh chod aayi.
+30 Gendh kisko mili? 	arjun	28
+31 Arjun ne sita ko gendh di.
+32 Sita ne arjun ko gendh di.
+33 Gendh kisko mili? 	arjun	32
+34 Arjun galiyare mein gaya.
+35 Arjun daftar mein gaya.
+36 Sita ne arjun ko kya diya? 	gendh	32
+37 Manoj ne arjun ko seb diya.
+38 Arjun ne manoj ko seb diya.
+39 Arjun ne seb kisko diya?	manoj	38
+1 Arjun sayanakaksh gaya.
+2 Arjun daftar mein gaya.
+3 Sita gendh le aayi.
+4 Sita gendh chod aayi.
+5 Arjun gusalkhane gaya.
+6 Manoj bagichey gaya.
+7 Arjun seb le kar aaya.
+8 Sita sayanakaksh mein chali gayi.
+9 Manoj gusalkhane mein gaya.
+10 Arjun ne manoj ko seb diya.
+11 Manoj ko seb kisney diya?	arjun	10
+12 Manoj seb chod aaya.
+13 Manoj seb le aaya.
+14 Arjun ne manoj ko kya diya? 	seb	10
+15 Manoj ne arjun ko seb diya.
+16 Sita daftar mein chali gayi.
+17 Manoj ne seb kisko diya?	arjun	15
+18 Hari gusalkhane gaya.
+19 Arjun ne hari ko seb diya.
+20 Hari ko seb kisney diya?	arjun	19
+21 Hari sayanakaksh mein gaya.
+22 Manoj rasoi ghar mein chala gaya.
+23 Seb kisney diya? 	arjun	19
+1 Sita seb le aayi.
+2 Sita gendh le aayi.
+3 Hari gusalkhane mein gaya.
+4 Sita ne hari ko seb diya.
+5 Seb kisney diya? 	sita	4
+6 Sita gendh chod aayi.
+7 Hari gendh le aaya.
+8 Seb kisney diya? 	sita	4
+9 Hari ne sita ko seb diya.
+10 Hari gendh rakh aaya.
+11 Hari ne sita ko kya diya? 	seb	9
+12 Sita ne hari ko seb diya.
+13 Sita gendh le aayi.
+14 Seb kisney diya? 	sita	12
+15 Hari ne sita ko seb diya.
+16 Sita gendh chod aayi.
+17 Sita ko seb kisney diya?	hari	15
+1 Hari bagichey gaya.
+2 Arjun bagichey mein gaya.
+3 Arjun rasoi ghar gaya.
+4 Hari rasoi ghar gaya.
+5 Hari daftar mein gaya.
+6 Hari sayanakaksh gaya.
+7 Manoj gusalkhane gaya.
+8 Sita rasoi ghar gayi.
+9 Manoj daftar gaya.
+10 Manoj galiyare gaya.
+11 Hari bagichey gaya.
+12 Arjun dhoodh le kar aaya.
+13 Manoj gendh le kar aaya.
+14 Manoj seb le aaya.
+15 Arjun ne sita ko dhoodh diya.
+16 Manoj gendh rakh aaya.
+17 Dhoodh kisko mila? 	sita	15
+18 Manoj seb rakh aaya.
+19 Sita ne arjun ko dhoodh diya.
+20 Sita ne arjun ko kya diya? 	dhoodh	19
+21 Manoj daftar gaya.
+22 Hari sayanakaksh mein chala gaya.
+23 Sita ne arjun ko kya diya? 	dhoodh	19
+24 Arjun ne sita ko dhoodh diya.
+25 Manoj gusalkhane gaya.
+26 Sita ko dhoodh kisney diya?	arjun	24
+27 Sita ne arjun ko dhoodh diya.
+28 Arjun bagichey mein chala gaya.
+29 Arjun ko dhoodh kisney diya?	sita	27
+1 Manoj sayanakaksh gaya.
+2 Sita bagichey gayi.
+3 Sita gusalkhane mein gayi.
+4 Arjun galiyare mein chala gaya.
+5 Arjun seb le aaya.
+6 Manoj daftar mein gaya.
+7 Hari daftar mein gaya.
+8 Manoj galiyare mein chala gaya.
+9 Arjun ne manoj ko seb diya.
+10 Manoj bagichey gaya.
+11 Arjun ne manoj ko kya diya? 	seb	9
+12 Hari gusalkhane gaya.
+13 Arjun daftar mein chala gaya.
+14 Arjun ne manoj ko kya diya? 	seb	9
+15 Manoj rasoi ghar mein chala gaya.
+16 Sita bagichey gayi.
+17 Arjun sayanakaksh gaya.
+18 Sita galiyare mein gayi.
+19 Hari bagichey mein gaya.
+20 Manoj bagichey mein gaya.
+21 Manoj daftar mein gaya.
+22 Manoj gusalkhane mein chala gaya.
+23 Sita bagichey mein gayi.
+24 Sita gendh le kar aayi.
+25 Hari dhoodh le aaya.
+26 Manoj galiyare mein chala gaya.
+27 Arjun daftar gaya.
+28 Hari dhoodh rakh aaya.
+29 Sita ne hari ko gendh di.
+30 Hari gusalkhane mein gaya.
+31 Sita ne hari ko kya diya? 	gendh	29
+32 Sita galiyare mein chali gayi.
+33 Manoj ne sita ko seb diya.
+34 Sita ne hari ko kya diya? 	gendh	29
+35 Hari daftar mein gaya.
+36 Sita ne manoj ko seb diya.
+37 Seb kisney diya? 	sita	36
+1 Arjun seb le kar aaya.
+2 Arjun seb chod aaya.
+3 Manoj gusalkhane gaya.
+4 Arjun seb le kar aaya.
+5 Arjun ne manoj ko seb diya.
+6 Hari galiyare gaya.
+7 Manoj ko seb kisney diya?	arjun	5
+8 Sita gendh le aayi.
+9 Manoj ne arjun ko seb diya.
+10 Manoj ne seb kisko diya?	arjun	9
+11 Arjun ne manoj ko seb diya.
+12 Manoj galiyare gaya.
+13 Manoj ko seb kisney diya?	arjun	11
+14 Manoj ne hari ko seb diya.
+15 Hari seb rakh aaya.
+16 Hari ko seb kisney diya?	manoj	14
+17 Manoj seb le aaya.
+18 Sita dhoodh le kar aayi.
+19 Seb kisney diya? 	manoj	14
+1 Hari gendh le aaya.
+2 Hari ne manoj ko gendh di.
+3 Gendh kisney di? 	hari	2
+4 Manoj ne hari ko gendh di.
+5 Arjun galiyare mein chala gaya.
+6 Gendh kisney di? 	manoj	4
+7 Sita rasoi ghar mein gayi.
+8 Hari ne manoj ko gendh di.
+9 Gendh kisney di? 	hari	8
+10 Manoj ne hari ko gendh di.
+11 Sita seb le aayi.
+12 Gendh kisney di? 	manoj	10
+13 Hari gendh rakh aaya.
+14 Hari rasoi ghar mein gaya.
+15 Manoj ne hari ko kya diya? 	gendh	10
+1 Hari galiyare mein chala gaya.
+2 Manoj bagichey mein chala gaya.
+3 Arjun galiyare mein chala gaya.
+4 Manoj sayanakaksh mein chala gaya.
+5 Manoj gendh le kar aaya.
+6 Manoj gendh chod aaya.
+7 Hari rasoi ghar mein gaya.
+8 Hari sayanakaksh mein gaya.
+9 Sita bagichey mein gayi.
+10 Hari bagichey gaya.
+11 Manoj gendh le aaya.
+12 Manoj rasoi ghar gaya.
+13 Arjun daftar gaya.
+14 Sita seb le kar aayi.
+15 Sita ne hari ko seb diya.
+16 Sita gusalkhane gayi.
+17 Hari ko seb kisney diya?	sita	15
+18 Hari daftar mein gaya.
+19 Hari ne arjun ko seb diya.
+20 Hari ne arjun ko kya diya? 	seb	19
+21 Arjun seb chod aaya.
+22 Sita sayanakaksh mein chali gayi.
+23 Seb kisney diya? 	hari	19
+24 Hari rasoi ghar mein chala gaya.
+25 Arjun seb le aaya.
+26 Seb kisney diya? 	hari	19
+27 Manoj ne hari ko gendh di.
+28 Arjun gusalkhane mein chala gaya.
+29 Gendh kisney di? 	manoj	27
+1 Manoj gendh le aaya.
+2 Manoj gendh chod aaya.
+3 Arjun rasoi ghar gaya.
+4 Manoj bagichey mein chala gaya.
+5 Arjun galiyare mein chala gaya.
+6 Sita sayanakaksh mein gayi.
+7 Arjun seb le kar aaya.
+8 Sita gusalkhane mein chali gayi.
+9 Sita galiyare mein chali gayi.
+10 Sita rasoi ghar mein gayi.
+11 Arjun seb chod aaya.
+12 Sita sayanakaksh mein gayi.
+13 Sita bagichey gayi.
+14 Arjun bagichey mein chala gaya.
+15 Sita sayanakaksh mein gayi.
+16 Sita rasoi ghar mein chali gayi.
+17 Manoj rasoi ghar mein chala gaya.
+18 Arjun rasoi ghar gaya.
+19 Sita galiyare gayi.
+20 Manoj galiyare mein gaya.
+21 Sita rasoi ghar mein chali gayi.
+22 Hari gusalkhane mein gaya.
+23 Hari galiyare mein chala gaya.
+24 Hari seb le kar aaya.
+25 Sita bagichey mein gayi.
+26 Hari ne manoj ko seb diya.
+27 Hari ne manoj ko kya diya? 	seb	26
+28 Manoj ne hari ko seb diya.
+29 Hari ne manoj ko seb diya.
+30 Hari ne seb kisko diya?	manoj	29
+31 Manoj ne hari ko seb diya.
+32 Hari bagichey mein chala gaya.
+33 Manoj ne seb kisko diya?	hari	31
+34 Hari ne sita ko seb diya.
+35 Sita ne hari ko seb diya.
+36 Sita ne seb kisko diya?	hari	35
+37 Sita galiyare mein chali gayi.
+38 Hari seb rakh aaya.
+39 Seb kisney diya? 	sita	35
+1 Manoj dhoodh le kar aaya.
+2 Sita bagichey gayi.
+3 Manoj ne arjun ko dhoodh diya.
+4 Manoj sayanakaksh mein gaya.
+5 Dhoodh kisney diya? 	manoj	3
+6 Arjun dhoodh chod aaya.
+7 Sita sayanakaksh mein gayi.
+8 Dhoodh kisko mila? 	arjun	3
+9 Arjun dhoodh le kar aaya.
+10 Sita bagichey mein gayi.
+11 Manoj galiyare mein chala gaya.
+12 Arjun ne manoj ko dhoodh diya.
+13 Arjun ne dhoodh kisko diya?	manoj	12
+14 Manoj ne arjun ko dhoodh diya.
+15 Arjun ne manoj ko dhoodh diya.
+16 Dhoodh kisko mila? 	manoj	15
+17 Manoj sayanakaksh mein chala gaya.
+18 Manoj ne hari ko dhoodh diya.
+19 Manoj ne hari ko kya diya? 	dhoodh	18
+1 Hari gusalkhane mein chala gaya.
+2 Sita rasoi ghar mein chali gayi.
+3 Arjun bagichey mein chala gaya.
+4 Sita sayanakaksh mein chali gayi.
+5 Sita dhoodh le kar aayi.
+6 Sita dhoodh chod aayi.
+7 Hari seb le aaya.
+8 Arjun galiyare gaya.
+9 Hari bagichey gaya.
+10 Arjun rasoi ghar mein chala gaya.
+11 Hari galiyare gaya.
+12 Manoj gendh le aaya.
+13 Hari ne manoj ko seb diya.
+14 Sita galiyare mein chali gayi.
+15 Hari ne manoj ko kya diya? 	seb	13
+16 Arjun galiyare mein gaya.
+17 Manoj ne sita ko seb diya.
+18 Sita ko seb kisney diya?	manoj	17
+19 Sita ne hari ko seb diya.
+20 Hari ne sita ko seb diya.
+21 Seb kisko mila? 	sita	20
+22 Sita ne hari ko seb diya.
+23 Hari ne sita ko seb diya.
+24 Hari ne sita ko kya diya? 	seb	23
+25 Sita ne hari ko seb diya.
+26 Hari seb chod aaya.
+27 Seb kisney diya? 	sita	25
+1 Sita gendh le aayi.
+2 Sita ne arjun ko gendh di.
+3 Gendh kisney di? 	sita	2
+4 Arjun bagichey mein chala gaya.
+5 Arjun gendh chod aaya.
+6 Arjun ko gendh kisney di?	sita	2
+7 Hari galiyare mein chala gaya.
+8 Arjun gendh le kar aaya.
+9 Gendh kisney di? 	sita	2
+10 Hari gusalkhane gaya.
+11 Arjun ne manoj ko gendh di.
+12 Arjun ne manoj ko kya diya? 	gendh	11
+13 Manoj ne arjun ko gendh di.
+14 Arjun ne manoj ko gendh di.
+15 Manoj ko gendh kisney di?	arjun	14
+1 Manoj dhoodh le aaya.
+2 Manoj ne hari ko dhoodh diya.
+3 Dhoodh kisko mila? 	hari	2
+4 Hari ne manoj ko dhoodh diya.
+5 Manoj ne hari ko dhoodh diya.
+6 Manoj ne dhoodh kisko diya?	hari	5
+7 Hari ne manoj ko dhoodh diya.
+8 Manoj galiyare gaya.
+9 Manoj ko dhoodh kisney diya?	hari	7
+10 Sita gusalkhane gayi.
+11 Sita galiyare mein gayi.
+12 Hari ne dhoodh kisko diya?	manoj	7
+13 Sita daftar gayi.
+14 Arjun rasoi ghar gaya.
+15 Manoj seb le aaya.
+16 Arjun sayanakaksh gaya.
+17 Sita rasoi ghar mein gayi.
+18 Manoj sayanakaksh mein gaya.
+19 Sita bagichey gayi.
+20 Arjun daftar mein chala gaya.
+21 Manoj daftar mein gaya.
+22 Manoj sayanakaksh mein gaya.
+23 Sita gendh le kar aayi.
+24 Manoj galiyare gaya.
+25 Sita sayanakaksh gayi.
+26 Hari daftar mein chala gaya.
+27 Arjun bagichey mein chala gaya.
+28 Sita gendh rakh aayi.
+29 Arjun daftar mein chala gaya.
+30 Manoj daftar mein gaya.
+31 Manoj ne hari ko seb diya.
+32 Sita gendh le kar aayi.
+33 Hari ko seb kisney diya?	manoj	31
+1 Sita gusalkhane mein chali gayi.
+2 Hari rasoi ghar mein chala gaya.
+3 Manoj gendh le aaya.
+4 Manoj ne sita ko gendh di.
+5 Manoj ne gendh kisko di?	sita	4
+6 Sita bagichey mein chali gayi.
+7 Arjun daftar gaya.
+8 Sita ko gendh kisney di?	manoj	4
+9 Hari daftar mein chala gaya.
+10 Arjun gusalkhane gaya.
+11 Gendh kisney di? 	manoj	4
+12 Arjun daftar mein gaya.
+13 Sita gendh chod aayi.
+14 Sita gendh le aayi.
+15 Hari sayanakaksh gaya.
+16 Arjun galiyare gaya.
+17 Sita gendh rakh aayi.
+18 Arjun rasoi ghar gaya.
+19 Sita gendh le kar aayi.
+20 Arjun dhoodh le kar aaya.
+21 Sita gendh rakh aayi.
+22 Sita galiyare mein gayi.
+23 Manoj daftar mein gaya.
+24 Manoj galiyare gaya.
+25 Sita rasoi ghar mein chali gayi.
+26 Arjun ne sita ko dhoodh diya.
+27 Arjun sayanakaksh gaya.
+28 Dhoodh kisney diya? 	arjun	26
+29 Arjun seb le aaya.
+30 Sita bagichey mein chali gayi.
+31 Arjun ne sita ko kya diya? 	dhoodh	26
+1 Hari gendh le aaya.
+2 Hari ne manoj ko gendh di.
+3 Hari ne manoj ko kya diya? 	gendh	2
+4 Manoj gendh chod aaya.
+5 Hari gendh le kar aaya.
+6 Hari ne manoj ko kya diya? 	gendh	2
+7 Hari ne manoj ko gendh di.
+8 Manoj daftar mein gaya.
+9 Manoj ko gendh kisney di?	hari	7
+10 Manoj galiyare mein chala gaya.
+11 Hari bagichey mein gaya.
+12 Gendh kisko mili? 	manoj	7
+13 Hari rasoi ghar mein gaya.
+14 Hari seb le kar aaya.
+15 Manoj bagichey gaya.
+16 Manoj ne sita ko gendh di.
+17 Manoj ne gendh kisko di?	sita	16
+1 Manoj daftar mein chala gaya.
+2 Sita seb le aayi.
+3 Sita seb rakh aayi.
+4 Hari sayanakaksh gaya.
+5 Hari gusalkhane mein chala gaya.
+6 Sita daftar mein gayi.
+7 Hari galiyare mein chala gaya.
+8 Hari sayanakaksh gaya.
+9 Sita rasoi ghar mein chali gayi.
+10 Hari rasoi ghar mein chala gaya.
+11 Sita sayanakaksh gayi.
+12 Sita galiyare gayi.
+13 Hari daftar gaya.
+14 Manoj galiyare gaya.
+15 Hari rasoi ghar mein chala gaya.
+16 Manoj seb le kar aaya.
+17 Hari daftar mein chala gaya.
+18 Arjun sayanakaksh mein gaya.
+19 Manoj ne sita ko seb diya.
+20 Sita seb rakh aayi.
+21 Seb kisko mila? 	sita	19
+22 Sita daftar mein chali gayi.
+23 Manoj seb le kar aaya.
+24 Manoj ne seb kisko diya?	sita	19
+25 Manoj seb chod aaya.
+26 Arjun dhoodh le aaya.
+27 Arjun gusalkhane gaya.
+28 Arjun dhoodh rakh aaya.
+29 Arjun bagichey gaya.
+30 Arjun sayanakaksh mein gaya.
+31 Hari rasoi ghar mein gaya.
+32 Manoj rasoi ghar mein gaya.
+33 Sita galiyare gayi.
+34 Arjun bagichey mein gaya.
+35 Arjun gendh le aaya.
+36 Manoj sayanakaksh gaya.
+37 Manoj gusalkhane mein gaya.
+38 Sita seb le kar aayi.
+39 Arjun gendh chod aaya.
+40 Arjun gendh le aaya.
+41 Sita seb chod aayi.
+42 Manoj dhoodh le aaya.
+43 Sita seb le kar aayi.
+44 Arjun gendh rakh aaya.
+45 Sita seb chod aayi.
+46 Arjun gusalkhane gaya.
+47 Manoj ne arjun ko dhoodh diya.
+48 Manoj sayanakaksh mein gaya.
+49 Dhoodh kisko mila? 	arjun	47
+50 Hari sayanakaksh mein chala gaya.
+51 Manoj gusalkhane mein gaya.
+52 Dhoodh kisney diya? 	manoj	47
+53 Manoj sayanakaksh gaya.
+54 Sita seb le aayi.
+55 Hari gusalkhane gaya.
+56 Arjun ne hari ko dhoodh diya.
+57 Hari ko dhoodh kisney diya?	arjun	56
+1 Hari galiyare mein gaya.
+2 Arjun rasoi ghar gaya.
+3 Hari sayanakaksh mein chala gaya.
+4 Sita daftar mein gayi.
+5 Arjun gendh le kar aaya.
+6 Sita rasoi ghar mein chali gayi.
+7 Manoj galiyare mein chala gaya.
+8 Manoj seb le kar aaya.
+9 Arjun gendh chod aaya.
+10 Manoj bagichey mein gaya.
+11 Manoj gusalkhane gaya.
+12 Sita gendh le kar aayi.
+13 Manoj sayanakaksh mein gaya.
+14 Manoj ne hari ko seb diya.
+15 Seb kisko mila? 	hari	14
+16 Hari ne manoj ko seb diya.
+17 Manoj rasoi ghar gaya.
+18 Seb kisney diya? 	hari	16
+19 Manoj seb chod aaya.
+20 Sita seb le aayi.
+21 Hari ne seb kisko diya?	manoj	16
+22 Sita ne manoj ko seb diya.
+23 Manoj ne sita ko seb diya.
+24 Sita ko seb kisney diya?	manoj	23
+25 Sita galiyare mein gayi.
+26 Sita bagichey mein gayi.
+27 Manoj ne seb kisko diya?	sita	23
+1 Manoj gendh le kar aaya.
+2 Hari galiyare gaya.
+3 Hari bagichey gaya.
+4 Hari gusalkhane gaya.
+5 Arjun gusalkhane mein gaya.
+6 Manoj gendh rakh aaya.
+7 Arjun sayanakaksh mein chala gaya.
+8 Hari dhoodh le kar aaya.
+9 Hari dhoodh rakh aaya.
+10 Hari bagichey mein chala gaya.
+11 Manoj gusalkhane mein gaya.
+12 Manoj rasoi ghar mein gaya.
+13 Manoj gusalkhane mein gaya.
+14 Manoj dhoodh le aaya.
+15 Manoj bagichey mein chala gaya.
+16 Manoj dhoodh chod aaya.
+17 Hari galiyare gaya.
+18 Hari gusalkhane mein chala gaya.
+19 Arjun bagichey mein chala gaya.
+20 Arjun dhoodh le aaya.
+21 Arjun daftar gaya.
+22 Hari galiyare gaya.
+23 Arjun gendh le kar aaya.
+24 Sita bagichey gayi.
+25 Manoj rasoi ghar mein gaya.
+26 Arjun sayanakaksh gaya.
+27 Manoj sayanakaksh mein chala gaya.
+28 Sita rasoi ghar mein chali gayi.
+29 Arjun ne manoj ko gendh di.
+30 Manoj ne arjun ko gendh di.
+31 Manoj ne gendh kisko di?	arjun	30
+32 Arjun rasoi ghar mein chala gaya.
+33 Manoj daftar mein gaya.
+34 Manoj ne arjun ko kya diya? 	gendh	30
+35 Arjun ne sita ko gendh di.
+36 Arjun dhoodh rakh aaya.
+37 Arjun ne gendh kisko di?	sita	35
+38 Sita ne arjun ko gendh di.
+39 Arjun dhoodh le aaya.
+40 Gendh kisney di? 	sita	38
+41 Arjun ne sita ko gendh di.
+42 Manoj sayanakaksh mein chala gaya.
+43 Arjun ne gendh kisko di?	sita	41
+1 Arjun dhoodh le aaya.
+2 Hari rasoi ghar mein chala gaya.
+3 Arjun seb le aaya.
+4 Hari gusalkhane mein gaya.
+5 Hari bagichey mein chala gaya.
+6 Sita sayanakaksh mein chali gayi.
+7 Arjun seb chod aaya.
+8 Sita seb le aayi.
+9 Sita ne arjun ko seb diya.
+10 Hari rasoi ghar gaya.
+11 Seb kisko mila? 	arjun	9
+12 Hari gendh le kar aaya.
+13 Arjun ne sita ko seb diya.
+14 Arjun ne sita ko kya diya? 	seb	13
+15 Sita seb chod aayi.
+16 Arjun dhoodh rakh aaya.
+17 Arjun ne sita ko kya diya? 	seb	13
+18 Hari sayanakaksh gaya.
+19 Hari ne sita ko gendh di.
+20 Hari ne gendh kisko di?	sita	19
+21 Hari bagichey mein chala gaya.
+22 Sita gendh rakh aayi.
+23 Gendh kisney di? 	hari	19
+1 Hari daftar gaya.
+2 Manoj seb le kar aaya.
+3 Hari bagichey gaya.
+4 Hari rasoi ghar mein gaya.
+5 Hari galiyare mein chala gaya.
+6 Arjun gusalkhane mein chala gaya.
+7 Manoj gusalkhane gaya.
+8 Arjun sayanakaksh mein gaya.
+9 Sita daftar gayi.
+10 Manoj seb chod aaya.
+11 Sita bagichey mein gayi.
+12 Arjun rasoi ghar mein gaya.
+13 Sita gendh le aayi.
+14 Manoj seb le kar aaya.
+15 Arjun daftar mein chala gaya.
+16 Hari sayanakaksh mein chala gaya.
+17 Sita rasoi ghar mein chali gayi.
+18 Sita bagichey mein chali gayi.
+19 Arjun gusalkhane mein gaya.
+20 Hari rasoi ghar gaya.
+21 Manoj sayanakaksh mein gaya.
+22 Sita gendh chod aayi.
+23 Sita sayanakaksh mein chali gayi.
+24 Sita rasoi ghar mein chali gayi.
+25 Hari dhoodh le aaya.
+26 Manoj rasoi ghar mein chala gaya.
+27 Manoj ne sita ko seb diya.
+28 Sita ne hari ko seb diya.
+29 Seb kisko mila? 	hari	28
+30 Hari dhoodh rakh aaya.
+31 Sita sayanakaksh gayi.
+32 Sita ne hari ko kya diya? 	seb	28
+33 Arjun daftar gaya.
+34 Hari seb chod aaya.
+35 Sita ne hari ko kya diya? 	seb	28
+36 Hari seb le kar aaya.
+37 Hari dhoodh le aaya.
+38 Hari seb chod aaya.
+39 Manoj seb le kar aaya.
+40 Manoj ne hari ko seb diya.
+41 Hari ne manoj ko seb diya.
+42 Seb kisney diya? 	hari	41
+43 Manoj ne hari ko seb diya.
+44 Hari ne manoj ko seb diya.
+45 Hari ne manoj ko kya diya? 	seb	44
+1 Manoj dhoodh le aaya.
+2 Arjun gusalkhane mein gaya.
+3 Manoj dhoodh chod aaya.
+4 Sita rasoi ghar mein gayi.
+5 Hari gendh le aaya.
+6 Arjun rasoi ghar mein gaya.
+7 Hari ne sita ko gendh di.
+8 Hari bagichey mein gaya.
+9 Gendh kisko mili? 	sita	7
+10 Hari galiyare mein chala gaya.
+11 Sita ne arjun ko gendh di.
+12 Arjun ko gendh kisney di?	sita	11
+13 Hari bagichey gaya.
+14 Manoj sayanakaksh gaya.
+15 Gendh kisko mili? 	arjun	11
+16 Hari rasoi ghar mein chala gaya.
+17 Manoj daftar gaya.
+18 Sita ne arjun ko kya diya? 	gendh	11
+19 Arjun ne sita ko gendh di.
+20 Sita ne hari ko gendh di.
+21 Gendh kisko mili? 	hari	20
+1 Sita bagichey mein chali gayi.
+2 Manoj galiyare gaya.
+3 Sita sayanakaksh gayi.
+4 Arjun gendh le aaya.
+5 Arjun ne hari ko gendh di.
+6 Hari ne arjun ko gendh di.
+7 Hari ne arjun ko kya diya? 	gendh	6
+8 Manoj bagichey mein gaya.
+9 Arjun ne hari ko gendh di.
+10 Arjun ne hari ko kya diya? 	gendh	9
+11 Manoj gusalkhane gaya.
+12 Hari ne arjun ko gendh di.
+13 Hari ne gendh kisko di?	arjun	12
+14 Arjun ne hari ko gendh di.
+15 Hari gendh rakh aaya.
+16 Hari ko gendh kisney di?	arjun	14
+17 Sita galiyare mein chali gayi.
+18 Sita dhoodh le kar aayi.
+19 Gendh kisney di? 	arjun	14
+1 Hari galiyare mein chala gaya.
+2 Arjun bagichey mein gaya.
+3 Hari seb le kar aaya.
+4 Hari gusalkhane mein chala gaya.
+5 Hari seb rakh aaya.
+6 Hari galiyare mein chala gaya.
+7 Sita daftar mein chali gayi.
+8 Manoj sayanakaksh gaya.
+9 Arjun sayanakaksh mein gaya.
+10 Sita sayanakaksh mein gayi.
+11 Manoj galiyare mein gaya.
+12 Hari bagichey mein chala gaya.
+13 Hari sayanakaksh gaya.
+14 Sita bagichey mein chali gayi.
+15 Hari gusalkhane mein chala gaya.
+16 Sita gusalkhane mein gayi.
+17 Hari rasoi ghar gaya.
+18 Sita bagichey mein chali gayi.
+19 Manoj sayanakaksh mein gaya.
+20 Arjun gusalkhane mein chala gaya.
+21 Manoj gusalkhane gaya.
+22 Manoj gendh le aaya.
+23 Arjun galiyare gaya.
+24 Hari sayanakaksh mein chala gaya.
+25 Sita gusalkhane mein gayi.
+26 Manoj ne sita ko gendh di.
+27 Manoj ne gendh kisko di?	sita	26
+28 Sita ne manoj ko gendh di.
+29 Hari gusalkhane mein chala gaya.
+30 Sita ne gendh kisko di?	manoj	28
+31 Manoj ne sita ko gendh di.
+32 Sita ne hari ko gendh di.
+33 Sita ne hari ko kya diya? 	gendh	32
+34 Hari gendh chod aaya.
+35 Manoj galiyare mein chala gaya.
+36 Sita ne hari ko kya diya? 	gendh	32
+37 Hari seb le kar aaya.
+38 Hari ne sita ko seb diya.
+39 Sita ko seb kisney diya?	hari	38
+1 Sita sayanakaksh mein chali gayi.
+2 Arjun daftar mein gaya.
+3 Manoj sayanakaksh mein chala gaya.
+4 Hari daftar mein chala gaya.
+5 Arjun gusalkhane mein chala gaya.
+6 Arjun daftar gaya.
+7 Manoj rasoi ghar gaya.
+8 Manoj gendh le aaya.
+9 Arjun sayanakaksh mein gaya.
+10 Arjun gusalkhane gaya.
+11 Arjun dhoodh le aaya.
+12 Sita rasoi ghar gayi.
+13 Manoj ne sita ko gendh di.
+14 Sita ne manoj ko gendh di.
+15 Manoj ko gendh kisney di?	sita	14
+16 Hari bagichey mein gaya.
+17 Manoj ne sita ko gendh di.
+18 Gendh kisko mili? 	sita	17
+19 Arjun daftar mein chala gaya.
+20 Sita galiyare mein gayi.
+21 Manoj ne sita ko kya diya? 	gendh	17
+22 Sita gendh chod aayi.
+23 Manoj galiyare mein chala gaya.
+24 Manoj ne gendh kisko di?	sita	17
+25 Arjun dhoodh chod aaya.
+26 Manoj daftar mein gaya.
+27 Sita bagichey mein gayi.
+28 Sita gusalkhane mein chali gayi.
+29 Manoj dhoodh le kar aaya.
+30 Manoj galiyare gaya.
+31 Sita bagichey mein gayi.
+32 Sita galiyare mein gayi.
+33 Manoj ne sita ko dhoodh diya.
+34 Sita bagichey mein chali gayi.
+35 Dhoodh kisko mila? 	sita	33
+1 Sita gendh le kar aayi.
+2 Arjun daftar gaya.
+3 Sita gendh chod aayi.
+4 Sita daftar gayi.
+5 Manoj galiyare mein chala gaya.
+6 Manoj gusalkhane mein chala gaya.
+7 Manoj seb le kar aaya.
+8 Arjun sayanakaksh mein chala gaya.
+9 Arjun gusalkhane mein gaya.
+10 Manoj galiyare gaya.
+11 Arjun rasoi ghar mein chala gaya.
+12 Arjun sayanakaksh mein gaya.
+13 Manoj daftar mein gaya.
+14 Manoj ne sita ko seb diya.
+15 Seb kisney diya? 	manoj	14
+16 Sita ne manoj ko seb diya.
+17 Manoj gusalkhane gaya.
+18 Sita ne manoj ko kya diya? 	seb	16
+19 Manoj galiyare gaya.
+20 Arjun galiyare mein chala gaya.
+21 Sita ne manoj ko kya diya? 	seb	16
+22 Manoj dhoodh le kar aaya.
+23 Manoj ne arjun ko seb diya.
+24 Manoj ne arjun ko kya diya? 	seb	23
+25 Manoj dhoodh chod aaya.
+26 Arjun seb rakh aaya.
+27 Arjun ko seb kisney diya?	manoj	23
+1 Arjun dhoodh le kar aaya.
+2 Sita rasoi ghar mein gayi.
+3 Arjun ne manoj ko dhoodh diya.
+4 Manoj ne arjun ko dhoodh diya.
+5 Manoj ne dhoodh kisko diya?	arjun	4
+6 Arjun ne manoj ko dhoodh diya.
+7 Hari sayanakaksh mein gaya.
+8 Manoj ko dhoodh kisney diya?	arjun	6
+9 Hari seb le aaya.
+10 Arjun sayanakaksh gaya.
+11 Dhoodh kisney diya? 	arjun	6
+12 Hari ne arjun ko seb diya.
+13 Arjun ne hari ko seb diya.
+14 Hari ko seb kisney diya?	arjun	13
+15 Hari ne arjun ko seb diya.
+16 Arjun ne hari ko seb diya.
+17 Seb kisney diya? 	arjun	16
+1 Hari rasoi ghar mein gaya.
+2 Arjun seb le aaya.
+3 Arjun seb rakh aaya.
+4 Arjun seb le kar aaya.
+5 Arjun seb rakh aaya.
+6 Hari bagichey mein gaya.
+7 Arjun seb le aaya.
+8 Sita gusalkhane mein chali gayi.
+9 Hari sayanakaksh mein chala gaya.
+10 Arjun gusalkhane mein chala gaya.
+11 Arjun ne sita ko seb diya.
+12 Hari dhoodh le aaya.
+13 Arjun ne sita ko kya diya? 	seb	11
+14 Sita ne arjun ko seb diya.
+15 Hari bagichey mein chala gaya.
+16 Sita ne arjun ko kya diya? 	seb	14
+17 Hari daftar mein chala gaya.
+18 Hari rasoi ghar gaya.
+19 Sita ne seb kisko diya?	arjun	14
+20 Arjun seb rakh aaya.
+21 Arjun sayanakaksh mein gaya.
+22 Hari dhoodh chod aaya.
+23 Sita gendh le aayi.
+24 Arjun bagichey mein chala gaya.
+25 Sita bagichey gayi.
+26 Hari dhoodh le kar aaya.
+27 Hari bagichey mein chala gaya.
+28 Sita ne hari ko gendh di.
+29 Hari gendh chod aaya.
+30 Hari ko gendh kisney di?	sita	28
+31 Hari ne sita ko dhoodh diya.
+32 Manoj gendh le aaya.
+33 Sita ne hari ko kya diya? 	gendh	28
+1 Arjun daftar mein chala gaya.
+2 Manoj sayanakaksh mein gaya.
+3 Arjun rasoi ghar gaya.
+4 Hari sayanakaksh mein gaya.
+5 Arjun sayanakaksh mein gaya.
+6 Sita dhoodh le kar aayi.
+7 Sita dhoodh rakh aayi.
+8 Sita rasoi ghar mein gayi.
+9 Arjun rasoi ghar gaya.
+10 Manoj bagichey mein chala gaya.
+11 Sita daftar gayi.
+12 Hari gusalkhane mein gaya.
+13 Sita sayanakaksh mein chali gayi.
+14 Sita galiyare mein chali gayi.
+15 Hari bagichey mein chala gaya.
+16 Manoj gusalkhane gaya.
+17 Hari dhoodh le aaya.
+18 Manoj sayanakaksh mein gaya.
+19 Sita seb le kar aayi.
+20 Arjun gusalkhane gaya.
+21 Hari galiyare mein chala gaya.
+22 Hari dhoodh rakh aaya.
+23 Sita ne hari ko seb diya.
+24 Sita gusalkhane gayi.
+25 Sita ne hari ko kya diya? 	seb	23
+26 Sita gendh le kar aayi.
+27 Sita gendh rakh aayi.
+28 Seb kisney diya? 	sita	23
+29 Hari dhoodh le aaya.
+30 Sita gendh le kar aayi.
+31 Hari dhoodh rakh aaya.
+32 Arjun sayanakaksh mein gaya.
+33 Manoj galiyare gaya.
+34 Hari ne manoj ko seb diya.
+35 Seb kisney diya? 	hari	34
+36 Manoj rasoi ghar mein gaya.
+37 Hari gusalkhane mein gaya.
+38 Seb kisney diya? 	hari	34
+39 Manoj seb rakh aaya.
+40 Manoj galiyare gaya.
+41 Seb kisko mila? 	manoj	34
+1 Manoj rasoi ghar gaya.
+2 Hari sayanakaksh gaya.
+3 Manoj galiyare gaya.
+4 Sita daftar mein chali gayi.
+5 Sita galiyare mein chali gayi.
+6 Manoj sayanakaksh mein gaya.
+7 Hari dhoodh le aaya.
+8 Manoj gendh le kar aaya.
+9 Hari daftar mein chala gaya.
+10 Hari dhoodh rakh aaya.
+11 Sita daftar gayi.
+12 Sita dhoodh le kar aayi.
+13 Sita ne hari ko dhoodh diya.
+14 Manoj gendh rakh aaya.
+15 Sita ne dhoodh kisko diya?	hari	13
+16 Arjun daftar mein gaya.
+17 Hari ne sita ko dhoodh diya.
+18 Sita ko dhoodh kisney diya?	hari	17
+19 Arjun sayanakaksh mein gaya.
+20 Hari galiyare mein chala gaya.
+21 Sita ko dhoodh kisney diya?	hari	17
+22 Manoj bagichey mein gaya.
+23 Sita dhoodh chod aayi.
+24 Hari ne sita ko kya diya? 	dhoodh	17
+25 Manoj sayanakaksh mein chala gaya.
+26 Sita dhoodh le aayi.
+27 Arjun daftar gaya.
+28 Manoj gendh le kar aaya.
+29 Sita ne arjun ko dhoodh diya.
+30 Arjun rasoi ghar mein gaya.
+31 Sita ne arjun ko kya diya? 	dhoodh	29
+1 Hari sayanakaksh mein chala gaya.
+2 Hari daftar mein gaya.
+3 Hari bagichey mein chala gaya.
+4 Sita sayanakaksh mein gayi.
+5 Manoj rasoi ghar mein chala gaya.
+6 Arjun bagichey gaya.
+7 Manoj gendh le aaya.
+8 Manoj gusalkhane gaya.
+9 Manoj seb le kar aaya.
+10 Hari galiyare mein chala gaya.
+11 Hari daftar mein gaya.
+12 Arjun rasoi ghar mein chala gaya.
+13 Hari dhoodh le kar aaya.
+14 Hari galiyare gaya.
+15 Manoj rasoi ghar mein chala gaya.
+16 Hari dhoodh rakh aaya.
+17 Sita daftar gayi.
+18 Manoj ne arjun ko seb diya.
+19 Manoj ne arjun ko kya diya? 	seb	18
+20 Arjun ne manoj ko seb diya.
+21 Manoj sayanakaksh mein chala gaya.
+22 Arjun ne manoj ko kya diya? 	seb	20
+23 Sita sayanakaksh gayi.
+24 Manoj daftar mein chala gaya.
+25 Seb kisney diya? 	arjun	20
+26 Hari dhoodh le aaya.
+27 Arjun daftar gaya.
+28 Arjun rasoi ghar gaya.
+29 Hari dhoodh rakh aaya.
+30 Manoj seb chod aaya.
+31 Arjun daftar gaya.
+32 Arjun seb le aaya.
+33 Hari dhoodh le kar aaya.
+34 Arjun seb chod aaya.
+35 Arjun seb le aaya.
+36 Arjun ne manoj ko seb diya.
+37 Manoj ne arjun ko seb diya.
+38 Manoj ne arjun ko kya diya? 	seb	37
+39 Arjun seb rakh aaya.
+40 Manoj gusalkhane gaya.
+41 Seb kisko mila? 	arjun	37
+1 Arjun dhoodh le aaya.
+2 Hari daftar mein chala gaya.
+3 Sita gendh le kar aayi.
+4 Sita gusalkhane gayi.
+5 Arjun daftar gaya.
+6 Arjun dhoodh rakh aaya.
+7 Hari bagichey mein gaya.
+8 Manoj rasoi ghar mein gaya.
+9 Arjun seb le kar aaya.
+10 Manoj gusalkhane mein gaya.
+11 Arjun seb chod aaya.
+12 Sita bagichey mein gayi.
+13 Sita ne hari ko gendh di.
+14 Manoj daftar mein chala gaya.
+15 Gendh kisney di? 	sita	13
+16 Sita sayanakaksh mein gayi.
+17 Sita bagichey mein chali gayi.
+18 Sita ne hari ko kya diya? 	gendh	13
+19 Manoj rasoi ghar mein gaya.
+20 Hari gendh rakh aaya.
+21 Manoj sayanakaksh mein gaya.
+22 Sita gendh le aayi.
+23 Sita sayanakaksh mein chali gayi.
+24 Manoj galiyare mein gaya.
+25 Sita gendh chod aayi.
+26 Sita bagichey gayi.
+27 Sita sayanakaksh mein gayi.
+28 Manoj gusalkhane mein chala gaya.
+29 Sita gendh le aayi.
+30 Arjun seb le kar aaya.
+31 Manoj galiyare gaya.
+32 Arjun sayanakaksh gaya.
+33 Arjun ne sita ko seb diya.
+34 Sita ne arjun ko seb diya.
+35 Arjun ko seb kisney diya?	sita	34
+36 Arjun ne sita ko seb diya.
+37 Sita ne arjun ko seb diya.
+38 Sita ne arjun ko kya diya? 	seb	37
+39 Sita gendh rakh aayi.
+40 Arjun ne sita ko seb diya.
+41 Arjun ne sita ko kya diya? 	seb	40
+1 Arjun daftar mein chala gaya.
+2 Hari bagichey gaya.
+3 Sita gusalkhane mein chali gayi.
+4 Arjun bagichey mein chala gaya.
+5 Arjun gusalkhane mein chala gaya.
+6 Arjun rasoi ghar mein gaya.
+7 Arjun seb le kar aaya.
+8 Arjun seb chod aaya.
+9 Hari galiyare gaya.
+10 Hari gusalkhane mein gaya.
+11 Manoj galiyare gaya.
+12 Manoj gusalkhane gaya.
+13 Arjun gusalkhane mein gaya.
+14 Sita galiyare gayi.
+15 Arjun bagichey gaya.
+16 Sita gusalkhane mein chali gayi.
+17 Manoj galiyare gaya.
+18 Hari bagichey mein chala gaya.
+19 Hari rasoi ghar mein gaya.
+20 Hari bagichey mein gaya.
+21 Arjun sayanakaksh mein gaya.
+22 Arjun galiyare gaya.
+23 Hari rasoi ghar mein chala gaya.
+24 Hari galiyare mein gaya.
+25 Arjun sayanakaksh mein gaya.
+26 Arjun galiyare gaya.
+27 Hari sayanakaksh gaya.
+28 Sita rasoi ghar gayi.
+29 Sita dhoodh le kar aayi.
+30 Manoj daftar mein gaya.
+31 Sita gusalkhane mein chali gayi.
+32 Sita galiyare mein gayi.
+33 Sita dhoodh chod aayi.
+34 Arjun gusalkhane mein chala gaya.
+35 Hari galiyare mein chala gaya.
+36 Manoj sayanakaksh gaya.
+37 Arjun bagichey mein chala gaya.
+38 Sita sayanakaksh mein chali gayi.
+39 Sita bagichey gayi.
+40 Hari daftar gaya.
+41 Arjun gusalkhane gaya.
+42 Arjun daftar gaya.
+43 Sita rasoi ghar mein gayi.
+44 Hari sayanakaksh mein gaya.
+45 Sita gusalkhane mein gayi.
+46 Hari rasoi ghar mein gaya.
+47 Sita sayanakaksh mein chali gayi.
+48 Sita rasoi ghar mein chali gayi.
+49 Hari seb le aaya.
+50 Manoj galiyare mein gaya.
+51 Sita gendh le aayi.
+52 Sita daftar mein chali gayi.
+53 Manoj dhoodh le aaya.
+54 Hari gusalkhane mein chala gaya.
+55 Sita ne arjun ko gendh di.
+56 Arjun ne sita ko gendh di.
+57 Gendh kisko mili? 	sita	56
+58 Sita ne arjun ko gendh di.
+59 Hari daftar mein chala gaya.
+60 Gendh kisko mili? 	arjun	58
+61 Hari galiyare gaya.
+62 Arjun gendh chod aaya.
+63 Gendh kisney di? 	sita	58
+64 Hari sayanakaksh mein gaya.
+65 Hari seb rakh aaya.
+66 Sita gendh le aayi.
+67 Manoj rasoi ghar gaya.
+68 Sita ne arjun ko gendh di.
+69 Arjun ne sita ko gendh di.
+70 Arjun ne sita ko kya diya? 	gendh	69
+71 Sita ne arjun ko gendh di.
+72 Arjun ne sita ko gendh di.
+73 Sita ko gendh kisney di?	arjun	72
+1 Manoj daftar mein chala gaya.
+2 Hari seb le kar aaya.
+3 Hari ne manoj ko seb diya.
+4 Hari sayanakaksh gaya.
+5 Manoj ko seb kisney diya?	hari	3
+6 Manoj galiyare gaya.
+7 Hari gusalkhane mein chala gaya.
+8 Seb kisney diya? 	hari	3
+9 Hari rasoi ghar gaya.
+10 Arjun dhoodh le kar aaya.
+11 Hari sayanakaksh mein chala gaya.
+12 Manoj sayanakaksh gaya.
+13 Manoj ne hari ko seb diya.
+14 Hari ne manoj ko seb diya.
+15 Seb kisko mila? 	manoj	14
+16 Manoj ne hari ko seb diya.
+17 Hari ne manoj ko seb diya.
+18 Hari ne manoj ko kya diya? 	seb	17
+19 Manoj ne hari ko seb diya.
+20 Hari seb chod aaya.
+21 Seb kisney diya? 	manoj	19
+1 Manoj sayanakaksh mein chala gaya.
+2 Manoj gusalkhane mein chala gaya.
+3 Manoj daftar mein gaya.
+4 Sita galiyare mein chali gayi.
+5 Hari galiyare mein chala gaya.
+6 Manoj galiyare mein chala gaya.
+7 Manoj dhoodh le kar aaya.
+8 Manoj ne sita ko dhoodh diya.
+9 Manoj ne dhoodh kisko diya?	sita	8
+10 Sita ne hari ko dhoodh diya.
+11 Hari ne sita ko dhoodh diya.
+12 Hari ne dhoodh kisko diya?	sita	11
+13 Hari bagichey mein chala gaya.
+14 Sita ne manoj ko dhoodh diya.
+15 Manoj ko dhoodh kisney diya?	sita	14
+16 Manoj ne sita ko dhoodh diya.
+17 Sita dhoodh rakh aayi.
+18 Manoj ne dhoodh kisko diya?	sita	16
+19 Arjun rasoi ghar mein gaya.
+20 Sita daftar mein gayi.
+21 Sita ko dhoodh kisney diya?	manoj	16
+1 Hari bagichey mein gaya.
+2 Sita dhoodh le aayi.
+3 Sita dhoodh chod aayi.
+4 Hari galiyare mein chala gaya.
+5 Sita gusalkhane gayi.
+6 Arjun gusalkhane mein chala gaya.
+7 Hari gendh le kar aaya.
+8 Manoj sayanakaksh mein chala gaya.
+9 Hari sayanakaksh mein chala gaya.
+10 Hari gendh rakh aaya.
+11 Hari gendh le kar aaya.
+12 Hari gendh chod aaya.
+13 Manoj gendh le kar aaya.
+14 Hari galiyare gaya.
+15 Manoj rasoi ghar mein gaya.
+16 Hari rasoi ghar mein gaya.
+17 Manoj ne hari ko gendh di.
+18 Hari ne manoj ko gendh di.
+19 Hari ne gendh kisko di?	manoj	18
+20 Arjun galiyare mein gaya.
+21 Manoj daftar mein chala gaya.
+22 Gendh kisney di? 	hari	18
+23 Arjun sayanakaksh mein chala gaya.
+24 Sita rasoi ghar gayi.
+25 Gendh kisko mili? 	manoj	18
+26 Manoj seb le aaya.
+27 Manoj gendh chod aaya.
+28 Manoj gendh le aaya.
+29 Arjun bagichey mein gaya.
+30 Arjun rasoi ghar gaya.
+31 Manoj gendh rakh aaya.
+32 Manoj gendh le kar aaya.
+33 Hari sayanakaksh mein chala gaya.
+34 Manoj seb rakh aaya.
+35 Sita gusalkhane mein gayi.
+36 Manoj bagichey mein gaya.
+37 Arjun bagichey mein chala gaya.
+38 Manoj gendh chod aaya.
+39 Arjun gendh le kar aaya.
+40 Arjun ne manoj ko gendh di.
+41 Manoj galiyare mein gaya.
+42 Arjun ne gendh kisko di?	manoj	40
+43 Arjun rasoi ghar gaya.
+44 Arjun bagichey mein gaya.
+45 Arjun ne manoj ko kya diya? 	gendh	40
+1 Sita daftar gayi.
+2 Arjun dhoodh le aaya.
+3 Sita sayanakaksh mein chali gayi.
+4 Arjun dhoodh rakh aaya.
+5 Arjun bagichey gaya.
+6 Arjun sayanakaksh mein gaya.
+7 Sita daftar mein chali gayi.
+8 Sita dhoodh le aayi.
+9 Sita bagichey mein gayi.
+10 Sita ne hari ko dhoodh diya.
+11 Sita ne hari ko kya diya? 	dhoodh	10
+12 Hari galiyare gaya.
+13 Manoj galiyare mein chala gaya.
+14 Sita ne hari ko kya diya? 	dhoodh	10
+15 Sita sayanakaksh mein chali gayi.
+16 Hari dhoodh rakh aaya.
+17 Hari ko dhoodh kisney diya?	sita	10
+18 Manoj daftar mein chala gaya.
+19 Hari sayanakaksh mein chala gaya.
+20 Arjun bagichey gaya.
+21 Manoj gusalkhane mein chala gaya.
+22 Sita galiyare mein gayi.
+23 Sita gendh le aayi.
+24 Sita gendh chod aayi.
+25 Sita dhoodh le kar aayi.
+26 Manoj seb le aaya.
+27 Sita dhoodh chod aayi.
+28 Arjun daftar mein chala gaya.
+29 Manoj rasoi ghar mein gaya.
+30 Manoj seb rakh aaya.
+31 Sita gusalkhane gayi.
+32 Arjun sayanakaksh mein chala gaya.
+33 Manoj seb le aaya.
+34 Arjun galiyare mein gaya.
+35 Manoj seb chod aaya.
+36 Manoj seb le aaya.
+37 Sita rasoi ghar mein gayi.
+38 Manoj daftar mein gaya.
+39 Sita daftar mein gayi.
+40 Manoj galiyare gaya.
+41 Manoj ne arjun ko seb diya.
+42 Manoj ne arjun ko kya diya? 	seb	41
+43 Arjun ne manoj ko seb diya.
+44 Arjun daftar mein gaya.
+45 Arjun ne manoj ko kya diya? 	seb	43
+1 Arjun galiyare mein gaya.
+2 Manoj gendh le kar aaya.
+3 Manoj ne hari ko gendh di.
+4 Hari gendh chod aaya.
+5 Hari ko gendh kisney di?	manoj	3
+6 Sita gusalkhane gayi.
+7 Hari rasoi ghar mein gaya.
+8 Manoj ne hari ko kya diya? 	gendh	3
+9 Arjun daftar mein chala gaya.
+10 Arjun gendh le aaya.
+11 Arjun gendh chod aaya.
+12 Manoj rasoi ghar mein chala gaya.
+13 Manoj galiyare mein chala gaya.
+14 Hari seb le aaya.
+15 Manoj dhoodh le aaya.
+16 Hari sayanakaksh mein chala gaya.
+17 Manoj dhoodh rakh aaya.
+18 Hari daftar gaya.
+19 Arjun gendh le aaya.
+20 Hari ne arjun ko seb diya.
+21 Hari ne arjun ko kya diya? 	seb	20
+22 Manoj dhoodh le kar aaya.
+23 Sita sayanakaksh gayi.
+24 Seb kisko mila? 	arjun	20
+25 Hari sayanakaksh mein chala gaya.
+26 Hari bagichey mein gaya.
+27 Hari ne arjun ko kya diya? 	seb	20
+1 Arjun gendh le aaya.
+2 Hari daftar gaya.
+3 Manoj seb le kar aaya.
+4 Arjun galiyare gaya.
+5 Hari dhoodh le kar aaya.
+6 Arjun sayanakaksh mein gaya.
+7 Hari dhoodh chod aaya.
+8 Manoj rasoi ghar gaya.
+9 Manoj seb rakh aaya.
+10 Hari rasoi ghar mein chala gaya.
+11 Hari seb le kar aaya.
+12 Manoj bagichey gaya.
+13 Arjun galiyare mein gaya.
+14 Arjun gusalkhane mein gaya.
+15 Hari daftar mein gaya.
+16 Hari dhoodh le aaya.
+17 Hari dhoodh rakh aaya.
+18 Arjun daftar mein gaya.
+19 Hari ne arjun ko seb diya.
+20 Manoj daftar gaya.
+21 Seb kisney diya? 	hari	19
+22 Arjun dhoodh le aaya.
+23 Arjun gendh chod aaya.
+24 Hari ne arjun ko kya diya? 	seb	19
+25 Arjun dhoodh chod aaya.
+26 Arjun ne hari ko seb diya.
+27 Arjun ne seb kisko diya?	hari	26
+28 Hari gendh le aaya.
+29 Hari ne manoj ko seb diya.
+30 Seb kisko mila? 	manoj	29
+31 Manoj ne hari ko seb diya.
+32 Hari ne manoj ko seb diya.
+33 Seb kisney diya? 	hari	32
+1 Hari galiyare gaya.
+2 Manoj rasoi ghar mein chala gaya.
+3 Manoj bagichey gaya.
+4 Arjun bagichey gaya.
+5 Sita seb le kar aayi.
+6 Hari sayanakaksh mein chala gaya.
+7 Sita ne hari ko seb diya.
+8 Manoj rasoi ghar mein gaya.
+9 Sita ne hari ko kya diya? 	seb	7
+10 Hari ne sita ko seb diya.
+11 Sita gusalkhane gayi.
+12 Hari ne sita ko kya diya? 	seb	10
+13 Manoj sayanakaksh mein gaya.
+14 Sita sayanakaksh mein chali gayi.
+15 Sita ko seb kisney diya?	hari	10
+16 Sita ne hari ko seb diya.
+17 Hari ne sita ko seb diya.
+18 Hari ne seb kisko diya?	sita	17
+19 Sita ne hari ko seb diya.
+20 Hari seb chod aaya.
+21 Sita ne seb kisko diya?	hari	19
+1 Manoj dhoodh le aaya.
+2 Arjun rasoi ghar gaya.
+3 Arjun seb le aaya.
+4 Manoj ne hari ko dhoodh diya.
+5 Dhoodh kisko mila? 	hari	4
+6 Manoj sayanakaksh mein chala gaya.
+7 Hari dhoodh chod aaya.
+8 Dhoodh kisko mila? 	hari	4
+9 Hari dhoodh le kar aaya.
+10 Manoj gusalkhane mein chala gaya.
+11 Manoj ne hari ko kya diya? 	dhoodh	4
+12 Manoj rasoi ghar gaya.
+13 Hari dhoodh rakh aaya.
+14 Arjun ne manoj ko seb diya.
+15 Hari dhoodh le kar aaya.
+16 Arjun ne seb kisko diya?	manoj	14
+17 Hari bagichey mein chala gaya.
+18 Manoj ne arjun ko seb diya.
+19 Seb kisko mila? 	arjun	18
+1 Arjun rasoi ghar mein gaya.
+2 Manoj seb le kar aaya.
+3 Sita gendh le kar aayi.
+4 Hari sayanakaksh mein gaya.
+5 Hari gusalkhane gaya.
+6 Manoj ne hari ko seb diya.
+7 Seb kisney diya? 	manoj	6
+8 Sita gendh rakh aayi.
+9 Hari seb chod aaya.
+10 Hari ko seb kisney diya?	manoj	6
+11 Sita rasoi ghar mein chali gayi.
+12 Hari sayanakaksh mein chala gaya.
+13 Manoj ne hari ko kya diya? 	seb	6
+14 Manoj seb le kar aaya.
+15 Arjun sayanakaksh mein chala gaya.
+16 Hari daftar mein gaya.
+17 Hari rasoi ghar mein chala gaya.
+18 Manoj rasoi ghar mein gaya.
+19 Manoj ne sita ko seb diya.
+20 Manoj ne sita ko kya diya? 	seb	19
+21 Hari gusalkhane gaya.
+22 Manoj bagichey mein chala gaya.
+23 Manoj ne sita ko kya diya? 	seb	19
+1 Manoj gusalkhane mein gaya.
+2 Sita sayanakaksh mein gayi.
+3 Hari gusalkhane mein chala gaya.
+4 Hari dhoodh le kar aaya.
+5 Manoj bagichey mein chala gaya.
+6 Hari daftar gaya.
+7 Hari rasoi ghar mein chala gaya.
+8 Arjun sayanakaksh gaya.
+9 Hari dhoodh rakh aaya.
+10 Manoj sayanakaksh mein chala gaya.
+11 Manoj daftar gaya.
+12 Arjun galiyare gaya.
+13 Sita galiyare gayi.
+14 Manoj galiyare mein chala gaya.
+15 Manoj sayanakaksh mein chala gaya.
+16 Sita bagichey gayi.
+17 Manoj gusalkhane mein chala gaya.
+18 Hari daftar gaya.
+19 Arjun gusalkhane mein gaya.
+20 Arjun gendh le kar aaya.
+21 Arjun ne manoj ko gendh di.
+22 Manoj sayanakaksh mein gaya.
+23 Gendh kisko mili? 	manoj	21
+24 Sita galiyare mein gayi.
+25 Sita seb le kar aayi.
+26 Manoj ko gendh kisney di?	arjun	21
+27 Sita seb chod aayi.
+28 Sita daftar mein gayi.
+29 Manoj gendh rakh aaya.
+30 Arjun rasoi ghar mein gaya.
+31 Sita bagichey mein chali gayi.
+32 Arjun sayanakaksh mein gaya.
+33 Manoj gendh le kar aaya.
+34 Manoj ne arjun ko gendh di.
+35 Manoj ne arjun ko kya diya? 	gendh	34
+36 Arjun ne manoj ko gendh di.
+37 Sita rasoi ghar mein chali gayi.
+38 Arjun ne gendh kisko di?	manoj	36
+39 Manoj gendh rakh aaya.
+40 Manoj bagichey gaya.
+41 Gendh kisney di? 	arjun	36
+1 Sita gusalkhane gayi.
+2 Hari sayanakaksh mein chala gaya.
+3 Manoj gusalkhane mein gaya.
+4 Manoj sayanakaksh gaya.
+5 Hari rasoi ghar gaya.
+6 Sita bagichey mein gayi.
+7 Hari gusalkhane gaya.
+8 Sita gendh le aayi.
+9 Hari galiyare mein chala gaya.
+10 Sita gendh rakh aayi.
+11 Sita gendh le kar aayi.
+12 Arjun rasoi ghar mein gaya.
+13 Sita gendh rakh aayi.
+14 Manoj galiyare mein gaya.
+15 Hari daftar gaya.
+16 Hari galiyare gaya.
+17 Manoj daftar mein gaya.
+18 Hari dhoodh le kar aaya.
+19 Arjun sayanakaksh gaya.
+20 Manoj seb le aaya.
+21 Sita galiyare gayi.
+22 Hari ne sita ko dhoodh diya.
+23 Hari ne sita ko kya diya? 	dhoodh	22
+24 Sita ne hari ko dhoodh diya.
+25 Hari dhoodh rakh aaya.
+26 Dhoodh kisko mila? 	hari	24
+27 Hari dhoodh le aaya.
+28 Hari ne sita ko dhoodh diya.
+29 Dhoodh kisney diya? 	hari	28
+30 Sita ne hari ko dhoodh diya.
+31 Hari ne sita ko dhoodh diya.
+32 Sita ko dhoodh kisney diya?	hari	31
+33 Sita ne hari ko dhoodh diya.
+34 Hari ne sita ko dhoodh diya.
+35 Hari ne dhoodh kisko diya?	sita	34
+1 Manoj galiyare gaya.
+2 Manoj sayanakaksh mein gaya.
+3 Manoj seb le kar aaya.
+4 Manoj seb rakh aaya.
+5 Arjun bagichey gaya.
+6 Manoj galiyare mein gaya.
+7 Sita galiyare mein gayi.
+8 Arjun sayanakaksh mein gaya.
+9 Hari dhoodh le aaya.
+10 Hari rasoi ghar mein gaya.
+11 Hari dhoodh chod aaya.
+12 Hari dhoodh le kar aaya.
+13 Hari sayanakaksh mein gaya.
+14 Arjun seb le kar aaya.
+15 Hari dhoodh chod aaya.
+16 Arjun ne hari ko seb diya.
+17 Seb kisney diya? 	arjun	16
+18 Hari galiyare gaya.
+19 Hari ne sita ko seb diya.
+20 Seb kisko mila? 	sita	19
+21 Sita seb chod aayi.
+22 Sita seb le kar aayi.
+23 Seb kisko mila? 	sita	19
+24 Sita daftar mein gayi.
+25 Sita seb rakh aayi.
+26 Hari ne sita ko kya diya? 	seb	19
+27 Arjun dhoodh le kar aaya.
+28 Sita gusalkhane gayi.
+29 Sita rasoi ghar mein gayi.
+30 Arjun dhoodh chod aaya.
+31 Hari rasoi ghar mein gaya.
+32 Hari gendh le kar aaya.
+33 Hari ne sita ko gendh di.
+34 Sita ne hari ko gendh di.
+35 Sita ne gendh kisko di?	hari	34
+1 Hari dhoodh le aaya.
+2 Hari dhoodh chod aaya.
+3 Sita gendh le kar aayi.
+4 Sita ne arjun ko gendh di.
+5 Sita ne gendh kisko di?	arjun	4
+6 Arjun ne sita ko gendh di.
+7 Sita daftar mein chali gayi.
+8 Gendh kisko mili? 	sita	6
+9 Sita ne hari ko gendh di.
+10 Hari ne sita ko gendh di.
+11 Hari ne sita ko kya diya? 	gendh	10
+12 Arjun daftar mein chala gaya.
+13 Sita ne hari ko gendh di.
+14 Sita ne hari ko kya diya? 	gendh	13
+15 Hari ne sita ko gendh di.
+16 Hari sayanakaksh mein gaya.
+17 Hari ne sita ko kya diya? 	gendh	15
+1 Manoj rasoi ghar mein chala gaya.
+2 Hari gusalkhane mein gaya.
+3 Arjun rasoi ghar mein gaya.
+4 Arjun gusalkhane mein gaya.
+5 Hari daftar gaya.
+6 Sita galiyare mein chali gayi.
+7 Sita gusalkhane gayi.
+8 Arjun galiyare mein gaya.
+9 Arjun bagichey mein gaya.
+10 Sita galiyare gayi.
+11 Manoj galiyare mein gaya.
+12 Hari galiyare mein chala gaya.
+13 Arjun galiyare gaya.
+14 Hari sayanakaksh gaya.
+15 Sita rasoi ghar mein chali gayi.
+16 Sita daftar mein gayi.
+17 Sita gendh le kar aayi.
+18 Arjun bagichey mein chala gaya.
+19 Hari rasoi ghar gaya.
+20 Hari gusalkhane gaya.
+21 Hari sayanakaksh mein chala gaya.
+22 Arjun rasoi ghar gaya.
+23 Arjun galiyare mein gaya.
+24 Sita rasoi ghar mein chali gayi.
+25 Sita galiyare gayi.
+26 Hari seb le kar aaya.
+27 Hari galiyare mein chala gaya.
+28 Sita gendh chod aayi.
+29 Hari ne sita ko seb diya.
+30 Arjun gendh le aaya.
+31 Hari ne sita ko kya diya? 	seb	29
+32 Arjun daftar mein chala gaya.
+33 Sita ne hari ko seb diya.
+34 Sita ne seb kisko diya?	hari	33
+35 Hari ne sita ko seb diya.
+36 Arjun rasoi ghar mein gaya.
+37 Seb kisney diya? 	hari	35
+38 Manoj rasoi ghar mein gaya.
+39 Arjun daftar gaya.
+40 Seb kisko mila? 	sita	35
+41 Hari gusalkhane mein chala gaya.
+42 Arjun bagichey mein gaya.
+43 Hari sayanakaksh mein gaya.
+44 Arjun daftar gaya.
+45 Sita bagichey mein gayi.
+46 Sita seb rakh aayi.
+47 Manoj daftar gaya.
+48 Arjun ne manoj ko gendh di.
+49 Arjun ne manoj ko kya diya? 	gendh	48
+1 Arjun galiyare gaya.
+2 Sita daftar mein gayi.
+3 Hari gusalkhane gaya.
+4 Manoj rasoi ghar gaya.
+5 Hari sayanakaksh gaya.
+6 Arjun gusalkhane mein chala gaya.
+7 Arjun rasoi ghar mein gaya.
+8 Hari daftar mein chala gaya.
+9 Arjun bagichey mein gaya.
+10 Hari bagichey mein gaya.
+11 Manoj gendh le aaya.
+12 Hari seb le kar aaya.
+13 Arjun sayanakaksh mein chala gaya.
+14 Manoj gendh rakh aaya.
+15 Hari dhoodh le aaya.
+16 Manoj gendh le aaya.
+17 Arjun gusalkhane gaya.
+18 Arjun daftar mein chala gaya.
+19 Hari gusalkhane mein gaya.
+20 Manoj gusalkhane mein chala gaya.
+21 Hari ne manoj ko seb diya.
+22 Manoj ne hari ko seb diya.
+23 Hari ko seb kisney diya?	manoj	22
+24 Hari rasoi ghar mein chala gaya.
+25 Hari galiyare mein chala gaya.
+26 Manoj ne hari ko kya diya? 	seb	22
+27 Hari sayanakaksh mein gaya.
+28 Manoj gendh rakh aaya.
+29 Manoj ne hari ko kya diya? 	seb	22
+30 Manoj gendh le aaya.
+31 Arjun galiyare gaya.
+32 Manoj bagichey gaya.
+33 Hari bagichey mein gaya.
+34 Manoj gendh rakh aaya.
+35 Hari galiyare mein gaya.
+36 Manoj gendh le aaya.
+37 Hari dhoodh chod aaya.
+38 Sita bagichey gayi.
+39 Arjun sayanakaksh mein gaya.
+40 Manoj gendh rakh aaya.
+41 Arjun rasoi ghar mein chala gaya.
+42 Hari bagichey mein gaya.
+43 Hari ne sita ko seb diya.
+44 Hari ne sita ko kya diya? 	seb	43
+45 Sita ne hari ko seb diya.
+46 Manoj gendh le aaya.
+47 Sita ne hari ko kya diya? 	seb	45
+1 Sita gendh le aayi.
+2 Manoj rasoi ghar mein gaya.
+3 Sita gendh rakh aayi.
+4 Sita gendh le aayi.
+5 Hari sayanakaksh mein gaya.
+6 Sita gendh chod aayi.
+7 Hari rasoi ghar gaya.
+8 Arjun daftar gaya.
+9 Arjun galiyare mein gaya.
+10 Sita daftar gayi.
+11 Arjun daftar gaya.
+12 Sita gusalkhane gayi.
+13 Manoj sayanakaksh mein chala gaya.
+14 Manoj seb le kar aaya.
+15 Arjun sayanakaksh mein gaya.
+16 Manoj ne arjun ko seb diya.
+17 Seb kisney diya? 	manoj	16
+18 Arjun ne manoj ko seb diya.
+19 Hari sayanakaksh mein gaya.
+20 Seb kisney diya? 	arjun	18
+21 Manoj ne hari ko seb diya.
+22 Arjun galiyare mein chala gaya.
+23 Manoj ne hari ko kya diya? 	seb	21
+24 Hari ne manoj ko seb diya.
+25 Manoj ne hari ko seb diya.
+26 Manoj ne seb kisko diya?	hari	25
+27 Hari ne manoj ko seb diya.
+28 Hari bagichey mein gaya.
+29 Hari ne manoj ko kya diya? 	seb	27
+1 Hari rasoi ghar mein chala gaya.
+2 Manoj bagichey mein gaya.
+3 Manoj rasoi ghar gaya.
+4 Arjun rasoi ghar mein chala gaya.
+5 Manoj gusalkhane mein gaya.
+6 Sita gendh le aayi.
+7 Sita gendh rakh aayi.
+8 Hari daftar mein gaya.
+9 Sita sayanakaksh gayi.
+10 Sita daftar mein chali gayi.
+11 Hari gusalkhane gaya.
+12 Manoj galiyare mein gaya.
+13 Arjun gendh le aaya.
+14 Manoj gusalkhane mein chala gaya.
+15 Hari sayanakaksh gaya.
+16 Arjun gendh rakh aaya.
+17 Arjun gendh le aaya.
+18 Hari bagichey mein gaya.
+19 Arjun gendh rakh aaya.
+20 Arjun sayanakaksh mein chala gaya.
+21 Hari seb le kar aaya.
+22 Arjun rasoi ghar mein gaya.
+23 Arjun gendh le kar aaya.
+24 Arjun galiyare mein gaya.
+25 Sita gusalkhane mein chali gayi.
+26 Hari seb chod aaya.
+27 Hari dhoodh le aaya.
+28 Manoj bagichey mein chala gaya.
+29 Sita galiyare mein gayi.
+30 Manoj seb le kar aaya.
+31 Arjun daftar mein gaya.
+32 Manoj ne hari ko seb diya.
+33 Seb kisko mila? 	hari	32
+34 Hari ne manoj ko seb diya.
+35 Arjun gendh chod aaya.
+36 Manoj ko seb kisney diya?	hari	34
+37 Manoj seb chod aaya.
+38 Arjun gendh le aaya.
+39 Seb kisko mila? 	manoj	34
+40 Hari dhoodh chod aaya.
+41 Manoj daftar mein gaya.
+42 Hari seb le kar aaya.
+43 Arjun galiyare gaya.
+44 Manoj rasoi ghar gaya.
+45 Arjun ne sita ko gendh di.
+46 Gendh kisney di? 	arjun	45
+47 Manoj bagichey gaya.
+48 Sita gendh rakh aayi.
+49 Gendh kisko mili? 	sita	45
+1 Manoj bagichey mein gaya.
+2 Manoj daftar mein chala gaya.
+3 Hari sayanakaksh mein chala gaya.
+4 Hari daftar mein chala gaya.
+5 Arjun dhoodh le aaya.
+6 Manoj seb le aaya.
+7 Manoj ne hari ko seb diya.
+8 Arjun bagichey gaya.
+9 Seb kisney diya? 	manoj	7
+10 Arjun dhoodh rakh aaya.
+11 Hari ne manoj ko seb diya.
+12 Manoj ko seb kisney diya?	hari	11
+13 Manoj ne hari ko seb diya.
+14 Hari ne manoj ko seb diya.
+15 Manoj ko seb kisney diya?	hari	14
+16 Manoj ne hari ko seb diya.
+17 Hari ne manoj ko seb diya.
+18 Seb kisney diya? 	hari	17
+19 Manoj ne hari ko seb diya.
+20 Arjun dhoodh le kar aaya.
+21 Manoj ne seb kisko diya?	hari	19
+1 Arjun gusalkhane mein chala gaya.
+2 Hari seb le kar aaya.
+3 Hari galiyare mein chala gaya.
+4 Hari gusalkhane mein chala gaya.
+5 Hari ne manoj ko seb diya.
+6 Arjun galiyare gaya.
+7 Seb kisney diya? 	hari	5
+8 Hari daftar mein chala gaya.
+9 Arjun sayanakaksh mein chala gaya.
+10 Hari ne seb kisko diya?	manoj	5
+11 Sita rasoi ghar mein gayi.
+12 Manoj sayanakaksh mein gaya.
+13 Hari galiyare mein gaya.
+14 Sita gusalkhane gayi.
+15 Manoj ne arjun ko seb diya.
+16 Arjun ne manoj ko seb diya.
+17 Arjun ne manoj ko kya diya? 	seb	16
+18 Manoj ne arjun ko seb diya.
+19 Arjun ne manoj ko seb diya.
+20 Seb kisko mila? 	manoj	19
+21 Manoj ne arjun ko seb diya.
+22 Arjun ne manoj ko seb diya.
+23 Arjun ne seb kisko diya?	manoj	22
+1 Hari bagichey gaya.
+2 Sita daftar mein gayi.
+3 Arjun dhoodh le kar aaya.
+4 Arjun gusalkhane gaya.
+5 Sita gusalkhane mein chali gayi.
+6 Arjun daftar mein chala gaya.
+7 Manoj bagichey mein chala gaya.
+8 Sita daftar gayi.
+9 Arjun ne sita ko dhoodh diya.
+10 Hari sayanakaksh gaya.
+11 Dhoodh kisney diya? 	arjun	9
+12 Sita ne arjun ko dhoodh diya.
+13 Arjun dhoodh chod aaya.
+14 Dhoodh kisko mila? 	arjun	12
+15 Sita bagichey gayi.
+16 Arjun dhoodh le kar aaya.
+17 Dhoodh kisney diya? 	sita	12
+18 Hari daftar gaya.
+19 Arjun bagichey gaya.
+20 Arjun dhoodh rakh aaya.
+21 Manoj dhoodh le kar aaya.
+22 Manoj rasoi ghar gaya.
+23 Manoj gendh le kar aaya.
+24 Arjun gusalkhane mein gaya.
+25 Arjun galiyare gaya.
+26 Hari bagichey gaya.
+27 Arjun seb le kar aaya.
+28 Manoj dhoodh chod aaya.
+29 Sita rasoi ghar mein gayi.
+30 Manoj dhoodh le kar aaya.
+31 Manoj ne sita ko gendh di.
+32 Gendh kisney di? 	manoj	31
+33 Manoj galiyare mein chala gaya.
+34 Arjun ne manoj ko seb diya.
+35 Manoj ne sita ko kya diya? 	gendh	31
+1 Hari gendh le aaya.
+2 Hari gendh chod aaya.
+3 Hari gendh le kar aaya.
+4 Hari seb le kar aaya.
+5 Manoj daftar mein chala gaya.
+6 Arjun daftar mein gaya.
+7 Hari bagichey mein gaya.
+8 Hari seb rakh aaya.
+9 Arjun galiyare mein chala gaya.
+10 Hari gendh rakh aaya.
+11 Hari gendh le kar aaya.
+12 Manoj gusalkhane gaya.
+13 Arjun bagichey gaya.
+14 Arjun seb le aaya.
+15 Sita sayanakaksh mein gayi.
+16 Manoj bagichey mein chala gaya.
+17 Arjun ne hari ko seb diya.
+18 Hari ne manoj ko seb diya.
+19 Hari ne manoj ko kya diya? 	seb	18
+20 Manoj daftar mein gaya.
+21 Hari ne arjun ko gendh di.
+22 Seb kisko mila? 	manoj	18
+23 Sita daftar mein gayi.
+24 Manoj ne sita ko seb diya.
+25 Arjun ko gendh kisney di?	hari	21
+26 Manoj bagichey mein chala gaya.
+27 Sita bagichey mein chali gayi.
+28 Seb kisko mila? 	sita	24
+29 Arjun gendh chod aaya.
+30 Sita ne hari ko seb diya.
+31 Seb kisko mila? 	hari	30
+1 Manoj gusalkhane gaya.
+2 Arjun gendh le kar aaya.
+3 Hari rasoi ghar mein gaya.
+4 Sita galiyare gayi.
+5 Arjun galiyare mein gaya.
+6 Arjun ne sita ko gendh di.
+7 Arjun ne sita ko kya diya? 	gendh	6
+8 Sita ne arjun ko gendh di.
+9 Arjun gendh rakh aaya.
+10 Sita ne arjun ko kya diya? 	gendh	8
+11 Sita gusalkhane mein chali gayi.
+12 Sita daftar mein chali gayi.
+13 Sita ne arjun ko kya diya? 	gendh	8
+14 Sita gusalkhane gayi.
+15 Manoj daftar mein gaya.
+16 Arjun daftar mein chala gaya.
+17 Hari daftar gaya.
+18 Sita bagichey gayi.
+19 Hari dhoodh le kar aaya.
+20 Sita sayanakaksh mein gayi.
+21 Hari dhoodh rakh aaya.
+22 Sita bagichey mein gayi.
+23 Manoj dhoodh le aaya.
+24 Manoj dhoodh rakh aaya.
+25 Arjun sayanakaksh mein gaya.
+26 Manoj galiyare mein chala gaya.
+27 Sita gusalkhane mein gayi.
+28 Manoj bagichey mein chala gaya.
+29 Arjun bagichey mein gaya.
+30 Sita galiyare mein gayi.
+31 Hari rasoi ghar gaya.
+32 Sita bagichey mein chali gayi.
+33 Sita sayanakaksh mein chali gayi.
+34 Sita gusalkhane mein gayi.
+35 Sita seb le kar aayi.
+36 Arjun gusalkhane mein chala gaya.
+37 Sita seb rakh aayi.
+38 Hari sayanakaksh mein chala gaya.
+39 Sita daftar mein chali gayi.
+40 Arjun bagichey mein gaya.
+41 Sita dhoodh le aayi.
+42 Hari rasoi ghar gaya.
+43 Sita dhoodh rakh aayi.
+44 Manoj sayanakaksh mein gaya.
+45 Sita dhoodh le kar aayi.
+46 Hari gusalkhane mein chala gaya.
+47 Arjun gusalkhane gaya.
+48 Hari seb le aaya.
+49 Hari ne arjun ko seb diya.
+50 Seb kisney diya? 	hari	49
+51 Arjun ne hari ko seb diya.
+52 Hari daftar gaya.
+53 Arjun ne hari ko kya diya? 	seb	51
+1 Manoj dhoodh le kar aaya.
+2 Arjun daftar mein gaya.
+3 Manoj daftar mein chala gaya.
+4 Arjun bagichey gaya.
+5 Sita rasoi ghar gayi.
+6 Manoj ne hari ko dhoodh diya.
+7 Hari ko dhoodh kisney diya?	manoj	6
+8 Sita galiyare gayi.
+9 Arjun rasoi ghar mein chala gaya.
+10 Manoj ne dhoodh kisko diya?	hari	6
+11 Sita gendh le aayi.
+12 Hari ne manoj ko dhoodh diya.
+13 Hari ne manoj ko kya diya? 	dhoodh	12
+14 Sita gendh chod aayi.
+15 Manoj bagichey gaya.
+16 Hari ne manoj ko kya diya? 	dhoodh	12
+17 Sita sayanakaksh gayi.
+18 Hari gusalkhane mein gaya.
+19 Hari ne manoj ko kya diya? 	dhoodh	12
+1 Sita dhoodh le aayi.
+2 Manoj rasoi ghar gaya.
+3 Sita ne hari ko dhoodh diya.
+4 Hari ne sita ko dhoodh diya.
+5 Sita ko dhoodh kisney diya?	hari	4
+6 Sita ne hari ko dhoodh diya.
+7 Arjun bagichey gaya.
+8 Sita ne dhoodh kisko diya?	hari	6
+9 Hari ne sita ko dhoodh diya.
+10 Arjun gusalkhane mein gaya.
+11 Dhoodh kisko mila? 	sita	9
+12 Manoj sayanakaksh mein chala gaya.
+13 Sita dhoodh chod aayi.
+14 Hari ne sita ko kya diya? 	dhoodh	9
+15 Sita daftar mein chali gayi.
+16 Sita bagichey gayi.
+17 Manoj daftar mein chala gaya.
+18 Hari bagichey mein chala gaya.
+19 Sita rasoi ghar mein gayi.
+20 Hari gendh le kar aaya.
+21 Hari daftar gaya.
+22 Hari gendh chod aaya.
+23 Hari gendh le kar aaya.
+24 Arjun daftar mein chala gaya.
+25 Manoj sayanakaksh mein gaya.
+26 Manoj dhoodh le aaya.
+27 Hari ne arjun ko gendh di.
+28 Arjun gendh chod aaya.
+29 Arjun ko gendh kisney di?	hari	27
+1 Manoj gendh le kar aaya.
+2 Sita galiyare mein gayi.
+3 Hari galiyare mein chala gaya.
+4 Manoj gendh chod aaya.
+5 Sita gusalkhane mein gayi.
+6 Sita sayanakaksh mein chali gayi.
+7 Hari sayanakaksh mein gaya.
+8 Manoj gendh le kar aaya.
+9 Hari bagichey mein chala gaya.
+10 Manoj ne sita ko gendh di.
+11 Gendh kisney di? 	manoj	10
+12 Hari dhoodh le aaya.
+13 Manoj gusalkhane mein gaya.
+14 Gendh kisko mili? 	sita	10
+15 Hari dhoodh rakh aaya.
+16 Arjun daftar mein gaya.
+17 Manoj ne sita ko kya diya? 	gendh	10
+18 Sita gendh rakh aayi.
+19 Hari gusalkhane mein chala gaya.
+20 Sita gendh le kar aayi.
+21 Arjun seb le aaya.
+22 Sita gusalkhane gayi.
+23 Sita ne hari ko gendh di.
+24 Gendh kisney di? 	sita	23
+25 Hari gendh chod aaya.
+26 Manoj rasoi ghar mein gaya.
+27 Hari ko gendh kisney di?	sita	23
+1 Manoj bagichey mein gaya.
+2 Arjun daftar mein gaya.
+3 Hari gusalkhane mein chala gaya.
+4 Manoj sayanakaksh mein chala gaya.
+5 Hari bagichey mein chala gaya.
+6 Manoj bagichey gaya.
+7 Manoj galiyare mein gaya.
+8 Sita galiyare mein chali gayi.
+9 Sita rasoi ghar gayi.
+10 Sita gendh le aayi.
+11 Sita bagichey mein gayi.
+12 Arjun sayanakaksh mein gaya.
+13 Sita ne hari ko gendh di.
+14 Arjun rasoi ghar gaya.
+15 Sita ne hari ko kya diya? 	gendh	13
+16 Hari ne sita ko gendh di.
+17 Sita ne hari ko gendh di.
+18 Hari ko gendh kisney di?	sita	17
+19 Manoj daftar gaya.
+20 Hari daftar mein gaya.
+21 Gendh kisney di? 	sita	17
+22 Hari ne manoj ko gendh di.
+23 Manoj ne hari ko gendh di.
+24 Manoj ne hari ko kya diya? 	gendh	23
+25 Hari ne manoj ko gendh di.
+26 Arjun gusalkhane mein chala gaya.
+27 Hari ne manoj ko kya diya? 	gendh	25
+1 Arjun gendh le kar aaya.
+2 Arjun gendh rakh aaya.
+3 Arjun gendh le aaya.
+4 Sita bagichey gayi.
+5 Sita dhoodh le aayi.
+6 Sita galiyare mein chali gayi.
+7 Manoj gusalkhane gaya.
+8 Arjun ne sita ko gendh di.
+9 Sita ko gendh kisney di?	arjun	8
+10 Arjun gusalkhane gaya.
+11 Sita gusalkhane mein chali gayi.
+12 Gendh kisney di? 	arjun	8
+13 Sita ne hari ko gendh di.
+14 Hari ne sita ko gendh di.
+15 Sita ko gendh kisney di?	hari	14
+16 Sita ne hari ko gendh di.
+17 Hari ne sita ko gendh di.
+18 Hari ne sita ko kya diya? 	gendh	17
+19 Sita ne hari ko gendh di.
+20 Sita bagichey mein chali gayi.
+21 Gendh kisney di? 	sita	19
+1 Manoj daftar gaya.
+2 Hari galiyare mein gaya.
+3 Manoj gendh le kar aaya.
+4 Manoj seb le kar aaya.
+5 Sita rasoi ghar mein gayi.
+6 Arjun gusalkhane mein chala gaya.
+7 Manoj gendh chod aaya.
+8 Arjun dhoodh le aaya.
+9 Manoj seb rakh aaya.
+10 Hari sayanakaksh mein gaya.
+11 Arjun dhoodh chod aaya.
+12 Manoj sayanakaksh mein gaya.
+13 Arjun dhoodh le kar aaya.
+14 Arjun dhoodh rakh aaya.
+15 Arjun rasoi ghar mein chala gaya.
+16 Sita galiyare mein chali gayi.
+17 Sita bagichey mein gayi.
+18 Sita rasoi ghar gayi.
+19 Hari rasoi ghar gaya.
+20 Hari daftar mein chala gaya.
+21 Arjun gusalkhane mein gaya.
+22 Arjun sayanakaksh mein chala gaya.
+23 Arjun rasoi ghar mein gaya.
+24 Hari sayanakaksh gaya.
+25 Sita gusalkhane mein chali gayi.
+26 Sita dhoodh le kar aayi.
+27 Sita dhoodh chod aayi.
+28 Arjun galiyare mein chala gaya.
+29 Arjun rasoi ghar mein gaya.
+30 Arjun daftar mein gaya.
+31 Manoj gusalkhane mein gaya.
+32 Arjun galiyare mein gaya.
+33 Hari bagichey mein chala gaya.
+34 Arjun daftar mein gaya.
+35 Sita dhoodh le aayi.
+36 Sita ne manoj ko dhoodh diya.
+37 Sita ne dhoodh kisko diya?	manoj	36
+38 Manoj ne sita ko dhoodh diya.
+39 Sita ne manoj ko dhoodh diya.
+40 Manoj ko dhoodh kisney diya?	sita	39
+41 Manoj ne sita ko dhoodh diya.
+42 Sita ne manoj ko dhoodh diya.
+43 Dhoodh kisko mila? 	manoj	42
+44 Arjun sayanakaksh mein chala gaya.
+45 Manoj ne sita ko dhoodh diya.
+46 Manoj ne dhoodh kisko diya?	sita	45
+47 Sita dhoodh chod aayi.
+48 Sita galiyare gayi.
+49 Dhoodh kisney diya? 	manoj	45
+1 Arjun gusalkhane mein gaya.
+2 Sita galiyare mein chali gayi.
+3 Hari dhoodh le kar aaya.
+4 Sita bagichey mein gayi.
+5 Hari ne arjun ko dhoodh diya.
+6 Manoj bagichey gaya.
+7 Arjun ko dhoodh kisney diya?	hari	5
+8 Hari galiyare mein gaya.
+9 Arjun seb le aaya.
+10 Hari ne dhoodh kisko diya?	arjun	5
+11 Arjun dhoodh rakh aaya.
+12 Sita gusalkhane mein chali gayi.
+13 Arjun ne sita ko seb diya.
+14 Hari rasoi ghar gaya.
+15 Arjun ne sita ko kya diya? 	seb	13
+16 Sita seb rakh aayi.
+17 Arjun dhoodh le kar aaya.
+18 Seb kisney diya? 	arjun	13
+19 Sita seb le aayi.
+20 Sita daftar gayi.
+21 Arjun dhoodh rakh aaya.
+22 Sita seb rakh aayi.
+23 Arjun dhoodh le kar aaya.
+24 Arjun rasoi ghar mein chala gaya.
+25 Manoj sayanakaksh gaya.
+26 Arjun ne hari ko dhoodh diya.
+27 Arjun ne hari ko kya diya? 	dhoodh	26
+1 Manoj bagichey gaya.
+2 Sita dhoodh le kar aayi.
+3 Arjun gendh le kar aaya.
+4 Arjun bagichey gaya.
+5 Sita rasoi ghar mein gayi.
+6 Manoj gusalkhane mein gaya.
+7 Hari bagichey gaya.
+8 Arjun ne hari ko gendh di.
+9 Arjun ne gendh kisko di?	hari	8
+10 Hari ne arjun ko gendh di.
+11 Sita dhoodh rakh aayi.
+12 Hari ne gendh kisko di?	arjun	10
+13 Manoj galiyare gaya.
+14 Arjun ne hari ko gendh di.
+15 Gendh kisney di? 	arjun	14
+16 Hari ne arjun ko gendh di.
+17 Arjun rasoi ghar gaya.
+18 Gendh kisko mili? 	arjun	16
+19 Arjun dhoodh le aaya.
+20 Arjun gendh rakh aaya.
+21 Hari ne arjun ko kya diya? 	gendh	16
+1 Hari daftar mein gaya.
+2 Manoj daftar gaya.
+3 Sita sayanakaksh gayi.
+4 Manoj sayanakaksh gaya.
+5 Hari seb le kar aaya.
+6 Sita rasoi ghar gayi.
+7 Hari seb chod aaya.
+8 Arjun sayanakaksh mein chala gaya.
+9 Sita sayanakaksh gayi.
+10 Hari sayanakaksh gaya.
+11 Arjun bagichey gaya.
+12 Manoj rasoi ghar mein chala gaya.
+13 Arjun gendh le kar aaya.
+14 Arjun sayanakaksh mein chala gaya.
+15 Arjun gendh chod aaya.
+16 Hari gendh le kar aaya.
+17 Arjun rasoi ghar mein gaya.
+18 Hari ne sita ko gendh di.
+19 Gendh kisney di? 	hari	18
+20 Hari rasoi ghar gaya.
+21 Arjun gusalkhane mein gaya.
+22 Hari ne sita ko kya diya? 	gendh	18
+23 Hari daftar mein gaya.
+24 Sita gendh rakh aayi.
+25 Hari ne gendh kisko di?	sita	18
+26 Manoj bagichey mein chala gaya.
+27 Sita gendh le aayi.
+28 Sita gendh rakh aayi.
+29 Sita gendh le kar aayi.
+30 Arjun bagichey gaya.
+31 Arjun dhoodh le aaya.
+32 Sita daftar mein chali gayi.
+33 Sita ne hari ko gendh di.
+34 Sita ne hari ko kya diya? 	gendh	33
+35 Hari ne sita ko gendh di.
+36 Sita ne hari ko gendh di.
+37 Gendh kisney di? 	sita	36
+1 Sita rasoi ghar mein gayi.
+2 Arjun gusalkhane mein gaya.
+3 Arjun daftar gaya.
+4 Arjun rasoi ghar mein gaya.
+5 Hari galiyare mein gaya.
+6 Sita bagichey mein chali gayi.
+7 Manoj gusalkhane mein chala gaya.
+8 Manoj galiyare mein chala gaya.
+9 Sita sayanakaksh mein chali gayi.
+10 Arjun galiyare gaya.
+11 Sita rasoi ghar gayi.
+12 Arjun daftar mein gaya.
+13 Sita sayanakaksh mein chali gayi.
+14 Manoj bagichey mein chala gaya.
+15 Manoj galiyare mein gaya.
+16 Sita gusalkhane mein chali gayi.
+17 Sita gendh le aayi.
+18 Sita gendh rakh aayi.
+19 Hari sayanakaksh mein gaya.
+20 Hari galiyare gaya.
+21 Sita gendh le aayi.
+22 Sita bagichey mein gayi.
+23 Arjun galiyare mein chala gaya.
+24 Sita galiyare mein gayi.
+25 Sita gusalkhane mein gayi.
+26 Manoj bagichey gaya.
+27 Hari daftar mein chala gaya.
+28 Hari bagichey gaya.
+29 Sita gendh rakh aayi.
+30 Arjun sayanakaksh mein gaya.
+31 Sita gendh le kar aayi.
+32 Arjun seb le kar aaya.
+33 Arjun dhoodh le aaya.
+34 Arjun seb rakh aaya.
+35 Manoj daftar gaya.
+36 Sita sayanakaksh mein gayi.
+37 Sita daftar mein chali gayi.
+38 Arjun rasoi ghar mein gaya.
+39 Sita ne manoj ko gendh di.
+40 Arjun daftar gaya.
+41 Manoj ko gendh kisney di?	sita	39
+42 Manoj gendh chod aaya.
+43 Manoj galiyare mein gaya.
+44 Gendh kisko mili? 	manoj	39
+45 Arjun ne sita ko dhoodh diya.
+46 Hari sayanakaksh mein chala gaya.
+47 Arjun ne dhoodh kisko diya?	sita	45
+48 Sita ne arjun ko dhoodh diya.
+49 Arjun ne sita ko dhoodh diya.
+50 Arjun ne sita ko kya diya? 	dhoodh	49
+51 Arjun sayanakaksh gaya.
+52 Manoj gusalkhane mein gaya.
+53 Dhoodh kisko mila? 	sita	49
+1 Arjun gusalkhane gaya.
+2 Manoj galiyare mein chala gaya.
+3 Manoj gendh le kar aaya.
+4 Manoj daftar gaya.
+5 Manoj ne sita ko gendh di.
+6 Sita gendh rakh aayi.
+7 Manoj ne gendh kisko di?	sita	5
+8 Sita gendh le aayi.
+9 Sita ne hari ko gendh di.
+10 Gendh kisko mili? 	hari	9
+11 Hari ne sita ko gendh di.
+12 Sita ne hari ko gendh di.
+13 Gendh kisko mili? 	hari	12
+14 Hari ne sita ko gendh di.
+15 Sita gendh chod aayi.
+16 Gendh kisney di? 	hari	14
+17 Sita galiyare mein chali gayi.
+18 Sita bagichey mein gayi.
+19 Sita ko gendh kisney di?	hari	14
+1 Hari bagichey mein chala gaya.
+2 Sita bagichey gayi.
+3 Manoj daftar mein chala gaya.
+4 Manoj rasoi ghar mein gaya.
+5 Manoj galiyare gaya.
+6 Arjun sayanakaksh mein gaya.
+7 Arjun seb le aaya.
+8 Arjun seb chod aaya.
+9 Manoj dhoodh le aaya.
+10 Manoj rasoi ghar mein chala gaya.
+11 Arjun rasoi ghar mein chala gaya.
+12 Manoj dhoodh rakh aaya.
+13 Hari sayanakaksh mein gaya.
+14 Hari seb le aaya.
+15 Manoj sayanakaksh mein chala gaya.
+16 Hari seb rakh aaya.
+17 Hari seb le kar aaya.
+18 Hari ne manoj ko seb diya.
+19 Seb kisney diya? 	hari	18
+20 Manoj seb rakh aaya.
+21 Arjun galiyare mein chala gaya.
+22 Hari ne manoj ko kya diya? 	seb	18
+23 Manoj galiyare mein chala gaya.
+24 Hari seb le kar aaya.
+25 Hari ne manoj ko kya diya? 	seb	18
+26 Arjun gusalkhane mein chala gaya.
+27 Manoj daftar mein gaya.
+28 Arjun rasoi ghar mein gaya.
+29 Arjun dhoodh le kar aaya.
+30 Sita daftar mein chali gayi.
+31 Manoj gendh le aaya.
+32 Manoj ne sita ko gendh di.
+33 Sita ne manoj ko gendh di.
+34 Gendh kisko mili? 	manoj	33
+35 Arjun daftar gaya.
+36 Arjun dhoodh rakh aaya.
+37 Sita ne manoj ko kya diya? 	gendh	33
+1 Manoj galiyare mein chala gaya.
+2 Manoj rasoi ghar mein gaya.
+3 Arjun gendh le kar aaya.
+4 Sita bagichey mein chali gayi.
+5 Hari gusalkhane mein chala gaya.
+6 Arjun ne sita ko gendh di.
+7 Gendh kisney di? 	arjun	6
+8 Sita ne arjun ko gendh di.
+9 Manoj seb le kar aaya.
+10 Sita ne arjun ko kya diya? 	gendh	8
+11 Manoj galiyare mein chala gaya.
+12 Arjun gendh chod aaya.
+13 Sita ne gendh kisko di?	arjun	8
+14 Manoj gusalkhane gaya.
+15 Sita gusalkhane mein gayi.
+16 Sita daftar gayi.
+17 Manoj seb chod aaya.
+18 Hari galiyare gaya.
+19 Arjun gendh le kar aaya.
+20 Arjun gendh chod aaya.
+21 Arjun gendh le aaya.
+22 Arjun gendh rakh aaya.
+23 Hari dhoodh le aaya.
+24 Manoj seb le aaya.
+25 Hari sayanakaksh mein chala gaya.
+26 Arjun gendh le kar aaya.
+27 Hari dhoodh chod aaya.
+28 Hari dhoodh le kar aaya.
+29 Sita sayanakaksh mein chali gayi.
+30 Hari ne sita ko dhoodh diya.
+31 Sita ne hari ko dhoodh diya.
+32 Sita ne hari ko kya diya? 	dhoodh	31
+33 Hari ne sita ko dhoodh diya.
+34 Manoj seb chod aaya.
+35 Sita ko dhoodh kisney diya?	hari	33
+1 Hari daftar mein chala gaya.
+2 Manoj gusalkhane gaya.
+3 Arjun gusalkhane gaya.
+4 Sita gusalkhane gayi.
+5 Sita galiyare mein chali gayi.
+6 Sita sayanakaksh mein chali gayi.
+7 Hari bagichey mein chala gaya.
+8 Hari gusalkhane gaya.
+9 Arjun daftar gaya.
+10 Manoj daftar mein gaya.
+11 Manoj sayanakaksh gaya.
+12 Manoj dhoodh le aaya.
+13 Manoj dhoodh rakh aaya.
+14 Sita dhoodh le kar aayi.
+15 Sita galiyare mein gayi.
+16 Manoj gusalkhane mein gaya.
+17 Sita seb le aayi.
+18 Sita daftar mein chali gayi.
+19 Sita ne arjun ko seb diya.
+20 Hari sayanakaksh mein chala gaya.
+21 Sita ne arjun ko kya diya? 	seb	19
+22 Arjun ne sita ko seb diya.
+23 Hari galiyare gaya.
+24 Arjun ne sita ko kya diya? 	seb	22
+25 Sita sayanakaksh gayi.
+26 Hari rasoi ghar mein chala gaya.
+27 Arjun ne sita ko kya diya? 	seb	22
+28 Sita daftar mein gayi.
+29 Sita ne arjun ko seb diya.
+30 Sita ne seb kisko diya?	arjun	29
+31 Arjun ne sita ko seb diya.
+32 Sita ne arjun ko seb diya.
+33 Sita ne seb kisko diya?	arjun	32
+1 Arjun bagichey mein gaya.
+2 Sita gendh le kar aayi.
+3 Manoj sayanakaksh mein gaya.
+4 Sita gendh chod aayi.
+5 Arjun dhoodh le kar aaya.
+6 Hari bagichey mein chala gaya.
+7 Arjun rasoi ghar gaya.
+8 Hari daftar mein chala gaya.
+9 Arjun seb le aaya.
+10 Arjun seb rakh aaya.
+11 Hari gendh le aaya.
+12 Hari ne sita ko gendh di.
+13 Sita ko gendh kisney di?	hari	12
+14 Manoj bagichey mein gaya.
+15 Arjun seb le aaya.
+16 Gendh kisney di? 	hari	12
+17 Hari bagichey mein gaya.
+18 Manoj daftar mein gaya.
+19 Hari ne sita ko kya diya? 	gendh	12
+20 Hari galiyare mein gaya.
+21 Sita gendh rakh aayi.
+22 Hari gusalkhane mein gaya.
+23 Arjun bagichey mein gaya.
+24 Manoj gusalkhane mein gaya.
+25 Arjun dhoodh chod aaya.
+26 Arjun seb rakh aaya.
+27 Manoj galiyare mein gaya.
+28 Hari daftar mein chala gaya.
+29 Sita rasoi ghar gayi.
+30 Manoj rasoi ghar gaya.
+31 Arjun dhoodh le kar aaya.
+32 Manoj bagichey mein chala gaya.
+33 Manoj seb le kar aaya.
+34 Manoj ne arjun ko seb diya.
+35 Arjun ne manoj ko seb diya.
+36 Seb kisney diya? 	arjun	35
+37 Hari gendh le kar aaya.
+38 Manoj seb chod aaya.
+39 Manoj ko seb kisney diya?	arjun	35
+1 Sita sayanakaksh gayi.
+2 Sita rasoi ghar gayi.
+3 Sita daftar mein chali gayi.
+4 Sita rasoi ghar mein gayi.
+5 Arjun daftar mein gaya.
+6 Arjun gendh le aaya.
+7 Sita gusalkhane mein gayi.
+8 Arjun ne hari ko gendh di.
+9 Arjun ne hari ko kya diya? 	gendh	8
+10 Hari ne arjun ko gendh di.
+11 Arjun ne hari ko gendh di.
+12 Hari ko gendh kisney di?	arjun	11
+13 Hari ne arjun ko gendh di.
+14 Arjun ne hari ko gendh di.
+15 Arjun ne gendh kisko di?	hari	14
+16 Hari gendh rakh aaya.
+17 Manoj galiyare gaya.
+18 Hari ko gendh kisney di?	arjun	14
+19 Arjun bagichey gaya.
+20 Hari gendh le aaya.
+21 Gendh kisko mili? 	hari	14
+1 Arjun galiyare mein gaya.
+2 Arjun daftar mein gaya.
+3 Arjun gendh le aaya.
+4 Arjun gendh chod aaya.
+5 Arjun gusalkhane mein gaya.
+6 Hari gusalkhane mein gaya.
+7 Manoj sayanakaksh mein chala gaya.
+8 Manoj bagichey mein gaya.
+9 Sita bagichey mein chali gayi.
+10 Hari rasoi ghar mein gaya.
+11 Sita rasoi ghar gayi.
+12 Sita galiyare mein gayi.
+13 Sita dhoodh le kar aayi.
+14 Sita rasoi ghar mein chali gayi.
+15 Hari sayanakaksh gaya.
+16 Arjun galiyare gaya.
+17 Sita daftar mein gayi.
+18 Sita dhoodh chod aayi.
+19 Arjun seb le aaya.
+20 Hari rasoi ghar mein chala gaya.
+21 Manoj rasoi ghar mein chala gaya.
+22 Sita gendh le kar aayi.
+23 Sita dhoodh le aayi.
+24 Manoj galiyare gaya.
+25 Arjun seb chod aaya.
+26 Manoj seb le aaya.
+27 Manoj seb chod aaya.
+28 Manoj gusalkhane mein gaya.
+29 Arjun sayanakaksh gaya.
+30 Sita dhoodh rakh aayi.
+31 Sita rasoi ghar mein gayi.
+32 Sita ne hari ko gendh di.
+33 Gendh kisney di? 	sita	32
+34 Hari sayanakaksh mein gaya.
+35 Hari gusalkhane mein chala gaya.
+36 Sita ne hari ko kya diya? 	gendh	32
+37 Manoj galiyare mein chala gaya.
+38 Hari rasoi ghar mein gaya.
+39 Sita ne gendh kisko di?	hari	32
+40 Manoj daftar mein chala gaya.
+41 Manoj dhoodh le aaya.
+42 Sita daftar gayi.
+43 Arjun gusalkhane mein gaya.
+44 Manoj dhoodh chod aaya.
+45 Sita sayanakaksh mein chali gayi.
+46 Arjun daftar mein gaya.
+47 Arjun bagichey gaya.
+48 Arjun rasoi ghar mein chala gaya.
+49 Sita galiyare mein gayi.
+50 Sita seb le aayi.
+51 Hari ne arjun ko gendh di.
+52 Arjun ko gendh kisney di?	hari	51
+53 Arjun gendh rakh aaya.
+54 Arjun gusalkhane mein gaya.
+55 Arjun ko gendh kisney di?	hari	51
+1 Sita galiyare mein chali gayi.
+2 Manoj bagichey mein chala gaya.
+3 Arjun bagichey mein gaya.
+4 Manoj rasoi ghar gaya.
+5 Arjun dhoodh le aaya.
+6 Arjun dhoodh chod aaya.
+7 Arjun galiyare mein chala gaya.
+8 Manoj gusalkhane gaya.
+9 Hari gusalkhane mein gaya.
+10 Manoj rasoi ghar mein gaya.
+11 Arjun bagichey gaya.
+12 Sita daftar mein gayi.
+13 Arjun daftar mein chala gaya.
+14 Arjun bagichey mein chala gaya.
+15 Hari daftar mein chala gaya.
+16 Manoj bagichey mein gaya.
+17 Arjun gusalkhane gaya.
+18 Manoj seb le aaya.
+19 Arjun rasoi ghar mein gaya.
+20 Manoj dhoodh le aaya.
+21 Manoj dhoodh chod aaya.
+22 Hari bagichey mein chala gaya.
+23 Manoj ne hari ko seb diya.
+24 Hari ne manoj ko seb diya.
+25 Hari ne seb kisko diya?	manoj	24
+26 Manoj galiyare gaya.
+27 Hari rasoi ghar gaya.
+28 Seb kisney diya? 	hari	24
+29 Sita sayanakaksh mein gayi.
+30 Arjun sayanakaksh mein gaya.
+31 Seb kisney diya? 	hari	24
+32 Manoj seb chod aaya.
+33 Arjun rasoi ghar mein chala gaya.
+34 Hari galiyare gaya.
+35 Arjun sayanakaksh gaya.
+36 Arjun bagichey gaya.
+37 Hari gusalkhane mein gaya.
+38 Manoj gusalkhane mein chala gaya.
+39 Hari gendh le aaya.
+40 Hari ne manoj ko gendh di.
+41 Sita gusalkhane mein gayi.
+42 Hari ne manoj ko kya diya? 	gendh	40
+43 Manoj ne sita ko gendh di.
+44 Sita bagichey gayi.
+45 Manoj ne gendh kisko di?	sita	43
+1 Sita bagichey mein gayi.
+2 Sita gusalkhane gayi.
+3 Arjun seb le kar aaya.
+4 Arjun ne manoj ko seb diya.
+5 Seb kisney diya? 	arjun	4
+6 Hari dhoodh le aaya.
+7 Arjun bagichey mein gaya.
+8 Seb kisko mila? 	manoj	4
+9 Hari ne sita ko dhoodh diya.
+10 Sita ne hari ko dhoodh diya.
+11 Seb kisko mila? 	manoj	4
+12 Hari ne sita ko dhoodh diya.
+13 Sita ne hari ko dhoodh diya.
+14 Dhoodh kisney diya? 	sita	13
+15 Hari ne sita ko dhoodh diya.
+16 Arjun gusalkhane mein gaya.
+17 Hari ne sita ko kya diya? 	dhoodh	15
+1 Manoj sayanakaksh mein gaya.
+2 Hari daftar gaya.
+3 Manoj bagichey mein gaya.
+4 Manoj daftar mein gaya.
+5 Hari sayanakaksh mein chala gaya.
+6 Sita galiyare gayi.
+7 Arjun rasoi ghar mein chala gaya.
+8 Hari galiyare mein chala gaya.
+9 Hari bagichey gaya.
+10 Hari daftar mein chala gaya.
+11 Arjun gendh le aaya.
+12 Hari rasoi ghar mein gaya.
+13 Arjun ne hari ko gendh di.
+14 Hari daftar mein chala gaya.
+15 Arjun ne hari ko kya diya? 	gendh	13
+16 Hari ne manoj ko gendh di.
+17 Arjun seb le aaya.
+18 Hari ne manoj ko kya diya? 	gendh	16
+19 Manoj ne hari ko gendh di.
+20 Hari ne manoj ko gendh di.
+21 Manoj ko gendh kisney di?	hari	20
+22 Manoj gendh chod aaya.
+23 Hari bagichey mein gaya.
+24 Hari ne manoj ko kya diya? 	gendh	20
+25 Manoj gendh le aaya.
+26 Arjun seb rakh aaya.
+27 Gendh kisney di? 	hari	20
+1 Sita dhoodh le aayi.
+2 Arjun rasoi ghar mein gaya.
+3 Manoj galiyare mein gaya.
+4 Manoj rasoi ghar gaya.
+5 Sita bagichey mein chali gayi.
+6 Sita ne hari ko dhoodh diya.
+7 Sita ne dhoodh kisko diya?	hari	6
+8 Hari gusalkhane mein chala gaya.
+9 Arjun bagichey gaya.
+10 Dhoodh kisko mila? 	hari	6
+11 Hari dhoodh rakh aaya.
+12 Hari daftar mein gaya.
+13 Dhoodh kisney diya? 	sita	6
+14 Manoj galiyare mein gaya.
+15 Manoj gusalkhane mein chala gaya.
+16 Hari gusalkhane mein chala gaya.
+17 Sita galiyare mein gayi.
+18 Hari dhoodh le aaya.
+19 Hari ne manoj ko dhoodh diya.
+20 Hari ne manoj ko kya diya? 	dhoodh	19
+21 Manoj dhoodh rakh aaya.
+22 Hari dhoodh le kar aaya.
+23 Hari ne manoj ko kya diya? 	dhoodh	19
+1 Manoj gusalkhane mein gaya.
+2 Manoj galiyare mein chala gaya.
+3 Sita bagichey gayi.
+4 Manoj bagichey gaya.
+5 Arjun daftar gaya.
+6 Sita daftar mein chali gayi.
+7 Arjun seb le aaya.
+8 Sita rasoi ghar mein chali gayi.
+9 Arjun ne hari ko seb diya.
+10 Arjun galiyare mein gaya.
+11 Seb kisko mila? 	hari	9
+12 Arjun daftar mein chala gaya.
+13 Hari ne arjun ko seb diya.
+14 Hari ne arjun ko kya diya? 	seb	13
+15 Arjun sayanakaksh gaya.
+16 Arjun bagichey mein gaya.
+17 Hari ne arjun ko kya diya? 	seb	13
+18 Arjun ne manoj ko seb diya.
+19 Manoj galiyare mein gaya.
+20 Manoj ko seb kisney diya?	arjun	18
+21 Manoj gusalkhane gaya.
+22 Manoj galiyare mein chala gaya.
+23 Arjun ne seb kisko diya?	manoj	18
+1 Manoj galiyare mein chala gaya.
+2 Manoj sayanakaksh mein chala gaya.
+3 Hari gusalkhane mein chala gaya.
+4 Arjun bagichey mein gaya.
+5 Manoj bagichey mein chala gaya.
+6 Arjun dhoodh le kar aaya.
+7 Manoj galiyare mein chala gaya.
+8 Manoj daftar mein gaya.
+9 Manoj gendh le aaya.
+10 Manoj gendh chod aaya.
+11 Arjun seb le kar aaya.
+12 Arjun seb rakh aaya.
+13 Arjun sayanakaksh gaya.
+14 Manoj gendh le kar aaya.
+15 Arjun dhoodh rakh aaya.
+16 Arjun dhoodh le kar aaya.
+17 Arjun ne sita ko dhoodh diya.
+18 Sita ne arjun ko dhoodh diya.
+19 Sita ne arjun ko kya diya? 	dhoodh	18
+20 Arjun ne sita ko dhoodh diya.
+21 Manoj rasoi ghar mein gaya.
+22 Arjun ne dhoodh kisko diya?	sita	20
+23 Sita gusalkhane mein chali gayi.
+24 Sita dhoodh chod aayi.
+25 Arjun ne sita ko kya diya? 	dhoodh	20
+26 Arjun daftar gaya.
+27 Manoj daftar gaya.
+28 Manoj ne arjun ko gendh di.
+29 Arjun ne manoj ko gendh di.
+30 Manoj ko gendh kisney di?	arjun	29
+31 Manoj ne arjun ko gendh di.
+32 Hari dhoodh le kar aaya.
+33 Manoj ne arjun ko kya diya? 	gendh	31
+1 Hari gusalkhane gaya.
+2 Sita daftar gayi.
+3 Manoj rasoi ghar mein chala gaya.
+4 Hari galiyare gaya.
+5 Sita dhoodh le kar aayi.
+6 Hari seb le kar aaya.
+7 Hari sayanakaksh mein chala gaya.
+8 Hari seb chod aaya.
+9 Sita dhoodh rakh aayi.
+10 Arjun bagichey gaya.
+11 Hari seb le aaya.
+12 Hari galiyare gaya.
+13 Manoj gusalkhane mein chala gaya.
+14 Arjun galiyare mein gaya.
+15 Manoj gendh le aaya.
+16 Hari ne arjun ko seb diya.
+17 Arjun ko seb kisney diya?	hari	16
+18 Arjun seb chod aaya.
+19 Hari gusalkhane gaya.
+20 Hari ne arjun ko kya diya? 	seb	16
+21 Hari bagichey gaya.
+22 Sita sayanakaksh gayi.
+23 Hari ne arjun ko kya diya? 	seb	16
+24 Hari sayanakaksh mein chala gaya.
+25 Hari daftar mein chala gaya.
+26 Arjun seb le kar aaya.
+27 Hari dhoodh le kar aaya.
+28 Manoj gendh chod aaya.
+29 Sita daftar mein chali gayi.
+30 Hari dhoodh chod aaya.
+31 Sita dhoodh le kar aayi.
+32 Sita rasoi ghar mein chali gayi.
+33 Manoj daftar gaya.
+34 Sita dhoodh rakh aayi.
+35 Manoj rasoi ghar mein gaya.
+36 Hari rasoi ghar gaya.
+37 Manoj dhoodh le aaya.
+38 Manoj sayanakaksh mein gaya.
+39 Manoj dhoodh rakh aaya.
+40 Arjun seb chod aaya.
+41 Sita sayanakaksh gayi.
+42 Sita daftar mein chali gayi.
+43 Arjun seb le kar aaya.
+44 Arjun bagichey gaya.
+45 Hari bagichey mein chala gaya.
+46 Manoj gusalkhane mein chala gaya.
+47 Manoj gendh le kar aaya.
+48 Manoj gendh rakh aaya.
+49 Arjun ne hari ko seb diya.
+50 Hari ko seb kisney diya?	arjun	49
+51 Hari ne arjun ko seb diya.
+52 Arjun ne hari ko seb diya.
+53 Hari ko seb kisney diya?	arjun	52
+1 Hari seb le kar aaya.
+2 Sita bagichey mein gayi.
+3 Sita galiyare mein gayi.
+4 Sita daftar mein gayi.
+5 Arjun rasoi ghar mein chala gaya.
+6 Hari rasoi ghar mein gaya.
+7 Hari ne arjun ko seb diya.
+8 Arjun ne hari ko seb diya.
+9 Arjun ne hari ko kya diya? 	seb	8
+10 Hari ne arjun ko seb diya.
+11 Manoj rasoi ghar mein chala gaya.
+12 Hari ne seb kisko diya?	arjun	10
+13 Arjun ne hari ko seb diya.
+14 Hari ne manoj ko seb diya.
+15 Seb kisko mila? 	manoj	14
+16 Manoj seb rakh aaya.
+17 Arjun galiyare mein chala gaya.
+18 Seb kisko mila? 	manoj	14
+19 Manoj sayanakaksh mein gaya.
+20 Sita dhoodh le kar aayi.
+21 Hari ne seb kisko diya?	manoj	14
+1 Manoj gusalkhane gaya.
+2 Manoj galiyare mein chala gaya.
+3 Manoj sayanakaksh gaya.
+4 Arjun daftar mein gaya.
+5 Hari rasoi ghar gaya.
+6 Sita sayanakaksh gayi.
+7 Arjun sayanakaksh mein gaya.
+8 Sita gusalkhane gayi.
+9 Hari sayanakaksh mein chala gaya.
+10 Sita rasoi ghar mein gayi.
+11 Sita galiyare gayi.
+12 Arjun bagichey mein gaya.
+13 Sita dhoodh le kar aayi.
+14 Hari gusalkhane mein gaya.
+15 Sita dhoodh chod aayi.
+16 Arjun gusalkhane gaya.
+17 Manoj bagichey mein chala gaya.
+18 Hari galiyare mein gaya.
+19 Hari seb le kar aaya.
+20 Hari ne sita ko seb diya.
+21 Seb kisko mila? 	sita	20
+22 Sita ne hari ko seb diya.
+23 Sita dhoodh le kar aayi.
+24 Seb kisko mila? 	hari	22
+25 Hari ne sita ko seb diya.
+26 Sita ne hari ko seb diya.
+27 Sita ne hari ko kya diya? 	seb	26
+28 Hari ne sita ko seb diya.
+29 Sita ne hari ko seb diya.
+30 Sita ne seb kisko diya?	hari	29
+31 Manoj gendh le kar aaya.
+32 Arjun galiyare mein gaya.
+33 Sita ne seb kisko diya?	hari	29
+1 Hari gusalkhane mein gaya.
+2 Manoj rasoi ghar gaya.
+3 Manoj sayanakaksh gaya.
+4 Sita seb le kar aayi.
+5 Sita seb rakh aayi.
+6 Arjun rasoi ghar mein chala gaya.
+7 Manoj galiyare mein chala gaya.
+8 Arjun galiyare mein gaya.
+9 Manoj gendh le kar aaya.
+10 Manoj ne arjun ko gendh di.
+11 Manoj ne arjun ko kya diya? 	gendh	10
+12 Arjun gendh rakh aaya.
+13 Hari sayanakaksh mein chala gaya.
+14 Manoj ne gendh kisko di?	arjun	10
+15 Sita seb le kar aayi.
+16 Sita seb chod aayi.
+17 Gendh kisko mili? 	arjun	10
+18 Manoj sayanakaksh gaya.
+19 Arjun sayanakaksh gaya.
+20 Sita sayanakaksh gayi.
+21 Hari bagichey mein chala gaya.
+22 Hari dhoodh le kar aaya.
+23 Manoj gusalkhane mein chala gaya.
+24 Manoj rasoi ghar mein gaya.
+25 Sita bagichey mein chali gayi.
+26 Hari rasoi ghar gaya.
+27 Hari ne manoj ko dhoodh diya.
+28 Dhoodh kisney diya? 	hari	27
+29 Manoj dhoodh rakh aaya.
+30 Hari daftar gaya.
+31 Hari ne manoj ko kya diya? 	dhoodh	27
+1 Arjun daftar mein chala gaya.
+2 Manoj gusalkhane gaya.
+3 Arjun seb le kar aaya.
+4 Arjun seb rakh aaya.
+5 Manoj gendh le kar aaya.
+6 Arjun sayanakaksh mein gaya.
+7 Hari rasoi ghar mein chala gaya.
+8 Sita gusalkhane gayi.
+9 Sita galiyare gayi.
+10 Manoj sayanakaksh mein chala gaya.
+11 Arjun gusalkhane mein gaya.
+12 Sita gusalkhane gayi.
+13 Manoj gendh chod aaya.
+14 Arjun sayanakaksh mein gaya.
+15 Hari galiyare gaya.
+16 Sita daftar mein gayi.
+17 Manoj daftar mein chala gaya.
+18 Sita gusalkhane mein chali gayi.
+19 Arjun gendh le aaya.
+20 Manoj rasoi ghar mein chala gaya.
+21 Arjun gendh rakh aaya.
+22 Sita bagichey mein gayi.
+23 Sita rasoi ghar mein gayi.
+24 Hari daftar mein gaya.
+25 Arjun rasoi ghar mein gaya.
+26 Sita gusalkhane gayi.
+27 Hari seb le kar aaya.
+28 Sita rasoi ghar mein gayi.
+29 Arjun galiyare mein gaya.
+30 Sita daftar mein gayi.
+31 Arjun daftar gaya.
+32 Hari ne sita ko seb diya.
+33 Seb kisney diya? 	hari	32
+34 Sita seb rakh aayi.
+35 Sita seb le kar aayi.
+36 Sita ko seb kisney diya?	hari	32
+37 Sita ne hari ko seb diya.
+38 Hari ne sita ko seb diya.
+39 Seb kisney diya? 	hari	38
+40 Sita sayanakaksh gayi.
+41 Arjun galiyare mein chala gaya.
+42 Sita ko seb kisney diya?	hari	38
+43 Hari rasoi ghar mein chala gaya.
+44 Manoj sayanakaksh gaya.
+45 Seb kisney diya? 	hari	38
+1 Hari rasoi ghar mein chala gaya.
+2 Manoj gendh le aaya.
+3 Manoj gendh chod aaya.
+4 Manoj rasoi ghar mein chala gaya.
+5 Arjun seb le kar aaya.
+6 Arjun bagichey mein chala gaya.
+7 Manoj bagichey mein chala gaya.
+8 Manoj rasoi ghar mein chala gaya.
+9 Arjun seb chod aaya.
+10 Arjun galiyare mein gaya.
+11 Hari galiyare mein chala gaya.
+12 Manoj daftar mein chala gaya.
+13 Hari gendh le kar aaya.
+14 Hari bagichey gaya.
+15 Hari gendh rakh aaya.
+16 Manoj dhoodh le kar aaya.
+17 Sita bagichey mein gayi.
+18 Arjun daftar gaya.
+19 Manoj ne arjun ko dhoodh diya.
+20 Sita gendh le aayi.
+21 Manoj ne arjun ko kya diya? 	dhoodh	19
+22 Sita gendh chod aayi.
+23 Arjun dhoodh rakh aaya.
+24 Arjun ko dhoodh kisney diya?	manoj	19
+25 Arjun gusalkhane gaya.
+26 Sita seb le kar aayi.
+27 Sita ne hari ko seb diya.
+28 Arjun sayanakaksh gaya.
+29 Seb kisko mila? 	hari	27
+30 Hari ne sita ko seb diya.
+31 Hari gendh le kar aaya.
+32 Seb kisney diya? 	hari	30
+33 Sita ne hari ko seb diya.
+34 Hari ne sita ko seb diya.
+35 Seb kisney diya? 	hari	34
+1 Arjun sayanakaksh mein chala gaya.
+2 Sita sayanakaksh mein chali gayi.
+3 Arjun rasoi ghar mein chala gaya.
+4 Hari daftar mein chala gaya.
+5 Manoj galiyare mein chala gaya.
+6 Manoj bagichey gaya.
+7 Sita gusalkhane mein gayi.
+8 Hari gusalkhane gaya.
+9 Hari seb le aaya.
+10 Hari galiyare mein chala gaya.
+11 Hari gusalkhane gaya.
+12 Hari dhoodh le aaya.
+13 Sita gendh le aayi.
+14 Hari dhoodh chod aaya.
+15 Sita dhoodh le kar aayi.
+16 Hari ne sita ko seb diya.
+17 Sita ko seb kisney diya?	hari	16
+18 Sita ne hari ko seb diya.
+19 Hari ne sita ko seb diya.
+20 Hari ne sita ko kya diya? 	seb	19
+21 Sita ne hari ko seb diya.
+22 Sita dhoodh chod aayi.
+23 Hari ko seb kisney diya?	sita	21
+24 Hari ne sita ko seb diya.
+25 Sita ne hari ko seb diya.
+26 Seb kisney diya? 	sita	25
+27 Sita gendh rakh aayi.
+28 Hari dhoodh le kar aaya.
+29 Hari ko seb kisney diya?	sita	25
+1 Hari dhoodh le aaya.
+2 Hari ne sita ko dhoodh diya.
+3 Hari ne dhoodh kisko diya?	sita	2
+4 Manoj gendh le kar aaya.
+5 Arjun sayanakaksh mein gaya.
+6 Sita ko dhoodh kisney diya?	hari	2
+7 Sita ne hari ko dhoodh diya.
+8 Hari dhoodh chod aaya.
+9 Sita ne hari ko kya diya? 	dhoodh	7
+10 Arjun galiyare mein gaya.
+11 Arjun rasoi ghar mein gaya.
+12 Sita ne dhoodh kisko diya?	hari	7
+13 Arjun gusalkhane gaya.
+14 Manoj ne arjun ko gendh di.
+15 Gendh kisko mili? 	arjun	14
+1 Manoj galiyare mein chala gaya.
+2 Hari gendh le kar aaya.
+3 Hari dhoodh le aaya.
+4 Hari sayanakaksh mein gaya.
+5 Hari dhoodh chod aaya.
+6 Hari rasoi ghar gaya.
+7 Arjun gusalkhane mein gaya.
+8 Manoj gusalkhane mein gaya.
+9 Manoj bagichey mein gaya.
+10 Sita gusalkhane mein chali gayi.
+11 Manoj sayanakaksh mein chala gaya.
+12 Hari gendh rakh aaya.
+13 Manoj dhoodh le aaya.
+14 Hari bagichey mein chala gaya.
+15 Sita galiyare gayi.
+16 Arjun bagichey mein gaya.
+17 Hari sayanakaksh mein chala gaya.
+18 Sita gusalkhane mein gayi.
+19 Manoj ne hari ko dhoodh diya.
+20 Sita daftar mein chali gayi.
+21 Manoj ne hari ko kya diya? 	dhoodh	19
+22 Arjun rasoi ghar gaya.
+23 Hari ne manoj ko dhoodh diya.
+24 Hari ne dhoodh kisko diya?	manoj	23
+25 Arjun gendh le aaya.
+26 Arjun gusalkhane gaya.
+27 Hari ne manoj ko kya diya? 	dhoodh	23
+28 Hari gusalkhane gaya.
+29 Arjun ne hari ko gendh di.
+30 Hari ne manoj ko kya diya? 	dhoodh	23
+31 Arjun bagichey mein gaya.
+32 Hari daftar gaya.
+33 Arjun ne hari ko kya diya? 	gendh	29
+1 Manoj gusalkhane gaya.
+2 Arjun galiyare mein gaya.
+3 Hari gusalkhane mein chala gaya.
+4 Sita gusalkhane mein gayi.
+5 Arjun gusalkhane gaya.
+6 Arjun sayanakaksh mein chala gaya.
+7 Arjun bagichey mein chala gaya.
+8 Hari sayanakaksh mein gaya.
+9 Manoj rasoi ghar gaya.
+10 Hari rasoi ghar mein chala gaya.
+11 Manoj dhoodh le aaya.
+12 Manoj ne hari ko dhoodh diya.
+13 Dhoodh kisko mila? 	hari	12
+14 Arjun seb le aaya.
+15 Sita bagichey mein chali gayi.
+16 Manoj ne dhoodh kisko diya?	hari	12
+17 Arjun seb rakh aaya.
+18 Arjun seb le aaya.
+19 Dhoodh kisney diya? 	manoj	12
+20 Arjun ne sita ko seb diya.
+21 Sita ne arjun ko seb diya.
+22 Seb kisko mila? 	arjun	21
+23 Arjun ne sita ko seb diya.
+24 Hari sayanakaksh gaya.
+25 Arjun ne seb kisko diya?	sita	23
+1 Manoj daftar gaya.
+2 Arjun dhoodh le kar aaya.
+3 Arjun dhoodh chod aaya.
+4 Arjun dhoodh le kar aaya.
+5 Arjun gendh le kar aaya.
+6 Sita rasoi ghar mein chali gayi.
+7 Hari gusalkhane mein chala gaya.
+8 Arjun rasoi ghar gaya.
+9 Arjun gusalkhane mein chala gaya.
+10 Arjun dhoodh chod aaya.
+11 Hari bagichey gaya.
+12 Arjun dhoodh le kar aaya.
+13 Sita bagichey gayi.
+14 Manoj galiyare mein chala gaya.
+15 Sita seb le aayi.
+16 Hari rasoi ghar mein chala gaya.
+17 Arjun gendh chod aaya.
+18 Arjun bagichey mein chala gaya.
+19 Sita ne arjun ko seb diya.
+20 Arjun gusalkhane mein gaya.
+21 Seb kisney diya? 	sita	19
+22 Arjun dhoodh chod aaya.
+23 Hari daftar gaya.
+24 Sita ne arjun ko kya diya? 	seb	19
+25 Arjun gendh le kar aaya.
+26 Manoj daftar mein chala gaya.
+27 Hari galiyare gaya.
+28 Manoj sayanakaksh gaya.
+29 Arjun dhoodh le kar aaya.
+30 Sita rasoi ghar mein chali gayi.
+31 Sita bagichey gayi.
+32 Arjun daftar mein chala gaya.
+33 Arjun gusalkhane gaya.
+34 Sita daftar gayi.
+35 Sita rasoi ghar mein gayi.
+36 Arjun seb rakh aaya.
+37 Sita daftar gayi.
+38 Arjun seb le kar aaya.
+39 Sita rasoi ghar mein gayi.
+40 Manoj rasoi ghar gaya.
+41 Arjun sayanakaksh gaya.
+42 Arjun rasoi ghar mein chala gaya.
+43 Hari daftar mein gaya.
+44 Arjun ne sita ko seb diya.
+45 Seb kisney diya? 	arjun	44
+46 Sita daftar gayi.
+47 Sita ne hari ko seb diya.
+48 Sita ne seb kisko diya?	hari	47
+49 Hari ne sita ko seb diya.
+50 Sita seb chod aayi.
+51 Seb kisney diya? 	hari	49
+1 Manoj gendh le aaya.
+2 Manoj gendh chod aaya.
+3 Manoj gendh le kar aaya.
+4 Manoj gendh rakh aaya.
+5 Sita dhoodh le aayi.
+6 Sita dhoodh chod aayi.
+7 Sita rasoi ghar mein gayi.
+8 Manoj gendh le aaya.
+9 Arjun seb le kar aaya.
+10 Sita galiyare mein gayi.
+11 Manoj rasoi ghar mein gaya.
+12 Sita dhoodh le kar aayi.
+13 Arjun seb rakh aaya.
+14 Arjun sayanakaksh gaya.
+15 Sita sayanakaksh mein chali gayi.
+16 Manoj galiyare mein gaya.
+17 Manoj seb le aaya.
+18 Sita dhoodh chod aayi.
+19 Arjun daftar mein chala gaya.
+20 Sita bagichey gayi.
+21 Arjun bagichey mein gaya.
+22 Manoj seb chod aaya.
+23 Arjun sayanakaksh mein gaya.
+24 Manoj seb le kar aaya.
+25 Manoj seb rakh aaya.
+26 Sita galiyare mein gayi.
+27 Sita seb le aayi.
+28 Sita sayanakaksh gayi.
+29 Hari sayanakaksh mein chala gaya.
+30 Sita ne hari ko seb diya.
+31 Hari ko seb kisney diya?	sita	30
+32 Sita dhoodh le kar aayi.
+33 Sita galiyare mein gayi.
+34 Hari ko seb kisney diya?	sita	30
+35 Hari bagichey gaya.
+36 Sita sayanakaksh mein chali gayi.
+37 Sita ne seb kisko diya?	hari	30
+38 Manoj gendh rakh aaya.
+39 Hari galiyare gaya.
+40 Arjun daftar gaya.
+41 Hari ne manoj ko seb diya.
+42 Hari ne manoj ko kya diya? 	seb	41
+43 Manoj ne hari ko seb diya.
+44 Hari gendh le kar aaya.
+45 Seb kisko mila? 	hari	43
+1 Hari seb le aaya.
+2 Hari seb rakh aaya.
+3 Sita seb le kar aayi.
+4 Sita seb chod aayi.
+5 Sita seb le kar aayi.
+6 Sita ne hari ko seb diya.
+7 Seb kisko mila? 	hari	6
+8 Manoj gendh le aaya.
+9 Hari ne sita ko seb diya.
+10 Sita ko seb kisney diya?	hari	9
+11 Hari gusalkhane mein chala gaya.
+12 Sita ne arjun ko seb diya.
+13 Sita ne arjun ko kya diya? 	seb	12
+14 Arjun ne sita ko seb diya.
+15 Sita rasoi ghar mein gayi.
+16 Arjun ne seb kisko diya?	sita	14
+17 Hari rasoi ghar gaya.
+18 Sita ne hari ko seb diya.
+19 Sita ne seb kisko diya?	hari	18
+1 Sita dhoodh le kar aayi.
+2 Arjun rasoi ghar gaya.
+3 Sita daftar gayi.
+4 Sita ne hari ko dhoodh diya.
+5 Sita ne hari ko kya diya? 	dhoodh	4
+6 Hari dhoodh chod aaya.
+7 Sita gusalkhane mein gayi.
+8 Sita ne hari ko kya diya? 	dhoodh	4
+9 Manoj galiyare gaya.
+10 Manoj daftar mein gaya.
+11 Sita ne hari ko kya diya? 	dhoodh	4
+12 Arjun sayanakaksh mein gaya.
+13 Sita daftar mein gayi.
+14 Arjun gusalkhane gaya.
+15 Manoj dhoodh le aaya.
+16 Manoj ne sita ko dhoodh diya.
+17 Arjun galiyare mein gaya.
+18 Dhoodh kisney diya? 	manoj	16
+19 Arjun rasoi ghar gaya.
+20 Sita dhoodh chod aayi.
+21 Manoj ne sita ko kya diya? 	dhoodh	16
+1 Sita dhoodh le aayi.
+2 Arjun gendh le aaya.
+3 Sita sayanakaksh gayi.
+4 Arjun ne hari ko gendh di.
+5 Gendh kisko mili? 	hari	4
+6 Hari ne arjun ko gendh di.
+7 Sita dhoodh chod aayi.
+8 Hari ne arjun ko kya diya? 	gendh	6
+9 Arjun gendh chod aaya.
+10 Arjun galiyare mein chala gaya.
+11 Hari ne gendh kisko di?	arjun	6
+12 Manoj galiyare gaya.
+13 Hari gendh le kar aaya.
+14 Hari gusalkhane gaya.
+15 Hari galiyare gaya.
+16 Hari ne manoj ko gendh di.
+17 Manoj ne hari ko gendh di.
+18 Manoj ne hari ko kya diya? 	gendh	17
+19 Hari ne manoj ko gendh di.
+20 Manoj ne hari ko gendh di.
+21 Manoj ne gendh kisko di?	hari	20
+1 Manoj daftar mein gaya.
+2 Manoj rasoi ghar gaya.
+3 Arjun daftar mein chala gaya.
+4 Arjun bagichey mein gaya.
+5 Hari dhoodh le kar aaya.
+6 Hari dhoodh rakh aaya.
+7 Manoj bagichey mein gaya.
+8 Arjun gendh le aaya.
+9 Arjun ne manoj ko gendh di.
+10 Arjun seb le kar aaya.
+11 Manoj ko gendh kisney di?	arjun	9
+12 Arjun ne manoj ko seb diya.
+13 Sita gusalkhane mein gayi.
+14 Arjun ne manoj ko kya diya? 	gendh	9
+15 Manoj sayanakaksh gaya.
+16 Hari dhoodh le kar aaya.
+17 Seb kisko mila? 	manoj	12
+18 Arjun rasoi ghar gaya.
+19 Arjun gusalkhane mein chala gaya.
+20 Manoj seb chod aaya.
+21 Manoj gendh rakh aaya.
+22 Sita daftar gayi.
+23 Manoj seb le aaya.
+24 Manoj seb rakh aaya.
+25 Manoj daftar mein gaya.
+26 Sita galiyare mein gayi.
+27 Manoj galiyare mein gaya.
+28 Manoj sayanakaksh mein chala gaya.
+29 Hari dhoodh rakh aaya.
+30 Manoj seb le kar aaya.
+31 Hari dhoodh le aaya.
+32 Manoj rasoi ghar mein chala gaya.
+33 Sita daftar mein chali gayi.
+34 Hari daftar mein gaya.
+35 Manoj galiyare gaya.
+36 Hari ne sita ko dhoodh diya.
+37 Sita ne hari ko dhoodh diya.
+38 Dhoodh kisney diya? 	sita	37
+39 Hari ne sita ko dhoodh diya.
+40 Arjun bagichey mein gaya.
+41 Dhoodh kisko mila? 	sita	39
+1 Hari gendh le kar aaya.
+2 Hari ne sita ko gendh di.
+3 Sita ko gendh kisney di?	hari	2
+4 Arjun bagichey mein gaya.
+5 Sita ne hari ko gendh di.
+6 Gendh kisney di? 	sita	5
+7 Arjun rasoi ghar mein gaya.
+8 Hari ne sita ko gendh di.
+9 Sita ko gendh kisney di?	hari	8
+10 Sita ne hari ko gendh di.
+11 Hari ne sita ko gendh di.
+12 Hari ne sita ko kya diya? 	gendh	11
+13 Hari rasoi ghar mein chala gaya.
+14 Hari galiyare mein gaya.
+15 Hari ne sita ko kya diya? 	gendh	11
+1 Arjun galiyare mein chala gaya.
+2 Manoj galiyare mein chala gaya.
+3 Arjun dhoodh le aaya.
+4 Arjun ne manoj ko dhoodh diya.
+5 Manoj ko dhoodh kisney diya?	arjun	4
+6 Manoj ne arjun ko dhoodh diya.
+7 Arjun ne manoj ko dhoodh diya.
+8 Arjun ne dhoodh kisko diya?	manoj	7
+9 Manoj ne arjun ko dhoodh diya.
+10 Arjun ne manoj ko dhoodh diya.
+11 Dhoodh kisko mila? 	manoj	10
+12 Manoj ne arjun ko dhoodh diya.
+13 Sita sayanakaksh mein chali gayi.
+14 Manoj ne arjun ko kya diya? 	dhoodh	12
+15 Sita seb le kar aayi.
+16 Arjun dhoodh chod aaya.
+17 Arjun ko dhoodh kisney diya?	manoj	12
+1 Sita daftar gayi.
+2 Hari galiyare mein gaya.
+3 Hari sayanakaksh gaya.
+4 Arjun sayanakaksh mein chala gaya.
+5 Arjun daftar mein gaya.
+6 Manoj seb le aaya.
+7 Manoj sayanakaksh mein chala gaya.
+8 Manoj ne hari ko seb diya.
+9 Hari ko seb kisney diya?	manoj	8
+10 Arjun dhoodh le kar aaya.
+11 Arjun sayanakaksh mein chala gaya.
+12 Manoj ne hari ko kya diya? 	seb	8
+13 Manoj rasoi ghar mein chala gaya.
+14 Hari ne arjun ko seb diya.
+15 Hari ne seb kisko diya?	arjun	14
+16 Sita rasoi ghar gayi.
+17 Arjun ne hari ko seb diya.
+18 Hari ko seb kisney diya?	arjun	17
+19 Hari ne arjun ko seb diya.
+20 Hari rasoi ghar gaya.
+21 Hari ne arjun ko kya diya? 	seb	19
+1 Manoj seb le kar aaya.
+2 Manoj gendh le kar aaya.
+3 Sita dhoodh le aayi.
+4 Sita galiyare mein chali gayi.
+5 Manoj seb chod aaya.
+6 Sita daftar mein gayi.
+7 Manoj seb le aaya.
+8 Arjun galiyare mein gaya.
+9 Manoj ne arjun ko seb diya.
+10 Arjun ne manoj ko seb diya.
+11 Arjun ne seb kisko diya?	manoj	10
+12 Manoj seb rakh aaya.
+13 Manoj ne arjun ko gendh di.
+14 Manoj ko seb kisney diya?	arjun	10
+15 Manoj daftar mein gaya.
+16 Arjun bagichey gaya.
+17 Manoj ne gendh kisko di?	arjun	13
+18 Hari galiyare mein chala gaya.
+19 Sita ne manoj ko dhoodh diya.
+20 Gendh kisko mili? 	arjun	13
+21 Manoj ne sita ko dhoodh diya.
+22 Arjun galiyare mein chala gaya.
+23 Manoj ne sita ko kya diya? 	dhoodh	21
+1 Manoj bagichey mein chala gaya.
+2 Sita daftar mein gayi.
+3 Manoj sayanakaksh mein gaya.
+4 Manoj galiyare mein chala gaya.
+5 Sita rasoi ghar gayi.
+6 Manoj sayanakaksh mein chala gaya.
+7 Hari bagichey mein chala gaya.
+8 Hari galiyare gaya.
+9 Arjun bagichey mein chala gaya.
+10 Manoj seb le kar aaya.
+11 Hari sayanakaksh mein chala gaya.
+12 Sita sayanakaksh mein gayi.
+13 Manoj ne sita ko seb diya.
+14 Sita rasoi ghar mein gayi.
+15 Manoj ne sita ko kya diya? 	seb	13
+16 Hari rasoi ghar gaya.
+17 Manoj galiyare gaya.
+18 Manoj ne sita ko kya diya? 	seb	13
+19 Arjun rasoi ghar mein chala gaya.
+20 Sita ne hari ko seb diya.
+21 Seb kisko mila? 	hari	20
+22 Hari ne sita ko seb diya.
+23 Sita ne hari ko seb diya.
+24 Sita ne hari ko kya diya? 	seb	23
+25 Hari seb rakh aaya.
+26 Sita daftar mein chali gayi.
+27 Hari ko seb kisney diya?	sita	23
+1 Manoj gendh le kar aaya.
+2 Manoj gendh rakh aaya.
+3 Hari rasoi ghar mein chala gaya.
+4 Manoj daftar mein chala gaya.
+5 Sita gusalkhane mein chali gayi.
+6 Hari daftar mein gaya.
+7 Sita rasoi ghar gayi.
+8 Sita galiyare mein chali gayi.
+9 Arjun bagichey mein gaya.
+10 Arjun seb le kar aaya.
+11 Arjun rasoi ghar gaya.
+12 Hari bagichey mein chala gaya.
+13 Manoj galiyare mein chala gaya.
+14 Hari galiyare mein gaya.
+15 Manoj gendh le aaya.
+16 Manoj ne sita ko gendh di.
+17 Manoj ne sita ko kya diya? 	gendh	16
+18 Sita sayanakaksh mein chali gayi.
+19 Manoj sayanakaksh gaya.
+20 Manoj ne sita ko kya diya? 	gendh	16
+21 Sita dhoodh le aayi.
+22 Sita ne manoj ko gendh di.
+23 Gendh kisko mili? 	manoj	22
+24 Manoj ne sita ko gendh di.
+25 Sita ne manoj ko gendh di.
+26 Sita ne gendh kisko di?	manoj	25
+27 Manoj ne sita ko gendh di.
+28 Sita bagichey mein chali gayi.
+29 Gendh kisko mili? 	sita	27
+1 Arjun gusalkhane mein chala gaya.
+2 Arjun rasoi ghar mein gaya.
+3 Hari gendh le aaya.
+4 Hari sayanakaksh mein chala gaya.
+5 Arjun bagichey mein chala gaya.
+6 Arjun galiyare mein chala gaya.
+7 Hari gendh rakh aaya.
+8 Sita daftar gayi.
+9 Hari seb le aaya.
+10 Manoj rasoi ghar gaya.
+11 Hari seb chod aaya.
+12 Hari rasoi ghar gaya.
+13 Manoj gusalkhane mein gaya.
+14 Sita bagichey gayi.
+15 Sita sayanakaksh mein gayi.
+16 Sita gendh le kar aayi.
+17 Hari bagichey gaya.
+18 Sita seb le aayi.
+19 Sita gendh rakh aayi.
+20 Hari galiyare gaya.
+21 Manoj galiyare mein gaya.
+22 Sita rasoi ghar gayi.
+23 Sita seb chod aayi.
+24 Manoj daftar mein gaya.
+25 Manoj dhoodh le aaya.
+26 Manoj dhoodh rakh aaya.
+27 Sita seb le kar aayi.
+28 Hari rasoi ghar mein chala gaya.
+29 Sita ne hari ko seb diya.
+30 Manoj gusalkhane mein chala gaya.
+31 Sita ne hari ko kya diya? 	seb	29
+32 Arjun sayanakaksh mein chala gaya.
+33 Hari ne sita ko seb diya.
+34 Seb kisney diya? 	hari	33
+35 Sita ne hari ko seb diya.
+36 Hari ne sita ko seb diya.
+37 Seb kisney diya? 	hari	36
+38 Sita ne hari ko seb diya.
+39 Hari seb rakh aaya.
+40 Seb kisney diya? 	sita	38
+41 Hari seb le kar aaya.
+42 Hari ne sita ko seb diya.
+43 Sita ko seb kisney diya?	hari	42
+1 Manoj daftar mein gaya.
+2 Arjun gusalkhane mein chala gaya.
+3 Arjun bagichey mein gaya.
+4 Arjun daftar mein chala gaya.
+5 Manoj sayanakaksh mein chala gaya.
+6 Sita rasoi ghar mein gayi.
+7 Sita sayanakaksh mein chali gayi.
+8 Manoj bagichey mein gaya.
+9 Hari gusalkhane mein chala gaya.
+10 Arjun dhoodh le kar aaya.
+11 Arjun dhoodh rakh aaya.
+12 Manoj daftar mein chala gaya.
+13 Arjun gusalkhane mein gaya.
+14 Sita rasoi ghar mein gayi.
+15 Hari rasoi ghar mein gaya.
+16 Sita gusalkhane gayi.
+17 Hari seb le aaya.
+18 Hari seb chod aaya.
+19 Sita daftar mein gayi.
+20 Sita dhoodh le kar aayi.
+21 Sita dhoodh chod aayi.
+22 Hari gendh le aaya.
+23 Sita dhoodh le kar aayi.
+24 Hari seb le kar aaya.
+25 Sita ne manoj ko dhoodh diya.
+26 Hari gendh chod aaya.
+27 Dhoodh kisney diya? 	sita	25
+28 Hari gendh le kar aaya.
+29 Manoj gusalkhane gaya.
+30 Sita ne manoj ko kya diya? 	dhoodh	25
+31 Hari seb chod aaya.
+32 Hari sayanakaksh gaya.
+33 Hari bagichey mein gaya.
+34 Manoj ne arjun ko dhoodh diya.
+35 Dhoodh kisney diya? 	manoj	34
+36 Sita rasoi ghar mein gayi.
+37 Arjun ne manoj ko dhoodh diya.
+38 Manoj ko dhoodh kisney diya?	arjun	37
+39 Manoj ne arjun ko dhoodh diya.
+40 Sita seb le kar aayi.
+41 Dhoodh kisko mila? 	arjun	39
+1 Manoj gusalkhane mein chala gaya.
+2 Hari gendh le kar aaya.
+3 Manoj dhoodh le aaya.
+4 Manoj dhoodh chod aaya.
+5 Hari gusalkhane gaya.
+6 Hari ne manoj ko gendh di.
+7 Manoj ko gendh kisney di?	hari	6
+8 Manoj ne hari ko gendh di.
+9 Arjun sayanakaksh mein gaya.
+10 Hari ko gendh kisney di?	manoj	8
+11 Hari seb le aaya.
+12 Arjun gusalkhane mein gaya.
+13 Hari ko gendh kisney di?	manoj	8
+14 Arjun rasoi ghar mein gaya.
+15 Hari daftar mein gaya.
+16 Manoj dhoodh le kar aaya.
+17 Manoj galiyare gaya.
+18 Hari gendh rakh aaya.
+19 Manoj dhoodh rakh aaya.
+20 Hari seb rakh aaya.
+21 Sita bagichey mein gayi.
+22 Arjun gusalkhane mein chala gaya.
+23 Hari bagichey gaya.
+24 Sita rasoi ghar mein gayi.
+25 Arjun galiyare gaya.
+26 Hari rasoi ghar mein chala gaya.
+27 Manoj daftar gaya.
+28 Arjun dhoodh le kar aaya.
+29 Hari sayanakaksh gaya.
+30 Manoj gusalkhane mein chala gaya.
+31 Hari galiyare gaya.
+32 Arjun ne hari ko dhoodh diya.
+33 Hari dhoodh rakh aaya.
+34 Hari ko dhoodh kisney diya?	arjun	32
+35 Arjun dhoodh le aaya.
+36 Manoj bagichey gaya.
+37 Hari ko dhoodh kisney diya?	arjun	32
+1 Hari sayanakaksh mein chala gaya.
+2 Arjun rasoi ghar mein chala gaya.
+3 Sita dhoodh le kar aayi.
+4 Arjun galiyare mein gaya.
+5 Sita dhoodh chod aayi.
+6 Sita dhoodh le kar aayi.
+7 Sita dhoodh chod aayi.
+8 Hari bagichey mein chala gaya.
+9 Hari gusalkhane gaya.
+10 Sita dhoodh le kar aayi.
+11 Arjun daftar mein chala gaya.
+12 Sita ne hari ko dhoodh diya.
+13 Dhoodh kisney diya? 	sita	12
+14 Hari rasoi ghar gaya.
+15 Arjun rasoi ghar mein chala gaya.
+16 Sita ne dhoodh kisko diya?	hari	12
+17 Arjun gendh le kar aaya.
+18 Arjun sayanakaksh mein chala gaya.
+19 Sita ne hari ko kya diya? 	dhoodh	12
+20 Hari dhoodh chod aaya.
+21 Hari dhoodh le aaya.
+22 Arjun rasoi ghar gaya.
+23 Arjun ne hari ko gendh di.
+24 Gendh kisney di? 	arjun	23
+25 Hari ne arjun ko gendh di.
+26 Arjun ne hari ko gendh di.
+27 Gendh kisney di? 	arjun	26
+1 Arjun sayanakaksh gaya.
+2 Arjun gendh le aaya.
+3 Arjun ne sita ko gendh di.
+4 Sita rasoi ghar gayi.
+5 Sita ko gendh kisney di?	arjun	3
+6 Arjun gusalkhane gaya.
+7 Arjun bagichey mein chala gaya.
+8 Gendh kisney di? 	arjun	3
+9 Sita gendh rakh aayi.
+10 Sita gendh le kar aayi.
+11 Hari gusalkhane mein chala gaya.
+12 Hari seb le kar aaya.
+13 Hari ne manoj ko seb diya.
+14 Manoj ne hari ko seb diya.
+15 Manoj ne hari ko kya diya? 	seb	14
+16 Manoj dhoodh le kar aaya.
+17 Hari ne manoj ko seb diya.
+18 Hari ne manoj ko kya diya? 	seb	17
+19 Manoj ne hari ko seb diya.
+20 Manoj dhoodh chod aaya.
+21 Seb kisko mila? 	hari	19
+1 Sita sayanakaksh gayi.
+2 Hari daftar mein chala gaya.
+3 Manoj daftar mein gaya.
+4 Sita galiyare gayi.
+5 Manoj galiyare mein chala gaya.
+6 Sita seb le kar aayi.
+7 Sita seb chod aayi.
+8 Manoj sayanakaksh mein gaya.
+9 Sita seb le kar aayi.
+10 Hari bagichey mein chala gaya.
+11 Hari rasoi ghar mein gaya.
+12 Sita seb rakh aayi.
+13 Sita daftar mein chali gayi.
+14 Hari gendh le kar aaya.
+15 Hari gendh chod aaya.
+16 Arjun rasoi ghar gaya.
+17 Sita rasoi ghar gayi.
+18 Sita galiyare mein chali gayi.
+19 Sita seb le aayi.
+20 Hari gendh le aaya.
+21 Manoj gusalkhane gaya.
+22 Sita seb chod aayi.
+23 Hari ne arjun ko gendh di.
+24 Arjun ne hari ko gendh di.
+25 Arjun ne hari ko kya diya? 	gendh	24
+26 Hari ne arjun ko gendh di.
+27 Arjun gendh chod aaya.
+28 Hari ne arjun ko kya diya? 	gendh	26
+29 Hari gendh le kar aaya.
+30 Manoj dhoodh le aaya.
+31 Hari ne arjun ko kya diya? 	gendh	26
+32 Manoj rasoi ghar mein chala gaya.
+33 Sita daftar mein chali gayi.
+34 Hari gendh rakh aaya.
+35 Manoj ne hari ko dhoodh diya.
+36 Manoj ne dhoodh kisko diya?	hari	35
+37 Hari dhoodh rakh aaya.
+38 Hari dhoodh le kar aaya.
+39 Hari ko dhoodh kisney diya?	manoj	35
+1 Hari rasoi ghar mein gaya.
+2 Hari dhoodh le aaya.
+3 Hari gusalkhane mein chala gaya.
+4 Hari ne sita ko dhoodh diya.
+5 Dhoodh kisko mila? 	sita	4
+6 Sita ne hari ko dhoodh diya.
+7 Hari bagichey mein chala gaya.
+8 Sita ne dhoodh kisko diya?	hari	6
+9 Hari ne manoj ko dhoodh diya.
+10 Manoj ne hari ko dhoodh diya.
+11 Manoj ne hari ko kya diya? 	dhoodh	10
+12 Sita rasoi ghar gayi.
+13 Manoj sayanakaksh gaya.
+14 Manoj ne dhoodh kisko diya?	hari	10
+15 Sita galiyare mein gayi.
+16 Hari gusalkhane mein gaya.
+17 Manoj ne hari ko kya diya? 	dhoodh	10
+1 Hari dhoodh le aaya.
+2 Manoj bagichey gaya.
+3 Sita rasoi ghar mein gayi.
+4 Hari ne sita ko dhoodh diya.
+5 Hari ne sita ko kya diya? 	dhoodh	4
+6 Sita ne hari ko dhoodh diya.
+7 Hari ne sita ko dhoodh diya.
+8 Dhoodh kisko mila? 	sita	7
+9 Sita ne hari ko dhoodh diya.
+10 Hari ne sita ko dhoodh diya.
+11 Dhoodh kisney diya? 	hari	10
+12 Arjun gusalkhane gaya.
+13 Sita dhoodh chod aayi.
+14 Hari ne sita ko kya diya? 	dhoodh	10
+15 Hari daftar mein chala gaya.
+16 Hari gusalkhane mein chala gaya.
+17 Hari ne sita ko kya diya? 	dhoodh	10
+1 Manoj rasoi ghar mein gaya.
+2 Arjun bagichey gaya.
+3 Arjun rasoi ghar mein gaya.
+4 Manoj sayanakaksh gaya.
+5 Manoj bagichey gaya.
+6 Sita gusalkhane gayi.
+7 Manoj dhoodh le aaya.
+8 Arjun galiyare gaya.
+9 Manoj gendh le kar aaya.
+10 Sita galiyare mein chali gayi.
+11 Sita rasoi ghar mein gayi.
+12 Manoj gendh chod aaya.
+13 Sita galiyare mein gayi.
+14 Manoj gendh le aaya.
+15 Arjun bagichey gaya.
+16 Manoj gendh chod aaya.
+17 Manoj ne arjun ko dhoodh diya.
+18 Arjun sayanakaksh mein gaya.
+19 Arjun ko dhoodh kisney diya?	manoj	17
+20 Sita rasoi ghar gayi.
+21 Sita sayanakaksh mein gayi.
+22 Manoj ne arjun ko kya diya? 	dhoodh	17
+23 Manoj gendh le aaya.
+24 Hari daftar gaya.
+25 Arjun ne sita ko dhoodh diya.
+26 Hari bagichey mein chala gaya.
+27 Arjun ne sita ko kya diya? 	dhoodh	25
+28 Manoj gendh rakh aaya.
+29 Manoj sayanakaksh mein gaya.
+30 Arjun ne dhoodh kisko diya?	sita	25
+31 Sita ne manoj ko dhoodh diya.
+32 Hari gusalkhane mein gaya.
+33 Sita ne dhoodh kisko diya?	manoj	31
+1 Hari galiyare gaya.
+2 Manoj sayanakaksh mein chala gaya.
+3 Arjun galiyare gaya.
+4 Sita galiyare mein gayi.
+5 Arjun gusalkhane mein gaya.
+6 Hari sayanakaksh mein gaya.
+7 Sita bagichey gayi.
+8 Sita daftar mein chali gayi.
+9 Manoj galiyare mein gaya.
+10 Arjun sayanakaksh mein chala gaya.
+11 Sita seb le aayi.
+12 Sita gendh le aayi.
+13 Manoj rasoi ghar gaya.
+14 Manoj daftar mein chala gaya.
+15 Manoj bagichey gaya.
+16 Sita dhoodh le aayi.
+17 Arjun daftar mein gaya.
+18 Sita seb chod aayi.
+19 Sita ne arjun ko gendh di.
+20 Arjun ne sita ko gendh di.
+21 Arjun ne sita ko kya diya? 	gendh	20
+22 Sita seb le kar aayi.
+23 Sita gendh rakh aayi.
+24 Gendh kisney di? 	arjun	20
+25 Sita ne arjun ko seb diya.
+26 Sita dhoodh rakh aayi.
+27 Gendh kisko mili? 	sita	20
+28 Arjun ne sita ko seb diya.
+29 Arjun dhoodh le kar aaya.
+30 Arjun ne sita ko kya diya? 	seb	28
+31 Hari rasoi ghar mein chala gaya.
+32 Manoj rasoi ghar mein chala gaya.
+33 Seb kisney diya? 	arjun	28
+1 Hari rasoi ghar mein gaya.
+2 Manoj gusalkhane mein gaya.
+3 Arjun sayanakaksh gaya.
+4 Manoj gendh le kar aaya.
+5 Sita daftar mein gayi.
+6 Manoj daftar gaya.
+7 Arjun galiyare mein chala gaya.
+8 Arjun dhoodh le kar aaya.
+9 Manoj ne sita ko gendh di.
+10 Hari galiyare mein gaya.
+11 Gendh kisko mili? 	sita	9
+12 Hari bagichey mein gaya.
+13 Sita ne manoj ko gendh di.
+14 Sita ne manoj ko kya diya? 	gendh	13
+15 Manoj gendh rakh aaya.
+16 Arjun dhoodh chod aaya.
+17 Sita ne manoj ko kya diya? 	gendh	13
+18 Hari seb le aaya.
+19 Arjun dhoodh le aaya.
+20 Sita ne gendh kisko di?	manoj	13
+21 Sita gendh le kar aayi.
+22 Sita ne manoj ko gendh di.
+23 Gendh kisko mili? 	manoj	22
+1 Manoj sayanakaksh mein chala gaya.
+2 Arjun bagichey mein chala gaya.
+3 Manoj seb le aaya.
+4 Sita sayanakaksh gayi.
+5 Manoj ne sita ko seb diya.
+6 Sita ne manoj ko seb diya.
+7 Sita ne manoj ko kya diya? 	seb	6
+8 Hari sayanakaksh gaya.
+9 Manoj ne sita ko seb diya.
+10 Manoj ne seb kisko diya?	sita	9
+11 Sita ne hari ko seb diya.
+12 Hari ne sita ko seb diya.
+13 Hari ne seb kisko diya?	sita	12
+14 Manoj rasoi ghar mein gaya.
+15 Sita bagichey mein chali gayi.
+16 Hari ne sita ko kya diya? 	seb	12
+17 Sita seb chod aayi.
+18 Arjun seb le kar aaya.
+19 Sita ko seb kisney diya?	hari	12
+1 Manoj daftar mein chala gaya.
+2 Sita dhoodh le aayi.
+3 Arjun sayanakaksh mein gaya.
+4 Sita ne arjun ko dhoodh diya.
+5 Dhoodh kisko mila? 	arjun	4
+6 Sita daftar mein gayi.
+7 Hari daftar gaya.
+8 Sita ne arjun ko kya diya? 	dhoodh	4
+9 Sita bagichey mein chali gayi.
+10 Sita sayanakaksh mein chali gayi.
+11 Sita ne arjun ko kya diya? 	dhoodh	4
+12 Arjun ne sita ko dhoodh diya.
+13 Sita dhoodh rakh aayi.
+14 Dhoodh kisko mila? 	sita	12
+15 Arjun dhoodh le aaya.
+16 Arjun ne sita ko dhoodh diya.
+17 Arjun ne sita ko kya diya? 	dhoodh	16
+1 Manoj bagichey gaya.
+2 Sita daftar mein gayi.
+3 Hari gusalkhane mein gaya.
+4 Hari sayanakaksh mein gaya.
+5 Arjun seb le kar aaya.
+6 Sita bagichey gayi.
+7 Arjun sayanakaksh gaya.
+8 Manoj galiyare mein gaya.
+9 Arjun seb rakh aaya.
+10 Hari galiyare mein chala gaya.
+11 Sita rasoi ghar gayi.
+12 Sita daftar mein gayi.
+13 Arjun rasoi ghar mein chala gaya.
+14 Hari daftar mein gaya.
+15 Arjun bagichey gaya.
+16 Sita galiyare gayi.
+17 Manoj rasoi ghar mein chala gaya.
+18 Arjun sayanakaksh mein chala gaya.
+19 Arjun seb le kar aaya.
+20 Manoj daftar mein gaya.
+21 Arjun seb chod aaya.
+22 Sita daftar gayi.
+23 Hari galiyare mein chala gaya.
+24 Sita gusalkhane mein gayi.
+25 Sita gendh le aayi.
+26 Sita gendh chod aayi.
+27 Sita dhoodh le kar aayi.
+28 Arjun gusalkhane mein gaya.
+29 Arjun gendh le kar aaya.
+30 Arjun ne sita ko gendh di.
+31 Gendh kisko mili? 	sita	30
+32 Sita bagichey mein chali gayi.
+33 Arjun sayanakaksh mein chala gaya.
+34 Gendh kisney di? 	arjun	30
+35 Sita gendh rakh aayi.
+36 Arjun seb le kar aaya.
+37 Gendh kisko mili? 	sita	30
+38 Arjun seb chod aaya.
+39 Hari sayanakaksh mein chala gaya.
+40 Sita dhoodh rakh aayi.
+41 Hari galiyare mein gaya.
+42 Arjun seb le kar aaya.
+43 Arjun galiyare mein gaya.
+44 Hari sayanakaksh gaya.
+45 Arjun seb rakh aaya.
+46 Hari rasoi ghar mein gaya.
+47 Arjun seb le aaya.
+48 Manoj gusalkhane gaya.
+49 Arjun rasoi ghar mein chala gaya.
+50 Manoj galiyare gaya.
+51 Manoj daftar gaya.
+52 Arjun gusalkhane mein chala gaya.
+53 Sita dhoodh le aayi.
+54 Sita gendh le kar aayi.
+55 Hari galiyare mein gaya.
+56 Arjun rasoi ghar gaya.
+57 Manoj bagichey gaya.
+58 Manoj gusalkhane mein gaya.
+59 Arjun sayanakaksh gaya.
+60 Hari bagichey gaya.
+61 Sita ne hari ko gendh di.
+62 Hari ko gendh kisney di?	sita	61
+63 Hari ne sita ko gendh di.
+64 Sita sayanakaksh mein chali gayi.
+65 Gendh kisko mili? 	sita	63
+1 Hari daftar mein gaya.
+2 Arjun galiyare mein gaya.
+3 Hari bagichey gaya.
+4 Arjun rasoi ghar gaya.
+5 Sita rasoi ghar mein chali gayi.
+6 Sita daftar mein gayi.
+7 Arjun gusalkhane mein gaya.
+8 Sita rasoi ghar mein chali gayi.
+9 Arjun seb le kar aaya.
+10 Arjun sayanakaksh gaya.
+11 Arjun daftar mein chala gaya.
+12 Arjun ne manoj ko seb diya.
+13 Arjun ne manoj ko kya diya? 	seb	12
+14 Hari gusalkhane mein gaya.
+15 Manoj ne arjun ko seb diya.
+16 Seb kisko mila? 	arjun	15
+17 Arjun ne manoj ko seb diya.
+18 Hari rasoi ghar gaya.
+19 Seb kisko mila? 	manoj	17
+20 Sita daftar gayi.
+21 Manoj ne sita ko seb diya.
+22 Manoj ne sita ko kya diya? 	seb	21
+23 Hari bagichey gaya.
+24 Sita seb chod aayi.
+25 Manoj ne sita ko kya diya? 	seb	21
+1 Manoj bagichey mein gaya.
+2 Sita sayanakaksh mein gayi.
+3 Arjun bagichey gaya.
+4 Arjun gusalkhane gaya.
+5 Sita gendh le kar aayi.
+6 Sita gendh rakh aayi.
+7 Arjun bagichey mein chala gaya.
+8 Hari daftar gaya.
+9 Manoj gusalkhane mein gaya.
+10 Sita seb le aayi.
+11 Sita seb rakh aayi.
+12 Arjun galiyare gaya.
+13 Arjun dhoodh le aaya.
+14 Sita rasoi ghar gayi.
+15 Sita bagichey gayi.
+16 Hari galiyare mein chala gaya.
+17 Sita sayanakaksh mein gayi.
+18 Arjun ne hari ko dhoodh diya.
+19 Arjun ne dhoodh kisko diya?	hari	18
+20 Hari ne arjun ko dhoodh diya.
+21 Arjun daftar mein gaya.
+22 Dhoodh kisko mila? 	arjun	20
+23 Manoj sayanakaksh gaya.
+24 Manoj gusalkhane mein chala gaya.
+25 Hari ne dhoodh kisko diya?	arjun	20
+26 Sita gusalkhane mein chali gayi.
+27 Hari daftar gaya.
+28 Manoj bagichey gaya.
+29 Arjun ne hari ko dhoodh diya.
+30 Dhoodh kisko mila? 	hari	29
+31 Hari ne arjun ko dhoodh diya.
+32 Arjun rasoi ghar mein chala gaya.
+33 Hari ne dhoodh kisko diya?	arjun	31
+1 Manoj daftar gaya.
+2 Arjun sayanakaksh mein gaya.
+3 Hari bagichey gaya.
+4 Hari sayanakaksh mein gaya.
+5 Hari galiyare gaya.
+6 Sita seb le kar aayi.
+7 Sita sayanakaksh mein gayi.
+8 Sita ne arjun ko seb diya.
+9 Arjun ko seb kisney diya?	sita	8
+10 Arjun seb chod aaya.
+11 Arjun gusalkhane mein gaya.
+12 Sita ne arjun ko kya diya? 	seb	8
+13 Arjun daftar mein chala gaya.
+14 Hari rasoi ghar mein gaya.
+15 Sita ne arjun ko kya diya? 	seb	8
+16 Manoj sayanakaksh mein chala gaya.
+17 Hari sayanakaksh mein chala gaya.
+18 Hari rasoi ghar gaya.
+19 Arjun galiyare mein gaya.
+20 Sita seb le kar aayi.
+21 Sita seb rakh aayi.
+22 Manoj seb le aaya.
+23 Manoj ne sita ko seb diya.
+24 Sita ko seb kisney diya?	manoj	23
+25 Sita ne manoj ko seb diya.
+26 Manoj daftar gaya.
+27 Manoj ko seb kisney diya?	sita	25
+1 Manoj bagichey gaya.
+2 Hari seb le aaya.
+3 Arjun gendh le aaya.
+4 Sita sayanakaksh mein gayi.
+5 Hari seb chod aaya.
+6 Hari seb le kar aaya.
+7 Sita rasoi ghar mein gayi.
+8 Hari ne sita ko seb diya.
+9 Hari ne sita ko kya diya? 	seb	8
+10 Arjun galiyare mein chala gaya.
+11 Manoj rasoi ghar mein gaya.
+12 Hari ne seb kisko diya?	sita	8
+13 Sita ne hari ko seb diya.
+14 Hari ne sita ko seb diya.
+15 Hari ne sita ko kya diya? 	seb	14
+16 Arjun bagichey mein chala gaya.
+17 Sita ne hari ko seb diya.
+18 Seb kisney diya? 	sita	17
+19 Arjun sayanakaksh mein chala gaya.
+20 Arjun gendh chod aaya.
+21 Hari ko seb kisney diya?	sita	17
+1 Manoj seb le kar aaya.
+2 Sita dhoodh le kar aayi.
+3 Sita rasoi ghar mein gayi.
+4 Manoj seb chod aaya.
+5 Manoj seb le kar aaya.
+6 Manoj seb rakh aaya.
+7 Sita bagichey mein gayi.
+8 Manoj seb le kar aaya.
+9 Hari sayanakaksh mein chala gaya.
+10 Sita dhoodh chod aayi.
+11 Sita daftar gayi.
+12 Manoj gusalkhane mein chala gaya.
+13 Manoj rasoi ghar mein gaya.
+14 Manoj ne arjun ko seb diya.
+15 Seb kisney diya? 	manoj	14
+16 Sita bagichey gayi.
+17 Hari bagichey gaya.
+18 Manoj ne arjun ko kya diya? 	seb	14
+19 Arjun daftar gaya.
+20 Sita daftar mein chali gayi.
+21 Arjun ko seb kisney diya?	manoj	14
+22 Arjun seb rakh aaya.
+23 Hari galiyare mein chala gaya.
+24 Sita seb le aayi.
+25 Sita ne arjun ko seb diya.
+26 Sita ne seb kisko diya?	arjun	25
+27 Arjun ne sita ko seb diya.
+28 Sita ne arjun ko seb diya.
+29 Sita ne arjun ko kya diya? 	seb	28
+1 Manoj sayanakaksh mein chala gaya.
+2 Arjun rasoi ghar mein gaya.
+3 Arjun bagichey gaya.
+4 Manoj galiyare mein chala gaya.
+5 Manoj bagichey mein chala gaya.
+6 Hari galiyare mein chala gaya.
+7 Arjun galiyare gaya.
+8 Manoj rasoi ghar mein chala gaya.
+9 Arjun daftar mein chala gaya.
+10 Hari daftar mein gaya.
+11 Hari gendh le aaya.
+12 Hari ne arjun ko gendh di.
+13 Gendh kisko mili? 	arjun	12
+14 Arjun dhoodh le kar aaya.
+15 Arjun ne hari ko gendh di.
+16 Arjun ne hari ko kya diya? 	gendh	15
+17 Arjun dhoodh rakh aaya.
+18 Hari galiyare gaya.
+19 Arjun ne hari ko kya diya? 	gendh	15
+20 Arjun dhoodh le kar aaya.
+21 Hari ne sita ko gendh di.
+22 Gendh kisney di? 	hari	21
+23 Sita ne hari ko gendh di.
+24 Manoj bagichey mein gaya.
+25 Gendh kisko mili? 	hari	23
+1 Hari daftar mein gaya.
+2 Arjun gendh le kar aaya.
+3 Arjun ne hari ko gendh di.
+4 Arjun galiyare mein chala gaya.
+5 Arjun ne hari ko kya diya? 	gendh	3
+6 Hari gendh chod aaya.
+7 Manoj daftar gaya.
+8 Gendh kisney di? 	arjun	3
+9 Arjun gusalkhane mein gaya.
+10 Hari gendh le kar aaya.
+11 Hari galiyare mein chala gaya.
+12 Manoj sayanakaksh mein chala gaya.
+13 Hari ne sita ko gendh di.
+14 Arjun galiyare gaya.
+15 Hari ne sita ko kya diya? 	gendh	13
+16 Arjun rasoi ghar mein chala gaya.
+17 Sita ne hari ko gendh di.
+18 Sita ne gendh kisko di?	hari	17
+19 Hari ne sita ko gendh di.
+20 Sita gendh rakh aayi.
+21 Sita ko gendh kisney di?	hari	19
+1 Manoj bagichey mein gaya.
+2 Arjun gusalkhane mein gaya.
+3 Hari daftar mein chala gaya.
+4 Arjun rasoi ghar mein chala gaya.
+5 Manoj daftar mein chala gaya.
+6 Sita galiyare mein gayi.
+7 Sita seb le aayi.
+8 Sita daftar mein chali gayi.
+9 Sita seb chod aayi.
+10 Sita seb le kar aayi.
+11 Arjun daftar mein gaya.
+12 Sita sayanakaksh mein chali gayi.
+13 Manoj rasoi ghar mein gaya.
+14 Arjun bagichey mein chala gaya.
+15 Sita gendh le kar aayi.
+16 Sita daftar mein chali gayi.
+17 Manoj sayanakaksh mein chala gaya.
+18 Hari galiyare gaya.
+19 Hari rasoi ghar mein gaya.
+20 Sita gendh chod aayi.
+21 Sita galiyare mein gayi.
+22 Arjun sayanakaksh gaya.
+23 Sita daftar mein chali gayi.
+24 Sita rasoi ghar mein chali gayi.
+25 Sita ne hari ko seb diya.
+26 Sita daftar mein gayi.
+27 Sita ne hari ko kya diya? 	seb	25
+28 Arjun daftar mein chala gaya.
+29 Manoj galiyare mein gaya.
+30 Sita ne hari ko kya diya? 	seb	25
+31 Arjun sayanakaksh gaya.
+32 Manoj bagichey gaya.
+33 Arjun rasoi ghar mein gaya.
+34 Hari ne arjun ko seb diya.
+35 Seb kisney diya? 	hari	34
+36 Arjun ne hari ko seb diya.
+37 Hari ne arjun ko seb diya.
+38 Hari ne arjun ko kya diya? 	seb	37
+39 Arjun gusalkhane gaya.
+40 Hari sayanakaksh mein gaya.
+41 Hari ne arjun ko kya diya? 	seb	37
+1 Hari galiyare mein gaya.
+2 Hari rasoi ghar mein gaya.
+3 Arjun dhoodh le aaya.
+4 Arjun seb le kar aaya.
+5 Arjun bagichey gaya.
+6 Hari bagichey mein gaya.
+7 Sita sayanakaksh mein gayi.
+8 Hari daftar mein gaya.
+9 Arjun ne manoj ko seb diya.
+10 Manoj seb rakh aaya.
+11 Arjun ne manoj ko kya diya? 	seb	9
+12 Manoj rasoi ghar mein gaya.
+13 Sita bagichey gayi.
+14 Arjun ne seb kisko diya?	manoj	9
+15 Arjun ne sita ko dhoodh diya.
+16 Sita ne arjun ko dhoodh diya.
+17 Dhoodh kisko mila? 	arjun	16
+18 Arjun ne sita ko dhoodh diya.
+19 Hari rasoi ghar mein chala gaya.
+20 Arjun ne sita ko kya diya? 	dhoodh	18
+21 Sita seb le kar aayi.
+22 Hari gusalkhane mein gaya.
+23 Dhoodh kisney diya? 	arjun	18
+1 Hari seb le kar aaya.
+2 Manoj daftar gaya.
+3 Sita bagichey mein gayi.
+4 Sita daftar mein chali gayi.
+5 Sita gusalkhane mein chali gayi.
+6 Hari daftar gaya.
+7 Hari gendh le kar aaya.
+8 Arjun galiyare mein chala gaya.
+9 Hari ne manoj ko seb diya.
+10 Manoj ne hari ko seb diya.
+11 Seb kisney diya? 	manoj	10
+12 Hari gendh chod aaya.
+13 Hari ne manoj ko seb diya.
+14 Hari ne manoj ko kya diya? 	seb	13
+15 Manoj ne hari ko seb diya.
+16 Hari ne manoj ko seb diya.
+17 Seb kisko mila? 	manoj	16
+18 Hari gendh le kar aaya.
+19 Hari gendh chod aaya.
+20 Hari ne manoj ko kya diya? 	seb	16
+21 Sita galiyare mein chali gayi.
+22 Manoj ne hari ko seb diya.
+23 Manoj ne hari ko kya diya? 	seb	22
+1 Hari daftar gaya.
+2 Manoj rasoi ghar mein chala gaya.
+3 Hari bagichey mein chala gaya.
+4 Manoj bagichey gaya.
+5 Sita rasoi ghar mein gayi.
+6 Sita seb le aayi.
+7 Sita gendh le kar aayi.
+8 Hari rasoi ghar gaya.
+9 Sita ne hari ko seb diya.
+10 Hari ne sita ko seb diya.
+11 Sita ko seb kisney diya?	hari	10
+12 Arjun sayanakaksh mein chala gaya.
+13 Arjun daftar mein gaya.
+14 Hari ne sita ko kya diya? 	seb	10
+15 Arjun galiyare mein gaya.
+16 Sita ne hari ko seb diya.
+17 Hari ko seb kisney diya?	sita	16
+18 Hari ne sita ko seb diya.
+19 Sita ne hari ko seb diya.
+20 Hari ko seb kisney diya?	sita	19
+21 Hari ne sita ko seb diya.
+22 Sita ne hari ko seb diya.
+23 Sita ne hari ko kya diya? 	seb	22
+1 Sita galiyare mein chali gayi.
+2 Sita rasoi ghar gayi.
+3 Sita daftar mein chali gayi.
+4 Arjun dhoodh le aaya.
+5 Arjun ne hari ko dhoodh diya.
+6 Manoj sayanakaksh mein chala gaya.
+7 Dhoodh kisney diya? 	arjun	5
+8 Hari ne arjun ko dhoodh diya.
+9 Arjun seb le kar aaya.
+10 Dhoodh kisney diya? 	hari	8
+11 Arjun ne hari ko seb diya.
+12 Hari ne arjun ko seb diya.
+13 Seb kisko mila? 	arjun	12
+14 Arjun ne hari ko seb diya.
+15 Arjun dhoodh chod aaya.
+16 Seb kisney diya? 	arjun	14
+17 Hari ne arjun ko seb diya.
+18 Arjun seb rakh aaya.
+19 Hari ne arjun ko kya diya? 	seb	17
+1 Sita daftar gayi.
+2 Arjun daftar mein gaya.
+3 Manoj gendh le kar aaya.
+4 Sita sayanakaksh mein gayi.
+5 Manoj gendh chod aaya.
+6 Sita gusalkhane gayi.
+7 Sita seb le kar aayi.
+8 Manoj gendh le kar aaya.
+9 Sita seb rakh aayi.
+10 Sita seb le aayi.
+11 Arjun gusalkhane gaya.
+12 Sita ne arjun ko seb diya.
+13 Seb kisney diya? 	sita	12
+14 Hari rasoi ghar mein gaya.
+15 Arjun ne sita ko seb diya.
+16 Seb kisko mila? 	sita	15
+17 Sita ne arjun ko seb diya.
+18 Arjun seb chod aaya.
+19 Seb kisney diya? 	sita	17
+20 Sita daftar mein chali gayi.
+21 Sita gusalkhane mein chali gayi.
+22 Seb kisney diya? 	sita	17
+23 Arjun sayanakaksh mein chala gaya.
+24 Manoj rasoi ghar gaya.
+25 Sita daftar mein gayi.
+26 Manoj bagichey mein chala gaya.
+27 Arjun daftar mein chala gaya.
+28 Manoj galiyare mein chala gaya.
+29 Manoj dhoodh le aaya.
+30 Manoj bagichey mein gaya.
+31 Arjun galiyare mein chala gaya.
+32 Arjun daftar mein gaya.
+33 Arjun gusalkhane gaya.
+34 Hari sayanakaksh gaya.
+35 Manoj sayanakaksh mein chala gaya.
+36 Manoj ne hari ko gendh di.
+37 Manoj ne gendh kisko di?	hari	36
+1 Manoj daftar mein chala gaya.
+2 Manoj gusalkhane mein chala gaya.
+3 Sita daftar mein gayi.
+4 Manoj daftar gaya.
+5 Arjun sayanakaksh mein gaya.
+6 Sita bagichey mein gayi.
+7 Sita sayanakaksh mein chali gayi.
+8 Manoj dhoodh le aaya.
+9 Manoj dhoodh rakh aaya.
+10 Manoj dhoodh le aaya.
+11 Hari bagichey mein chala gaya.
+12 Sita gendh le aayi.
+13 Manoj dhoodh chod aaya.
+14 Hari daftar gaya.
+15 Sita ne arjun ko gendh di.
+16 Hari dhoodh le kar aaya.
+17 Sita ne arjun ko kya diya? 	gendh	15
+18 Arjun ne sita ko gendh di.
+19 Arjun rasoi ghar mein gaya.
+20 Arjun ne sita ko kya diya? 	gendh	18
+21 Hari ne manoj ko dhoodh diya.
+22 Sita rasoi ghar mein gayi.
+23 Arjun ne sita ko kya diya? 	gendh	18
+24 Sita ne arjun ko gendh di.
+25 Arjun bagichey gaya.
+26 Hari ne manoj ko kya diya? 	dhoodh	21
+27 Arjun rasoi ghar mein chala gaya.
+28 Arjun ne sita ko gendh di.
+29 Arjun ne gendh kisko di?	sita	28
+1 Sita bagichey gayi.
+2 Hari dhoodh le kar aaya.
+3 Sita gendh le aayi.
+4 Hari dhoodh chod aaya.
+5 Arjun galiyare mein chala gaya.
+6 Hari dhoodh le aaya.
+7 Sita seb le aayi.
+8 Hari dhoodh chod aaya.
+9 Arjun rasoi ghar mein chala gaya.
+10 Sita seb rakh aayi.
+11 Sita seb le kar aayi.
+12 Hari dhoodh le aaya.
+13 Hari dhoodh rakh aaya.
+14 Sita gendh chod aayi.
+15 Manoj gusalkhane mein gaya.
+16 Sita gusalkhane gayi.
+17 Arjun sayanakaksh mein gaya.
+18 Sita ne hari ko seb diya.
+19 Hari ko seb kisney diya?	sita	18
+20 Hari ne sita ko seb diya.
+21 Sita dhoodh le kar aayi.
+22 Sita ko seb kisney diya?	hari	20
+23 Sita ne hari ko seb diya.
+24 Hari seb chod aaya.
+25 Seb kisko mila? 	hari	23
+26 Manoj seb le kar aaya.
+27 Manoj ne sita ko seb diya.
+28 Manoj ne seb kisko diya?	sita	27
+29 Sita ne hari ko seb diya.
+30 Hari ne sita ko seb diya.
+31 Seb kisney diya? 	hari	30
+1 Hari rasoi ghar mein chala gaya.
+2 Manoj sayanakaksh gaya.
+3 Manoj seb le kar aaya.
+4 Hari daftar mein gaya.
+5 Hari gendh le aaya.
+6 Manoj bagichey mein chala gaya.
+7 Manoj daftar gaya.
+8 Sita bagichey mein gayi.
+9 Manoj ne hari ko seb diya.
+10 Hari ne manoj ko seb diya.
+11 Seb kisney diya? 	hari	10
+12 Manoj seb chod aaya.
+13 Hari ne manoj ko gendh di.
+14 Seb kisney diya? 	hari	10
+15 Arjun daftar mein gaya.
+16 Manoj ne hari ko gendh di.
+17 Hari ko gendh kisney di?	manoj	16
+18 Arjun dhoodh le kar aaya.
+19 Hari seb le kar aaya.
+20 Manoj ne gendh kisko di?	hari	16
+21 Hari ne manoj ko seb diya.
+22 Arjun bagichey mein chala gaya.
+23 Seb kisko mila? 	manoj	21
+1 Hari gendh le aaya.
+2 Manoj bagichey gaya.
+3 Arjun sayanakaksh gaya.
+4 Hari gendh chod aaya.
+5 Hari gendh le kar aaya.
+6 Hari gendh chod aaya.
+7 Hari dhoodh le kar aaya.
+8 Arjun gusalkhane gaya.
+9 Hari ne arjun ko dhoodh diya.
+10 Arjun ne hari ko dhoodh diya.
+11 Dhoodh kisko mila? 	hari	10
+12 Arjun gendh le kar aaya.
+13 Sita sayanakaksh mein chali gayi.
+14 Hari ko dhoodh kisney diya?	arjun	10
+15 Arjun ne hari ko gendh di.
+16 Hari ne arjun ko gendh di.
+17 Hari ko dhoodh kisney diya?	arjun	10
+18 Arjun ne hari ko gendh di.
+19 Sita rasoi ghar gayi.
+20 Arjun ne hari ko kya diya? 	gendh	18
+21 Hari ne arjun ko gendh di.
+22 Arjun ne hari ko gendh di.
+23 Arjun ne hari ko kya diya? 	gendh	22
+1 Hari bagichey mein chala gaya.
+2 Sita bagichey gayi.
+3 Hari daftar gaya.
+4 Hari gendh le kar aaya.
+5 Manoj galiyare gaya.
+6 Sita rasoi ghar mein gayi.
+7 Hari gendh chod aaya.
+8 Sita dhoodh le kar aayi.
+9 Manoj bagichey mein chala gaya.
+10 Sita dhoodh chod aayi.
+11 Sita dhoodh le aayi.
+12 Hari sayanakaksh mein chala gaya.
+13 Hari galiyare mein gaya.
+14 Hari seb le aaya.
+15 Arjun galiyare gaya.
+16 Hari sayanakaksh gaya.
+17 Manoj daftar mein chala gaya.
+18 Hari seb rakh aaya.
+19 Manoj gendh le kar aaya.
+20 Manoj gendh rakh aaya.
+21 Hari daftar mein chala gaya.
+22 Arjun gusalkhane gaya.
+23 Sita gusalkhane mein gayi.
+24 Manoj gendh le aaya.
+25 Manoj ne hari ko gendh di.
+26 Sita dhoodh rakh aayi.
+27 Manoj ne hari ko kya diya? 	gendh	25
+28 Hari gusalkhane gaya.
+29 Manoj bagichey mein chala gaya.
+30 Gendh kisko mili? 	hari	25
+31 Hari ne sita ko gendh di.
+32 Sita ne hari ko gendh di.
+33 Hari ko gendh kisney di?	sita	32
+34 Hari rasoi ghar mein chala gaya.
+35 Sita rasoi ghar mein chali gayi.
+36 Sita ne hari ko kya diya? 	gendh	32
+37 Sita gusalkhane gayi.
+38 Sita galiyare gayi.
+39 Sita ne gendh kisko di?	hari	32
+1 Sita daftar gayi.
+2 Sita dhoodh le aayi.
+3 Manoj bagichey mein gaya.
+4 Hari seb le kar aaya.
+5 Manoj daftar gaya.
+6 Sita ne manoj ko dhoodh diya.
+7 Sita ne manoj ko kya diya? 	dhoodh	6
+8 Hari bagichey mein chala gaya.
+9 Arjun sayanakaksh mein chala gaya.
+10 Dhoodh kisney diya? 	sita	6
+11 Manoj bagichey mein gaya.
+12 Hari rasoi ghar mein chala gaya.
+13 Manoj ko dhoodh kisney diya?	sita	6
+14 Arjun gusalkhane mein gaya.
+15 Arjun daftar mein chala gaya.
+16 Hari sayanakaksh mein gaya.
+17 Arjun rasoi ghar mein chala gaya.
+18 Hari seb chod aaya.
+19 Hari seb le aaya.
+20 Manoj gusalkhane mein chala gaya.
+21 Manoj dhoodh rakh aaya.
+22 Arjun galiyare mein gaya.
+23 Hari seb rakh aaya.
+24 Manoj bagichey mein gaya.
+25 Arjun gendh le kar aaya.
+26 Hari gusalkhane mein chala gaya.
+27 Arjun gendh chod aaya.
+28 Arjun rasoi ghar gaya.
+29 Manoj daftar mein chala gaya.
+30 Manoj bagichey gaya.
+31 Arjun sayanakaksh mein gaya.
+32 Hari dhoodh le aaya.
+33 Hari galiyare mein chala gaya.
+34 Hari dhoodh rakh aaya.
+35 Manoj rasoi ghar mein chala gaya.
+36 Manoj bagichey gaya.
+37 Hari dhoodh le aaya.
+38 Hari dhoodh chod aaya.
+39 Manoj rasoi ghar gaya.
+40 Arjun seb le kar aaya.
+41 Arjun seb rakh aaya.
+42 Hari dhoodh le kar aaya.
+43 Arjun bagichey mein chala gaya.
+44 Hari dhoodh chod aaya.
+45 Hari rasoi ghar mein gaya.
+46 Arjun sayanakaksh gaya.
+47 Hari gusalkhane mein gaya.
+48 Arjun seb le aaya.
+49 Arjun galiyare mein chala gaya.
+50 Sita gusalkhane gayi.
+51 Arjun seb rakh aaya.
+52 Arjun gusalkhane gaya.
+53 Sita bagichey mein chali gayi.
+54 Manoj gusalkhane mein chala gaya.
+55 Hari bagichey gaya.
+56 Manoj galiyare gaya.
+57 Manoj sayanakaksh gaya.
+58 Sita daftar gayi.
+59 Manoj daftar gaya.
+60 Manoj gusalkhane mein chala gaya.
+61 Manoj sayanakaksh mein gaya.
+62 Sita bagichey gayi.
+63 Sita sayanakaksh gayi.
+64 Manoj gusalkhane mein gaya.
+65 Sita gusalkhane gayi.
+66 Sita daftar gayi.
+67 Arjun rasoi ghar mein chala gaya.
+68 Arjun sayanakaksh gaya.
+69 Hari daftar gaya.
+70 Sita galiyare mein chali gayi.
+71 Sita seb le kar aayi.
+72 Sita dhoodh le aayi.
+73 Sita dhoodh rakh aayi.
+74 Sita gendh le kar aayi.
+75 Sita dhoodh le kar aayi.
+76 Sita gusalkhane gayi.
+77 Sita ne manoj ko seb diya.
+78 Seb kisney diya? 	sita	77
+79 Manoj sayanakaksh gaya.
+80 Manoj ne arjun ko seb diya.
+81 Manoj ne arjun ko kya diya? 	seb	80

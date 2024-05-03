@@ -1,0 +1,1250 @@
+1 Trikon gulaabi sumkon ke uupar rakha hai.
+2 Trikon neela chaukor ke dahine rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	1 2
+4 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+5 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	1 2
+6 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	1 2
+7 Kya neela chaukor gulaabi sumkon ke uupar hai?	sahi	2 1
+8 Kya neela chaukor gulaabi sumkon ke neechey hai?	galat	2 1
+9 Kya neela chaukor gulaabi sumkon ke dahine hai?	galat	2 1
+10 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	1 2
+1 Gulaabi sumkon neela chaukor ke neechey rakha hai.
+2 Laal chaukor gulaabi sumkon ke dahine rakha hai.
+3 Kya laal chaukor neela chaukor ke uupar hai?	galat	2 1
+4 Kya neela chaukor laal chaukor ke dahine hai?	galat	1 2
+5 Kya neela chaukor laal chaukor ke uupar hai?	sahi	1 2
+6 Kya laal chaukor neela chaukor ke neechey hai?	sahi	2 1
+7 Kya laal chaukor neela chaukor ke neechey hai?	sahi	2 1
+8 Kya laal chaukor neela chaukor ke uupar hai?	galat	2 1
+9 Kya neela chaukor laal chaukor ke dahine hai?	galat	1 2
+10 Kya neela chaukor laal chaukor ke uupar hai?	sahi	1 2
+1 Gulaabi sumkon laal chaukor ke uupar rakha hai.
+2 Laal chaukor neela chaukor ke dahine rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	1 2
+4 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	1 2
+5 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	1 2
+6 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	1 2
+7 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	1 2
+8 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+9 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	1 2
+10 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+1 Laal chaukor gulaabi sumkon ke uupar rakha hai.
+2 Neela chaukor laal chaukor ke baein rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	1 2
+4 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	1 2
+5 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	1 2
+6 Kya neela chaukor gulaabi sumkon ke dahine hai?	galat	2 1
+7 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+8 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+9 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	1 2
+10 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	1 2
+1 Peela chaukor gulaabi sumkon ke baein rakha hai.
+2 Gulaabi sumkon laal golashetra ke baein rakha hai.
+3 Kya peela chaukor laal golashetra ke neechey hai?	galat	1 2
+4 Kya laal golashetra peela chaukor ke dahine hai?	sahi	2 1
+5 Kya laal golashetra peela chaukor ke dahine hai?	sahi	2 1
+6 Kya peela chaukor laal golashetra ke baein hai?	sahi	1 2
+7 Kya peela chaukor laal golashetra ke neechey hai?	galat	1 2
+8 Kya peela chaukor laal golashetra ke neechey hai?	galat	1 2
+9 Kya peela chaukor laal golashetra ke uupar hai?	galat	1 2
+10 Kya laal golashetra peela chaukor ke baein hai?	galat	2 1
+1 Peela chaukor laal chaukor ke baein rakha hai.
+2 Neela chaukor peela chaukor ke neechey rakha hai.
+3 Kya laal chaukor neela chaukor ke uupar hai?	sahi	1 2
+4 Kya laal chaukor neela chaukor ke uupar hai?	sahi	1 2
+5 Kya laal chaukor neela chaukor ke neechey hai?	galat	1 2
+6 Kya laal chaukor neela chaukor ke baein hai?	galat	1 2
+7 Kya neela chaukor laal chaukor ke neechey hai?	sahi	2 1
+8 Kya laal chaukor neela chaukor ke neechey hai?	galat	1 2
+9 Kya laal chaukor neela chaukor ke baein hai?	galat	1 2
+10 Kya neela chaukor laal chaukor ke uupar hai?	galat	2 1
+1 Gulaabi sumkon laal chaukor ke baein rakha hai.
+2 Gulaabi sumkon trikon ke neechey rakha hai.
+3 Kya trikon laal chaukor ke dahine hai?	galat	2 1
+4 Kya laal chaukor trikon ke uupar hai?	galat	1 2
+5 Kya trikon laal chaukor ke neechey hai?	galat	2 1
+6 Kya laal chaukor trikon ke uupar hai?	galat	1 2
+7 Kya trikon laal chaukor ke neechey hai?	galat	2 1
+8 Kya trikon laal chaukor ke dahine hai?	galat	2 1
+9 Kya laal chaukor trikon ke baein hai?	galat	1 2
+10 Kya laal chaukor trikon ke dahine hai?	sahi	1 2
+1 Peela chaukor trikon ke dahine rakha hai.
+2 Laal chaukor trikon ke neechey rakha hai.
+3 Kya laal chaukor peela chaukor ke uupar hai?	galat	2 1
+4 Kya laal chaukor peela chaukor ke baein hai?	sahi	2 1
+5 Kya laal chaukor peela chaukor ke neechey hai?	sahi	2 1
+6 Kya laal chaukor peela chaukor ke baein hai?	sahi	2 1
+7 Kya peela chaukor laal chaukor ke dahine hai?	sahi	1 2
+8 Kya laal chaukor peela chaukor ke neechey hai?	sahi	2 1
+9 Kya laal chaukor peela chaukor ke uupar hai?	galat	2 1
+10 Kya laal chaukor peela chaukor ke baein hai?	sahi	2 1
+1 Laal chaukor laal golashetra ke neechey rakha hai.
+2 Laal chaukor gulaabi sumkon ke dahine rakha hai.
+3 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	2 1
+4 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	2 1
+5 Kya laal golashetra gulaabi sumkon ke neechey hai?	galat	1 2
+6 Kya laal golashetra gulaabi sumkon ke uupar hai?	sahi	1 2
+7 Kya gulaabi sumkon laal golashetra ke dahine hai?	galat	2 1
+8 Kya laal golashetra gulaabi sumkon ke baein hai?	galat	1 2
+9 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	2 1
+10 Kya laal golashetra gulaabi sumkon ke uupar hai?	sahi	1 2
+1 Gulaabi sumkon trikon ke neechey rakha hai.
+2 Trikon laal golashetra ke dahine rakha hai.
+3 Kya laal golashetra gulaabi sumkon ke baein hai?	sahi	2 1
+4 Kya laal golashetra gulaabi sumkon ke dahine hai?	galat	2 1
+5 Kya laal golashetra gulaabi sumkon ke dahine hai?	galat	2 1
+6 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	1 2
+7 Kya laal golashetra gulaabi sumkon ke dahine hai?	galat	2 1
+8 Kya gulaabi sumkon laal golashetra ke baein hai?	galat	1 2
+9 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	1 2
+10 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+1 Neela chaukor laal golashetra ke neechey rakha hai.
+2 Laal golashetra gulaabi sumkon ke dahine rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	1 2
+4 Kya gulaabi sumkon neela chaukor ke dahine hai?	galat	2 1
+5 Kya gulaabi sumkon neela chaukor ke dahine hai?	galat	2 1
+6 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	1 2
+7 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	2 1
+8 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	2 1
+9 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	2 1
+10 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+1 Laal chaukor trikon ke neechey rakha hai.
+2 Neela chaukor laal chaukor ke baein rakha hai.
+3 Kya neela chaukor trikon ke baein hai?	sahi	2 1
+4 Kya neela chaukor trikon ke uupar hai?	galat	2 1
+5 Kya neela chaukor trikon ke dahine hai?	galat	2 1
+6 Kya trikon neela chaukor ke dahine hai?	sahi	1 2
+7 Kya trikon neela chaukor ke baein hai?	galat	1 2
+8 Kya trikon neela chaukor ke baein hai?	galat	1 2
+9 Kya trikon neela chaukor ke neechey hai?	galat	1 2
+10 Kya neela chaukor trikon ke dahine hai?	galat	2 1
+1 Laal chaukor gulaabi sumkon ke baein rakha hai.
+2 Neela chaukor gulaabi sumkon ke neechey rakha hai.
+3 Kya laal chaukor neela chaukor ke dahine hai?	galat	1 2
+4 Kya laal chaukor neela chaukor ke neechey hai?	galat	1 2
+5 Kya laal chaukor neela chaukor ke neechey hai?	galat	1 2
+6 Kya neela chaukor laal chaukor ke dahine hai?	sahi	2 1
+7 Kya laal chaukor neela chaukor ke neechey hai?	galat	1 2
+8 Kya laal chaukor neela chaukor ke uupar hai?	sahi	1 2
+9 Kya neela chaukor laal chaukor ke neechey hai?	sahi	2 1
+10 Kya neela chaukor laal chaukor ke neechey hai?	sahi	2 1
+1 Trikon laal golashetra ke neechey rakha hai.
+2 Trikon neela chaukor ke dahine rakha hai.
+3 Kya laal golashetra neela chaukor ke baein hai?	galat	1 2
+4 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+5 Kya neela chaukor laal golashetra ke dahine hai?	galat	2 1
+6 Kya neela chaukor laal golashetra ke dahine hai?	galat	2 1
+7 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+8 Kya neela chaukor laal golashetra ke baein hai?	sahi	2 1
+9 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+10 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+1 Trikon laal chaukor ke baein rakha hai.
+2 Trikon peela chaukor ke uupar rakha hai.
+3 Kya laal chaukor peela chaukor ke dahine hai?	sahi	1 2
+4 Kya laal chaukor peela chaukor ke dahine hai?	sahi	1 2
+5 Kya laal chaukor peela chaukor ke neechey hai?	galat	1 2
+6 Kya peela chaukor laal chaukor ke baein hai?	sahi	2 1
+7 Kya laal chaukor peela chaukor ke dahine hai?	sahi	1 2
+8 Kya peela chaukor laal chaukor ke dahine hai?	galat	2 1
+9 Kya laal chaukor peela chaukor ke baein hai?	galat	1 2
+10 Kya peela chaukor laal chaukor ke dahine hai?	galat	2 1
+1 Neela chaukor gulaabi sumkon ke baein rakha hai.
+2 Laal golashetra gulaabi sumkon ke uupar rakha hai.
+3 Kya laal golashetra neela chaukor ke neechey hai?	galat	2 1
+4 Kya laal golashetra neela chaukor ke baein hai?	galat	2 1
+5 Kya laal golashetra neela chaukor ke baein hai?	galat	2 1
+6 Kya laal golashetra neela chaukor ke uupar hai?	sahi	2 1
+7 Kya laal golashetra neela chaukor ke uupar hai?	sahi	2 1
+8 Kya laal golashetra neela chaukor ke neechey hai?	galat	2 1
+9 Kya laal golashetra neela chaukor ke baein hai?	galat	2 1
+10 Kya neela chaukor laal golashetra ke dahine hai?	galat	1 2
+1 Peela chaukor laal chaukor ke uupar rakha hai.
+2 Peela chaukor neela chaukor ke neechey rakha hai.
+3 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+4 Kya laal chaukor neela chaukor ke baein hai?	galat	1 2
+5 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+6 Kya neela chaukor laal chaukor ke neechey hai?	galat	2 1
+7 Kya neela chaukor laal chaukor ke uupar hai?	sahi	2 1
+8 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+9 Kya laal chaukor neela chaukor ke uupar hai?	galat	1 2
+10 Kya laal chaukor neela chaukor ke dahine hai?	galat	1 2
+1 Gulaabi sumkon trikon ke baein rakha hai.
+2 Peela chaukor trikon ke uupar rakha hai.
+3 Kya peela chaukor gulaabi sumkon ke baein hai?	galat	2 1
+4 Kya gulaabi sumkon peela chaukor ke uupar hai?	galat	1 2
+5 Kya gulaabi sumkon peela chaukor ke baein hai?	sahi	1 2
+6 Kya gulaabi sumkon peela chaukor ke neechey hai?	sahi	1 2
+7 Kya gulaabi sumkon peela chaukor ke neechey hai?	sahi	1 2
+8 Kya peela chaukor gulaabi sumkon ke uupar hai?	sahi	2 1
+9 Kya peela chaukor gulaabi sumkon ke dahine hai?	sahi	2 1
+10 Kya gulaabi sumkon peela chaukor ke dahine hai?	galat	1 2
+1 Gulaabi sumkon laal golashetra ke uupar rakha hai.
+2 Trikon gulaabi sumkon ke baein rakha hai.
+3 Kya laal golashetra trikon ke uupar hai?	galat	1 2
+4 Kya laal golashetra trikon ke dahine hai?	sahi	1 2
+5 Kya laal golashetra trikon ke uupar hai?	galat	1 2
+6 Kya laal golashetra trikon ke neechey hai?	sahi	1 2
+7 Kya laal golashetra trikon ke baein hai?	galat	1 2
+8 Kya laal golashetra trikon ke dahine hai?	sahi	1 2
+9 Kya laal golashetra trikon ke uupar hai?	galat	1 2
+10 Kya laal golashetra trikon ke neechey hai?	sahi	1 2
+1 Neela chaukor laal golashetra ke neechey rakha hai.
+2 Laal golashetra laal chaukor ke neechey rakha hai.
+3 Kya neela chaukor laal chaukor ke neechey hai?	sahi	1 2
+4 Kya neela chaukor laal chaukor ke baein hai?	galat	1 2
+5 Kya neela chaukor laal chaukor ke dahine hai?	galat	1 2
+6 Kya laal chaukor neela chaukor ke uupar hai?	sahi	2 1
+7 Kya neela chaukor laal chaukor ke baein hai?	galat	1 2
+8 Kya neela chaukor laal chaukor ke neechey hai?	sahi	1 2
+9 Kya neela chaukor laal chaukor ke dahine hai?	galat	1 2
+10 Kya laal chaukor neela chaukor ke uupar hai?	sahi	2 1
+1 Gulaabi sumkon trikon ke neechey rakha hai.
+2 Gulaabi sumkon peela chaukor ke baein rakha hai.
+3 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+4 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+5 Kya peela chaukor trikon ke baein hai?	galat	2 1
+6 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+7 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+8 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+9 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+10 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+1 Peela chaukor laal golashetra ke neechey rakha hai.
+2 Neela chaukor peela chaukor ke dahine rakha hai.
+3 Kya neela chaukor laal golashetra ke dahine hai?	sahi	2 1
+4 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+5 Kya neela chaukor laal golashetra ke baein hai?	galat	2 1
+6 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+7 Kya laal golashetra neela chaukor ke baein hai?	sahi	1 2
+8 Kya laal golashetra neela chaukor ke baein hai?	sahi	1 2
+9 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+10 Kya neela chaukor laal golashetra ke dahine hai?	sahi	2 1
+1 Laal golashetra neela chaukor ke baein rakha hai.
+2 Peela chaukor laal golashetra ke neechey rakha hai.
+3 Kya neela chaukor peela chaukor ke baein hai?	galat	1 2
+4 Kya neela chaukor peela chaukor ke baein hai?	galat	1 2
+5 Kya neela chaukor peela chaukor ke neechey hai?	galat	1 2
+6 Kya neela chaukor peela chaukor ke baein hai?	galat	1 2
+7 Kya neela chaukor peela chaukor ke neechey hai?	galat	1 2
+8 Kya neela chaukor peela chaukor ke baein hai?	galat	1 2
+9 Kya peela chaukor neela chaukor ke uupar hai?	galat	2 1
+10 Kya neela chaukor peela chaukor ke baein hai?	galat	1 2
+1 Gulaabi sumkon laal golashetra ke neechey rakha hai.
+2 Gulaabi sumkon neela chaukor ke baein rakha hai.
+3 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+4 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+5 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+6 Kya neela chaukor laal golashetra ke dahine hai?	sahi	2 1
+7 Kya neela chaukor laal golashetra ke neechey hai?	sahi	2 1
+8 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+9 Kya neela chaukor laal golashetra ke dahine hai?	sahi	2 1
+10 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+1 Neela chaukor trikon ke neechey rakha hai.
+2 Trikon gulaabi sumkon ke baein rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke dahine hai?	galat	1 2
+4 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	2 1
+5 Kya neela chaukor gulaabi sumkon ke neechey hai?	sahi	1 2
+6 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+7 Kya neela chaukor gulaabi sumkon ke dahine hai?	galat	1 2
+8 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	2 1
+9 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	2 1
+10 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	2 1
+1 Gulaabi sumkon laal golashetra ke neechey rakha hai.
+2 Gulaabi sumkon neela chaukor ke dahine rakha hai.
+3 Kya laal golashetra neela chaukor ke baein hai?	galat	1 2
+4 Kya neela chaukor laal golashetra ke dahine hai?	galat	2 1
+5 Kya laal golashetra neela chaukor ke baein hai?	galat	1 2
+6 Kya laal golashetra neela chaukor ke dahine hai?	sahi	1 2
+7 Kya laal golashetra neela chaukor ke baein hai?	galat	1 2
+8 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+9 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+10 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+1 Neela chaukor laal chaukor ke dahine rakha hai.
+2 Neela chaukor peela chaukor ke neechey rakha hai.
+3 Kya peela chaukor laal chaukor ke uupar hai?	sahi	2 1
+4 Kya laal chaukor peela chaukor ke baein hai?	sahi	1 2
+5 Kya laal chaukor peela chaukor ke uupar hai?	galat	1 2
+6 Kya laal chaukor peela chaukor ke dahine hai?	galat	1 2
+7 Kya laal chaukor peela chaukor ke dahine hai?	galat	1 2
+8 Kya peela chaukor laal chaukor ke neechey hai?	galat	2 1
+9 Kya peela chaukor laal chaukor ke dahine hai?	sahi	2 1
+10 Kya laal chaukor peela chaukor ke dahine hai?	galat	1 2
+1 Peela chaukor laal chaukor ke baein rakha hai.
+2 Trikon peela chaukor ke baein rakha hai.
+3 Kya laal chaukor trikon ke dahine hai?	sahi	1 2
+4 Kya trikon laal chaukor ke uupar hai?	galat	2 1
+5 Kya laal chaukor trikon ke baein hai?	galat	1 2
+6 Kya trikon laal chaukor ke dahine hai?	galat	2 1
+7 Kya trikon laal chaukor ke neechey hai?	galat	2 1
+8 Kya laal chaukor trikon ke neechey hai?	galat	1 2
+9 Kya trikon laal chaukor ke baein hai?	sahi	2 1
+10 Kya trikon laal chaukor ke baein hai?	sahi	2 1
+1 Trikon laal chaukor ke dahine rakha hai.
+2 Peela chaukor trikon ke dahine rakha hai.
+3 Kya laal chaukor peela chaukor ke baein hai?	sahi	1 2
+4 Kya laal chaukor peela chaukor ke uupar hai?	galat	1 2
+5 Kya laal chaukor peela chaukor ke baein hai?	sahi	1 2
+6 Kya peela chaukor laal chaukor ke dahine hai?	sahi	2 1
+7 Kya peela chaukor laal chaukor ke dahine hai?	sahi	2 1
+8 Kya peela chaukor laal chaukor ke neechey hai?	galat	2 1
+9 Kya peela chaukor laal chaukor ke neechey hai?	galat	2 1
+10 Kya peela chaukor laal chaukor ke neechey hai?	galat	2 1
+1 Trikon neela chaukor ke uupar rakha hai.
+2 Neela chaukor gulaabi sumkon ke dahine rakha hai.
+3 Kya gulaabi sumkon trikon ke neechey hai?	sahi	2 1
+4 Kya trikon gulaabi sumkon ke baein hai?	galat	1 2
+5 Kya trikon gulaabi sumkon ke dahine hai?	sahi	1 2
+6 Kya trikon gulaabi sumkon ke baein hai?	galat	1 2
+7 Kya trikon gulaabi sumkon ke uupar hai?	sahi	1 2
+8 Kya gulaabi sumkon trikon ke uupar hai?	galat	2 1
+9 Kya trikon gulaabi sumkon ke uupar hai?	sahi	1 2
+10 Kya gulaabi sumkon trikon ke neechey hai?	sahi	2 1
+1 Peela chaukor neela chaukor ke uupar rakha hai.
+2 Laal chaukor peela chaukor ke dahine rakha hai.
+3 Kya neela chaukor laal chaukor ke baein hai?	sahi	1 2
+4 Kya laal chaukor neela chaukor ke baein hai?	galat	2 1
+5 Kya laal chaukor neela chaukor ke neechey hai?	galat	2 1
+6 Kya neela chaukor laal chaukor ke uupar hai?	galat	1 2
+7 Kya neela chaukor laal chaukor ke baein hai?	sahi	1 2
+8 Kya neela chaukor laal chaukor ke uupar hai?	galat	1 2
+9 Kya neela chaukor laal chaukor ke dahine hai?	galat	1 2
+10 Kya neela chaukor laal chaukor ke baein hai?	sahi	1 2
+1 Trikon neela chaukor ke baein rakha hai.
+2 Gulaabi sumkon trikon ke neechey rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	2 1
+4 Kya neela chaukor gulaabi sumkon ke uupar hai?	sahi	1 2
+5 Kya gulaabi sumkon neela chaukor ke dahine hai?	galat	2 1
+6 Kya neela chaukor gulaabi sumkon ke uupar hai?	sahi	1 2
+7 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	2 1
+8 Kya neela chaukor gulaabi sumkon ke dahine hai?	sahi	1 2
+9 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	2 1
+10 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	1 2
+1 Trikon laal golashetra ke baein rakha hai.
+2 Laal golashetra laal chaukor ke baein rakha hai.
+3 Kya laal chaukor trikon ke dahine hai?	sahi	2 1
+4 Kya trikon laal chaukor ke baein hai?	sahi	1 2
+5 Kya laal chaukor trikon ke dahine hai?	sahi	2 1
+6 Kya laal chaukor trikon ke baein hai?	galat	2 1
+7 Kya trikon laal chaukor ke dahine hai?	galat	1 2
+8 Kya trikon laal chaukor ke dahine hai?	galat	1 2
+9 Kya laal chaukor trikon ke baein hai?	galat	2 1
+10 Kya laal chaukor trikon ke dahine hai?	sahi	2 1
+1 Trikon laal golashetra ke baein rakha hai.
+2 Peela chaukor trikon ke baein rakha hai.
+3 Kya laal golashetra peela chaukor ke dahine hai?	sahi	1 2
+4 Kya laal golashetra peela chaukor ke dahine hai?	sahi	1 2
+5 Kya peela chaukor laal golashetra ke uupar hai?	galat	2 1
+6 Kya peela chaukor laal golashetra ke baein hai?	sahi	2 1
+7 Kya laal golashetra peela chaukor ke dahine hai?	sahi	1 2
+8 Kya peela chaukor laal golashetra ke baein hai?	sahi	2 1
+9 Kya peela chaukor laal golashetra ke uupar hai?	galat	2 1
+10 Kya peela chaukor laal golashetra ke neechey hai?	galat	2 1
+1 Neela chaukor laal chaukor ke dahine rakha hai.
+2 Laal chaukor trikon ke neechey rakha hai.
+3 Kya neela chaukor trikon ke baein hai?	galat	1 2
+4 Kya neela chaukor trikon ke dahine hai?	sahi	1 2
+5 Kya trikon neela chaukor ke neechey hai?	galat	2 1
+6 Kya trikon neela chaukor ke uupar hai?	sahi	2 1
+7 Kya neela chaukor trikon ke neechey hai?	sahi	1 2
+8 Kya neela chaukor trikon ke neechey hai?	sahi	1 2
+9 Kya trikon neela chaukor ke uupar hai?	sahi	2 1
+10 Kya trikon neela chaukor ke dahine hai?	galat	2 1
+1 Laal chaukor gulaabi sumkon ke neechey rakha hai.
+2 Trikon laal chaukor ke neechey rakha hai.
+3 Kya trikon gulaabi sumkon ke uupar hai?	galat	2 1
+4 Kya trikon gulaabi sumkon ke neechey hai?	sahi	2 1
+5 Kya trikon gulaabi sumkon ke neechey hai?	sahi	2 1
+6 Kya gulaabi sumkon trikon ke baein hai?	galat	1 2
+7 Kya gulaabi sumkon trikon ke neechey hai?	galat	1 2
+8 Kya gulaabi sumkon trikon ke baein hai?	galat	1 2
+9 Kya gulaabi sumkon trikon ke uupar hai?	sahi	1 2
+10 Kya gulaabi sumkon trikon ke baein hai?	galat	1 2
+1 Trikon gulaabi sumkon ke dahine rakha hai.
+2 Neela chaukor trikon ke dahine rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke neechey hai?	galat	2 1
+4 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	1 2
+5 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	2 1
+6 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	1 2
+7 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	2 1
+8 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+9 Kya neela chaukor gulaabi sumkon ke dahine hai?	sahi	2 1
+10 Kya neela chaukor gulaabi sumkon ke neechey hai?	galat	2 1
+1 Laal golashetra trikon ke dahine rakha hai.
+2 Laal golashetra laal chaukor ke neechey rakha hai.
+3 Kya laal chaukor trikon ke uupar hai?	sahi	2 1
+4 Kya trikon laal chaukor ke dahine hai?	galat	1 2
+5 Kya trikon laal chaukor ke neechey hai?	sahi	1 2
+6 Kya laal chaukor trikon ke uupar hai?	sahi	2 1
+7 Kya laal chaukor trikon ke dahine hai?	sahi	2 1
+8 Kya laal chaukor trikon ke uupar hai?	sahi	2 1
+9 Kya trikon laal chaukor ke uupar hai?	galat	1 2
+10 Kya trikon laal chaukor ke dahine hai?	galat	1 2
+1 Gulaabi sumkon laal chaukor ke baein rakha hai.
+2 Gulaabi sumkon laal golashetra ke uupar rakha hai.
+3 Kya laal chaukor laal golashetra ke baein hai?	galat	1 2
+4 Kya laal chaukor laal golashetra ke dahine hai?	sahi	1 2
+5 Kya laal chaukor laal golashetra ke neechey hai?	galat	1 2
+6 Kya laal chaukor laal golashetra ke dahine hai?	sahi	1 2
+7 Kya laal golashetra laal chaukor ke dahine hai?	galat	2 1
+8 Kya laal chaukor laal golashetra ke neechey hai?	galat	1 2
+9 Kya laal golashetra laal chaukor ke neechey hai?	sahi	2 1
+10 Kya laal chaukor laal golashetra ke baein hai?	galat	1 2
+1 Gulaabi sumkon trikon ke uupar rakha hai.
+2 Laal chaukor gulaabi sumkon ke uupar rakha hai.
+3 Kya laal chaukor trikon ke uupar hai?	sahi	2 1
+4 Kya trikon laal chaukor ke dahine hai?	galat	1 2
+5 Kya laal chaukor trikon ke neechey hai?	galat	2 1
+6 Kya trikon laal chaukor ke neechey hai?	sahi	1 2
+7 Kya trikon laal chaukor ke uupar hai?	galat	1 2
+8 Kya laal chaukor trikon ke dahine hai?	galat	2 1
+9 Kya trikon laal chaukor ke uupar hai?	galat	1 2
+10 Kya trikon laal chaukor ke neechey hai?	sahi	1 2
+1 Laal chaukor peela chaukor ke baein rakha hai.
+2 Peela chaukor gulaabi sumkon ke neechey rakha hai.
+3 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+4 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+5 Kya gulaabi sumkon laal chaukor ke neechey hai?	galat	2 1
+6 Kya gulaabi sumkon laal chaukor ke neechey hai?	galat	2 1
+7 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+8 Kya gulaabi sumkon laal chaukor ke dahine hai?	sahi	2 1
+9 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+10 Kya laal chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+1 Laal chaukor trikon ke neechey rakha hai.
+2 Trikon gulaabi sumkon ke baein rakha hai.
+3 Kya gulaabi sumkon laal chaukor ke neechey hai?	galat	2 1
+4 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+5 Kya gulaabi sumkon laal chaukor ke uupar hai?	sahi	2 1
+6 Kya gulaabi sumkon laal chaukor ke baein hai?	galat	2 1
+7 Kya gulaabi sumkon laal chaukor ke uupar hai?	sahi	2 1
+8 Kya laal chaukor gulaabi sumkon ke dahine hai?	galat	1 2
+9 Kya laal chaukor gulaabi sumkon ke neechey hai?	sahi	1 2
+10 Kya laal chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+1 Peela chaukor neela chaukor ke neechey rakha hai.
+2 Peela chaukor trikon ke baein rakha hai.
+3 Kya trikon neela chaukor ke neechey hai?	sahi	2 1
+4 Kya neela chaukor trikon ke baein hai?	sahi	1 2
+5 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+6 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+7 Kya neela chaukor trikon ke baein hai?	sahi	1 2
+8 Kya neela chaukor trikon ke uupar hai?	sahi	1 2
+9 Kya neela chaukor trikon ke dahine hai?	galat	1 2
+10 Kya neela chaukor trikon ke neechey hai?	galat	1 2
+1 Gulaabi sumkon trikon ke neechey rakha hai.
+2 Gulaabi sumkon laal golashetra ke uupar rakha hai.
+3 Kya trikon laal golashetra ke dahine hai?	galat	1 2
+4 Kya laal golashetra trikon ke uupar hai?	galat	2 1
+5 Kya laal golashetra trikon ke neechey hai?	sahi	2 1
+6 Kya trikon laal golashetra ke neechey hai?	galat	1 2
+7 Kya laal golashetra trikon ke dahine hai?	galat	2 1
+8 Kya trikon laal golashetra ke uupar hai?	sahi	1 2
+9 Kya laal golashetra trikon ke uupar hai?	galat	2 1
+10 Kya laal golashetra trikon ke neechey hai?	sahi	2 1
+1 Trikon neela chaukor ke baein rakha hai.
+2 Neela chaukor peela chaukor ke baein rakha hai.
+3 Kya trikon peela chaukor ke uupar hai?	galat	1 2
+4 Kya peela chaukor trikon ke dahine hai?	sahi	2 1
+5 Kya peela chaukor trikon ke baein hai?	galat	2 1
+6 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+7 Kya peela chaukor trikon ke dahine hai?	sahi	2 1
+8 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+9 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+10 Kya trikon peela chaukor ke dahine hai?	galat	1 2
+1 Peela chaukor trikon ke uupar rakha hai.
+2 Peela chaukor laal golashetra ke neechey rakha hai.
+3 Kya laal golashetra trikon ke uupar hai?	sahi	2 1
+4 Kya laal golashetra trikon ke uupar hai?	sahi	2 1
+5 Kya trikon laal golashetra ke neechey hai?	sahi	1 2
+6 Kya trikon laal golashetra ke dahine hai?	galat	1 2
+7 Kya laal golashetra trikon ke uupar hai?	sahi	2 1
+8 Kya laal golashetra trikon ke uupar hai?	sahi	2 1
+9 Kya laal golashetra trikon ke baein hai?	galat	2 1
+10 Kya laal golashetra trikon ke uupar hai?	sahi	2 1
+1 Laal golashetra peela chaukor ke neechey rakha hai.
+2 Neela chaukor laal golashetra ke neechey rakha hai.
+3 Kya peela chaukor neela chaukor ke neechey hai?	galat	1 2
+4 Kya neela chaukor peela chaukor ke neechey hai?	sahi	2 1
+5 Kya peela chaukor neela chaukor ke uupar hai?	sahi	1 2
+6 Kya peela chaukor neela chaukor ke baein hai?	galat	1 2
+7 Kya peela chaukor neela chaukor ke uupar hai?	sahi	1 2
+8 Kya neela chaukor peela chaukor ke dahine hai?	galat	2 1
+9 Kya neela chaukor peela chaukor ke neechey hai?	sahi	2 1
+10 Kya neela chaukor peela chaukor ke baein hai?	galat	2 1
+1 Gulaabi sumkon laal chaukor ke baein rakha hai.
+2 Gulaabi sumkon peela chaukor ke dahine rakha hai.
+3 Kya peela chaukor laal chaukor ke dahine hai?	galat	2 1
+4 Kya laal chaukor peela chaukor ke neechey hai?	galat	1 2
+5 Kya laal chaukor peela chaukor ke dahine hai?	sahi	1 2
+6 Kya peela chaukor laal chaukor ke baein hai?	sahi	2 1
+7 Kya peela chaukor laal chaukor ke baein hai?	sahi	2 1
+8 Kya laal chaukor peela chaukor ke dahine hai?	sahi	1 2
+9 Kya peela chaukor laal chaukor ke neechey hai?	galat	2 1
+10 Kya laal chaukor peela chaukor ke dahine hai?	sahi	1 2
+1 Trikon laal golashetra ke baein rakha hai.
+2 Trikon neela chaukor ke uupar rakha hai.
+3 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+4 Kya laal golashetra neela chaukor ke baein hai?	galat	1 2
+5 Kya neela chaukor laal golashetra ke dahine hai?	galat	2 1
+6 Kya laal golashetra neela chaukor ke dahine hai?	sahi	1 2
+7 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+8 Kya neela chaukor laal golashetra ke baein hai?	sahi	2 1
+9 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+10 Kya neela chaukor laal golashetra ke dahine hai?	galat	2 1
+1 Laal golashetra trikon ke uupar rakha hai.
+2 Peela chaukor laal golashetra ke uupar rakha hai.
+3 Kya trikon peela chaukor ke neechey hai?	sahi	1 2
+4 Kya peela chaukor trikon ke uupar hai?	sahi	2 1
+5 Kya trikon peela chaukor ke uupar hai?	galat	1 2
+6 Kya peela chaukor trikon ke uupar hai?	sahi	2 1
+7 Kya trikon peela chaukor ke neechey hai?	sahi	1 2
+8 Kya trikon peela chaukor ke neechey hai?	sahi	1 2
+9 Kya peela chaukor trikon ke baein hai?	galat	2 1
+10 Kya trikon peela chaukor ke baein hai?	galat	1 2
+1 Trikon neela chaukor ke baein rakha hai.
+2 Trikon laal chaukor ke uupar rakha hai.
+3 Kya neela chaukor laal chaukor ke baein hai?	galat	1 2
+4 Kya laal chaukor neela chaukor ke baein hai?	sahi	2 1
+5 Kya neela chaukor laal chaukor ke uupar hai?	sahi	1 2
+6 Kya laal chaukor neela chaukor ke neechey hai?	sahi	2 1
+7 Kya laal chaukor neela chaukor ke neechey hai?	sahi	2 1
+8 Kya laal chaukor neela chaukor ke dahine hai?	galat	2 1
+9 Kya neela chaukor laal chaukor ke baein hai?	galat	1 2
+10 Kya neela chaukor laal chaukor ke baein hai?	galat	1 2
+1 Trikon peela chaukor ke baein rakha hai.
+2 Peela chaukor laal chaukor ke baein rakha hai.
+3 Kya trikon laal chaukor ke dahine hai?	galat	1 2
+4 Kya laal chaukor trikon ke uupar hai?	galat	2 1
+5 Kya trikon laal chaukor ke neechey hai?	galat	1 2
+6 Kya trikon laal chaukor ke baein hai?	sahi	1 2
+7 Kya laal chaukor trikon ke neechey hai?	galat	2 1
+8 Kya laal chaukor trikon ke dahine hai?	sahi	2 1
+9 Kya laal chaukor trikon ke neechey hai?	galat	2 1
+10 Kya laal chaukor trikon ke uupar hai?	galat	2 1
+1 Peela chaukor laal golashetra ke neechey rakha hai.
+2 Gulaabi sumkon peela chaukor ke baein rakha hai.
+3 Kya gulaabi sumkon laal golashetra ke neechey hai?	sahi	2 1
+4 Kya laal golashetra gulaabi sumkon ke uupar hai?	sahi	1 2
+5 Kya laal golashetra gulaabi sumkon ke neechey hai?	galat	1 2
+6 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	2 1
+7 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	2 1
+8 Kya gulaabi sumkon laal golashetra ke dahine hai?	galat	2 1
+9 Kya gulaabi sumkon laal golashetra ke dahine hai?	galat	2 1
+10 Kya laal golashetra gulaabi sumkon ke baein hai?	galat	1 2
+1 Laal chaukor laal golashetra ke baein rakha hai.
+2 Laal chaukor gulaabi sumkon ke neechey rakha hai.
+3 Kya gulaabi sumkon laal golashetra ke uupar hai?	sahi	2 1
+4 Kya gulaabi sumkon laal golashetra ke dahine hai?	galat	2 1
+5 Kya laal golashetra gulaabi sumkon ke uupar hai?	galat	1 2
+6 Kya gulaabi sumkon laal golashetra ke dahine hai?	galat	2 1
+7 Kya laal golashetra gulaabi sumkon ke neechey hai?	sahi	1 2
+8 Kya gulaabi sumkon laal golashetra ke uupar hai?	sahi	2 1
+9 Kya laal golashetra gulaabi sumkon ke dahine hai?	sahi	1 2
+10 Kya gulaabi sumkon laal golashetra ke dahine hai?	galat	2 1
+1 Laal chaukor gulaabi sumkon ke baein rakha hai.
+2 Laal chaukor laal golashetra ke dahine rakha hai.
+3 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	1 2
+4 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+5 Kya gulaabi sumkon laal golashetra ke baein hai?	galat	1 2
+6 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	1 2
+7 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+8 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+9 Kya laal golashetra gulaabi sumkon ke baein hai?	sahi	2 1
+10 Kya gulaabi sumkon laal golashetra ke neechey hai?	galat	1 2
+1 Trikon laal chaukor ke neechey rakha hai.
+2 Laal chaukor gulaabi sumkon ke neechey rakha hai.
+3 Kya trikon gulaabi sumkon ke uupar hai?	galat	1 2
+4 Kya trikon gulaabi sumkon ke baein hai?	galat	1 2
+5 Kya gulaabi sumkon trikon ke uupar hai?	sahi	2 1
+6 Kya gulaabi sumkon trikon ke uupar hai?	sahi	2 1
+7 Kya gulaabi sumkon trikon ke dahine hai?	galat	2 1
+8 Kya trikon gulaabi sumkon ke baein hai?	galat	1 2
+9 Kya gulaabi sumkon trikon ke uupar hai?	sahi	2 1
+10 Kya gulaabi sumkon trikon ke uupar hai?	sahi	2 1
+1 Gulaabi sumkon neela chaukor ke baein rakha hai.
+2 Gulaabi sumkon trikon ke uupar rakha hai.
+3 Kya trikon neela chaukor ke uupar hai?	galat	2 1
+4 Kya neela chaukor trikon ke neechey hai?	galat	1 2
+5 Kya neela chaukor trikon ke dahine hai?	sahi	1 2
+6 Kya neela chaukor trikon ke baein hai?	galat	1 2
+7 Kya trikon neela chaukor ke neechey hai?	sahi	2 1
+8 Kya neela chaukor trikon ke dahine hai?	sahi	1 2
+9 Kya neela chaukor trikon ke neechey hai?	galat	1 2
+10 Kya neela chaukor trikon ke baein hai?	galat	1 2
+1 Laal chaukor neela chaukor ke baein rakha hai.
+2 Laal chaukor laal golashetra ke neechey rakha hai.
+3 Kya laal golashetra neela chaukor ke dahine hai?	galat	2 1
+4 Kya laal golashetra neela chaukor ke neechey hai?	galat	2 1
+5 Kya neela chaukor laal golashetra ke dahine hai?	sahi	1 2
+6 Kya laal golashetra neela chaukor ke baein hai?	sahi	2 1
+7 Kya laal golashetra neela chaukor ke uupar hai?	sahi	2 1
+8 Kya laal golashetra neela chaukor ke baein hai?	sahi	2 1
+9 Kya neela chaukor laal golashetra ke dahine hai?	sahi	1 2
+10 Kya laal golashetra neela chaukor ke dahine hai?	galat	2 1
+1 Trikon laal golashetra ke baein rakha hai.
+2 Laal golashetra peela chaukor ke baein rakha hai.
+3 Kya trikon peela chaukor ke uupar hai?	galat	1 2
+4 Kya trikon peela chaukor ke uupar hai?	galat	1 2
+5 Kya peela chaukor trikon ke dahine hai?	sahi	2 1
+6 Kya peela chaukor trikon ke dahine hai?	sahi	2 1
+7 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+8 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+9 Kya trikon peela chaukor ke uupar hai?	galat	1 2
+10 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+1 Peela chaukor trikon ke neechey rakha hai.
+2 Gulaabi sumkon peela chaukor ke neechey rakha hai.
+3 Kya trikon gulaabi sumkon ke uupar hai?	sahi	1 2
+4 Kya trikon gulaabi sumkon ke baein hai?	galat	1 2
+5 Kya gulaabi sumkon trikon ke neechey hai?	sahi	2 1
+6 Kya gulaabi sumkon trikon ke uupar hai?	galat	2 1
+7 Kya gulaabi sumkon trikon ke dahine hai?	galat	2 1
+8 Kya trikon gulaabi sumkon ke baein hai?	galat	1 2
+9 Kya trikon gulaabi sumkon ke dahine hai?	galat	1 2
+10 Kya gulaabi sumkon trikon ke neechey hai?	sahi	2 1
+1 Laal chaukor gulaabi sumkon ke baein rakha hai.
+2 Laal chaukor laal golashetra ke dahine rakha hai.
+3 Kya gulaabi sumkon laal golashetra ke baein hai?	galat	1 2
+4 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	1 2
+5 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+6 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+7 Kya laal golashetra gulaabi sumkon ke baein hai?	sahi	2 1
+8 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+9 Kya gulaabi sumkon laal golashetra ke baein hai?	galat	1 2
+10 Kya gulaabi sumkon laal golashetra ke baein hai?	galat	1 2
+1 Gulaabi sumkon neela chaukor ke dahine rakha hai.
+2 Gulaabi sumkon laal golashetra ke uupar rakha hai.
+3 Kya laal golashetra neela chaukor ke dahine hai?	sahi	2 1
+4 Kya neela chaukor laal golashetra ke uupar hai?	sahi	1 2
+5 Kya neela chaukor laal golashetra ke uupar hai?	sahi	1 2
+6 Kya laal golashetra neela chaukor ke baein hai?	galat	2 1
+7 Kya laal golashetra neela chaukor ke dahine hai?	sahi	2 1
+8 Kya laal golashetra neela chaukor ke dahine hai?	sahi	2 1
+9 Kya laal golashetra neela chaukor ke baein hai?	galat	2 1
+10 Kya laal golashetra neela chaukor ke dahine hai?	sahi	2 1
+1 Gulaabi sumkon neela chaukor ke baein rakha hai.
+2 Gulaabi sumkon peela chaukor ke dahine rakha hai.
+3 Kya neela chaukor peela chaukor ke dahine hai?	sahi	1 2
+4 Kya neela chaukor peela chaukor ke dahine hai?	sahi	1 2
+5 Kya peela chaukor neela chaukor ke baein hai?	sahi	2 1
+6 Kya peela chaukor neela chaukor ke neechey hai?	galat	2 1
+7 Kya neela chaukor peela chaukor ke dahine hai?	sahi	1 2
+8 Kya peela chaukor neela chaukor ke baein hai?	sahi	2 1
+9 Kya peela chaukor neela chaukor ke neechey hai?	galat	2 1
+10 Kya neela chaukor peela chaukor ke dahine hai?	sahi	1 2
+1 Trikon peela chaukor ke uupar rakha hai.
+2 Peela chaukor laal golashetra ke baein rakha hai.
+3 Kya trikon laal golashetra ke uupar hai?	sahi	1 2
+4 Kya laal golashetra trikon ke baein hai?	galat	2 1
+5 Kya trikon laal golashetra ke uupar hai?	sahi	1 2
+6 Kya laal golashetra trikon ke uupar hai?	galat	2 1
+7 Kya laal golashetra trikon ke baein hai?	galat	2 1
+8 Kya laal golashetra trikon ke uupar hai?	galat	2 1
+9 Kya trikon laal golashetra ke uupar hai?	sahi	1 2
+10 Kya trikon laal golashetra ke baein hai?	sahi	1 2
+1 Peela chaukor laal golashetra ke neechey rakha hai.
+2 Gulaabi sumkon peela chaukor ke baein rakha hai.
+3 Kya gulaabi sumkon laal golashetra ke uupar hai?	galat	2 1
+4 Kya laal golashetra gulaabi sumkon ke dahine hai?	sahi	1 2
+5 Kya gulaabi sumkon laal golashetra ke baein hai?	sahi	2 1
+6 Kya laal golashetra gulaabi sumkon ke uupar hai?	sahi	1 2
+7 Kya laal golashetra gulaabi sumkon ke baein hai?	galat	1 2
+8 Kya laal golashetra gulaabi sumkon ke baein hai?	galat	1 2
+9 Kya laal golashetra gulaabi sumkon ke neechey hai?	galat	1 2
+10 Kya laal golashetra gulaabi sumkon ke baein hai?	galat	1 2
+1 Laal chaukor laal golashetra ke dahine rakha hai.
+2 Peela chaukor laal chaukor ke dahine rakha hai.
+3 Kya laal golashetra peela chaukor ke baein hai?	sahi	1 2
+4 Kya peela chaukor laal golashetra ke baein hai?	galat	2 1
+5 Kya peela chaukor laal golashetra ke neechey hai?	galat	2 1
+6 Kya peela chaukor laal golashetra ke dahine hai?	sahi	2 1
+7 Kya peela chaukor laal golashetra ke dahine hai?	sahi	2 1
+8 Kya peela chaukor laal golashetra ke dahine hai?	sahi	2 1
+9 Kya peela chaukor laal golashetra ke baein hai?	galat	2 1
+10 Kya peela chaukor laal golashetra ke baein hai?	galat	2 1
+1 Trikon laal chaukor ke dahine rakha hai.
+2 Trikon peela chaukor ke neechey rakha hai.
+3 Kya peela chaukor laal chaukor ke dahine hai?	sahi	2 1
+4 Kya laal chaukor peela chaukor ke neechey hai?	sahi	1 2
+5 Kya laal chaukor peela chaukor ke uupar hai?	galat	1 2
+6 Kya laal chaukor peela chaukor ke dahine hai?	galat	1 2
+7 Kya laal chaukor peela chaukor ke neechey hai?	sahi	1 2
+8 Kya laal chaukor peela chaukor ke neechey hai?	sahi	1 2
+9 Kya laal chaukor peela chaukor ke uupar hai?	galat	1 2
+10 Kya laal chaukor peela chaukor ke uupar hai?	galat	1 2
+1 Laal golashetra neela chaukor ke uupar rakha hai.
+2 Neela chaukor trikon ke dahine rakha hai.
+3 Kya laal golashetra trikon ke neechey hai?	galat	1 2
+4 Kya trikon laal golashetra ke baein hai?	sahi	2 1
+5 Kya trikon laal golashetra ke uupar hai?	galat	2 1
+6 Kya trikon laal golashetra ke baein hai?	sahi	2 1
+7 Kya trikon laal golashetra ke neechey hai?	sahi	2 1
+8 Kya trikon laal golashetra ke dahine hai?	galat	2 1
+9 Kya trikon laal golashetra ke dahine hai?	galat	2 1
+10 Kya laal golashetra trikon ke neechey hai?	galat	1 2
+1 Laal chaukor laal golashetra ke neechey rakha hai.
+2 Laal chaukor neela chaukor ke uupar rakha hai.
+3 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+4 Kya neela chaukor laal golashetra ke dahine hai?	galat	2 1
+5 Kya neela chaukor laal golashetra ke neechey hai?	sahi	2 1
+6 Kya neela chaukor laal golashetra ke baein hai?	galat	2 1
+7 Kya laal golashetra neela chaukor ke dahine hai?	galat	1 2
+8 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+9 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+10 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+1 Trikon peela chaukor ke neechey rakha hai.
+2 Peela chaukor neela chaukor ke neechey rakha hai.
+3 Kya neela chaukor trikon ke uupar hai?	sahi	2 1
+4 Kya trikon neela chaukor ke neechey hai?	sahi	1 2
+5 Kya neela chaukor trikon ke neechey hai?	galat	2 1
+6 Kya neela chaukor trikon ke uupar hai?	sahi	2 1
+7 Kya trikon neela chaukor ke neechey hai?	sahi	1 2
+8 Kya neela chaukor trikon ke baein hai?	galat	2 1
+9 Kya neela chaukor trikon ke dahine hai?	galat	2 1
+10 Kya trikon neela chaukor ke neechey hai?	sahi	1 2
+1 Trikon neela chaukor ke uupar rakha hai.
+2 Trikon peela chaukor ke baein rakha hai.
+3 Kya peela chaukor neela chaukor ke dahine hai?	sahi	2 1
+4 Kya peela chaukor neela chaukor ke uupar hai?	sahi	2 1
+5 Kya peela chaukor neela chaukor ke dahine hai?	sahi	2 1
+6 Kya peela chaukor neela chaukor ke dahine hai?	sahi	2 1
+7 Kya neela chaukor peela chaukor ke neechey hai?	sahi	1 2
+8 Kya neela chaukor peela chaukor ke dahine hai?	galat	1 2
+9 Kya peela chaukor neela chaukor ke uupar hai?	sahi	2 1
+10 Kya neela chaukor peela chaukor ke neechey hai?	sahi	1 2
+1 Trikon laal chaukor ke uupar rakha hai.
+2 Laal chaukor peela chaukor ke baein rakha hai.
+3 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+4 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+5 Kya peela chaukor trikon ke baein hai?	galat	2 1
+6 Kya trikon peela chaukor ke uupar hai?	sahi	1 2
+7 Kya trikon peela chaukor ke neechey hai?	galat	1 2
+8 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+9 Kya peela chaukor trikon ke neechey hai?	sahi	2 1
+10 Kya trikon peela chaukor ke dahine hai?	galat	1 2
+1 Laal golashetra laal chaukor ke uupar rakha hai.
+2 Laal chaukor trikon ke dahine rakha hai.
+3 Kya laal golashetra trikon ke dahine hai?	sahi	1 2
+4 Kya laal golashetra trikon ke dahine hai?	sahi	1 2
+5 Kya trikon laal golashetra ke neechey hai?	sahi	2 1
+6 Kya trikon laal golashetra ke uupar hai?	galat	2 1
+7 Kya trikon laal golashetra ke baein hai?	sahi	2 1
+8 Kya trikon laal golashetra ke dahine hai?	galat	2 1
+9 Kya laal golashetra trikon ke neechey hai?	galat	1 2
+10 Kya trikon laal golashetra ke neechey hai?	sahi	2 1
+1 Neela chaukor trikon ke dahine rakha hai.
+2 Gulaabi sumkon trikon ke baein rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	2 1
+4 Kya gulaabi sumkon neela chaukor ke dahine hai?	galat	2 1
+5 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	2 1
+6 Kya neela chaukor gulaabi sumkon ke neechey hai?	galat	1 2
+7 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	2 1
+8 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	2 1
+9 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	2 1
+10 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	2 1
+1 Trikon peela chaukor ke uupar rakha hai.
+2 Neela chaukor trikon ke uupar rakha hai.
+3 Kya peela chaukor neela chaukor ke neechey hai?	sahi	1 2
+4 Kya neela chaukor peela chaukor ke uupar hai?	sahi	2 1
+5 Kya peela chaukor neela chaukor ke neechey hai?	sahi	1 2
+6 Kya peela chaukor neela chaukor ke uupar hai?	galat	1 2
+7 Kya peela chaukor neela chaukor ke neechey hai?	sahi	1 2
+8 Kya peela chaukor neela chaukor ke neechey hai?	sahi	1 2
+9 Kya peela chaukor neela chaukor ke uupar hai?	galat	1 2
+10 Kya neela chaukor peela chaukor ke dahine hai?	galat	2 1
+1 Peela chaukor trikon ke neechey rakha hai.
+2 Laal chaukor peela chaukor ke neechey rakha hai.
+3 Kya laal chaukor trikon ke baein hai?	galat	2 1
+4 Kya trikon laal chaukor ke uupar hai?	sahi	1 2
+5 Kya trikon laal chaukor ke baein hai?	galat	1 2
+6 Kya laal chaukor trikon ke neechey hai?	sahi	2 1
+7 Kya trikon laal chaukor ke dahine hai?	galat	1 2
+8 Kya trikon laal chaukor ke uupar hai?	sahi	1 2
+9 Kya trikon laal chaukor ke uupar hai?	sahi	1 2
+10 Kya laal chaukor trikon ke baein hai?	galat	2 1
+1 Laal chaukor gulaabi sumkon ke baein rakha hai.
+2 Neela chaukor laal chaukor ke neechey rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	1 2
+4 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	1 2
+5 Kya neela chaukor gulaabi sumkon ke neechey hai?	sahi	2 1
+6 Kya neela chaukor gulaabi sumkon ke dahine hai?	galat	2 1
+7 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+8 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	1 2
+9 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	1 2
+10 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+1 Neela chaukor peela chaukor ke baein rakha hai.
+2 Gulaabi sumkon neela chaukor ke baein rakha hai.
+3 Kya peela chaukor gulaabi sumkon ke dahine hai?	sahi	1 2
+4 Kya peela chaukor gulaabi sumkon ke baein hai?	galat	1 2
+5 Kya gulaabi sumkon peela chaukor ke uupar hai?	galat	2 1
+6 Kya gulaabi sumkon peela chaukor ke baein hai?	sahi	2 1
+7 Kya gulaabi sumkon peela chaukor ke baein hai?	sahi	2 1
+8 Kya gulaabi sumkon peela chaukor ke baein hai?	sahi	2 1
+9 Kya peela chaukor gulaabi sumkon ke neechey hai?	galat	1 2
+10 Kya gulaabi sumkon peela chaukor ke baein hai?	sahi	2 1
+1 Laal chaukor peela chaukor ke dahine rakha hai.
+2 Gulaabi sumkon laal chaukor ke uupar rakha hai.
+3 Kya gulaabi sumkon peela chaukor ke dahine hai?	sahi	2 1
+4 Kya peela chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+5 Kya peela chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+6 Kya peela chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+7 Kya gulaabi sumkon peela chaukor ke uupar hai?	sahi	2 1
+8 Kya peela chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+9 Kya gulaabi sumkon peela chaukor ke dahine hai?	sahi	2 1
+10 Kya gulaabi sumkon peela chaukor ke baein hai?	galat	2 1
+1 Trikon laal chaukor ke uupar rakha hai.
+2 Neela chaukor laal chaukor ke dahine rakha hai.
+3 Kya neela chaukor trikon ke baein hai?	galat	2 1
+4 Kya trikon neela chaukor ke dahine hai?	galat	1 2
+5 Kya neela chaukor trikon ke uupar hai?	galat	2 1
+6 Kya neela chaukor trikon ke dahine hai?	sahi	2 1
+7 Kya trikon neela chaukor ke dahine hai?	galat	1 2
+8 Kya trikon neela chaukor ke uupar hai?	sahi	1 2
+9 Kya neela chaukor trikon ke baein hai?	galat	2 1
+10 Kya neela chaukor trikon ke baein hai?	galat	2 1
+1 Gulaabi sumkon peela chaukor ke neechey rakha hai.
+2 Gulaabi sumkon trikon ke uupar rakha hai.
+3 Kya peela chaukor trikon ke uupar hai?	sahi	1 2
+4 Kya trikon peela chaukor ke uupar hai?	galat	2 1
+5 Kya peela chaukor trikon ke uupar hai?	sahi	1 2
+6 Kya trikon peela chaukor ke baein hai?	galat	2 1
+7 Kya trikon peela chaukor ke baein hai?	galat	2 1
+8 Kya trikon peela chaukor ke dahine hai?	galat	2 1
+9 Kya peela chaukor trikon ke uupar hai?	sahi	1 2
+10 Kya peela chaukor trikon ke dahine hai?	galat	1 2
+1 Gulaabi sumkon laal chaukor ke neechey rakha hai.
+2 Gulaabi sumkon neela chaukor ke dahine rakha hai.
+3 Kya laal chaukor neela chaukor ke baein hai?	galat	1 2
+4 Kya neela chaukor laal chaukor ke neechey hai?	sahi	2 1
+5 Kya neela chaukor laal chaukor ke baein hai?	sahi	2 1
+6 Kya laal chaukor neela chaukor ke baein hai?	galat	1 2
+7 Kya neela chaukor laal chaukor ke baein hai?	sahi	2 1
+8 Kya laal chaukor neela chaukor ke neechey hai?	galat	1 2
+9 Kya laal chaukor neela chaukor ke uupar hai?	sahi	1 2
+10 Kya neela chaukor laal chaukor ke uupar hai?	galat	2 1
+1 Peela chaukor gulaabi sumkon ke neechey rakha hai.
+2 Peela chaukor neela chaukor ke baein rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+4 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	1 2
+5 Kya neela chaukor gulaabi sumkon ke neechey hai?	sahi	2 1
+6 Kya neela chaukor gulaabi sumkon ke dahine hai?	sahi	2 1
+7 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	1 2
+8 Kya neela chaukor gulaabi sumkon ke dahine hai?	sahi	2 1
+9 Kya gulaabi sumkon neela chaukor ke dahine hai?	galat	1 2
+10 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	2 1
+1 Laal golashetra trikon ke neechey rakha hai.
+2 Trikon laal chaukor ke dahine rakha hai.
+3 Kya laal chaukor laal golashetra ke uupar hai?	sahi	2 1
+4 Kya laal golashetra laal chaukor ke dahine hai?	sahi	1 2
+5 Kya laal chaukor laal golashetra ke baein hai?	sahi	2 1
+6 Kya laal chaukor laal golashetra ke neechey hai?	galat	2 1
+7 Kya laal chaukor laal golashetra ke dahine hai?	galat	2 1
+8 Kya laal chaukor laal golashetra ke neechey hai?	galat	2 1
+9 Kya laal chaukor laal golashetra ke uupar hai?	sahi	2 1
+10 Kya laal golashetra laal chaukor ke uupar hai?	galat	1 2
+1 Trikon laal chaukor ke neechey rakha hai.
+2 Trikon peela chaukor ke dahine rakha hai.
+3 Kya laal chaukor peela chaukor ke uupar hai?	sahi	1 2
+4 Kya peela chaukor laal chaukor ke dahine hai?	galat	2 1
+5 Kya peela chaukor laal chaukor ke dahine hai?	galat	2 1
+6 Kya peela chaukor laal chaukor ke dahine hai?	galat	2 1
+7 Kya peela chaukor laal chaukor ke baein hai?	sahi	2 1
+8 Kya laal chaukor peela chaukor ke neechey hai?	galat	1 2
+9 Kya peela chaukor laal chaukor ke baein hai?	sahi	2 1
+10 Kya peela chaukor laal chaukor ke dahine hai?	galat	2 1
+1 Laal chaukor gulaabi sumkon ke baein rakha hai.
+2 Laal chaukor trikon ke neechey rakha hai.
+3 Kya trikon gulaabi sumkon ke baein hai?	sahi	2 1
+4 Kya trikon gulaabi sumkon ke neechey hai?	galat	2 1
+5 Kya gulaabi sumkon trikon ke neechey hai?	sahi	1 2
+6 Kya gulaabi sumkon trikon ke uupar hai?	galat	1 2
+7 Kya trikon gulaabi sumkon ke neechey hai?	galat	2 1
+8 Kya trikon gulaabi sumkon ke baein hai?	sahi	2 1
+9 Kya trikon gulaabi sumkon ke baein hai?	sahi	2 1
+10 Kya trikon gulaabi sumkon ke neechey hai?	galat	2 1
+1 Gulaabi sumkon peela chaukor ke dahine rakha hai.
+2 Neela chaukor peela chaukor ke neechey rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+4 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+5 Kya neela chaukor gulaabi sumkon ke neechey hai?	sahi	2 1
+6 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	1 2
+7 Kya neela chaukor gulaabi sumkon ke neechey hai?	sahi	2 1
+8 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+9 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	1 2
+10 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	1 2
+1 Gulaabi sumkon peela chaukor ke neechey rakha hai.
+2 Peela chaukor neela chaukor ke baein rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	1 2
+4 Kya neela chaukor gulaabi sumkon ke neechey hai?	galat	2 1
+5 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	1 2
+6 Kya gulaabi sumkon neela chaukor ke baein hai?	sahi	1 2
+7 Kya neela chaukor gulaabi sumkon ke neechey hai?	galat	2 1
+8 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	1 2
+9 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	2 1
+10 Kya neela chaukor gulaabi sumkon ke uupar hai?	sahi	2 1
+1 Neela chaukor laal golashetra ke uupar rakha hai.
+2 Laal chaukor laal golashetra ke baein rakha hai.
+3 Kya neela chaukor laal chaukor ke neechey hai?	galat	1 2
+4 Kya neela chaukor laal chaukor ke neechey hai?	galat	1 2
+5 Kya laal chaukor neela chaukor ke uupar hai?	galat	2 1
+6 Kya neela chaukor laal chaukor ke uupar hai?	sahi	1 2
+7 Kya neela chaukor laal chaukor ke baein hai?	galat	1 2
+8 Kya laal chaukor neela chaukor ke dahine hai?	galat	2 1
+9 Kya neela chaukor laal chaukor ke baein hai?	galat	1 2
+10 Kya laal chaukor neela chaukor ke neechey hai?	sahi	2 1
+1 Trikon laal chaukor ke uupar rakha hai.
+2 Trikon neela chaukor ke neechey rakha hai.
+3 Kya neela chaukor laal chaukor ke uupar hai?	sahi	2 1
+4 Kya neela chaukor laal chaukor ke neechey hai?	galat	2 1
+5 Kya neela chaukor laal chaukor ke dahine hai?	galat	2 1
+6 Kya neela chaukor laal chaukor ke uupar hai?	sahi	2 1
+7 Kya neela chaukor laal chaukor ke baein hai?	galat	2 1
+8 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+9 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+10 Kya neela chaukor laal chaukor ke dahine hai?	galat	2 1
+1 Peela chaukor neela chaukor ke baein rakha hai.
+2 Peela chaukor gulaabi sumkon ke neechey rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke dahine hai?	sahi	1 2
+4 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	2 1
+5 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	2 1
+6 Kya gulaabi sumkon neela chaukor ke dahine hai?	galat	2 1
+7 Kya neela chaukor gulaabi sumkon ke baein hai?	galat	1 2
+8 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	2 1
+9 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+10 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	2 1
+1 Trikon laal golashetra ke neechey rakha hai.
+2 Laal golashetra gulaabi sumkon ke baein rakha hai.
+3 Kya trikon gulaabi sumkon ke neechey hai?	sahi	1 2
+4 Kya gulaabi sumkon trikon ke dahine hai?	sahi	2 1
+5 Kya trikon gulaabi sumkon ke neechey hai?	sahi	1 2
+6 Kya gulaabi sumkon trikon ke uupar hai?	sahi	2 1
+7 Kya gulaabi sumkon trikon ke uupar hai?	sahi	2 1
+8 Kya gulaabi sumkon trikon ke dahine hai?	sahi	2 1
+9 Kya trikon gulaabi sumkon ke uupar hai?	galat	1 2
+10 Kya trikon gulaabi sumkon ke uupar hai?	galat	1 2
+1 Peela chaukor laal chaukor ke uupar rakha hai.
+2 Neela chaukor peela chaukor ke dahine rakha hai.
+3 Kya neela chaukor laal chaukor ke dahine hai?	sahi	2 1
+4 Kya laal chaukor neela chaukor ke uupar hai?	galat	1 2
+5 Kya neela chaukor laal chaukor ke neechey hai?	galat	2 1
+6 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+7 Kya neela chaukor laal chaukor ke baein hai?	galat	2 1
+8 Kya laal chaukor neela chaukor ke baein hai?	sahi	1 2
+9 Kya laal chaukor neela chaukor ke dahine hai?	galat	1 2
+10 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+1 Gulaabi sumkon trikon ke baein rakha hai.
+2 Peela chaukor gulaabi sumkon ke uupar rakha hai.
+3 Kya peela chaukor trikon ke baein hai?	sahi	2 1
+4 Kya peela chaukor trikon ke baein hai?	sahi	2 1
+5 Kya trikon peela chaukor ke neechey hai?	sahi	1 2
+6 Kya peela chaukor trikon ke uupar hai?	sahi	2 1
+7 Kya peela chaukor trikon ke uupar hai?	sahi	2 1
+8 Kya trikon peela chaukor ke baein hai?	galat	1 2
+9 Kya peela chaukor trikon ke dahine hai?	galat	2 1
+10 Kya peela chaukor trikon ke baein hai?	sahi	2 1
+1 Peela chaukor gulaabi sumkon ke dahine rakha hai.
+2 Neela chaukor gulaabi sumkon ke uupar rakha hai.
+3 Kya peela chaukor neela chaukor ke baein hai?	galat	1 2
+4 Kya neela chaukor peela chaukor ke neechey hai?	galat	2 1
+5 Kya peela chaukor neela chaukor ke dahine hai?	sahi	1 2
+6 Kya peela chaukor neela chaukor ke uupar hai?	galat	1 2
+7 Kya neela chaukor peela chaukor ke uupar hai?	sahi	2 1
+8 Kya neela chaukor peela chaukor ke dahine hai?	galat	2 1
+9 Kya peela chaukor neela chaukor ke baein hai?	galat	1 2
+10 Kya peela chaukor neela chaukor ke dahine hai?	sahi	1 2
+1 Laal golashetra neela chaukor ke neechey rakha hai.
+2 Neela chaukor laal chaukor ke baein rakha hai.
+3 Kya laal golashetra laal chaukor ke baein hai?	sahi	1 2
+4 Kya laal golashetra laal chaukor ke baein hai?	sahi	1 2
+5 Kya laal golashetra laal chaukor ke dahine hai?	galat	1 2
+6 Kya laal chaukor laal golashetra ke baein hai?	galat	2 1
+7 Kya laal golashetra laal chaukor ke neechey hai?	sahi	1 2
+8 Kya laal golashetra laal chaukor ke dahine hai?	galat	1 2
+9 Kya laal golashetra laal chaukor ke neechey hai?	sahi	1 2
+10 Kya laal chaukor laal golashetra ke uupar hai?	sahi	2 1
+1 Peela chaukor laal golashetra ke neechey rakha hai.
+2 Neela chaukor peela chaukor ke dahine rakha hai.
+3 Kya laal golashetra neela chaukor ke dahine hai?	galat	1 2
+4 Kya neela chaukor laal golashetra ke uupar hai?	galat	2 1
+5 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+6 Kya laal golashetra neela chaukor ke dahine hai?	galat	1 2
+7 Kya laal golashetra neela chaukor ke uupar hai?	sahi	1 2
+8 Kya neela chaukor laal golashetra ke dahine hai?	sahi	2 1
+9 Kya laal golashetra neela chaukor ke neechey hai?	galat	1 2
+10 Kya laal golashetra neela chaukor ke baein hai?	sahi	1 2
+1 Laal golashetra neela chaukor ke dahine rakha hai.
+2 Peela chaukor laal golashetra ke neechey rakha hai.
+3 Kya peela chaukor neela chaukor ke uupar hai?	galat	2 1
+4 Kya neela chaukor peela chaukor ke dahine hai?	galat	1 2
+5 Kya neela chaukor peela chaukor ke uupar hai?	sahi	1 2
+6 Kya peela chaukor neela chaukor ke uupar hai?	galat	2 1
+7 Kya peela chaukor neela chaukor ke baein hai?	galat	2 1
+8 Kya peela chaukor neela chaukor ke baein hai?	galat	2 1
+9 Kya neela chaukor peela chaukor ke baein hai?	sahi	1 2
+10 Kya peela chaukor neela chaukor ke uupar hai?	galat	2 1
+1 Neela chaukor gulaabi sumkon ke dahine rakha hai.
+2 Gulaabi sumkon peela chaukor ke neechey rakha hai.
+3 Kya neela chaukor peela chaukor ke neechey hai?	sahi	1 2
+4 Kya neela chaukor peela chaukor ke dahine hai?	sahi	1 2
+5 Kya neela chaukor peela chaukor ke uupar hai?	galat	1 2
+6 Kya neela chaukor peela chaukor ke uupar hai?	galat	1 2
+7 Kya peela chaukor neela chaukor ke neechey hai?	galat	2 1
+8 Kya peela chaukor neela chaukor ke neechey hai?	galat	2 1
+9 Kya neela chaukor peela chaukor ke dahine hai?	sahi	1 2
+10 Kya neela chaukor peela chaukor ke uupar hai?	galat	1 2
+1 Peela chaukor gulaabi sumkon ke neechey rakha hai.
+2 Laal golashetra gulaabi sumkon ke uupar rakha hai.
+3 Kya peela chaukor laal golashetra ke neechey hai?	sahi	1 2
+4 Kya peela chaukor laal golashetra ke dahine hai?	galat	1 2
+5 Kya peela chaukor laal golashetra ke neechey hai?	sahi	1 2
+6 Kya peela chaukor laal golashetra ke baein hai?	galat	1 2
+7 Kya laal golashetra peela chaukor ke dahine hai?	galat	2 1
+8 Kya laal golashetra peela chaukor ke uupar hai?	sahi	2 1
+9 Kya laal golashetra peela chaukor ke uupar hai?	sahi	2 1
+10 Kya laal golashetra peela chaukor ke neechey hai?	galat	2 1
+1 Laal chaukor gulaabi sumkon ke baein rakha hai.
+2 Laal chaukor laal golashetra ke dahine rakha hai.
+3 Kya gulaabi sumkon laal golashetra ke baein hai?	galat	1 2
+4 Kya laal golashetra gulaabi sumkon ke uupar hai?	galat	2 1
+5 Kya laal golashetra gulaabi sumkon ke baein hai?	sahi	2 1
+6 Kya laal golashetra gulaabi sumkon ke dahine hai?	galat	2 1
+7 Kya laal golashetra gulaabi sumkon ke baein hai?	sahi	2 1
+8 Kya gulaabi sumkon laal golashetra ke neechey hai?	galat	1 2
+9 Kya gulaabi sumkon laal golashetra ke dahine hai?	sahi	1 2
+10 Kya laal golashetra gulaabi sumkon ke neechey hai?	galat	2 1
+1 Gulaabi sumkon neela chaukor ke dahine rakha hai.
+2 Gulaabi sumkon trikon ke baein rakha hai.
+3 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+4 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+5 Kya neela chaukor trikon ke baein hai?	sahi	1 2
+6 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+7 Kya neela chaukor trikon ke baein hai?	sahi	1 2
+8 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+9 Kya neela chaukor trikon ke neechey hai?	galat	1 2
+10 Kya neela chaukor trikon ke dahine hai?	galat	1 2
+1 Peela chaukor laal chaukor ke baein rakha hai.
+2 Laal chaukor neela chaukor ke baein rakha hai.
+3 Kya neela chaukor peela chaukor ke uupar hai?	galat	2 1
+4 Kya neela chaukor peela chaukor ke uupar hai?	galat	2 1
+5 Kya neela chaukor peela chaukor ke dahine hai?	sahi	2 1
+6 Kya neela chaukor peela chaukor ke dahine hai?	sahi	2 1
+7 Kya peela chaukor neela chaukor ke baein hai?	sahi	1 2
+8 Kya neela chaukor peela chaukor ke dahine hai?	sahi	2 1
+9 Kya peela chaukor neela chaukor ke uupar hai?	galat	1 2
+10 Kya neela chaukor peela chaukor ke baein hai?	galat	2 1
+1 Laal golashetra trikon ke neechey rakha hai.
+2 Peela chaukor laal golashetra ke dahine rakha hai.
+3 Kya peela chaukor trikon ke baein hai?	galat	2 1
+4 Kya trikon peela chaukor ke neechey hai?	galat	1 2
+5 Kya trikon peela chaukor ke neechey hai?	galat	1 2
+6 Kya trikon peela chaukor ke neechey hai?	galat	1 2
+7 Kya peela chaukor trikon ke neechey hai?	sahi	2 1
+8 Kya peela chaukor trikon ke uupar hai?	galat	2 1
+9 Kya peela chaukor trikon ke dahine hai?	sahi	2 1
+10 Kya trikon peela chaukor ke baein hai?	sahi	1 2
+1 Neela chaukor laal golashetra ke dahine rakha hai.
+2 Laal golashetra trikon ke uupar rakha hai.
+3 Kya neela chaukor trikon ke neechey hai?	galat	1 2
+4 Kya neela chaukor trikon ke dahine hai?	sahi	1 2
+5 Kya neela chaukor trikon ke dahine hai?	sahi	1 2
+6 Kya trikon neela chaukor ke uupar hai?	galat	2 1
+7 Kya neela chaukor trikon ke uupar hai?	sahi	1 2
+8 Kya trikon neela chaukor ke neechey hai?	sahi	2 1
+9 Kya neela chaukor trikon ke baein hai?	galat	1 2
+10 Kya neela chaukor trikon ke uupar hai?	sahi	1 2
+1 Peela chaukor gulaabi sumkon ke neechey rakha hai.
+2 Laal chaukor gulaabi sumkon ke dahine rakha hai.
+3 Kya laal chaukor peela chaukor ke uupar hai?	sahi	2 1
+4 Kya peela chaukor laal chaukor ke neechey hai?	sahi	1 2
+5 Kya laal chaukor peela chaukor ke dahine hai?	sahi	2 1
+6 Kya laal chaukor peela chaukor ke baein hai?	galat	2 1
+7 Kya laal chaukor peela chaukor ke neechey hai?	galat	2 1
+8 Kya peela chaukor laal chaukor ke baein hai?	sahi	1 2
+9 Kya peela chaukor laal chaukor ke neechey hai?	sahi	1 2
+10 Kya peela chaukor laal chaukor ke dahine hai?	galat	1 2
+1 Trikon laal chaukor ke dahine rakha hai.
+2 Gulaabi sumkon trikon ke uupar rakha hai.
+3 Kya gulaabi sumkon laal chaukor ke neechey hai?	galat	2 1
+4 Kya laal chaukor gulaabi sumkon ke dahine hai?	galat	1 2
+5 Kya laal chaukor gulaabi sumkon ke neechey hai?	sahi	1 2
+6 Kya gulaabi sumkon laal chaukor ke neechey hai?	galat	2 1
+7 Kya laal chaukor gulaabi sumkon ke uupar hai?	galat	1 2
+8 Kya gulaabi sumkon laal chaukor ke baein hai?	galat	2 1
+9 Kya gulaabi sumkon laal chaukor ke neechey hai?	galat	2 1
+10 Kya laal chaukor gulaabi sumkon ke dahine hai?	galat	1 2
+1 Gulaabi sumkon laal chaukor ke uupar rakha hai.
+2 Laal chaukor trikon ke baein rakha hai.
+3 Kya gulaabi sumkon trikon ke neechey hai?	galat	1 2
+4 Kya trikon gulaabi sumkon ke baein hai?	galat	2 1
+5 Kya gulaabi sumkon trikon ke baein hai?	sahi	1 2
+6 Kya trikon gulaabi sumkon ke neechey hai?	sahi	2 1
+7 Kya gulaabi sumkon trikon ke dahine hai?	galat	1 2
+8 Kya trikon gulaabi sumkon ke baein hai?	galat	2 1
+9 Kya trikon gulaabi sumkon ke dahine hai?	sahi	2 1
+10 Kya trikon gulaabi sumkon ke dahine hai?	sahi	2 1
+1 Neela chaukor laal golashetra ke uupar rakha hai.
+2 Laal golashetra gulaabi sumkon ke baein rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+4 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+5 Kya neela chaukor gulaabi sumkon ke uupar hai?	sahi	1 2
+6 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+7 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	2 1
+8 Kya neela chaukor gulaabi sumkon ke neechey hai?	galat	1 2
+9 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	2 1
+10 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	2 1
+1 Laal golashetra trikon ke uupar rakha hai.
+2 Laal golashetra neela chaukor ke dahine rakha hai.
+3 Kya trikon neela chaukor ke uupar hai?	galat	1 2
+4 Kya trikon neela chaukor ke uupar hai?	galat	1 2
+5 Kya neela chaukor trikon ke uupar hai?	sahi	2 1
+6 Kya neela chaukor trikon ke dahine hai?	galat	2 1
+7 Kya trikon neela chaukor ke baein hai?	galat	1 2
+8 Kya trikon neela chaukor ke dahine hai?	sahi	1 2
+9 Kya neela chaukor trikon ke baein hai?	sahi	2 1
+10 Kya neela chaukor trikon ke baein hai?	sahi	2 1
+1 Laal golashetra gulaabi sumkon ke dahine rakha hai.
+2 Laal golashetra trikon ke uupar rakha hai.
+3 Kya gulaabi sumkon trikon ke dahine hai?	galat	1 2
+4 Kya trikon gulaabi sumkon ke uupar hai?	galat	2 1
+5 Kya trikon gulaabi sumkon ke uupar hai?	galat	2 1
+6 Kya trikon gulaabi sumkon ke dahine hai?	sahi	2 1
+7 Kya gulaabi sumkon trikon ke baein hai?	sahi	1 2
+8 Kya trikon gulaabi sumkon ke uupar hai?	galat	2 1
+9 Kya trikon gulaabi sumkon ke baein hai?	galat	2 1
+10 Kya trikon gulaabi sumkon ke baein hai?	galat	2 1
+1 Neela chaukor trikon ke neechey rakha hai.
+2 Neela chaukor laal golashetra ke baein rakha hai.
+3 Kya laal golashetra trikon ke neechey hai?	sahi	2 1
+4 Kya trikon laal golashetra ke uupar hai?	sahi	1 2
+5 Kya laal golashetra trikon ke baein hai?	galat	2 1
+6 Kya laal golashetra trikon ke neechey hai?	sahi	2 1
+7 Kya trikon laal golashetra ke dahine hai?	galat	1 2
+8 Kya trikon laal golashetra ke baein hai?	sahi	1 2
+9 Kya trikon laal golashetra ke uupar hai?	sahi	1 2
+10 Kya laal golashetra trikon ke dahine hai?	sahi	2 1
+1 Laal golashetra gulaabi sumkon ke uupar rakha hai.
+2 Laal golashetra laal chaukor ke dahine rakha hai.
+3 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+4 Kya gulaabi sumkon laal chaukor ke dahine hai?	sahi	1 2
+5 Kya laal chaukor gulaabi sumkon ke dahine hai?	galat	2 1
+6 Kya gulaabi sumkon laal chaukor ke dahine hai?	sahi	1 2
+7 Kya gulaabi sumkon laal chaukor ke dahine hai?	sahi	1 2
+8 Kya gulaabi sumkon laal chaukor ke uupar hai?	galat	1 2
+9 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+10 Kya gulaabi sumkon laal chaukor ke baein hai?	galat	1 2
+1 Neela chaukor laal chaukor ke baein rakha hai.
+2 Laal chaukor trikon ke uupar rakha hai.
+3 Kya trikon neela chaukor ke baein hai?	galat	2 1
+4 Kya neela chaukor trikon ke baein hai?	sahi	1 2
+5 Kya neela chaukor trikon ke dahine hai?	galat	1 2
+6 Kya neela chaukor trikon ke baein hai?	sahi	1 2
+7 Kya neela chaukor trikon ke uupar hai?	sahi	1 2
+8 Kya neela chaukor trikon ke dahine hai?	galat	1 2
+9 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+10 Kya trikon neela chaukor ke dahine hai?	sahi	2 1
+1 Laal golashetra laal chaukor ke dahine rakha hai.
+2 Laal golashetra neela chaukor ke baein rakha hai.
+3 Kya neela chaukor laal chaukor ke dahine hai?	sahi	2 1
+4 Kya neela chaukor laal chaukor ke baein hai?	galat	2 1
+5 Kya neela chaukor laal chaukor ke dahine hai?	sahi	2 1
+6 Kya laal chaukor neela chaukor ke baein hai?	sahi	1 2
+7 Kya neela chaukor laal chaukor ke baein hai?	galat	2 1
+8 Kya neela chaukor laal chaukor ke dahine hai?	sahi	2 1
+9 Kya laal chaukor neela chaukor ke neechey hai?	galat	1 2
+10 Kya laal chaukor neela chaukor ke baein hai?	sahi	1 2
+1 Peela chaukor neela chaukor ke neechey rakha hai.
+2 Peela chaukor trikon ke uupar rakha hai.
+3 Kya trikon neela chaukor ke dahine hai?	galat	2 1
+4 Kya neela chaukor trikon ke baein hai?	galat	1 2
+5 Kya trikon neela chaukor ke dahine hai?	galat	2 1
+6 Kya trikon neela chaukor ke dahine hai?	galat	2 1
+7 Kya trikon neela chaukor ke uupar hai?	galat	2 1
+8 Kya trikon neela chaukor ke neechey hai?	sahi	2 1
+9 Kya trikon neela chaukor ke neechey hai?	sahi	2 1
+10 Kya neela chaukor trikon ke baein hai?	galat	1 2
+1 Gulaabi sumkon laal golashetra ke uupar rakha hai.
+2 Laal golashetra laal chaukor ke dahine rakha hai.
+3 Kya laal chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+4 Kya laal chaukor gulaabi sumkon ke neechey hai?	sahi	2 1
+5 Kya gulaabi sumkon laal chaukor ke dahine hai?	sahi	1 2
+6 Kya laal chaukor gulaabi sumkon ke neechey hai?	sahi	2 1
+7 Kya gulaabi sumkon laal chaukor ke baein hai?	galat	1 2
+8 Kya gulaabi sumkon laal chaukor ke baein hai?	galat	1 2
+9 Kya laal chaukor gulaabi sumkon ke dahine hai?	galat	2 1
+10 Kya laal chaukor gulaabi sumkon ke dahine hai?	galat	2 1
+1 Laal chaukor neela chaukor ke neechey rakha hai.
+2 Laal chaukor gulaabi sumkon ke baein rakha hai.
+3 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	2 1
+4 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	2 1
+5 Kya gulaabi sumkon neela chaukor ke uupar hai?	galat	2 1
+6 Kya gulaabi sumkon neela chaukor ke baein hai?	galat	2 1
+7 Kya neela chaukor gulaabi sumkon ke uupar hai?	sahi	1 2
+8 Kya neela chaukor gulaabi sumkon ke dahine hai?	galat	1 2
+9 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	1 2
+10 Kya gulaabi sumkon neela chaukor ke neechey hai?	sahi	2 1
+1 Neela chaukor laal chaukor ke neechey rakha hai.
+2 Neela chaukor gulaabi sumkon ke dahine rakha hai.
+3 Kya gulaabi sumkon laal chaukor ke uupar hai?	galat	2 1
+4 Kya gulaabi sumkon laal chaukor ke baein hai?	sahi	2 1
+5 Kya laal chaukor gulaabi sumkon ke uupar hai?	sahi	1 2
+6 Kya laal chaukor gulaabi sumkon ke baein hai?	galat	1 2
+7 Kya laal chaukor gulaabi sumkon ke dahine hai?	sahi	1 2
+8 Kya laal chaukor gulaabi sumkon ke dahine hai?	sahi	1 2
+9 Kya gulaabi sumkon laal chaukor ke neechey hai?	sahi	2 1
+10 Kya laal chaukor gulaabi sumkon ke baein hai?	galat	1 2
+1 Laal golashetra gulaabi sumkon ke neechey rakha hai.
+2 Neela chaukor laal golashetra ke baein rakha hai.
+3 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+4 Kya neela chaukor gulaabi sumkon ke neechey hai?	sahi	2 1
+5 Kya neela chaukor gulaabi sumkon ke baein hai?	sahi	2 1
+6 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	1 2
+7 Kya gulaabi sumkon neela chaukor ke uupar hai?	sahi	1 2
+8 Kya neela chaukor gulaabi sumkon ke uupar hai?	galat	2 1
+9 Kya gulaabi sumkon neela chaukor ke neechey hai?	galat	1 2
+10 Kya gulaabi sumkon neela chaukor ke dahine hai?	sahi	1 2
+1 Peela chaukor gulaabi sumkon ke baein rakha hai.
+2 Gulaabi sumkon laal golashetra ke neechey rakha hai.
+3 Kya peela chaukor laal golashetra ke dahine hai?	galat	1 2
+4 Kya laal golashetra peela chaukor ke uupar hai?	sahi	2 1
+5 Kya peela chaukor laal golashetra ke dahine hai?	galat	1 2
+6 Kya laal golashetra peela chaukor ke baein hai?	galat	2 1
+7 Kya peela chaukor laal golashetra ke neechey hai?	sahi	1 2
+8 Kya laal golashetra peela chaukor ke dahine hai?	sahi	2 1
+9 Kya laal golashetra peela chaukor ke baein hai?	galat	2 1
+10 Kya peela chaukor laal golashetra ke uupar hai?	galat	1 2
+1 Laal chaukor laal golashetra ke neechey rakha hai.
+2 Neela chaukor laal golashetra ke uupar rakha hai.
+3 Kya laal chaukor neela chaukor ke neechey hai?	sahi	1 2
+4 Kya neela chaukor laal chaukor ke uupar hai?	sahi	2 1
+5 Kya neela chaukor laal chaukor ke neechey hai?	galat	2 1
+6 Kya neela chaukor laal chaukor ke uupar hai?	sahi	2 1
+7 Kya neela chaukor laal chaukor ke uupar hai?	sahi	2 1
+8 Kya laal chaukor neela chaukor ke baein hai?	galat	1 2
+9 Kya neela chaukor laal chaukor ke neechey hai?	galat	2 1
+10 Kya neela chaukor laal chaukor ke neechey hai?	galat	2 1
+1 Laal chaukor laal golashetra ke baein rakha hai.
+2 Trikon laal golashetra ke dahine rakha hai.
+3 Kya laal chaukor trikon ke baein hai?	sahi	1 2
+4 Kya laal chaukor trikon ke baein hai?	sahi	1 2
+5 Kya trikon laal chaukor ke neechey hai?	galat	2 1
+6 Kya laal chaukor trikon ke neechey hai?	galat	1 2
+7 Kya laal chaukor trikon ke baein hai?	sahi	1 2
+8 Kya laal chaukor trikon ke baein hai?	sahi	1 2
+9 Kya trikon laal chaukor ke dahine hai?	sahi	2 1
+10 Kya trikon laal chaukor ke neechey hai?	galat	2 1
+1 Neela chaukor peela chaukor ke neechey rakha hai.
+2 Neela chaukor laal golashetra ke baein rakha hai.
+3 Kya peela chaukor laal golashetra ke baein hai?	sahi	1 2
+4 Kya laal golashetra peela chaukor ke neechey hai?	sahi	2 1
+5 Kya peela chaukor laal golashetra ke dahine hai?	galat	1 2
+6 Kya laal golashetra peela chaukor ke dahine hai?	sahi	2 1
+7 Kya laal golashetra peela chaukor ke uupar hai?	galat	2 1
+8 Kya peela chaukor laal golashetra ke neechey hai?	galat	1 2
+9 Kya peela chaukor laal golashetra ke baein hai?	sahi	1 2
+10 Kya peela chaukor laal golashetra ke baein hai?	sahi	1 2
+1 Neela chaukor laal chaukor ke baein rakha hai.
+2 Laal golashetra neela chaukor ke neechey rakha hai.
+3 Kya laal golashetra laal chaukor ke uupar hai?	galat	2 1
+4 Kya laal chaukor laal golashetra ke neechey hai?	galat	1 2
+5 Kya laal chaukor laal golashetra ke dahine hai?	sahi	1 2
+6 Kya laal chaukor laal golashetra ke neechey hai?	galat	1 2
+7 Kya laal chaukor laal golashetra ke neechey hai?	galat	1 2
+8 Kya laal golashetra laal chaukor ke baein hai?	sahi	2 1
+9 Kya laal golashetra laal chaukor ke neechey hai?	sahi	2 1
+10 Kya laal golashetra laal chaukor ke baein hai?	sahi	2 1

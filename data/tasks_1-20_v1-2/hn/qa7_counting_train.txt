@@ -1,0 +1,3548 @@
+1 Sita gusalkhane mein chali gayi.
+2 Priya gendh le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya ne sita ko gendh di.
+5 Sita ne priya ko gendh di.
+6 Sita ke pass kitni cheezein hai?	shunya	4 5
+7 Priya ne sita ko gendh di.
+8 Sita ne priya ko gendh di.
+9 Sita ke pass kitni cheezein hai?	shunya	4 5 7 8
+10 Priya gendh rakh aayi.
+11 Sita sayanakaksh mein gayi.
+12 Priya ke pass kitni cheezein hai?	shunya	2 4 5 7 8 10
+13 Mohit rasoi ghar mein gaya.
+14 Mohit sayanakaksh mein chala gaya.
+15 Priya ke pass kitni cheezein hai?	shunya	2 4 5 7 8 10
+1 Sita bagichey mein chali gayi.
+2 Badri dhoodh le kar aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Priya gendh le aayi.
+5 Badri dhoodh chod aaya.
+6 Badri ke pass kitni cheezein hai?	shunya	2 5
+7 Badri dhoodh le aaya.
+8 Priya ne sita ko gendh di.
+9 Badri ke pass kitni cheezein hai?	ek	2 5 7
+10 Sita gendh chod aayi.
+11 Mohit seb le kar aaya.
+12 Mohit ke pass kitni cheezein hai?	ek	11
+13 Mohit seb rakh aaya.
+14 Badri galiyare mein gaya.
+15 Mohit ke pass kitni cheezein hai?	shunya	11 13
+1 Badri sayanakaksh mein gaya.
+2 Badri galiyare gaya.
+3 Sita daftar gayi.
+4 Mohit bagichey gaya.
+5 Badri daftar mein gaya.
+6 Badri gusalkhane gaya.
+7 Badri gendh le aaya.
+8 Sita gusalkhane gayi.
+9 Badri ke pass kitni cheezein hai?	ek	7
+10 Badri ne sita ko gendh di.
+11 Badri dhoodh le aaya.
+12 Badri ke pass kitni cheezein hai?	ek	7 10 11
+13 Badri dhoodh chod aaya.
+14 Sita ne badri ko gendh di.
+15 Sita ke pass kitni cheezein hai?	shunya	10 14
+16 Sita dhoodh le kar aayi.
+17 Sita dhoodh rakh aayi.
+18 Sita ke pass kitni cheezein hai?	shunya	10 14 16 17
+19 Badri dhoodh le kar aaya.
+20 Priya daftar mein gayi.
+21 Sita ke pass kitni cheezein hai?	shunya	10 14 16 17
+1 Mohit gusalkhane gaya.
+2 Priya daftar gayi.
+3 Priya galiyare mein chali gayi.
+4 Priya dhoodh le kar aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Mohit bagichey gaya.
+7 Priya dhoodh rakh aayi.
+8 Priya ke pass kitni cheezein hai?	shunya	4 7
+9 Sita dhoodh le aayi.
+10 Sita dhoodh rakh aayi.
+11 Sita ke pass kitni cheezein hai?	shunya	9 10
+12 Priya dhoodh le aayi.
+13 Mohit galiyare mein chala gaya.
+14 Sita ke pass kitni cheezein hai?	shunya	9 10
+15 Priya ne mohit ko dhoodh diya.
+16 Priya bagichey mein chali gayi.
+17 Priya ke pass kitni cheezein hai?	shunya	4 7 12 15
+1 Badri gusalkhane mein gaya.
+2 Sita galiyare mein gayi.
+3 Priya bagichey mein chali gayi.
+4 Priya galiyare gayi.
+5 Sita bagichey gayi.
+6 Priya rasoi ghar mein chali gayi.
+7 Sita rasoi ghar mein chali gayi.
+8 Priya galiyare mein gayi.
+9 Sita galiyare gayi.
+10 Badri dhoodh le aaya.
+11 Badri ke pass kitni cheezein hai?	ek	10
+12 Badri dhoodh rakh aaya.
+13 Badri bagichey mein chala gaya.
+14 Badri ke pass kitni cheezein hai?	shunya	10 12
+15 Badri galiyare gaya.
+16 Mohit galiyare gaya.
+17 Badri ke pass kitni cheezein hai?	shunya	10 12
+18 Priya rasoi ghar mein chali gayi.
+19 Sita gusalkhane mein chali gayi.
+20 Priya sayanakaksh mein gayi.
+21 Priya rasoi ghar gayi.
+22 Sita dhoodh le aayi.
+23 Mohit rasoi ghar mein gaya.
+24 Sita ke pass kitni cheezein hai?	ek	22
+25 Sita dhoodh chod aayi.
+26 Priya galiyare mein gayi.
+27 Sita ke pass kitni cheezein hai?	shunya	22 25
+1 Mohit rasoi ghar mein chala gaya.
+2 Badri seb le aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Sita gendh le aayi.
+5 Badri ne priya ko seb diya.
+6 Badri ke pass kitni cheezein hai?	shunya	2 5
+7 Priya ne badri ko seb diya.
+8 Badri ne priya ko seb diya.
+9 Badri ke pass kitni cheezein hai?	shunya	2 5 7 8
+10 Mohit gusalkhane mein gaya.
+11 Sita gendh chod aayi.
+12 Badri ke pass kitni cheezein hai?	shunya	2 5 7 8
+13 Sita dhoodh le kar aayi.
+14 Priya ne badri ko seb diya.
+15 Sita ke pass kitni cheezein hai?	ek	4 11 13
+1 Sita seb le aayi.
+2 Sita daftar mein gayi.
+3 Sita ke pass kitni cheezein hai?	ek	1
+4 Sita ne priya ko seb diya.
+5 Priya ne sita ko seb diya.
+6 Sita ke pass kitni cheezein hai?	ek	1 4 5
+7 Sita ne priya ko seb diya.
+8 Priya seb rakh aayi.
+9 Sita ke pass kitni cheezein hai?	shunya	1 4 5 7
+10 Sita rasoi ghar gayi.
+11 Mohit galiyare gaya.
+12 Priya ke pass kitni cheezein hai?	shunya	4 5 7 8
+13 Mohit rasoi ghar gaya.
+14 Mohit gusalkhane mein gaya.
+15 Priya ke pass kitni cheezein hai?	shunya	4 5 7 8
+1 Sita sayanakaksh mein chali gayi.
+2 Mohit galiyare mein gaya.
+3 Mohit gendh le aaya.
+4 Badri seb le aaya.
+5 Badri ke pass kitni cheezein hai?	ek	4
+6 Mohit gendh chod aaya.
+7 Sita daftar mein gayi.
+8 Mohit ke pass kitni cheezein hai?	shunya	3 6
+9 Sita bagichey gayi.
+10 Mohit gendh le kar aaya.
+11 Mohit ke pass kitni cheezein hai?	ek	3 6 10
+12 Sita gusalkhane mein gayi.
+13 Mohit gendh rakh aaya.
+14 Mohit ke pass kitni cheezein hai?	shunya	3 6 10 13
+15 Sita rasoi ghar mein gayi.
+16 Mohit gendh le kar aaya.
+17 Mohit ke pass kitni cheezein hai?	ek	3 6 10 13 16
+1 Sita gendh le kar aayi.
+2 Priya seb le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Mohit bagichey mein gaya.
+5 Sita ne mohit ko gendh di.
+6 Sita ke pass kitni cheezein hai?	shunya	1 5
+7 Mohit ne sita ko gendh di.
+8 Sita ne mohit ko gendh di.
+9 Sita ke pass kitni cheezein hai?	shunya	1 5 7 8
+10 Priya seb chod aayi.
+11 Mohit ne sita ko gendh di.
+12 Mohit ke pass kitni cheezein hai?	shunya	5 7 8 11
+13 Sita ne mohit ko gendh di.
+14 Mohit ne sita ko gendh di.
+15 Sita ke pass kitni cheezein hai?	ek	1 5 7 8 11 13 14
+1 Mohit galiyare mein gaya.
+2 Sita bagichey mein gayi.
+3 Mohit dhoodh le kar aaya.
+4 Badri galiyare mein gaya.
+5 Mohit ke pass kitni cheezein hai?	ek	3
+6 Mohit daftar mein chala gaya.
+7 Priya galiyare gayi.
+8 Mohit ke pass kitni cheezein hai?	ek	3
+9 Mohit seb le aaya.
+10 Sita gusalkhane gayi.
+11 Mohit ke pass kitni cheezein hai?	do	3 9
+12 Mohit seb chod aaya.
+13 Mohit bagichey gaya.
+14 Mohit ke pass kitni cheezein hai?	ek	3 9 12
+15 Priya sayanakaksh mein gayi.
+16 Sita daftar mein chali gayi.
+17 Mohit ke pass kitni cheezein hai?	ek	3 9 12
+1 Badri gendh le kar aaya.
+2 Sita sayanakaksh gayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Badri ne priya ko gendh di.
+5 Priya bagichey gayi.
+6 Badri ke pass kitni cheezein hai?	shunya	1 4
+7 Sita gusalkhane gayi.
+8 Sita galiyare gayi.
+9 Badri ke pass kitni cheezein hai?	shunya	1 4
+10 Priya sayanakaksh mein gayi.
+11 Mohit rasoi ghar gaya.
+12 Sita gusalkhane gayi.
+13 Priya seb le aayi.
+14 Priya ke pass kitni cheezein hai?	do	4 13
+15 Priya seb rakh aayi.
+16 Priya gendh chod aayi.
+17 Priya ke pass kitni cheezein hai?	shunya	4 13 15 16
+1 Priya sayanakaksh mein chali gayi.
+2 Priya dhoodh le kar aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya ne sita ko dhoodh diya.
+5 Priya galiyare gayi.
+6 Priya ke pass kitni cheezein hai?	shunya	2 4
+7 Sita seb le aayi.
+8 Priya bagichey mein gayi.
+9 Sita ke pass kitni cheezein hai?	do	4 7
+10 Mohit gusalkhane gaya.
+11 Priya rasoi ghar mein gayi.
+12 Sita ke pass kitni cheezein hai?	do	4 7
+13 Sita dhoodh rakh aayi.
+14 Sita seb chod aayi.
+15 Sita ke pass kitni cheezein hai?	shunya	4 7 13 14
+1 Mohit bagichey mein gaya.
+2 Badri gusalkhane mein chala gaya.
+3 Priya galiyare mein chali gayi.
+4 Mohit daftar mein chala gaya.
+5 Mohit bagichey mein chala gaya.
+6 Priya seb le kar aayi.
+7 Priya ke pass kitni cheezein hai?	ek	6
+8 Priya seb rakh aayi.
+9 Priya seb le kar aayi.
+10 Priya ke pass kitni cheezein hai?	ek	6 8 9
+11 Badri dhoodh le kar aaya.
+12 Badri dhoodh rakh aaya.
+13 Priya ke pass kitni cheezein hai?	ek	6 8 9
+14 Sita sayanakaksh gayi.
+15 Priya sayanakaksh gayi.
+16 Badri ke pass kitni cheezein hai?	shunya	11 12
+17 Priya ne sita ko seb diya.
+18 Priya gendh le aayi.
+19 Priya ke pass kitni cheezein hai?	ek	6 8 9 17 18
+1 Sita rasoi ghar mein gayi.
+2 Sita dhoodh le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Mohit gendh le aaya.
+5 Sita dhoodh rakh aayi.
+6 Sita ke pass kitni cheezein hai?	shunya	2 5
+7 Mohit sayanakaksh mein gaya.
+8 Mohit ne badri ko gendh di.
+9 Mohit ke pass kitni cheezein hai?	shunya	4 8
+10 Badri ne mohit ko gendh di.
+11 Priya sayanakaksh mein chali gayi.
+12 Mohit ke pass kitni cheezein hai?	ek	4 8 10
+13 Mohit ne priya ko gendh di.
+14 Mohit bagichey gaya.
+15 Badri ke pass kitni cheezein hai?	shunya	8 10
+1 Badri gendh le aaya.
+2 Priya seb le aayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Badri ne mohit ko gendh di.
+5 Priya seb rakh aayi.
+6 Priya ke pass kitni cheezein hai?	shunya	2 5
+7 Sita sayanakaksh gayi.
+8 Mohit gendh rakh aaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	4 8
+10 Mohit gusalkhane gaya.
+11 Badri daftar mein chala gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	4 8
+13 Priya bagichey mein gayi.
+14 Mohit sayanakaksh gaya.
+15 Mohit ke pass kitni cheezein hai?	shunya	4 8
+1 Mohit sayanakaksh gaya.
+2 Badri sayanakaksh mein chala gaya.
+3 Priya gendh le aayi.
+4 Priya sayanakaksh mein gayi.
+5 Priya ke pass kitni cheezein hai?	ek	3
+6 Mohit galiyare gaya.
+7 Mohit rasoi ghar mein chala gaya.
+8 Priya ke pass kitni cheezein hai?	ek	3
+9 Priya ne badri ko gendh di.
+10 Badri rasoi ghar mein chala gaya.
+11 Priya ke pass kitni cheezein hai?	shunya	3 9
+12 Badri gendh rakh aaya.
+13 Mohit seb le aaya.
+14 Badri ke pass kitni cheezein hai?	shunya	9 12
+15 Mohit ne badri ko seb diya.
+16 Badri ne mohit ko seb diya.
+17 Badri ke pass kitni cheezein hai?	shunya	9 12 15 16
+1 Mohit gendh le aaya.
+2 Sita rasoi ghar mein chali gayi.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Priya daftar mein chali gayi.
+5 Mohit gendh rakh aaya.
+6 Mohit ke pass kitni cheezein hai?	shunya	1 5
+7 Priya rasoi ghar mein gayi.
+8 Priya daftar mein gayi.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 5
+10 Sita gendh le aayi.
+11 Mohit sayanakaksh mein chala gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 5
+13 Priya gusalkhane mein chali gayi.
+14 Sita gendh rakh aayi.
+15 Sita ke pass kitni cheezein hai?	shunya	10 14
+1 Sita rasoi ghar gayi.
+2 Badri sayanakaksh mein chala gaya.
+3 Priya daftar mein chali gayi.
+4 Priya dhoodh le aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Sita bagichey gayi.
+7 Sita galiyare mein gayi.
+8 Priya ke pass kitni cheezein hai?	ek	4
+9 Badri rasoi ghar mein gaya.
+10 Priya rasoi ghar mein chali gayi.
+11 Priya ke pass kitni cheezein hai?	ek	4
+12 Priya ne mohit ko dhoodh diya.
+13 Mohit dhoodh chod aaya.
+14 Mohit ke pass kitni cheezein hai?	shunya	12 13
+15 Mohit bagichey mein gaya.
+16 Mohit gendh le kar aaya.
+17 Priya ke pass kitni cheezein hai?	shunya	4 12
+1 Badri rasoi ghar gaya.
+2 Sita dhoodh le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita seb le kar aayi.
+5 Mohit rasoi ghar mein chala gaya.
+6 Sita ke pass kitni cheezein hai?	do	2 4
+7 Sita ne mohit ko seb diya.
+8 Sita dhoodh rakh aayi.
+9 Sita ke pass kitni cheezein hai?	shunya	2 4 7 8
+10 Mohit seb rakh aaya.
+11 Mohit sayanakaksh mein chala gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	7 10
+13 Priya gusalkhane gayi.
+14 Mohit daftar gaya.
+15 Mohit ke pass kitni cheezein hai?	shunya	7 10
+1 Mohit seb le aaya.
+2 Badri sayanakaksh gaya.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Mohit seb chod aaya.
+5 Priya daftar mein chali gayi.
+6 Mohit ke pass kitni cheezein hai?	shunya	1 4
+7 Mohit daftar gaya.
+8 Mohit rasoi ghar mein chala gaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 4
+10 Mohit gusalkhane gaya.
+11 Mohit galiyare gaya.
+12 Mohit seb le aaya.
+13 Mohit dhoodh le aaya.
+14 Mohit ke pass kitni cheezein hai?	do	1 4 12 13
+15 Mohit gendh le kar aaya.
+16 Mohit daftar mein gaya.
+17 Mohit ke pass kitni cheezein hai?	teen	1 4 12 13 15
+1 Badri gendh le aaya.
+2 Mohit rasoi ghar mein gaya.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Badri ne sita ko gendh di.
+5 Mohit bagichey mein chala gaya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 4
+7 Sita ne badri ko gendh di.
+8 Badri ne sita ko gendh di.
+9 Badri ke pass kitni cheezein hai?	shunya	1 4 7 8
+10 Sita gendh rakh aayi.
+11 Mohit seb le kar aaya.
+12 Sita ke pass kitni cheezein hai?	shunya	4 7 8 10
+13 Priya rasoi ghar mein gayi.
+14 Badri sayanakaksh gaya.
+15 Badri ke pass kitni cheezein hai?	shunya	1 4 7 8
+1 Mohit seb le kar aaya.
+2 Badri rasoi ghar mein gaya.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Badri gusalkhane mein gaya.
+5 Mohit ne priya ko seb diya.
+6 Mohit ke pass kitni cheezein hai?	shunya	1 5
+7 Badri dhoodh le aaya.
+8 Badri dhoodh chod aaya.
+9 Badri ke pass kitni cheezein hai?	shunya	7 8
+10 Priya ne mohit ko seb diya.
+11 Mohit ne priya ko seb diya.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 5 10 11
+13 Priya ne mohit ko seb diya.
+14 Priya gendh le kar aayi.
+15 Mohit ke pass kitni cheezein hai?	ek	1 5 10 11 13
+1 Sita gusalkhane mein chali gayi.
+2 Badri daftar gaya.
+3 Badri gusalkhane mein gaya.
+4 Priya dhoodh le kar aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Mohit galiyare mein gaya.
+7 Mohit gusalkhane mein gaya.
+8 Priya ke pass kitni cheezein hai?	ek	4
+9 Priya galiyare mein gayi.
+10 Priya rasoi ghar gayi.
+11 Priya ke pass kitni cheezein hai?	ek	4
+12 Mohit galiyare mein gaya.
+13 Badri rasoi ghar gaya.
+14 Badri sayanakaksh mein gaya.
+15 Priya galiyare gayi.
+16 Priya ne mohit ko dhoodh diya.
+17 Badri bagichey mein chala gaya.
+18 Priya ke pass kitni cheezein hai?	shunya	4 16
+19 Mohit ne priya ko dhoodh diya.
+20 Priya ne mohit ko dhoodh diya.
+21 Priya ke pass kitni cheezein hai?	shunya	4 16 19 20
+1 Priya gendh le aayi.
+2 Sita galiyare mein gayi.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Priya gendh chod aayi.
+5 Sita gusalkhane mein chali gayi.
+6 Priya ke pass kitni cheezein hai?	shunya	1 4
+7 Priya gendh le aayi.
+8 Sita bagichey mein gayi.
+9 Priya ke pass kitni cheezein hai?	ek	1 4 7
+10 Badri dhoodh le kar aaya.
+11 Badri dhoodh chod aaya.
+12 Priya ke pass kitni cheezein hai?	ek	1 4 7
+13 Priya gusalkhane mein gayi.
+14 Priya gendh rakh aayi.
+15 Priya ke pass kitni cheezein hai?	shunya	1 4 7 14
+1 Priya gusalkhane mein gayi.
+2 Priya seb le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya ne sita ko seb diya.
+5 Mohit rasoi ghar mein chala gaya.
+6 Priya ke pass kitni cheezein hai?	shunya	2 4
+7 Mohit gusalkhane gaya.
+8 Badri rasoi ghar mein chala gaya.
+9 Priya ke pass kitni cheezein hai?	shunya	2 4
+10 Sita seb rakh aayi.
+11 Mohit rasoi ghar gaya.
+12 Sita ke pass kitni cheezein hai?	shunya	4 10
+13 Priya rasoi ghar gayi.
+14 Sita daftar gayi.
+15 Sita ke pass kitni cheezein hai?	shunya	4 10
+1 Sita sayanakaksh gayi.
+2 Mohit bagichey gaya.
+3 Sita gusalkhane mein gayi.
+4 Sita bagichey mein gayi.
+5 Mohit sayanakaksh mein gaya.
+6 Sita gusalkhane gayi.
+7 Sita seb le kar aayi.
+8 Mohit gusalkhane mein gaya.
+9 Sita ke pass kitni cheezein hai?	ek	7
+10 Sita ne mohit ko seb diya.
+11 Priya gusalkhane mein gayi.
+12 Sita ke pass kitni cheezein hai?	shunya	7 10
+13 Mohit ne sita ko seb diya.
+14 Sita ne mohit ko seb diya.
+15 Sita ke pass kitni cheezein hai?	shunya	7 10 13 14
+16 Mohit seb chod aaya.
+17 Mohit rasoi ghar gaya.
+18 Mohit ke pass kitni cheezein hai?	shunya	10 13 14 16
+19 Priya seb le aayi.
+20 Priya ne sita ko seb diya.
+21 Sita ke pass kitni cheezein hai?	ek	7 10 13 14 20
+1 Sita rasoi ghar mein gayi.
+2 Sita sayanakaksh mein gayi.
+3 Sita gusalkhane mein gayi.
+4 Mohit seb le kar aaya.
+5 Mohit ke pass kitni cheezein hai?	ek	4
+6 Mohit seb rakh aaya.
+7 Mohit rasoi ghar mein gaya.
+8 Mohit ke pass kitni cheezein hai?	shunya	4 6
+9 Mohit bagichey gaya.
+10 Priya rasoi ghar mein chali gayi.
+11 Mohit ke pass kitni cheezein hai?	shunya	4 6
+12 Badri galiyare gaya.
+13 Mohit dhoodh le aaya.
+14 Mohit ke pass kitni cheezein hai?	ek	4 6 13
+15 Mohit galiyare mein chala gaya.
+16 Mohit ne badri ko dhoodh diya.
+17 Mohit ke pass kitni cheezein hai?	shunya	4 6 13 16
+1 Priya rasoi ghar mein gayi.
+2 Sita bagichey mein chali gayi.
+3 Mohit gendh le kar aaya.
+4 Priya seb le kar aayi.
+5 Mohit ke pass kitni cheezein hai?	ek	3
+6 Mohit gendh chod aaya.
+7 Mohit sayanakaksh mein gaya.
+8 Priya ke pass kitni cheezein hai?	ek	4
+9 Priya seb rakh aayi.
+10 Badri rasoi ghar mein gaya.
+11 Priya ke pass kitni cheezein hai?	shunya	4 9
+12 Priya seb le kar aayi.
+13 Priya ne badri ko seb diya.
+14 Priya ke pass kitni cheezein hai?	shunya	4 9 12 13
+15 Badri ne priya ko seb diya.
+16 Priya ne badri ko seb diya.
+17 Priya ke pass kitni cheezein hai?	shunya	4 9 12 13 15 16
+1 Sita rasoi ghar mein chali gayi.
+2 Priya daftar mein gayi.
+3 Priya bagichey gayi.
+4 Priya seb le kar aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Priya ne mohit ko seb diya.
+7 Mohit ne priya ko seb diya.
+8 Mohit ke pass kitni cheezein hai?	shunya	6 7
+9 Priya ne mohit ko seb diya.
+10 Mohit ne priya ko seb diya.
+11 Mohit ke pass kitni cheezein hai?	shunya	6 7 9 10
+12 Priya ne mohit ko seb diya.
+13 Mohit ne priya ko seb diya.
+14 Priya ke pass kitni cheezein hai?	ek	4 6 7 9 10 12 13
+15 Priya sayanakaksh gayi.
+16 Priya gendh le aayi.
+17 Mohit ke pass kitni cheezein hai?	shunya	6 7 9 10 12 13
+1 Badri rasoi ghar mein gaya.
+2 Badri gusalkhane mein gaya.
+3 Badri sayanakaksh mein chala gaya.
+4 Badri bagichey mein gaya.
+5 Sita seb le aayi.
+6 Sita ne badri ko seb diya.
+7 Sita ke pass kitni cheezein hai?	shunya	5 6
+8 Badri ne sita ko seb diya.
+9 Mohit daftar gaya.
+10 Sita ke pass kitni cheezein hai?	ek	5 6 8
+11 Priya rasoi ghar mein chali gayi.
+12 Priya gusalkhane mein gayi.
+13 Sita ke pass kitni cheezein hai?	ek	5 6 8
+14 Sita ne badri ko seb diya.
+15 Badri daftar mein gaya.
+16 Sita ke pass kitni cheezein hai?	shunya	5 6 8 14
+17 Badri galiyare gaya.
+18 Badri sayanakaksh mein chala gaya.
+19 Sita ke pass kitni cheezein hai?	shunya	5 6 8 14
+1 Mohit gusalkhane gaya.
+2 Mohit rasoi ghar mein gaya.
+3 Mohit dhoodh le aaya.
+4 Mohit seb le kar aaya.
+5 Mohit ke pass kitni cheezein hai?	do	3 4
+6 Priya gendh le kar aayi.
+7 Priya ne sita ko gendh di.
+8 Mohit ke pass kitni cheezein hai?	do	3 4
+9 Sita ne priya ko gendh di.
+10 Priya rasoi ghar gayi.
+11 Priya ke pass kitni cheezein hai?	ek	6 7 9
+12 Mohit ne priya ko seb diya.
+13 Priya ne mohit ko seb diya.
+14 Mohit ke pass kitni cheezein hai?	do	3 4 12 13
+15 Mohit gusalkhane gaya.
+16 Priya daftar mein gayi.
+17 Priya ke pass kitni cheezein hai?	ek	6 7 9 12 13
+1 Sita gusalkhane mein chali gayi.
+2 Mohit rasoi ghar gaya.
+3 Priya gendh le kar aayi.
+4 Priya gendh chod aayi.
+5 Priya ke pass kitni cheezein hai?	shunya	3 4
+6 Badri seb le kar aaya.
+7 Badri daftar gaya.
+8 Priya ke pass kitni cheezein hai?	shunya	3 4
+9 Mohit gusalkhane mein chala gaya.
+10 Priya galiyare mein chali gayi.
+11 Priya ke pass kitni cheezein hai?	shunya	3 4
+12 Badri seb rakh aaya.
+13 Badri galiyare mein gaya.
+14 Badri ke pass kitni cheezein hai?	shunya	6 12
+15 Badri gusalkhane mein chala gaya.
+16 Mohit sayanakaksh mein chala gaya.
+17 Badri ke pass kitni cheezein hai?	shunya	6 12
+1 Priya galiyare mein chali gayi.
+2 Sita gendh le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Badri dhoodh le aaya.
+5 Badri dhoodh rakh aaya.
+6 Badri ke pass kitni cheezein hai?	shunya	4 5
+7 Badri dhoodh le kar aaya.
+8 Badri galiyare mein chala gaya.
+9 Badri ke pass kitni cheezein hai?	ek	4 5 7
+10 Badri dhoodh chod aaya.
+11 Mohit dhoodh le kar aaya.
+12 Mohit ke pass kitni cheezein hai?	ek	11
+13 Mohit ne priya ko dhoodh diya.
+14 Sita gendh chod aayi.
+15 Badri ke pass kitni cheezein hai?	shunya	4 5 7 10
+1 Mohit sayanakaksh mein gaya.
+2 Sita seb le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Mohit daftar gaya.
+5 Sita daftar gayi.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Mohit gendh le kar aaya.
+8 Sita ne mohit ko seb diya.
+9 Mohit ke pass kitni cheezein hai?	do	7 8
+10 Mohit gendh chod aaya.
+11 Mohit gusalkhane mein chala gaya.
+12 Mohit ke pass kitni cheezein hai?	ek	7 8 10
+13 Badri galiyare mein chala gaya.
+14 Priya gendh le aayi.
+15 Sita ke pass kitni cheezein hai?	shunya	2 8
+1 Mohit dhoodh le kar aaya.
+2 Mohit ne priya ko dhoodh diya.
+3 Mohit ke pass kitni cheezein hai?	shunya	1 2
+4 Sita seb le kar aayi.
+5 Priya ne mohit ko dhoodh diya.
+6 Sita ke pass kitni cheezein hai?	ek	4
+7 Mohit galiyare gaya.
+8 Priya gendh le kar aayi.
+9 Sita ke pass kitni cheezein hai?	ek	4
+10 Priya ne badri ko gendh di.
+11 Badri gendh rakh aaya.
+12 Priya ke pass kitni cheezein hai?	shunya	2 5 8 10
+13 Badri rasoi ghar mein gaya.
+14 Sita seb chod aayi.
+15 Priya ke pass kitni cheezein hai?	shunya	2 5 8 10
+1 Priya galiyare mein chali gayi.
+2 Badri dhoodh le aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Sita gusalkhane mein chali gayi.
+5 Badri ne mohit ko dhoodh diya.
+6 Badri ke pass kitni cheezein hai?	shunya	2 5
+7 Mohit seb le aaya.
+8 Mohit ne badri ko seb diya.
+9 Badri ke pass kitni cheezein hai?	ek	2 5 8
+10 Badri ne mohit ko seb diya.
+11 Priya daftar mein chali gayi.
+12 Badri ke pass kitni cheezein hai?	shunya	2 5 8 10
+13 Mohit seb chod aaya.
+14 Badri seb le aaya.
+15 Badri ke pass kitni cheezein hai?	ek	2 5 8 10 14
+1 Badri bagichey mein gaya.
+2 Badri daftar mein chala gaya.
+3 Sita dhoodh le aayi.
+4 Mohit seb le kar aaya.
+5 Mohit ke pass kitni cheezein hai?	ek	4
+6 Mohit galiyare mein gaya.
+7 Badri galiyare mein gaya.
+8 Mohit ke pass kitni cheezein hai?	ek	4
+9 Priya galiyare gayi.
+10 Sita galiyare mein chali gayi.
+11 Mohit ke pass kitni cheezein hai?	ek	4
+12 Mohit seb rakh aaya.
+13 Badri seb le aaya.
+14 Mohit ke pass kitni cheezein hai?	shunya	4 12
+15 Mohit rasoi ghar mein gaya.
+16 Priya daftar mein chali gayi.
+17 Badri ke pass kitni cheezein hai?	ek	13
+1 Priya bagichey mein gayi.
+2 Sita daftar mein gayi.
+3 Priya galiyare gayi.
+4 Mohit dhoodh le kar aaya.
+5 Mohit ke pass kitni cheezein hai?	ek	4
+6 Sita gusalkhane mein chali gayi.
+7 Badri seb le aaya.
+8 Badri ke pass kitni cheezein hai?	ek	7
+9 Badri seb rakh aaya.
+10 Priya bagichey gayi.
+11 Badri ke pass kitni cheezein hai?	shunya	7 9
+12 Mohit ne sita ko dhoodh diya.
+13 Sita dhoodh rakh aayi.
+14 Mohit ke pass kitni cheezein hai?	shunya	4 12
+15 Badri seb le aaya.
+16 Sita dhoodh le kar aayi.
+17 Sita ke pass kitni cheezein hai?	ek	12 13 16
+1 Mohit dhoodh le aaya.
+2 Mohit galiyare mein gaya.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Priya seb le kar aayi.
+5 Mohit daftar mein gaya.
+6 Priya ke pass kitni cheezein hai?	ek	4
+7 Mohit ne badri ko dhoodh diya.
+8 Priya bagichey mein gayi.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 7
+10 Badri ne mohit ko dhoodh diya.
+11 Mohit ne badri ko dhoodh diya.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 7 10 11
+13 Sita daftar gayi.
+14 Priya galiyare mein gayi.
+15 Mohit ke pass kitni cheezein hai?	shunya	1 7 10 11
+1 Priya dhoodh le kar aayi.
+2 Priya seb le aayi.
+3 Priya ke pass kitni cheezein hai?	do	1 2
+4 Priya seb chod aayi.
+5 Mohit bagichey gaya.
+6 Priya ke pass kitni cheezein hai?	ek	1 2 4
+7 Priya dhoodh rakh aayi.
+8 Sita gendh le kar aayi.
+9 Priya ke pass kitni cheezein hai?	shunya	1 2 4 7
+10 Sita gusalkhane mein gayi.
+11 Badri sayanakaksh mein chala gaya.
+12 Priya ke pass kitni cheezein hai?	shunya	1 2 4 7
+13 Priya seb le aayi.
+14 Priya dhoodh le kar aayi.
+15 Priya ke pass kitni cheezein hai?	do	1 2 4 7 13 14
+1 Sita galiyare gayi.
+2 Mohit gendh le aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Mohit gendh rakh aaya.
+5 Mohit rasoi ghar gaya.
+6 Mohit ke pass kitni cheezein hai?	shunya	2 4
+7 Priya galiyare mein gayi.
+8 Sita gusalkhane gayi.
+9 Mohit ke pass kitni cheezein hai?	shunya	2 4
+10 Priya gusalkhane mein gayi.
+11 Sita sayanakaksh mein gayi.
+12 Priya sayanakaksh mein gayi.
+13 Priya seb le aayi.
+14 Priya ke pass kitni cheezein hai?	ek	13
+15 Sita bagichey gayi.
+16 Priya seb rakh aayi.
+17 Priya ke pass kitni cheezein hai?	shunya	13 16
+1 Priya sayanakaksh mein chali gayi.
+2 Mohit bagichey mein chala gaya.
+3 Mohit galiyare mein chala gaya.
+4 Mohit daftar mein chala gaya.
+5 Sita rasoi ghar gayi.
+6 Mohit gusalkhane gaya.
+7 Mohit dhoodh le kar aaya.
+8 Mohit rasoi ghar mein gaya.
+9 Mohit ke pass kitni cheezein hai?	ek	7
+10 Mohit ne sita ko dhoodh diya.
+11 Sita daftar mein gayi.
+12 Mohit ke pass kitni cheezein hai?	shunya	7 10
+13 Sita ne badri ko dhoodh diya.
+14 Mohit daftar gaya.
+15 Sita ke pass kitni cheezein hai?	shunya	10 13
+16 Priya seb le kar aayi.
+17 Priya rasoi ghar mein chali gayi.
+18 Sita ke pass kitni cheezein hai?	shunya	10 13
+19 Badri ne mohit ko dhoodh diya.
+20 Sita galiyare mein chali gayi.
+21 Priya ke pass kitni cheezein hai?	ek	16
+1 Mohit galiyare gaya.
+2 Priya galiyare mein chali gayi.
+3 Mohit gendh le kar aaya.
+4 Sita galiyare mein gayi.
+5 Mohit ke pass kitni cheezein hai?	ek	3
+6 Priya sayanakaksh mein chali gayi.
+7 Mohit ne sita ko gendh di.
+8 Mohit ke pass kitni cheezein hai?	shunya	3 7
+9 Sita gendh chod aayi.
+10 Mohit gendh le kar aaya.
+11 Mohit ke pass kitni cheezein hai?	ek	3 7 10
+12 Mohit ne sita ko gendh di.
+13 Priya rasoi ghar gayi.
+14 Mohit ke pass kitni cheezein hai?	shunya	3 7 10 12
+15 Sita ne mohit ko gendh di.
+16 Mohit ne sita ko gendh di.
+17 Mohit ke pass kitni cheezein hai?	shunya	3 7 10 12 15 16
+1 Mohit sayanakaksh gaya.
+2 Priya seb le kar aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Sita gendh le aayi.
+5 Priya ne mohit ko seb diya.
+6 Priya ke pass kitni cheezein hai?	shunya	2 5
+7 Mohit galiyare mein chala gaya.
+8 Sita dhoodh le aayi.
+9 Sita ke pass kitni cheezein hai?	do	4 8
+10 Sita bagichey gayi.
+11 Sita daftar mein chali gayi.
+12 Priya ke pass kitni cheezein hai?	shunya	2 5
+13 Mohit seb rakh aaya.
+14 Badri gusalkhane mein gaya.
+15 Sita ke pass kitni cheezein hai?	do	4 8
+1 Mohit rasoi ghar gaya.
+2 Mohit dhoodh le kar aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Priya gusalkhane mein chali gayi.
+5 Mohit ne sita ko dhoodh diya.
+6 Mohit ke pass kitni cheezein hai?	shunya	2 5
+7 Sita ne mohit ko dhoodh diya.
+8 Mohit dhoodh rakh aaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	2 5 7 8
+10 Badri seb le kar aaya.
+11 Mohit dhoodh le kar aaya.
+12 Mohit ke pass kitni cheezein hai?	ek	2 5 7 8 11
+13 Mohit ne sita ko dhoodh diya.
+14 Priya galiyare mein gayi.
+15 Mohit ke pass kitni cheezein hai?	shunya	2 5 7 8 11 13
+1 Priya rasoi ghar mein gayi.
+2 Sita bagichey mein chali gayi.
+3 Mohit daftar mein gaya.
+4 Priya bagichey mein chali gayi.
+5 Sita rasoi ghar gayi.
+6 Mohit seb le aaya.
+7 Mohit ke pass kitni cheezein hai?	ek	6
+8 Mohit seb rakh aaya.
+9 Badri sayanakaksh mein gaya.
+10 Mohit ke pass kitni cheezein hai?	shunya	6 8
+11 Badri rasoi ghar mein gaya.
+12 Priya sayanakaksh mein gayi.
+13 Mohit ke pass kitni cheezein hai?	shunya	6 8
+14 Mohit gusalkhane mein chala gaya.
+15 Priya daftar mein chali gayi.
+16 Mohit galiyare gaya.
+17 Priya seb le kar aayi.
+18 Priya ke pass kitni cheezein hai?	ek	17
+19 Priya seb rakh aayi.
+20 Priya seb le aayi.
+21 Priya ke pass kitni cheezein hai?	ek	17 19 20
+1 Badri rasoi ghar mein chala gaya.
+2 Sita gendh le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Badri daftar mein chala gaya.
+5 Priya rasoi ghar mein chali gayi.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Sita gendh rakh aayi.
+8 Mohit sayanakaksh gaya.
+9 Sita ke pass kitni cheezein hai?	shunya	2 7
+10 Sita galiyare mein chali gayi.
+11 Priya seb le aayi.
+12 Sita ke pass kitni cheezein hai?	shunya	2 7
+13 Priya seb chod aayi.
+14 Priya sayanakaksh mein chali gayi.
+15 Priya ke pass kitni cheezein hai?	shunya	11 13
+1 Mohit daftar gaya.
+2 Mohit galiyare mein chala gaya.
+3 Badri seb le kar aaya.
+4 Badri ne priya ko seb diya.
+5 Badri ke pass kitni cheezein hai?	shunya	3 4
+6 Priya ne badri ko seb diya.
+7 Badri ne priya ko seb diya.
+8 Badri ke pass kitni cheezein hai?	shunya	3 4 6 7
+9 Priya seb rakh aayi.
+10 Badri sayanakaksh mein gaya.
+11 Badri ke pass kitni cheezein hai?	shunya	3 4 6 7
+12 Badri dhoodh le kar aaya.
+13 Priya seb le kar aayi.
+14 Priya ke pass kitni cheezein hai?	ek	4 6 7 9 13
+15 Priya seb chod aayi.
+16 Priya seb le aayi.
+17 Priya ke pass kitni cheezein hai?	ek	4 6 7 9 13 15 16
+1 Badri galiyare mein gaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Sita daftar mein gayi.
+4 Sita dhoodh le aayi.
+5 Sita ke pass kitni cheezein hai?	ek	4
+6 Sita ne priya ko dhoodh diya.
+7 Priya galiyare mein chali gayi.
+8 Sita ke pass kitni cheezein hai?	shunya	4 6
+9 Priya rasoi ghar mein gayi.
+10 Badri seb le aaya.
+11 Badri ke pass kitni cheezein hai?	ek	10
+12 Badri ne mohit ko seb diya.
+13 Mohit ne priya ko seb diya.
+14 Badri ke pass kitni cheezein hai?	shunya	10 12
+15 Priya dhoodh chod aayi.
+16 Priya ne mohit ko seb diya.
+17 Badri ke pass kitni cheezein hai?	shunya	10 12
+1 Mohit galiyare mein gaya.
+2 Mohit gusalkhane mein gaya.
+3 Mohit daftar mein chala gaya.
+4 Mohit galiyare mein chala gaya.
+5 Badri seb le kar aaya.
+6 Mohit bagichey mein chala gaya.
+7 Badri ke pass kitni cheezein hai?	ek	5
+8 Mohit daftar mein gaya.
+9 Badri sayanakaksh gaya.
+10 Badri ke pass kitni cheezein hai?	ek	5
+11 Badri ne sita ko seb diya.
+12 Sita ne badri ko seb diya.
+13 Sita ke pass kitni cheezein hai?	shunya	11 12
+14 Badri ne sita ko seb diya.
+15 Sita ne badri ko seb diya.
+16 Badri ke pass kitni cheezein hai?	ek	5 11 12 14 15
+17 Badri ne sita ko seb diya.
+18 Sita ne badri ko seb diya.
+19 Badri ke pass kitni cheezein hai?	ek	5 11 12 14 15 17 18
+1 Priya gusalkhane gayi.
+2 Sita gendh le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Priya rasoi ghar mein gayi.
+5 Badri dhoodh le aaya.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Sita ne priya ko gendh di.
+8 Priya ne sita ko gendh di.
+9 Priya ke pass kitni cheezein hai?	shunya	7 8
+10 Badri rasoi ghar gaya.
+11 Sita ne priya ko gendh di.
+12 Badri ke pass kitni cheezein hai?	ek	5
+13 Badri dhoodh chod aaya.
+14 Priya ne sita ko gendh di.
+15 Badri ke pass kitni cheezein hai?	shunya	5 13
+1 Sita sayanakaksh mein gayi.
+2 Priya gusalkhane mein chali gayi.
+3 Sita gendh le aayi.
+4 Sita ne badri ko gendh di.
+5 Sita ke pass kitni cheezein hai?	shunya	3 4
+6 Sita dhoodh le aayi.
+7 Badri ne sita ko gendh di.
+8 Badri ke pass kitni cheezein hai?	shunya	4 7
+9 Badri daftar mein chala gaya.
+10 Badri seb le aaya.
+11 Badri ke pass kitni cheezein hai?	ek	4 7 10
+12 Badri rasoi ghar gaya.
+13 Sita galiyare mein gayi.
+14 Badri ke pass kitni cheezein hai?	ek	4 7 10
+15 Mohit sayanakaksh mein chala gaya.
+16 Mohit galiyare gaya.
+17 Badri ke pass kitni cheezein hai?	ek	4 7 10
+1 Badri gusalkhane mein gaya.
+2 Sita daftar mein gayi.
+3 Sita seb le kar aayi.
+4 Sita gusalkhane gayi.
+5 Sita ke pass kitni cheezein hai?	ek	3
+6 Sita rasoi ghar mein gayi.
+7 Badri dhoodh le aaya.
+8 Sita ke pass kitni cheezein hai?	ek	3
+9 Badri dhoodh rakh aaya.
+10 Badri dhoodh le kar aaya.
+11 Badri ke pass kitni cheezein hai?	ek	7 9 10
+12 Priya gusalkhane mein chali gayi.
+13 Badri ne priya ko dhoodh diya.
+14 Badri ke pass kitni cheezein hai?	shunya	7 9 10 13
+15 Priya ne badri ko dhoodh diya.
+16 Badri ne priya ko dhoodh diya.
+17 Badri ke pass kitni cheezein hai?	shunya	7 9 10 13 15 16
+1 Badri sayanakaksh mein gaya.
+2 Sita dhoodh le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita dhoodh rakh aayi.
+5 Sita dhoodh le aayi.
+6 Sita ke pass kitni cheezein hai?	ek	2 4 5
+7 Badri galiyare gaya.
+8 Priya gusalkhane gayi.
+9 Sita ke pass kitni cheezein hai?	ek	2 4 5
+10 Sita gusalkhane mein gayi.
+11 Sita dhoodh chod aayi.
+12 Sita ke pass kitni cheezein hai?	shunya	2 4 5 11
+13 Sita bagichey mein chali gayi.
+14 Priya rasoi ghar mein gayi.
+15 Sita ke pass kitni cheezein hai?	shunya	2 4 5 11
+1 Mohit gendh le kar aaya.
+2 Priya seb le aayi.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Priya rasoi ghar mein chali gayi.
+5 Priya ne mohit ko seb diya.
+6 Mohit ke pass kitni cheezein hai?	do	1 5
+7 Mohit ne priya ko seb diya.
+8 Mohit gendh rakh aaya.
+9 Priya ke pass kitni cheezein hai?	ek	2 5 7
+10 Mohit galiyare mein gaya.
+11 Badri dhoodh le aaya.
+12 Badri ke pass kitni cheezein hai?	ek	11
+13 Badri bagichey mein gaya.
+14 Priya seb rakh aayi.
+15 Badri ke pass kitni cheezein hai?	ek	11
+1 Sita sayanakaksh mein gayi.
+2 Badri seb le aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Badri seb chod aaya.
+5 Priya rasoi ghar mein chali gayi.
+6 Badri ke pass kitni cheezein hai?	shunya	2 4
+7 Badri seb le aaya.
+8 Badri seb rakh aaya.
+9 Badri ke pass kitni cheezein hai?	shunya	2 4 7 8
+10 Priya galiyare mein gayi.
+11 Badri dhoodh le kar aaya.
+12 Badri ke pass kitni cheezein hai?	ek	2 4 7 8 11
+13 Badri seb le kar aaya.
+14 Badri dhoodh rakh aaya.
+15 Badri ke pass kitni cheezein hai?	ek	2 4 7 8 11 13 14
+1 Priya bagichey mein gayi.
+2 Priya gusalkhane mein chali gayi.
+3 Mohit sayanakaksh mein chala gaya.
+4 Sita gendh le kar aayi.
+5 Sita ke pass kitni cheezein hai?	ek	4
+6 Priya bagichey mein gayi.
+7 Sita ne mohit ko gendh di.
+8 Sita ke pass kitni cheezein hai?	shunya	4 7
+9 Mohit ne sita ko gendh di.
+10 Priya daftar mein chali gayi.
+11 Mohit ke pass kitni cheezein hai?	shunya	7 9
+12 Sita ne mohit ko gendh di.
+13 Mohit ne sita ko gendh di.
+14 Sita ke pass kitni cheezein hai?	ek	4 7 9 12 13
+15 Priya rasoi ghar gayi.
+16 Badri gusalkhane mein chala gaya.
+17 Mohit ke pass kitni cheezein hai?	shunya	7 9 12 13
+1 Mohit dhoodh le kar aaya.
+2 Badri rasoi ghar mein gaya.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Sita galiyare mein chali gayi.
+5 Priya bagichey gayi.
+6 Mohit ke pass kitni cheezein hai?	ek	1
+7 Sita gusalkhane gayi.
+8 Mohit ne priya ko dhoodh diya.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 8
+10 Priya galiyare mein gayi.
+11 Priya rasoi ghar mein chali gayi.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 8
+13 Priya dhoodh rakh aayi.
+14 Priya sayanakaksh mein chali gayi.
+15 Priya ke pass kitni cheezein hai?	shunya	8 13
+1 Badri sayanakaksh gaya.
+2 Sita daftar mein chali gayi.
+3 Badri rasoi ghar mein gaya.
+4 Priya galiyare gayi.
+5 Mohit rasoi ghar gaya.
+6 Mohit sayanakaksh gaya.
+7 Sita bagichey gayi.
+8 Badri gendh le kar aaya.
+9 Badri ke pass kitni cheezein hai?	ek	8
+10 Badri galiyare gaya.
+11 Sita rasoi ghar mein chali gayi.
+12 Badri ke pass kitni cheezein hai?	ek	8
+13 Badri rasoi ghar mein chala gaya.
+14 Badri ne sita ko gendh di.
+15 Badri ke pass kitni cheezein hai?	shunya	8 14
+16 Sita gendh rakh aayi.
+17 Sita sayanakaksh gayi.
+18 Badri ke pass kitni cheezein hai?	shunya	8 14
+19 Badri gusalkhane mein chala gaya.
+20 Mohit rasoi ghar mein chala gaya.
+21 Badri ke pass kitni cheezein hai?	shunya	8 14
+1 Mohit galiyare mein gaya.
+2 Priya gusalkhane mein chali gayi.
+3 Priya rasoi ghar gayi.
+4 Sita gusalkhane mein chali gayi.
+5 Badri sayanakaksh gaya.
+6 Priya galiyare mein chali gayi.
+7 Mohit gusalkhane mein gaya.
+8 Sita galiyare mein chali gayi.
+9 Mohit daftar mein chala gaya.
+10 Priya rasoi ghar mein gayi.
+11 Mohit dhoodh le kar aaya.
+12 Badri daftar gaya.
+13 Mohit ke pass kitni cheezein hai?	ek	11
+14 Priya gusalkhane gayi.
+15 Mohit dhoodh rakh aaya.
+16 Mohit ke pass kitni cheezein hai?	shunya	11 15
+17 Badri gendh le aaya.
+18 Badri ne mohit ko gendh di.
+19 Badri ke pass kitni cheezein hai?	shunya	17 18
+20 Sita bagichey gayi.
+21 Sita galiyare gayi.
+22 Badri ke pass kitni cheezein hai?	shunya	17 18
+23 Mohit ne badri ko gendh di.
+24 Badri ne mohit ko gendh di.
+25 Badri ke pass kitni cheezein hai?	shunya	17 18 23 24
+1 Badri dhoodh le kar aaya.
+2 Badri dhoodh chod aaya.
+3 Badri ke pass kitni cheezein hai?	shunya	1 2
+4 Sita rasoi ghar gayi.
+5 Badri dhoodh le aaya.
+6 Badri ke pass kitni cheezein hai?	ek	1 2 5
+7 Badri galiyare gaya.
+8 Mohit bagichey gaya.
+9 Badri ke pass kitni cheezein hai?	ek	1 2 5
+10 Badri dhoodh chod aaya.
+11 Mohit daftar mein gaya.
+12 Badri ke pass kitni cheezein hai?	shunya	1 2 5 10
+13 Priya seb le kar aayi.
+14 Mohit galiyare mein chala gaya.
+15 Badri ke pass kitni cheezein hai?	shunya	1 2 5 10
+1 Sita bagichey gayi.
+2 Sita seb le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita ne priya ko seb diya.
+5 Priya sayanakaksh mein gayi.
+6 Sita ke pass kitni cheezein hai?	shunya	2 4
+7 Priya seb rakh aayi.
+8 Badri galiyare gaya.
+9 Priya ke pass kitni cheezein hai?	shunya	4 7
+10 Badri daftar mein chala gaya.
+11 Badri sayanakaksh gaya.
+12 Priya ke pass kitni cheezein hai?	shunya	4 7
+13 Mohit seb le aaya.
+14 Mohit seb chod aaya.
+15 Mohit ke pass kitni cheezein hai?	shunya	13 14
+1 Mohit seb le kar aaya.
+2 Mohit ne sita ko seb diya.
+3 Mohit ke pass kitni cheezein hai?	shunya	1 2
+4 Sita ne mohit ko seb diya.
+5 Sita galiyare mein chali gayi.
+6 Mohit ke pass kitni cheezein hai?	ek	1 2 4
+7 Sita rasoi ghar mein gayi.
+8 Mohit seb chod aaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 2 4 8
+10 Badri dhoodh le kar aaya.
+11 Priya gendh le kar aayi.
+12 Priya ke pass kitni cheezein hai?	ek	11
+13 Priya ne sita ko gendh di.
+14 Sita ne priya ko gendh di.
+15 Badri ke pass kitni cheezein hai?	ek	10
+1 Badri gusalkhane gaya.
+2 Sita rasoi ghar mein chali gayi.
+3 Priya seb le kar aayi.
+4 Priya gendh le aayi.
+5 Priya ke pass kitni cheezein hai?	do	3 4
+6 Badri bagichey mein gaya.
+7 Badri dhoodh le aaya.
+8 Priya ke pass kitni cheezein hai?	do	3 4
+9 Badri daftar mein chala gaya.
+10 Badri dhoodh chod aaya.
+11 Priya ke pass kitni cheezein hai?	do	3 4
+12 Badri sayanakaksh mein chala gaya.
+13 Mohit galiyare mein gaya.
+14 Badri ke pass kitni cheezein hai?	shunya	7 10
+15 Priya dhoodh le kar aayi.
+16 Badri rasoi ghar gaya.
+17 Badri ke pass kitni cheezein hai?	shunya	7 10
+1 Badri sayanakaksh mein chala gaya.
+2 Mohit rasoi ghar mein chala gaya.
+3 Mohit daftar gaya.
+4 Sita bagichey mein chali gayi.
+5 Sita gusalkhane gayi.
+6 Priya daftar mein chali gayi.
+7 Priya seb le aayi.
+8 Sita daftar gayi.
+9 Priya ke pass kitni cheezein hai?	ek	7
+10 Badri daftar mein chala gaya.
+11 Sita bagichey mein gayi.
+12 Priya ke pass kitni cheezein hai?	ek	7
+13 Priya ne mohit ko seb diya.
+14 Priya sayanakaksh gayi.
+15 Priya ke pass kitni cheezein hai?	shunya	7 13
+16 Badri gusalkhane gaya.
+17 Badri galiyare mein gaya.
+18 Priya ke pass kitni cheezein hai?	shunya	7 13
+19 Badri gusalkhane mein chala gaya.
+20 Sita sayanakaksh mein gayi.
+21 Sita daftar mein chali gayi.
+22 Sita rasoi ghar mein chali gayi.
+23 Sita gusalkhane gayi.
+24 Sita dhoodh le aayi.
+25 Sita ke pass kitni cheezein hai?	ek	24
+1 Priya galiyare gayi.
+2 Badri rasoi ghar gaya.
+3 Sita sayanakaksh mein gayi.
+4 Sita gusalkhane mein chali gayi.
+5 Sita daftar gayi.
+6 Sita gendh le kar aayi.
+7 Sita ke pass kitni cheezein hai?	ek	6
+8 Priya dhoodh le kar aayi.
+9 Priya seb le kar aayi.
+10 Priya ke pass kitni cheezein hai?	do	8 9
+11 Sita bagichey mein gayi.
+12 Badri gusalkhane mein chala gaya.
+13 Sita ke pass kitni cheezein hai?	ek	6
+14 Sita ne mohit ko gendh di.
+15 Mohit ne sita ko gendh di.
+16 Mohit ke pass kitni cheezein hai?	shunya	14 15
+17 Sita ne mohit ko gendh di.
+18 Mohit ne sita ko gendh di.
+19 Mohit ke pass kitni cheezein hai?	shunya	14 15 17 18
+1 Badri gendh le aaya.
+2 Priya galiyare gayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Priya gusalkhane gayi.
+5 Priya dhoodh le kar aayi.
+6 Badri ke pass kitni cheezein hai?	ek	1
+7 Badri gendh chod aaya.
+8 Mohit bagichey mein chala gaya.
+9 Priya ke pass kitni cheezein hai?	ek	5
+10 Badri sayanakaksh mein gaya.
+11 Badri rasoi ghar gaya.
+12 Priya ke pass kitni cheezein hai?	ek	5
+13 Priya daftar mein chali gayi.
+14 Badri gendh le kar aaya.
+15 Badri ke pass kitni cheezein hai?	ek	1 7 14
+1 Badri dhoodh le kar aaya.
+2 Priya gusalkhane mein gayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Sita daftar gayi.
+5 Badri ne sita ko dhoodh diya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 5
+7 Badri gusalkhane mein chala gaya.
+8 Sita bagichey mein gayi.
+9 Badri ke pass kitni cheezein hai?	shunya	1 5
+10 Sita ne mohit ko dhoodh diya.
+11 Mohit dhoodh rakh aaya.
+12 Sita ke pass kitni cheezein hai?	shunya	5 10
+13 Mohit dhoodh le kar aaya.
+14 Mohit dhoodh rakh aaya.
+15 Sita ke pass kitni cheezein hai?	shunya	5 10
+1 Priya daftar mein gayi.
+2 Badri daftar mein gaya.
+3 Sita gendh le aayi.
+4 Priya sayanakaksh mein gayi.
+5 Sita ke pass kitni cheezein hai?	ek	3
+6 Badri gusalkhane mein gaya.
+7 Badri bagichey mein chala gaya.
+8 Sita ke pass kitni cheezein hai?	ek	3
+9 Badri seb le aaya.
+10 Priya galiyare gayi.
+11 Badri ke pass kitni cheezein hai?	ek	9
+12 Badri seb chod aaya.
+13 Sita rasoi ghar mein gayi.
+14 Badri ke pass kitni cheezein hai?	shunya	9 12
+15 Priya rasoi ghar mein chali gayi.
+16 Sita ne priya ko gendh di.
+17 Sita ke pass kitni cheezein hai?	shunya	3 16
+1 Sita gusalkhane gayi.
+2 Mohit sayanakaksh mein chala gaya.
+3 Priya gusalkhane mein chali gayi.
+4 Priya seb le kar aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Mohit dhoodh le aaya.
+7 Mohit galiyare mein chala gaya.
+8 Priya ke pass kitni cheezein hai?	ek	4
+9 Priya ne sita ko seb diya.
+10 Sita ne priya ko seb diya.
+11 Mohit ke pass kitni cheezein hai?	ek	6
+12 Badri sayanakaksh mein chala gaya.
+13 Priya seb rakh aayi.
+14 Sita ke pass kitni cheezein hai?	shunya	9 10
+15 Badri gusalkhane gaya.
+16 Mohit sayanakaksh mein chala gaya.
+17 Priya ke pass kitni cheezein hai?	shunya	4 9 10 13
+1 Priya gusalkhane mein chali gayi.
+2 Sita galiyare mein chali gayi.
+3 Sita bagichey mein gayi.
+4 Mohit gusalkhane mein chala gaya.
+5 Badri gusalkhane mein chala gaya.
+6 Mohit galiyare mein chala gaya.
+7 Badri bagichey gaya.
+8 Mohit gusalkhane gaya.
+9 Priya sayanakaksh mein chali gayi.
+10 Mohit bagichey mein gaya.
+11 Priya gendh le aayi.
+12 Mohit daftar gaya.
+13 Priya ke pass kitni cheezein hai?	ek	11
+14 Badri rasoi ghar mein gaya.
+15 Mohit sayanakaksh mein chala gaya.
+16 Priya ke pass kitni cheezein hai?	ek	11
+17 Priya ne mohit ko gendh di.
+18 Mohit ne priya ko gendh di.
+19 Mohit ke pass kitni cheezein hai?	shunya	17 18
+20 Priya gendh chod aayi.
+21 Sita gusalkhane mein gayi.
+22 Priya ke pass kitni cheezein hai?	shunya	11 17 18 20
+23 Mohit galiyare gaya.
+24 Mohit seb le kar aaya.
+25 Mohit ke pass kitni cheezein hai?	ek	17 18 24
+1 Priya sayanakaksh mein gayi.
+2 Priya rasoi ghar gayi.
+3 Mohit rasoi ghar gaya.
+4 Sita sayanakaksh mein chali gayi.
+5 Mohit daftar mein gaya.
+6 Mohit gusalkhane mein gaya.
+7 Sita rasoi ghar mein chali gayi.
+8 Mohit bagichey mein chala gaya.
+9 Badri galiyare gaya.
+10 Sita daftar mein chali gayi.
+11 Badri daftar mein gaya.
+12 Priya sayanakaksh gayi.
+13 Priya bagichey gayi.
+14 Badri galiyare gaya.
+15 Sita sayanakaksh mein gayi.
+16 Badri daftar mein chala gaya.
+17 Mohit rasoi ghar gaya.
+18 Mohit bagichey gaya.
+19 Badri gusalkhane gaya.
+20 Priya galiyare mein chali gayi.
+21 Badri sayanakaksh mein gaya.
+22 Priya seb le aayi.
+23 Priya ke pass kitni cheezein hai?	ek	22
+24 Priya seb rakh aayi.
+25 Priya rasoi ghar mein chali gayi.
+26 Priya ke pass kitni cheezein hai?	shunya	22 24
+27 Mohit galiyare mein chala gaya.
+28 Mohit daftar mein gaya.
+29 Priya ke pass kitni cheezein hai?	shunya	22 24
+30 Mohit sayanakaksh mein gaya.
+31 Sita bagichey mein gayi.
+32 Priya bagichey gayi.
+33 Priya rasoi ghar mein gayi.
+34 Mohit rasoi ghar mein gaya.
+35 Sita rasoi ghar gayi.
+36 Priya gusalkhane mein gayi.
+37 Priya bagichey mein chali gayi.
+38 Badri bagichey gaya.
+39 Priya sayanakaksh gayi.
+40 Badri rasoi ghar mein chala gaya.
+41 Sita daftar mein gayi.
+42 Badri galiyare mein gaya.
+43 Badri gusalkhane mein gaya.
+44 Mohit daftar mein chala gaya.
+45 Priya daftar gayi.
+46 Priya rasoi ghar mein gayi.
+47 Badri sayanakaksh mein chala gaya.
+48 Sita sayanakaksh gayi.
+49 Badri rasoi ghar mein chala gaya.
+50 Sita rasoi ghar mein chali gayi.
+51 Sita sayanakaksh mein gayi.
+52 Badri galiyare mein gaya.
+53 Badri gusalkhane gaya.
+54 Sita daftar mein chali gayi.
+55 Badri rasoi ghar mein gaya.
+56 Badri gusalkhane gaya.
+57 Priya galiyare mein chali gayi.
+58 Priya bagichey gayi.
+59 Priya daftar mein chali gayi.
+60 Priya gusalkhane gayi.
+61 Sita sayanakaksh gayi.
+62 Sita bagichey mein gayi.
+63 Priya daftar mein gayi.
+64 Badri rasoi ghar gaya.
+65 Mohit rasoi ghar mein gaya.
+66 Sita gusalkhane mein gayi.
+67 Sita rasoi ghar mein gayi.
+68 Mohit galiyare mein chala gaya.
+69 Badri bagichey mein gaya.
+70 Sita daftar gayi.
+71 Mohit sayanakaksh mein gaya.
+72 Sita gusalkhane gayi.
+73 Priya rasoi ghar gayi.
+74 Mohit bagichey gaya.
+75 Priya daftar gayi.
+76 Badri rasoi ghar gaya.
+77 Mohit sayanakaksh mein gaya.
+78 Priya bagichey gayi.
+79 Priya sayanakaksh mein gayi.
+80 Mohit rasoi ghar mein chala gaya.
+81 Badri gusalkhane mein gaya.
+82 Priya galiyare mein chali gayi.
+83 Priya daftar mein chali gayi.
+84 Badri galiyare mein gaya.
+85 Priya gusalkhane mein chali gayi.
+86 Sita daftar gayi.
+87 Badri seb le kar aaya.
+88 Badri ke pass kitni cheezein hai?	ek	87
+89 Mohit galiyare gaya.
+90 Badri gendh le aaya.
+91 Badri ke pass kitni cheezein hai?	do	87 90
+1 Priya galiyare mein chali gayi.
+2 Priya gendh le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Badri seb le kar aaya.
+5 Priya gendh chod aayi.
+6 Priya ke pass kitni cheezein hai?	shunya	2 5
+7 Priya gusalkhane gayi.
+8 Badri seb chod aaya.
+9 Badri ke pass kitni cheezein hai?	shunya	4 8
+10 Sita sayanakaksh gayi.
+11 Priya sayanakaksh mein gayi.
+12 Badri ke pass kitni cheezein hai?	shunya	4 8
+13 Sita dhoodh le kar aayi.
+14 Priya bagichey mein gayi.
+15 Sita ke pass kitni cheezein hai?	ek	13
+1 Mohit daftar mein chala gaya.
+2 Priya seb le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya ne mohit ko seb diya.
+5 Priya rasoi ghar gayi.
+6 Priya ke pass kitni cheezein hai?	shunya	2 4
+7 Badri dhoodh le kar aaya.
+8 Badri rasoi ghar gaya.
+9 Priya ke pass kitni cheezein hai?	shunya	2 4
+10 Badri ne priya ko dhoodh diya.
+11 Priya ne badri ko dhoodh diya.
+12 Priya ke pass kitni cheezein hai?	shunya	2 4 10 11
+13 Badri dhoodh chod aaya.
+14 Mohit galiyare mein gaya.
+15 Priya ke pass kitni cheezein hai?	shunya	2 4 10 11
+1 Priya bagichey mein gayi.
+2 Mohit daftar mein chala gaya.
+3 Badri dhoodh le aaya.
+4 Badri ne priya ko dhoodh diya.
+5 Badri ke pass kitni cheezein hai?	shunya	3 4
+6 Sita galiyare gayi.
+7 Sita gendh le aayi.
+8 Badri ke pass kitni cheezein hai?	shunya	3 4
+9 Priya ne badri ko dhoodh diya.
+10 Badri dhoodh chod aaya.
+11 Priya ke pass kitni cheezein hai?	shunya	4 9
+12 Sita gendh chod aayi.
+13 Sita gendh le aayi.
+14 Sita ke pass kitni cheezein hai?	ek	7 12 13
+15 Priya rasoi ghar mein chali gayi.
+16 Badri sayanakaksh mein gaya.
+17 Badri ke pass kitni cheezein hai?	shunya	3 4 9 10
+1 Mohit dhoodh le kar aaya.
+2 Mohit ne priya ko dhoodh diya.
+3 Mohit ke pass kitni cheezein hai?	shunya	1 2
+4 Badri galiyare gaya.
+5 Priya ne mohit ko dhoodh diya.
+6 Priya ke pass kitni cheezein hai?	shunya	2 5
+7 Priya bagichey gayi.
+8 Priya sayanakaksh gayi.
+9 Mohit ke pass kitni cheezein hai?	ek	1 2 5
+10 Mohit ne badri ko dhoodh diya.
+11 Badri sayanakaksh mein gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 2 5 10
+13 Badri ne priya ko dhoodh diya.
+14 Priya ne badri ko dhoodh diya.
+15 Mohit ke pass kitni cheezein hai?	shunya	1 2 5 10
+1 Mohit sayanakaksh gaya.
+2 Sita seb le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Priya gusalkhane mein chali gayi.
+5 Badri bagichey mein gaya.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Sita seb chod aayi.
+8 Priya sayanakaksh mein chali gayi.
+9 Sita ke pass kitni cheezein hai?	shunya	2 7
+10 Sita galiyare mein chali gayi.
+11 Sita gendh le aayi.
+12 Sita ke pass kitni cheezein hai?	ek	2 7 11
+13 Priya bagichey gayi.
+14 Priya gusalkhane mein gayi.
+15 Sita ke pass kitni cheezein hai?	ek	2 7 11
+1 Sita bagichey gayi.
+2 Priya sayanakaksh gayi.
+3 Priya galiyare mein gayi.
+4 Badri sayanakaksh mein gaya.
+5 Mohit daftar mein chala gaya.
+6 Badri daftar gaya.
+7 Sita sayanakaksh mein chali gayi.
+8 Sita gendh le kar aayi.
+9 Sita ke pass kitni cheezein hai?	ek	8
+10 Priya daftar gayi.
+11 Badri gusalkhane gaya.
+12 Sita ke pass kitni cheezein hai?	ek	8
+13 Mohit galiyare gaya.
+14 Mohit rasoi ghar gaya.
+15 Sita ke pass kitni cheezein hai?	ek	8
+16 Sita daftar gayi.
+17 Sita gendh rakh aayi.
+18 Sita ke pass kitni cheezein hai?	shunya	8 17
+19 Sita gendh le kar aayi.
+20 Sita gendh rakh aayi.
+21 Sita ke pass kitni cheezein hai?	shunya	8 17 19 20
+1 Priya bagichey mein chali gayi.
+2 Mohit dhoodh le kar aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Sita gusalkhane mein chali gayi.
+5 Mohit ne priya ko dhoodh diya.
+6 Mohit ke pass kitni cheezein hai?	shunya	2 5
+7 Priya ne mohit ko dhoodh diya.
+8 Mohit ne priya ko dhoodh diya.
+9 Mohit ke pass kitni cheezein hai?	shunya	2 5 7 8
+10 Priya ne mohit ko dhoodh diya.
+11 Mohit ne priya ko dhoodh diya.
+12 Mohit ke pass kitni cheezein hai?	shunya	2 5 7 8 10 11
+13 Badri gusalkhane mein gaya.
+14 Priya ne mohit ko dhoodh diya.
+15 Priya ke pass kitni cheezein hai?	shunya	5 7 8 10 11 14
+1 Sita galiyare mein chali gayi.
+2 Mohit gusalkhane mein chala gaya.
+3 Priya bagichey mein gayi.
+4 Mohit seb le aaya.
+5 Mohit ke pass kitni cheezein hai?	ek	4
+6 Priya rasoi ghar gayi.
+7 Priya daftar mein gayi.
+8 Mohit ke pass kitni cheezein hai?	ek	4
+9 Mohit rasoi ghar gaya.
+10 Badri gusalkhane mein gaya.
+11 Mohit ke pass kitni cheezein hai?	ek	4
+12 Badri galiyare mein gaya.
+13 Badri daftar mein chala gaya.
+14 Badri gusalkhane mein chala gaya.
+15 Mohit daftar mein gaya.
+16 Mohit ne priya ko seb diya.
+17 Priya seb chod aayi.
+18 Mohit ke pass kitni cheezein hai?	shunya	4 16
+19 Sita rasoi ghar gayi.
+20 Badri rasoi ghar gaya.
+21 Mohit ke pass kitni cheezein hai?	shunya	4 16
+1 Badri gusalkhane mein gaya.
+2 Mohit rasoi ghar mein gaya.
+3 Priya rasoi ghar mein gayi.
+4 Badri sayanakaksh mein gaya.
+5 Mohit sayanakaksh gaya.
+6 Priya daftar mein gayi.
+7 Mohit gusalkhane gaya.
+8 Badri seb le kar aaya.
+9 Badri ke pass kitni cheezein hai?	ek	8
+10 Sita bagichey mein chali gayi.
+11 Sita rasoi ghar gayi.
+12 Badri ke pass kitni cheezein hai?	ek	8
+13 Priya gendh le kar aayi.
+14 Badri galiyare gaya.
+15 Priya ke pass kitni cheezein hai?	ek	13
+16 Badri bagichey gaya.
+17 Badri dhoodh le kar aaya.
+18 Badri ke pass kitni cheezein hai?	do	8 17
+19 Sita gusalkhane mein gayi.
+20 Sita sayanakaksh mein chali gayi.
+21 Badri ke pass kitni cheezein hai?	do	8 17
+1 Badri sayanakaksh mein gaya.
+2 Badri dhoodh le aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Mohit daftar mein chala gaya.
+5 Mohit bagichey gaya.
+6 Badri ke pass kitni cheezein hai?	ek	2
+7 Mohit daftar mein chala gaya.
+8 Mohit bagichey gaya.
+9 Badri ke pass kitni cheezein hai?	ek	2
+10 Badri gusalkhane mein chala gaya.
+11 Mohit galiyare mein chala gaya.
+12 Sita sayanakaksh mein gayi.
+13 Badri gendh le aaya.
+14 Badri ke pass kitni cheezein hai?	do	2 13
+15 Mohit daftar mein gaya.
+16 Badri daftar mein chala gaya.
+17 Badri ke pass kitni cheezein hai?	do	2 13
+1 Priya galiyare mein gayi.
+2 Badri rasoi ghar gaya.
+3 Badri seb le kar aaya.
+4 Mohit rasoi ghar mein gaya.
+5 Badri ke pass kitni cheezein hai?	ek	3
+6 Badri ne mohit ko seb diya.
+7 Mohit ne badri ko seb diya.
+8 Badri ke pass kitni cheezein hai?	ek	3 6 7
+9 Mohit bagichey mein gaya.
+10 Sita gusalkhane mein gayi.
+11 Badri ke pass kitni cheezein hai?	ek	3 6 7
+12 Mohit daftar mein chala gaya.
+13 Mohit rasoi ghar gaya.
+14 Mohit ke pass kitni cheezein hai?	shunya	6 7
+15 Badri ne mohit ko seb diya.
+16 Badri gendh le kar aaya.
+17 Badri ke pass kitni cheezein hai?	ek	3 6 7 15 16
+1 Mohit galiyare mein gaya.
+2 Sita seb le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Badri daftar mein chala gaya.
+5 Priya gusalkhane gayi.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Priya galiyare gayi.
+8 Sita seb chod aayi.
+9 Sita ke pass kitni cheezein hai?	shunya	2 8
+10 Sita daftar mein gayi.
+11 Sita rasoi ghar mein gayi.
+12 Sita ke pass kitni cheezein hai?	shunya	2 8
+13 Mohit daftar mein chala gaya.
+14 Mohit rasoi ghar mein gaya.
+15 Sita ke pass kitni cheezein hai?	shunya	2 8
+1 Sita sayanakaksh gayi.
+2 Mohit sayanakaksh mein chala gaya.
+3 Badri gusalkhane gaya.
+4 Sita bagichey mein gayi.
+5 Badri rasoi ghar mein gaya.
+6 Sita daftar mein gayi.
+7 Badri daftar mein chala gaya.
+8 Badri sayanakaksh mein chala gaya.
+9 Sita gusalkhane mein gayi.
+10 Mohit rasoi ghar gaya.
+11 Sita daftar gayi.
+12 Sita rasoi ghar gayi.
+13 Priya bagichey mein gayi.
+14 Priya rasoi ghar gayi.
+15 Sita sayanakaksh mein gayi.
+16 Badri gusalkhane gaya.
+17 Badri galiyare gaya.
+18 Badri gendh le kar aaya.
+19 Badri ke pass kitni cheezein hai?	ek	18
+20 Sita gusalkhane mein chali gayi.
+21 Mohit galiyare gaya.
+22 Badri ke pass kitni cheezein hai?	ek	18
+23 Mohit dhoodh le kar aaya.
+24 Badri rasoi ghar mein chala gaya.
+25 Mohit ke pass kitni cheezein hai?	ek	23
+26 Badri ne priya ko gendh di.
+27 Priya ne badri ko gendh di.
+28 Badri ke pass kitni cheezein hai?	ek	18 26 27
+29 Badri gendh rakh aaya.
+30 Badri daftar gaya.
+31 Badri ke pass kitni cheezein hai?	shunya	18 26 27 29
+1 Mohit gendh le aaya.
+2 Sita dhoodh le kar aayi.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Sita dhoodh chod aayi.
+5 Sita dhoodh le aayi.
+6 Mohit ke pass kitni cheezein hai?	ek	1
+7 Mohit ne priya ko gendh di.
+8 Mohit sayanakaksh gaya.
+9 Sita ke pass kitni cheezein hai?	ek	2 4 5
+10 Sita dhoodh rakh aayi.
+11 Sita bagichey mein chali gayi.
+12 Sita ke pass kitni cheezein hai?	shunya	2 4 5 10
+13 Priya ne sita ko gendh di.
+14 Sita ne priya ko gendh di.
+15 Priya ke pass kitni cheezein hai?	ek	7 13 14
+1 Sita gendh le aayi.
+2 Priya rasoi ghar mein chali gayi.
+3 Sita ke pass kitni cheezein hai?	ek	1
+4 Priya galiyare mein chali gayi.
+5 Priya bagichey gayi.
+6 Sita ke pass kitni cheezein hai?	ek	1
+7 Sita gendh chod aayi.
+8 Priya rasoi ghar mein chali gayi.
+9 Sita ke pass kitni cheezein hai?	shunya	1 7
+10 Badri sayanakaksh mein gaya.
+11 Sita gendh le aayi.
+12 Sita ke pass kitni cheezein hai?	ek	1 7 11
+13 Priya daftar mein chali gayi.
+14 Sita ne badri ko gendh di.
+15 Sita ke pass kitni cheezein hai?	shunya	1 7 11 14
+1 Sita gendh le kar aayi.
+2 Badri dhoodh le kar aaya.
+3 Sita ke pass kitni cheezein hai?	ek	1
+4 Priya seb le aayi.
+5 Badri dhoodh chod aaya.
+6 Badri ke pass kitni cheezein hai?	shunya	2 5
+7 Mohit gusalkhane mein gaya.
+8 Priya ne mohit ko seb diya.
+9 Badri ke pass kitni cheezein hai?	shunya	2 5
+10 Mohit ne priya ko seb diya.
+11 Sita daftar mein chali gayi.
+12 Mohit ke pass kitni cheezein hai?	shunya	8 10
+13 Priya ne mohit ko seb diya.
+14 Mohit seb chod aaya.
+15 Mohit ke pass kitni cheezein hai?	shunya	8 10 13 14
+1 Badri galiyare mein gaya.
+2 Sita daftar mein chali gayi.
+3 Sita rasoi ghar mein chali gayi.
+4 Sita gendh le aayi.
+5 Sita ke pass kitni cheezein hai?	ek	4
+6 Sita gendh rakh aayi.
+7 Sita daftar mein gayi.
+8 Sita ke pass kitni cheezein hai?	shunya	4 6
+9 Mohit daftar mein chala gaya.
+10 Sita bagichey gayi.
+11 Sita ke pass kitni cheezein hai?	shunya	4 6
+12 Priya rasoi ghar mein chali gayi.
+13 Sita rasoi ghar gayi.
+14 Sita seb le kar aayi.
+15 Sita ne priya ko seb diya.
+16 Sita ke pass kitni cheezein hai?	shunya	4 6 14 15
+17 Priya ne sita ko seb diya.
+18 Priya gendh le kar aayi.
+19 Sita ke pass kitni cheezein hai?	ek	4 6 14 15 17
+1 Badri seb le aaya.
+2 Sita sayanakaksh mein gayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Sita bagichey gayi.
+5 Badri ne sita ko seb diya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 5
+7 Priya bagichey mein chali gayi.
+8 Badri dhoodh le aaya.
+9 Badri ke pass kitni cheezein hai?	ek	1 5 8
+10 Sita ne priya ko seb diya.
+11 Priya ne sita ko seb diya.
+12 Badri ke pass kitni cheezein hai?	ek	1 5 8
+13 Sita ne priya ko seb diya.
+14 Priya ne sita ko seb diya.
+15 Sita ke pass kitni cheezein hai?	ek	5 10 11 13 14
+1 Mohit galiyare gaya.
+2 Sita dhoodh le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Badri bagichey gaya.
+5 Sita gusalkhane gayi.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Mohit seb le kar aaya.
+8 Sita ne priya ko dhoodh diya.
+9 Sita ke pass kitni cheezein hai?	shunya	2 8
+10 Mohit bagichey mein chala gaya.
+11 Mohit ne badri ko seb diya.
+12 Sita ke pass kitni cheezein hai?	shunya	2 8
+13 Mohit daftar mein gaya.
+14 Priya ne sita ko dhoodh diya.
+15 Sita ke pass kitni cheezein hai?	ek	2 8 14
+1 Badri gusalkhane mein chala gaya.
+2 Badri bagichey mein chala gaya.
+3 Badri gusalkhane mein chala gaya.
+4 Sita rasoi ghar gayi.
+5 Mohit gendh le kar aaya.
+6 Badri rasoi ghar gaya.
+7 Mohit ke pass kitni cheezein hai?	ek	5
+8 Priya rasoi ghar mein chali gayi.
+9 Mohit gendh rakh aaya.
+10 Mohit ke pass kitni cheezein hai?	shunya	5 9
+11 Sita galiyare mein gayi.
+12 Mohit gendh le aaya.
+13 Mohit ke pass kitni cheezein hai?	ek	5 9 12
+14 Sita seb le kar aayi.
+15 Priya sayanakaksh mein gayi.
+16 Mohit ke pass kitni cheezein hai?	ek	5 9 12
+17 Priya dhoodh le kar aayi.
+18 Sita seb chod aayi.
+19 Priya ke pass kitni cheezein hai?	ek	17
+1 Sita daftar gayi.
+2 Priya gendh le kar aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya gendh rakh aayi.
+5 Sita dhoodh le kar aayi.
+6 Priya ke pass kitni cheezein hai?	shunya	2 4
+7 Mohit bagichey mein chala gaya.
+8 Priya gendh le aayi.
+9 Sita ke pass kitni cheezein hai?	ek	5
+10 Badri gusalkhane mein gaya.
+11 Priya ne badri ko gendh di.
+12 Priya ke pass kitni cheezein hai?	shunya	2 4 8 11
+13 Badri sayanakaksh gaya.
+14 Mohit seb le kar aaya.
+15 Mohit ke pass kitni cheezein hai?	ek	14
+1 Priya bagichey mein gayi.
+2 Mohit galiyare mein chala gaya.
+3 Badri bagichey mein gaya.
+4 Sita galiyare gayi.
+5 Badri gendh le aaya.
+6 Badri daftar gaya.
+7 Badri ke pass kitni cheezein hai?	ek	5
+8 Priya gusalkhane mein gayi.
+9 Mohit daftar mein chala gaya.
+10 Badri ke pass kitni cheezein hai?	ek	5
+11 Badri ne mohit ko gendh di.
+12 Mohit ne badri ko gendh di.
+13 Badri ke pass kitni cheezein hai?	ek	5 11 12
+14 Mohit bagichey mein gaya.
+15 Mohit gusalkhane mein gaya.
+16 Mohit ke pass kitni cheezein hai?	shunya	11 12
+17 Priya bagichey mein gayi.
+18 Badri gendh rakh aaya.
+19 Badri ke pass kitni cheezein hai?	shunya	5 11 12 18
+1 Badri rasoi ghar mein gaya.
+2 Priya rasoi ghar mein chali gayi.
+3 Mohit sayanakaksh mein chala gaya.
+4 Mohit galiyare mein gaya.
+5 Priya bagichey gayi.
+6 Sita gusalkhane mein chali gayi.
+7 Sita dhoodh le aayi.
+8 Sita dhoodh chod aayi.
+9 Sita ke pass kitni cheezein hai?	shunya	7 8
+10 Priya gusalkhane gayi.
+11 Sita dhoodh le aayi.
+12 Sita ke pass kitni cheezein hai?	ek	7 8 11
+13 Sita ne priya ko dhoodh diya.
+14 Priya rasoi ghar mein gayi.
+15 Sita ke pass kitni cheezein hai?	shunya	7 8 11 13
+16 Sita daftar gayi.
+17 Mohit sayanakaksh mein chala gaya.
+18 Sita ke pass kitni cheezein hai?	shunya	7 8 11 13
+19 Sita gendh le aayi.
+20 Priya ne badri ko dhoodh diya.
+21 Sita ke pass kitni cheezein hai?	ek	7 8 11 13 19
+1 Priya bagichey mein chali gayi.
+2 Priya daftar mein gayi.
+3 Sita galiyare mein gayi.
+4 Priya rasoi ghar mein gayi.
+5 Priya galiyare gayi.
+6 Mohit gusalkhane mein chala gaya.
+7 Badri galiyare gaya.
+8 Mohit rasoi ghar gaya.
+9 Mohit sayanakaksh mein chala gaya.
+10 Priya bagichey gayi.
+11 Mohit daftar gaya.
+12 Badri gusalkhane mein gaya.
+13 Priya gendh le aayi.
+14 Priya gendh chod aayi.
+15 Priya ke pass kitni cheezein hai?	shunya	13 14
+16 Priya gendh le kar aayi.
+17 Badri galiyare mein chala gaya.
+18 Priya ke pass kitni cheezein hai?	ek	13 14 16
+19 Sita gusalkhane mein gayi.
+20 Priya gendh chod aayi.
+21 Priya ke pass kitni cheezein hai?	shunya	13 14 16 20
+22 Priya gusalkhane mein chali gayi.
+23 Badri sayanakaksh mein chala gaya.
+24 Priya ke pass kitni cheezein hai?	shunya	13 14 16 20
+25 Sita bagichey gayi.
+26 Mohit sayanakaksh mein chala gaya.
+27 Priya ke pass kitni cheezein hai?	shunya	13 14 16 20
+1 Mohit seb le kar aaya.
+2 Mohit ne sita ko seb diya.
+3 Mohit ke pass kitni cheezein hai?	shunya	1 2
+4 Sita ne mohit ko seb diya.
+5 Mohit ne sita ko seb diya.
+6 Sita ke pass kitni cheezein hai?	ek	2 4 5
+7 Mohit bagichey mein gaya.
+8 Sita sayanakaksh gayi.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 2 4 5
+10 Sita seb chod aayi.
+11 Mohit galiyare mein gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 2 4 5
+13 Priya dhoodh le aayi.
+14 Sita seb le aayi.
+15 Sita ke pass kitni cheezein hai?	ek	2 4 5 10 14
+1 Badri bagichey gaya.
+2 Badri daftar mein chala gaya.
+3 Priya gusalkhane mein gayi.
+4 Sita dhoodh le kar aayi.
+5 Sita ke pass kitni cheezein hai?	ek	4
+6 Priya sayanakaksh mein chali gayi.
+7 Priya galiyare gayi.
+8 Sita ke pass kitni cheezein hai?	ek	4
+9 Badri sayanakaksh mein gaya.
+10 Priya gusalkhane gayi.
+11 Sita ke pass kitni cheezein hai?	ek	4
+12 Sita ne badri ko dhoodh diya.
+13 Badri ne sita ko dhoodh diya.
+14 Sita ke pass kitni cheezein hai?	ek	4 12 13
+15 Priya sayanakaksh mein gayi.
+16 Sita dhoodh rakh aayi.
+17 Sita ke pass kitni cheezein hai?	shunya	4 12 13 16
+1 Sita rasoi ghar mein chali gayi.
+2 Priya gendh le kar aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Sita galiyare mein gayi.
+5 Mohit rasoi ghar mein chala gaya.
+6 Priya ke pass kitni cheezein hai?	ek	2
+7 Mohit sayanakaksh mein gaya.
+8 Sita sayanakaksh mein chali gayi.
+9 Priya ke pass kitni cheezein hai?	ek	2
+10 Badri sayanakaksh mein gaya.
+11 Mohit bagichey mein chala gaya.
+12 Badri bagichey mein chala gaya.
+13 Badri rasoi ghar gaya.
+14 Priya sayanakaksh mein chali gayi.
+15 Priya ne sita ko gendh di.
+16 Priya ke pass kitni cheezein hai?	shunya	2 15
+17 Sita rasoi ghar mein chali gayi.
+18 Sita ne badri ko gendh di.
+19 Priya ke pass kitni cheezein hai?	shunya	2 15
+1 Badri daftar mein gaya.
+2 Sita dhoodh le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita ne mohit ko dhoodh diya.
+5 Badri gendh le aaya.
+6 Badri ke pass kitni cheezein hai?	ek	5
+7 Priya bagichey gayi.
+8 Mohit ne sita ko dhoodh diya.
+9 Sita ke pass kitni cheezein hai?	ek	2 4 8
+10 Sita ne mohit ko dhoodh diya.
+11 Sita galiyare gayi.
+12 Mohit ke pass kitni cheezein hai?	ek	4 8 10
+13 Mohit dhoodh chod aaya.
+14 Sita bagichey gayi.
+15 Mohit ke pass kitni cheezein hai?	shunya	4 8 10 13
+1 Badri sayanakaksh mein chala gaya.
+2 Badri seb le kar aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Badri gendh le aaya.
+5 Sita daftar gayi.
+6 Badri ke pass kitni cheezein hai?	do	2 4
+7 Mohit rasoi ghar mein chala gaya.
+8 Badri gendh chod aaya.
+9 Badri ke pass kitni cheezein hai?	ek	2 4 8
+10 Sita rasoi ghar mein gayi.
+11 Badri seb rakh aaya.
+12 Badri ke pass kitni cheezein hai?	shunya	2 4 8 11
+13 Mohit daftar gaya.
+14 Sita daftar mein gayi.
+15 Badri ke pass kitni cheezein hai?	shunya	2 4 8 11
+1 Mohit seb le aaya.
+2 Priya bagichey mein gayi.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Sita dhoodh le kar aayi.
+5 Mohit seb chod aaya.
+6 Sita ke pass kitni cheezein hai?	ek	4
+7 Sita dhoodh chod aayi.
+8 Priya gendh le aayi.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 5
+10 Badri sayanakaksh gaya.
+11 Priya gusalkhane mein gayi.
+12 Sita ke pass kitni cheezein hai?	shunya	4 7
+13 Mohit galiyare mein chala gaya.
+14 Priya gendh chod aayi.
+15 Priya ke pass kitni cheezein hai?	shunya	8 14
+1 Priya seb le aayi.
+2 Priya gusalkhane mein chali gayi.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Priya rasoi ghar mein chali gayi.
+5 Priya dhoodh le aayi.
+6 Priya ke pass kitni cheezein hai?	do	1 5
+7 Priya ne badri ko seb diya.
+8 Badri ne priya ko seb diya.
+9 Priya ke pass kitni cheezein hai?	do	1 5 7 8
+10 Priya seb chod aayi.
+11 Mohit daftar mein chala gaya.
+12 Priya ke pass kitni cheezein hai?	ek	1 5 7 8 10
+13 Priya ne badri ko dhoodh diya.
+14 Mohit sayanakaksh mein chala gaya.
+15 Priya ke pass kitni cheezein hai?	shunya	1 5 7 8 10 13
+1 Badri bagichey mein gaya.
+2 Sita seb le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Mohit daftar gaya.
+5 Mohit sayanakaksh mein gaya.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Badri gendh le aaya.
+8 Sita galiyare gayi.
+9 Sita ke pass kitni cheezein hai?	ek	2
+10 Mohit bagichey mein chala gaya.
+11 Badri ne mohit ko gendh di.
+12 Badri ke pass kitni cheezein hai?	shunya	7 11
+13 Mohit rasoi ghar mein chala gaya.
+14 Sita dhoodh le kar aayi.
+15 Sita ke pass kitni cheezein hai?	do	2 14
+1 Priya sayanakaksh gayi.
+2 Priya galiyare gayi.
+3 Badri rasoi ghar gaya.
+4 Mohit bagichey gaya.
+5 Priya dhoodh le kar aayi.
+6 Priya dhoodh chod aayi.
+7 Priya ke pass kitni cheezein hai?	shunya	5 6
+8 Badri gusalkhane gaya.
+9 Badri gendh le aaya.
+10 Badri ke pass kitni cheezein hai?	ek	9
+11 Mohit sayanakaksh mein chala gaya.
+12 Priya daftar mein gayi.
+13 Priya ke pass kitni cheezein hai?	shunya	5 6
+14 Priya gusalkhane gayi.
+15 Badri gendh chod aaya.
+16 Badri ke pass kitni cheezein hai?	shunya	9 15
+17 Badri bagichey gaya.
+18 Mohit rasoi ghar mein gaya.
+19 Badri ke pass kitni cheezein hai?	shunya	9 15
+1 Mohit sayanakaksh gaya.
+2 Mohit bagichey mein chala gaya.
+3 Badri rasoi ghar gaya.
+4 Badri gusalkhane gaya.
+5 Badri galiyare mein chala gaya.
+6 Mohit gendh le aaya.
+7 Mohit ke pass kitni cheezein hai?	ek	6
+8 Mohit gendh chod aaya.
+9 Mohit gusalkhane mein gaya.
+10 Mohit ke pass kitni cheezein hai?	shunya	6 8
+11 Sita bagichey mein gayi.
+12 Priya sayanakaksh gayi.
+13 Mohit ke pass kitni cheezein hai?	shunya	6 8
+14 Priya daftar mein gayi.
+15 Mohit seb le kar aaya.
+16 Mohit ke pass kitni cheezein hai?	ek	6 8 15
+17 Priya rasoi ghar mein gayi.
+18 Priya daftar gayi.
+19 Mohit ke pass kitni cheezein hai?	ek	6 8 15
+1 Badri rasoi ghar mein gaya.
+2 Badri gendh le kar aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Priya sayanakaksh mein gayi.
+5 Badri ne mohit ko gendh di.
+6 Badri ke pass kitni cheezein hai?	shunya	2 5
+7 Mohit ne badri ko gendh di.
+8 Priya daftar mein chali gayi.
+9 Mohit ke pass kitni cheezein hai?	shunya	5 7
+10 Mohit gusalkhane mein chala gaya.
+11 Badri sayanakaksh gaya.
+12 Badri ke pass kitni cheezein hai?	ek	2 5 7
+13 Badri gendh chod aaya.
+14 Mohit sayanakaksh mein gaya.
+15 Badri ke pass kitni cheezein hai?	shunya	2 5 7 13
+1 Sita rasoi ghar mein chali gayi.
+2 Sita gusalkhane mein gayi.
+3 Priya bagichey mein chali gayi.
+4 Priya dhoodh le kar aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Sita daftar mein chali gayi.
+7 Priya seb le kar aayi.
+8 Priya ke pass kitni cheezein hai?	do	4 7
+9 Priya dhoodh chod aayi.
+10 Priya seb rakh aayi.
+11 Priya ke pass kitni cheezein hai?	shunya	4 7 9 10
+12 Priya rasoi ghar gayi.
+13 Sita bagichey gayi.
+14 Priya ke pass kitni cheezein hai?	shunya	4 7 9 10
+15 Mohit daftar mein gaya.
+16 Sita daftar gayi.
+17 Priya ke pass kitni cheezein hai?	shunya	4 7 9 10
+1 Mohit sayanakaksh mein chala gaya.
+2 Sita dhoodh le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita rasoi ghar mein gayi.
+5 Sita seb le kar aayi.
+6 Sita ke pass kitni cheezein hai?	do	2 5
+7 Mohit daftar mein chala gaya.
+8 Priya galiyare mein gayi.
+9 Sita ke pass kitni cheezein hai?	do	2 5
+10 Mohit sayanakaksh mein gaya.
+11 Sita ne badri ko seb diya.
+12 Sita ke pass kitni cheezein hai?	ek	2 5 11
+13 Badri ne sita ko seb diya.
+14 Priya sayanakaksh mein gayi.
+15 Badri ke pass kitni cheezein hai?	shunya	11 13
+1 Sita galiyare mein gayi.
+2 Badri galiyare mein gaya.
+3 Sita daftar mein gayi.
+4 Priya gendh le aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Sita galiyare mein chali gayi.
+7 Mohit gusalkhane mein chala gaya.
+8 Priya ke pass kitni cheezein hai?	ek	4
+9 Badri bagichey gaya.
+10 Priya ne mohit ko gendh di.
+11 Priya ke pass kitni cheezein hai?	shunya	4 10
+12 Mohit ne priya ko gendh di.
+13 Priya ne mohit ko gendh di.
+14 Priya ke pass kitni cheezein hai?	shunya	4 10 12 13
+15 Sita bagichey gayi.
+16 Mohit ne priya ko gendh di.
+17 Mohit ke pass kitni cheezein hai?	shunya	10 12 13 16
+1 Sita bagichey mein chali gayi.
+2 Mohit bagichey gaya.
+3 Badri gendh le aaya.
+4 Badri rasoi ghar gaya.
+5 Badri ke pass kitni cheezein hai?	ek	3
+6 Mohit sayanakaksh gaya.
+7 Sita daftar mein chali gayi.
+8 Badri ke pass kitni cheezein hai?	ek	3
+9 Priya daftar mein chali gayi.
+10 Badri seb le aaya.
+11 Badri ke pass kitni cheezein hai?	do	3 10
+12 Priya rasoi ghar mein chali gayi.
+13 Priya sayanakaksh mein chali gayi.
+14 Badri ke pass kitni cheezein hai?	do	3 10
+15 Badri bagichey mein gaya.
+16 Priya bagichey mein gayi.
+17 Badri ke pass kitni cheezein hai?	do	3 10
+1 Badri gusalkhane gaya.
+2 Priya gendh le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya gendh chod aayi.
+5 Priya gendh le kar aayi.
+6 Priya ke pass kitni cheezein hai?	ek	2 4 5
+7 Priya gendh chod aayi.
+8 Priya rasoi ghar gayi.
+9 Priya ke pass kitni cheezein hai?	shunya	2 4 5 7
+10 Sita galiyare gayi.
+11 Sita rasoi ghar mein chali gayi.
+12 Priya ke pass kitni cheezein hai?	shunya	2 4 5 7
+13 Priya gusalkhane mein chali gayi.
+14 Mohit gusalkhane gaya.
+15 Sita sayanakaksh gayi.
+16 Mohit bagichey gaya.
+17 Mohit seb le kar aaya.
+18 Mohit galiyare mein chala gaya.
+19 Mohit ke pass kitni cheezein hai?	ek	17
+1 Badri rasoi ghar mein gaya.
+2 Priya sayanakaksh mein chali gayi.
+3 Badri bagichey mein chala gaya.
+4 Mohit bagichey gaya.
+5 Sita gusalkhane mein chali gayi.
+6 Mohit galiyare mein chala gaya.
+7 Mohit bagichey gaya.
+8 Sita galiyare gayi.
+9 Badri galiyare mein gaya.
+10 Sita dhoodh le kar aayi.
+11 Sita ke pass kitni cheezein hai?	ek	10
+12 Sita ne badri ko dhoodh diya.
+13 Mohit sayanakaksh gaya.
+14 Sita ke pass kitni cheezein hai?	shunya	10 12
+15 Badri ne sita ko dhoodh diya.
+16 Sita ne badri ko dhoodh diya.
+17 Sita ke pass kitni cheezein hai?	shunya	10 12 15 16
+18 Badri seb le aaya.
+19 Badri ne sita ko seb diya.
+20 Badri ke pass kitni cheezein hai?	ek	12 15 16 18 19
+21 Sita seb rakh aayi.
+22 Mohit bagichey gaya.
+23 Badri ke pass kitni cheezein hai?	ek	12 15 16 18 19
+1 Mohit dhoodh le kar aaya.
+2 Sita sayanakaksh mein chali gayi.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Sita daftar gayi.
+5 Badri bagichey mein gaya.
+6 Mohit ke pass kitni cheezein hai?	ek	1
+7 Priya rasoi ghar mein chali gayi.
+8 Mohit sayanakaksh mein chala gaya.
+9 Badri galiyare gaya.
+10 Badri sayanakaksh mein chala gaya.
+11 Mohit ne badri ko dhoodh diya.
+12 Mohit gendh le aaya.
+13 Mohit ke pass kitni cheezein hai?	ek	1 11 12
+14 Priya sayanakaksh mein gayi.
+15 Sita galiyare gayi.
+16 Mohit ke pass kitni cheezein hai?	ek	1 11 12
+17 Sita bagichey gayi.
+18 Badri galiyare mein gaya.
+19 Mohit ke pass kitni cheezein hai?	ek	1 11 12
+1 Priya dhoodh le kar aayi.
+2 Priya rasoi ghar mein chali gayi.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Priya bagichey mein gayi.
+5 Mohit gusalkhane mein gaya.
+6 Priya ke pass kitni cheezein hai?	ek	1
+7 Priya dhoodh rakh aayi.
+8 Sita bagichey gayi.
+9 Priya ke pass kitni cheezein hai?	shunya	1 7
+10 Sita dhoodh le aayi.
+11 Priya daftar mein gayi.
+12 Sita ke pass kitni cheezein hai?	ek	10
+13 Sita dhoodh rakh aayi.
+14 Mohit rasoi ghar gaya.
+15 Sita ke pass kitni cheezein hai?	shunya	10 13
+1 Sita bagichey mein chali gayi.
+2 Sita dhoodh le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita dhoodh chod aayi.
+5 Sita dhoodh le aayi.
+6 Sita ke pass kitni cheezein hai?	ek	2 4 5
+7 Sita rasoi ghar mein gayi.
+8 Sita dhoodh rakh aayi.
+9 Sita ke pass kitni cheezein hai?	shunya	2 4 5 8
+10 Sita gusalkhane mein gayi.
+11 Priya galiyare mein gayi.
+12 Sita ke pass kitni cheezein hai?	shunya	2 4 5 8
+13 Sita sayanakaksh mein gayi.
+14 Badri bagichey mein chala gaya.
+15 Sita ke pass kitni cheezein hai?	shunya	2 4 5 8
+1 Mohit galiyare gaya.
+2 Badri daftar gaya.
+3 Mohit sayanakaksh mein gaya.
+4 Mohit dhoodh le aaya.
+5 Mohit ke pass kitni cheezein hai?	ek	4
+6 Mohit dhoodh rakh aaya.
+7 Sita daftar mein gayi.
+8 Mohit ke pass kitni cheezein hai?	shunya	4 6
+9 Badri sayanakaksh mein chala gaya.
+10 Mohit dhoodh le aaya.
+11 Mohit ke pass kitni cheezein hai?	ek	4 6 10
+12 Mohit ne badri ko dhoodh diya.
+13 Badri ne mohit ko dhoodh diya.
+14 Mohit ke pass kitni cheezein hai?	ek	4 6 10 12 13
+15 Priya sayanakaksh mein chali gayi.
+16 Mohit dhoodh chod aaya.
+17 Mohit ke pass kitni cheezein hai?	shunya	4 6 10 12 13 16
+1 Mohit daftar mein chala gaya.
+2 Sita sayanakaksh mein chali gayi.
+3 Sita galiyare mein gayi.
+4 Mohit sayanakaksh gaya.
+5 Sita rasoi ghar mein chali gayi.
+6 Sita seb le kar aayi.
+7 Sita ke pass kitni cheezein hai?	ek	6
+8 Mohit gusalkhane mein gaya.
+9 Mohit daftar mein gaya.
+10 Sita ke pass kitni cheezein hai?	ek	6
+11 Badri rasoi ghar gaya.
+12 Badri dhoodh le aaya.
+13 Badri ke pass kitni cheezein hai?	ek	12
+14 Mohit gusalkhane gaya.
+15 Priya gusalkhane mein chali gayi.
+16 Badri ke pass kitni cheezein hai?	ek	12
+17 Sita ne badri ko seb diya.
+18 Sita gusalkhane mein chali gayi.
+19 Sita ke pass kitni cheezein hai?	shunya	6 17
+1 Badri rasoi ghar mein gaya.
+2 Sita galiyare mein chali gayi.
+3 Sita seb le kar aayi.
+4 Priya rasoi ghar mein chali gayi.
+5 Sita ke pass kitni cheezein hai?	ek	3
+6 Mohit rasoi ghar mein chala gaya.
+7 Mohit gendh le aaya.
+8 Mohit ke pass kitni cheezein hai?	ek	7
+9 Mohit gendh chod aaya.
+10 Priya bagichey mein gayi.
+11 Mohit ke pass kitni cheezein hai?	shunya	7 9
+12 Badri galiyare gaya.
+13 Priya dhoodh le kar aayi.
+14 Mohit ke pass kitni cheezein hai?	shunya	7 9
+15 Mohit gendh le aaya.
+16 Mohit gendh chod aaya.
+17 Mohit ke pass kitni cheezein hai?	shunya	7 9 15 16
+1 Mohit bagichey gaya.
+2 Priya sayanakaksh mein chali gayi.
+3 Sita galiyare gayi.
+4 Sita rasoi ghar gayi.
+5 Priya gendh le aayi.
+6 Mohit gusalkhane mein gaya.
+7 Priya ke pass kitni cheezein hai?	ek	5
+8 Sita bagichey mein gayi.
+9 Priya seb le aayi.
+10 Priya ke pass kitni cheezein hai?	do	5 9
+11 Sita gusalkhane mein chali gayi.
+12 Sita bagichey mein chali gayi.
+13 Priya ke pass kitni cheezein hai?	do	5 9
+14 Sita dhoodh le aayi.
+15 Sita galiyare gayi.
+16 Sita ke pass kitni cheezein hai?	ek	14
+17 Mohit bagichey gaya.
+18 Mohit daftar gaya.
+19 Sita ke pass kitni cheezein hai?	ek	14
+1 Badri galiyare gaya.
+2 Priya seb le kar aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya ne badri ko seb diya.
+5 Sita bagichey gayi.
+6 Priya ke pass kitni cheezein hai?	shunya	2 4
+7 Priya rasoi ghar gayi.
+8 Mohit dhoodh le kar aaya.
+9 Mohit ke pass kitni cheezein hai?	ek	8
+10 Mohit daftar gaya.
+11 Badri seb rakh aaya.
+12 Mohit ke pass kitni cheezein hai?	ek	8
+13 Mohit sayanakaksh gaya.
+14 Mohit dhoodh chod aaya.
+15 Mohit ke pass kitni cheezein hai?	shunya	8 14
+1 Mohit rasoi ghar mein gaya.
+2 Priya dhoodh le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Priya galiyare mein gayi.
+5 Badri galiyare mein chala gaya.
+6 Priya ke pass kitni cheezein hai?	ek	2
+7 Mohit galiyare mein gaya.
+8 Priya ne mohit ko dhoodh diya.
+9 Priya ke pass kitni cheezein hai?	shunya	2 8
+10 Mohit ne priya ko dhoodh diya.
+11 Priya ne mohit ko dhoodh diya.
+12 Priya ke pass kitni cheezein hai?	shunya	2 8 10 11
+13 Mohit ne priya ko dhoodh diya.
+14 Sita bagichey gayi.
+15 Priya ke pass kitni cheezein hai?	ek	2 8 10 11 13
+1 Sita dhoodh le aayi.
+2 Priya sayanakaksh mein chali gayi.
+3 Sita ke pass kitni cheezein hai?	ek	1
+4 Mohit rasoi ghar mein gaya.
+5 Sita ne badri ko dhoodh diya.
+6 Sita ke pass kitni cheezein hai?	shunya	1 5
+7 Badri seb le kar aaya.
+8 Badri ne sita ko seb diya.
+9 Badri ke pass kitni cheezein hai?	ek	5 7 8
+10 Sita daftar mein chali gayi.
+11 Sita seb chod aayi.
+12 Badri ke pass kitni cheezein hai?	ek	5 7 8
+13 Badri dhoodh rakh aaya.
+14 Sita rasoi ghar mein chali gayi.
+15 Badri ke pass kitni cheezein hai?	shunya	5 7 8 13
+1 Badri bagichey gaya.
+2 Badri dhoodh le aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Priya galiyare mein gayi.
+5 Badri galiyare gaya.
+6 Badri ke pass kitni cheezein hai?	ek	2
+7 Badri rasoi ghar mein chala gaya.
+8 Mohit bagichey gaya.
+9 Badri ke pass kitni cheezein hai?	ek	2
+10 Mohit daftar mein chala gaya.
+11 Mohit bagichey mein gaya.
+12 Mohit galiyare mein gaya.
+13 Priya sayanakaksh mein chali gayi.
+14 Mohit rasoi ghar mein gaya.
+15 Sita sayanakaksh mein gayi.
+16 Badri dhoodh chod aaya.
+17 Badri dhoodh le kar aaya.
+18 Badri ke pass kitni cheezein hai?	ek	2 16 17
+19 Badri ne mohit ko dhoodh diya.
+20 Mohit dhoodh rakh aaya.
+21 Badri ke pass kitni cheezein hai?	shunya	2 16 17 19
+1 Sita bagichey gayi.
+2 Mohit gusalkhane mein chala gaya.
+3 Badri gendh le kar aaya.
+4 Badri gendh rakh aaya.
+5 Badri ke pass kitni cheezein hai?	shunya	3 4
+6 Priya gusalkhane mein gayi.
+7 Badri gendh le aaya.
+8 Badri ke pass kitni cheezein hai?	ek	3 4 7
+9 Badri ne sita ko gendh di.
+10 Badri galiyare mein chala gaya.
+11 Badri ke pass kitni cheezein hai?	shunya	3 4 7 9
+12 Priya sayanakaksh gayi.
+13 Priya rasoi ghar mein gayi.
+14 Badri ke pass kitni cheezein hai?	shunya	3 4 7 9
+15 Sita gendh chod aayi.
+16 Mohit rasoi ghar gaya.
+17 Sita ke pass kitni cheezein hai?	shunya	9 15
+1 Priya rasoi ghar gayi.
+2 Mohit gendh le aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Priya daftar gayi.
+5 Badri sayanakaksh gaya.
+6 Mohit ke pass kitni cheezein hai?	ek	2
+7 Mohit sayanakaksh gaya.
+8 Mohit daftar gaya.
+9 Mohit ke pass kitni cheezein hai?	ek	2
+10 Badri galiyare mein gaya.
+11 Mohit gendh rakh aaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	2 11
+13 Mohit gusalkhane mein chala gaya.
+14 Priya bagichey mein gayi.
+15 Mohit ke pass kitni cheezein hai?	shunya	2 11
+1 Priya sayanakaksh mein chali gayi.
+2 Sita gusalkhane mein gayi.
+3 Sita daftar gayi.
+4 Sita gusalkhane mein chali gayi.
+5 Badri daftar mein chala gaya.
+6 Sita bagichey mein gayi.
+7 Badri gusalkhane gaya.
+8 Sita dhoodh le kar aayi.
+9 Sita ke pass kitni cheezein hai?	ek	8
+10 Badri daftar gaya.
+11 Badri rasoi ghar mein gaya.
+12 Sita ke pass kitni cheezein hai?	ek	8
+13 Badri seb le kar aaya.
+14 Priya daftar mein chali gayi.
+15 Sita ke pass kitni cheezein hai?	ek	8
+16 Sita gusalkhane mein gayi.
+17 Priya rasoi ghar mein chali gayi.
+18 Badri ke pass kitni cheezein hai?	ek	13
+19 Badri ne priya ko seb diya.
+20 Mohit galiyare mein gaya.
+21 Badri ke pass kitni cheezein hai?	shunya	13 19
+1 Mohit galiyare mein gaya.
+2 Mohit dhoodh le aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Mohit ne sita ko dhoodh diya.
+5 Sita ne mohit ko dhoodh diya.
+6 Mohit ke pass kitni cheezein hai?	ek	2 4 5
+7 Mohit ne sita ko dhoodh diya.
+8 Sita ne mohit ko dhoodh diya.
+9 Sita ke pass kitni cheezein hai?	shunya	4 5 7 8
+10 Mohit ne sita ko dhoodh diya.
+11 Sita ne mohit ko dhoodh diya.
+12 Sita ke pass kitni cheezein hai?	shunya	4 5 7 8 10 11
+13 Sita daftar gayi.
+14 Mohit ne badri ko dhoodh diya.
+15 Sita ke pass kitni cheezein hai?	shunya	4 5 7 8 10 11
+1 Priya dhoodh le kar aayi.
+2 Mohit gendh le kar aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Mohit ne sita ko gendh di.
+5 Sita ne mohit ko gendh di.
+6 Sita ke pass kitni cheezein hai?	shunya	4 5
+7 Mohit ne sita ko gendh di.
+8 Sita ne mohit ko gendh di.
+9 Mohit ke pass kitni cheezein hai?	ek	2 4 5 7 8
+10 Mohit daftar mein gaya.
+11 Priya ne sita ko dhoodh diya.
+12 Priya ke pass kitni cheezein hai?	shunya	1 11
+13 Sita ne priya ko dhoodh diya.
+14 Priya ne sita ko dhoodh diya.
+15 Sita ke pass kitni cheezein hai?	ek	4 5 7 8 11 13 14
+1 Mohit bagichey gaya.
+2 Mohit galiyare mein chala gaya.
+3 Badri bagichey gaya.
+4 Priya gendh le kar aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Priya ne mohit ko gendh di.
+7 Mohit ne priya ko gendh di.
+8 Priya ke pass kitni cheezein hai?	ek	4 6 7
+9 Priya gusalkhane gayi.
+10 Priya dhoodh le kar aayi.
+11 Priya ke pass kitni cheezein hai?	do	4 6 7 10
+12 Mohit daftar mein chala gaya.
+13 Priya gendh chod aayi.
+14 Mohit ke pass kitni cheezein hai?	shunya	6 7
+15 Badri galiyare gaya.
+16 Badri seb le aaya.
+17 Badri ke pass kitni cheezein hai?	ek	16
+1 Badri seb le kar aaya.
+2 Priya bagichey gayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Badri seb chod aaya.
+5 Mohit daftar mein gaya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 4
+7 Badri dhoodh le kar aaya.
+8 Badri seb le kar aaya.
+9 Badri ke pass kitni cheezein hai?	do	1 4 7 8
+10 Priya galiyare gayi.
+11 Badri dhoodh rakh aaya.
+12 Badri ke pass kitni cheezein hai?	ek	1 4 7 8 11
+13 Sita gusalkhane mein gayi.
+14 Mohit sayanakaksh mein gaya.
+15 Badri ke pass kitni cheezein hai?	ek	1 4 7 8 11
+1 Priya rasoi ghar gayi.
+2 Mohit galiyare mein gaya.
+3 Badri dhoodh le aaya.
+4 Sita bagichey mein chali gayi.
+5 Badri ke pass kitni cheezein hai?	ek	3
+6 Priya daftar mein gayi.
+7 Badri ne sita ko dhoodh diya.
+8 Badri ke pass kitni cheezein hai?	shunya	3 7
+9 Sita ne badri ko dhoodh diya.
+10 Priya rasoi ghar gayi.
+11 Sita ke pass kitni cheezein hai?	shunya	7 9
+12 Badri ne sita ko dhoodh diya.
+13 Mohit gusalkhane gaya.
+14 Badri ke pass kitni cheezein hai?	shunya	3 7 9 12
+15 Mohit seb le aaya.
+16 Mohit gendh le aaya.
+17 Mohit ke pass kitni cheezein hai?	do	15 16
+1 Badri galiyare mein gaya.
+2 Mohit galiyare mein gaya.
+3 Sita galiyare gayi.
+4 Sita rasoi ghar mein chali gayi.
+5 Sita daftar mein chali gayi.
+6 Priya bagichey mein gayi.
+7 Sita bagichey mein gayi.
+8 Sita gusalkhane mein chali gayi.
+9 Mohit rasoi ghar mein chala gaya.
+10 Sita gendh le kar aayi.
+11 Sita ke pass kitni cheezein hai?	ek	10
+12 Badri gusalkhane mein gaya.
+13 Sita galiyare mein gayi.
+14 Sita ke pass kitni cheezein hai?	ek	10
+15 Sita gendh rakh aayi.
+16 Priya galiyare mein chali gayi.
+17 Sita ke pass kitni cheezein hai?	shunya	10 15
+18 Sita gendh le kar aayi.
+19 Mohit dhoodh le aaya.
+20 Sita ke pass kitni cheezein hai?	ek	10 15 18
+21 Sita ne priya ko gendh di.
+22 Priya ne sita ko gendh di.
+23 Priya ke pass kitni cheezein hai?	shunya	21 22
+1 Sita galiyare mein chali gayi.
+2 Badri galiyare gaya.
+3 Badri gusalkhane mein chala gaya.
+4 Sita daftar mein chali gayi.
+5 Sita sayanakaksh mein gayi.
+6 Badri dhoodh le aaya.
+7 Badri ke pass kitni cheezein hai?	ek	6
+8 Priya sayanakaksh mein gayi.
+9 Sita bagichey mein chali gayi.
+10 Badri ke pass kitni cheezein hai?	ek	6
+11 Badri dhoodh rakh aaya.
+12 Mohit bagichey gaya.
+13 Badri ke pass kitni cheezein hai?	shunya	6 11
+14 Mohit galiyare gaya.
+15 Mohit bagichey mein gaya.
+16 Badri ke pass kitni cheezein hai?	shunya	6 11
+17 Priya daftar mein gayi.
+18 Mohit rasoi ghar mein chala gaya.
+19 Mohit sayanakaksh mein gaya.
+20 Badri dhoodh le aaya.
+21 Badri ke pass kitni cheezein hai?	ek	6 11 20
+1 Badri daftar mein gaya.
+2 Badri dhoodh le aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Badri dhoodh rakh aaya.
+5 Priya rasoi ghar mein chali gayi.
+6 Badri ke pass kitni cheezein hai?	shunya	2 4
+7 Sita dhoodh le aayi.
+8 Sita dhoodh rakh aayi.
+9 Badri ke pass kitni cheezein hai?	shunya	2 4
+10 Sita dhoodh le kar aayi.
+11 Badri rasoi ghar gaya.
+12 Sita ke pass kitni cheezein hai?	ek	7 8 10
+13 Mohit gusalkhane mein gaya.
+14 Sita dhoodh rakh aayi.
+15 Sita ke pass kitni cheezein hai?	shunya	7 8 10 14
+1 Mohit seb le aaya.
+2 Mohit ne badri ko seb diya.
+3 Mohit ke pass kitni cheezein hai?	shunya	1 2
+4 Badri ne mohit ko seb diya.
+5 Mohit ne badri ko seb diya.
+6 Mohit ke pass kitni cheezein hai?	shunya	1 2 4 5
+7 Badri ne mohit ko seb diya.
+8 Badri rasoi ghar mein chala gaya.
+9 Badri ke pass kitni cheezein hai?	shunya	2 4 5 7
+10 Mohit seb rakh aaya.
+11 Badri bagichey gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 2 4 5 7 10
+13 Mohit gusalkhane gaya.
+14 Sita rasoi ghar gayi.
+15 Mohit ke pass kitni cheezein hai?	shunya	1 2 4 5 7 10
+1 Mohit bagichey mein chala gaya.
+2 Sita dhoodh le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita ne badri ko dhoodh diya.
+5 Badri ne sita ko dhoodh diya.
+6 Badri ke pass kitni cheezein hai?	shunya	4 5
+7 Sita dhoodh chod aayi.
+8 Sita dhoodh le aayi.
+9 Sita ke pass kitni cheezein hai?	ek	2 4 5 7 8
+10 Sita ne badri ko dhoodh diya.
+11 Badri ne sita ko dhoodh diya.
+12 Badri ke pass kitni cheezein hai?	shunya	4 5 10 11
+13 Sita ne badri ko dhoodh diya.
+14 Badri dhoodh rakh aaya.
+15 Sita ke pass kitni cheezein hai?	shunya	2 4 5 7 8 10 11 13
+1 Priya gendh le kar aayi.
+2 Priya gendh rakh aayi.
+3 Priya ke pass kitni cheezein hai?	shunya	1 2
+4 Mohit gusalkhane gaya.
+5 Mohit gendh le kar aaya.
+6 Priya ke pass kitni cheezein hai?	shunya	1 2
+7 Sita daftar mein chali gayi.
+8 Mohit gendh chod aaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	5 8
+10 Badri gendh le kar aaya.
+11 Badri gendh rakh aaya.
+12 Badri ke pass kitni cheezein hai?	shunya	10 11
+13 Mohit gendh le aaya.
+14 Sita sayanakaksh mein chali gayi.
+15 Badri ke pass kitni cheezein hai?	shunya	10 11
+1 Mohit dhoodh le aaya.
+2 Mohit galiyare mein chala gaya.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Mohit ne sita ko dhoodh diya.
+5 Sita dhoodh chod aayi.
+6 Mohit ke pass kitni cheezein hai?	shunya	1 4
+7 Sita dhoodh le aayi.
+8 Mohit gusalkhane mein chala gaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 4
+10 Priya gusalkhane gayi.
+11 Sita gusalkhane gayi.
+12 Sita ke pass kitni cheezein hai?	ek	4 5 7
+13 Priya seb le kar aayi.
+14 Priya ne mohit ko seb diya.
+15 Priya ke pass kitni cheezein hai?	shunya	13 14
+1 Badri gendh le aaya.
+2 Badri ne sita ko gendh di.
+3 Badri ke pass kitni cheezein hai?	shunya	1 2
+4 Sita ne priya ko gendh di.
+5 Mohit dhoodh le aaya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 2
+7 Priya ne sita ko gendh di.
+8 Sita ne priya ko gendh di.
+9 Badri ke pass kitni cheezein hai?	shunya	1 2
+10 Priya sayanakaksh gayi.
+11 Priya ne mohit ko gendh di.
+12 Priya ke pass kitni cheezein hai?	shunya	4 7 8 11
+13 Mohit ne priya ko gendh di.
+14 Priya gendh chod aayi.
+15 Priya ke pass kitni cheezein hai?	shunya	4 7 8 11 13 14
+1 Badri gendh le aaya.
+2 Priya gusalkhane gayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Priya galiyare mein gayi.
+5 Priya daftar mein gayi.
+6 Badri ke pass kitni cheezein hai?	ek	1
+7 Badri rasoi ghar mein chala gaya.
+8 Badri seb le aaya.
+9 Badri ke pass kitni cheezein hai?	do	1 8
+10 Mohit gusalkhane mein gaya.
+11 Badri sayanakaksh gaya.
+12 Badri ke pass kitni cheezein hai?	do	1 8
+13 Badri daftar mein gaya.
+14 Sita gusalkhane mein gayi.
+15 Badri ke pass kitni cheezein hai?	do	1 8
+1 Priya gusalkhane gayi.
+2 Sita seb le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Mohit gendh le aaya.
+5 Sita dhoodh le aayi.
+6 Sita ke pass kitni cheezein hai?	do	2 5
+7 Mohit gendh rakh aaya.
+8 Priya bagichey mein chali gayi.
+9 Sita ke pass kitni cheezein hai?	do	2 5
+10 Priya sayanakaksh mein gayi.
+11 Badri bagichey gaya.
+12 Sita ke pass kitni cheezein hai?	do	2 5
+13 Priya bagichey mein gayi.
+14 Sita galiyare mein chali gayi.
+15 Mohit galiyare mein chala gaya.
+16 Badri gendh le kar aaya.
+17 Badri ke pass kitni cheezein hai?	ek	16
+1 Badri gusalkhane mein gaya.
+2 Sita rasoi ghar mein gayi.
+3 Mohit rasoi ghar gaya.
+4 Badri sayanakaksh gaya.
+5 Sita daftar gayi.
+6 Badri rasoi ghar mein chala gaya.
+7 Sita dhoodh le kar aayi.
+8 Sita dhoodh rakh aayi.
+9 Sita ke pass kitni cheezein hai?	shunya	7 8
+10 Sita dhoodh le kar aayi.
+11 Sita gendh le kar aayi.
+12 Sita ke pass kitni cheezein hai?	do	7 8 10 11
+13 Mohit galiyare mein chala gaya.
+14 Sita dhoodh rakh aayi.
+15 Sita ke pass kitni cheezein hai?	ek	7 8 10 11 14
+16 Mohit gusalkhane gaya.
+17 Sita rasoi ghar gayi.
+18 Sita ke pass kitni cheezein hai?	ek	7 8 10 11 14
+19 Mohit rasoi ghar gaya.
+20 Sita sayanakaksh mein chali gayi.
+21 Sita ke pass kitni cheezein hai?	ek	7 8 10 11 14
+1 Priya dhoodh le kar aayi.
+2 Badri bagichey gaya.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Sita daftar mein gayi.
+5 Mohit seb le kar aaya.
+6 Priya ke pass kitni cheezein hai?	ek	1
+7 Mohit bagichey mein chala gaya.
+8 Mohit gusalkhane mein chala gaya.
+9 Mohit ke pass kitni cheezein hai?	ek	5
+10 Priya dhoodh chod aayi.
+11 Badri sayanakaksh mein gaya.
+12 Mohit ke pass kitni cheezein hai?	ek	5
+13 Sita bagichey gayi.
+14 Badri bagichey mein gaya.
+15 Priya ke pass kitni cheezein hai?	shunya	1 10
+1 Badri bagichey mein chala gaya.
+2 Priya bagichey mein gayi.
+3 Priya gusalkhane mein chali gayi.
+4 Priya sayanakaksh mein chali gayi.
+5 Mohit rasoi ghar gaya.
+6 Mohit galiyare mein gaya.
+7 Badri rasoi ghar mein gaya.
+8 Mohit rasoi ghar mein chala gaya.
+9 Sita bagichey mein chali gayi.
+10 Priya daftar gayi.
+11 Badri sayanakaksh mein gaya.
+12 Badri bagichey mein gaya.
+13 Priya rasoi ghar mein chali gayi.
+14 Sita galiyare mein gayi.
+15 Priya daftar mein chali gayi.
+16 Mohit bagichey mein gaya.
+17 Priya seb le aayi.
+18 Mohit daftar mein chala gaya.
+19 Priya ke pass kitni cheezein hai?	ek	17
+20 Priya ne mohit ko seb diya.
+21 Mohit ne priya ko seb diya.
+22 Priya ke pass kitni cheezein hai?	ek	17 20 21
+23 Badri galiyare mein chala gaya.
+24 Priya seb rakh aayi.
+25 Mohit ke pass kitni cheezein hai?	shunya	20 21
+26 Badri rasoi ghar gaya.
+27 Mohit galiyare gaya.
+28 Mohit ke pass kitni cheezein hai?	shunya	20 21
+29 Priya sayanakaksh gayi.
+30 Priya gusalkhane mein chali gayi.
+31 Priya ke pass kitni cheezein hai?	shunya	17 20 21 24
+1 Badri rasoi ghar gaya.
+2 Badri daftar mein gaya.
+3 Priya galiyare gayi.
+4 Priya bagichey mein gayi.
+5 Mohit sayanakaksh gaya.
+6 Mohit gusalkhane gaya.
+7 Badri bagichey mein gaya.
+8 Sita galiyare mein gayi.
+9 Mohit bagichey mein chala gaya.
+10 Mohit seb le kar aaya.
+11 Mohit ke pass kitni cheezein hai?	ek	10
+12 Mohit ne priya ko seb diya.
+13 Badri sayanakaksh mein gaya.
+14 Mohit ke pass kitni cheezein hai?	shunya	10 12
+15 Sita gendh le kar aayi.
+16 Priya ne mohit ko seb diya.
+17 Sita ke pass kitni cheezein hai?	ek	15
+18 Mohit ne priya ko seb diya.
+19 Priya ne mohit ko seb diya.
+20 Sita ke pass kitni cheezein hai?	ek	15
+21 Mohit sayanakaksh mein gaya.
+22 Mohit ne badri ko seb diya.
+23 Priya ke pass kitni cheezein hai?	shunya	12 16 18 19
+1 Sita bagichey mein chali gayi.
+2 Badri sayanakaksh mein chala gaya.
+3 Badri daftar mein gaya.
+4 Priya gendh le kar aayi.
+5 Priya ke pass kitni cheezein hai?	ek	4
+6 Badri rasoi ghar mein chala gaya.
+7 Badri bagichey gaya.
+8 Priya ke pass kitni cheezein hai?	ek	4
+9 Mohit rasoi ghar mein gaya.
+10 Priya rasoi ghar mein gayi.
+11 Priya ke pass kitni cheezein hai?	ek	4
+12 Priya ne mohit ko gendh di.
+13 Mohit seb le aaya.
+14 Priya ke pass kitni cheezein hai?	shunya	4 12
+15 Priya galiyare mein chali gayi.
+16 Mohit galiyare mein gaya.
+17 Mohit ke pass kitni cheezein hai?	do	12 13
+1 Mohit galiyare gaya.
+2 Sita seb le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Badri bagichey mein chala gaya.
+5 Badri rasoi ghar gaya.
+6 Sita ke pass kitni cheezein hai?	ek	2
+7 Mohit bagichey mein chala gaya.
+8 Badri galiyare mein gaya.
+9 Sita ke pass kitni cheezein hai?	ek	2
+10 Sita seb chod aayi.
+11 Sita seb le aayi.
+12 Sita ke pass kitni cheezein hai?	ek	2 10 11
+13 Sita seb rakh aayi.
+14 Sita galiyare mein chali gayi.
+15 Sita ke pass kitni cheezein hai?	shunya	2 10 11 13
+1 Priya gendh le kar aayi.
+2 Priya ne sita ko gendh di.
+3 Priya ke pass kitni cheezein hai?	shunya	1 2
+4 Badri gusalkhane gaya.
+5 Priya galiyare mein gayi.
+6 Priya ke pass kitni cheezein hai?	shunya	1 2
+7 Sita ne badri ko gendh di.
+8 Badri ne sita ko gendh di.
+9 Sita ke pass kitni cheezein hai?	ek	2 7 8
+10 Sita bagichey gayi.
+11 Badri bagichey gaya.
+12 Sita ke pass kitni cheezein hai?	ek	2 7 8
+13 Sita ne badri ko gendh di.
+14 Priya gusalkhane mein gayi.
+15 Badri ke pass kitni cheezein hai?	ek	7 8 13
+1 Badri daftar gaya.
+2 Mohit sayanakaksh mein chala gaya.
+3 Priya bagichey mein gayi.
+4 Badri rasoi ghar mein gaya.
+5 Priya sayanakaksh mein gayi.
+6 Mohit rasoi ghar mein gaya.
+7 Mohit gendh le kar aaya.
+8 Badri sayanakaksh gaya.
+9 Mohit ke pass kitni cheezein hai?	ek	7
+10 Mohit dhoodh le kar aaya.
+11 Badri rasoi ghar gaya.
+12 Mohit ke pass kitni cheezein hai?	do	7 10
+13 Mohit seb le kar aaya.
+14 Mohit ne badri ko seb diya.
+15 Mohit ke pass kitni cheezein hai?	do	7 10 13 14
+16 Sita rasoi ghar mein gayi.
+17 Mohit gendh rakh aaya.
+18 Mohit ke pass kitni cheezein hai?	ek	7 10 13 14 17
+19 Badri ne mohit ko seb diya.
+20 Mohit seb rakh aaya.
+21 Mohit ke pass kitni cheezein hai?	ek	7 10 13 14 17 19 20
+1 Mohit sayanakaksh mein chala gaya.
+2 Mohit daftar mein gaya.
+3 Sita daftar mein gayi.
+4 Sita galiyare mein chali gayi.
+5 Mohit galiyare mein chala gaya.
+6 Badri galiyare mein chala gaya.
+7 Priya gusalkhane gayi.
+8 Badri rasoi ghar mein gaya.
+9 Sita daftar mein chali gayi.
+10 Priya seb le aayi.
+11 Priya ke pass kitni cheezein hai?	ek	10
+12 Priya sayanakaksh gayi.
+13 Mohit rasoi ghar mein chala gaya.
+14 Priya ke pass kitni cheezein hai?	ek	10
+15 Priya bagichey mein gayi.
+16 Mohit gusalkhane gaya.
+17 Priya ke pass kitni cheezein hai?	ek	10
+18 Sita bagichey mein gayi.
+19 Sita gusalkhane gayi.
+20 Mohit bagichey mein gaya.
+21 Priya ne mohit ko seb diya.
+22 Priya ke pass kitni cheezein hai?	shunya	10 21
+23 Mohit ne priya ko seb diya.
+24 Priya seb chod aayi.
+25 Mohit ke pass kitni cheezein hai?	shunya	21 23
+1 Mohit galiyare mein chala gaya.
+2 Sita daftar mein chali gayi.
+3 Mohit gendh le aaya.
+4 Mohit gendh rakh aaya.
+5 Mohit ke pass kitni cheezein hai?	shunya	3 4
+6 Sita bagichey gayi.
+7 Badri galiyare mein chala gaya.
+8 Mohit ke pass kitni cheezein hai?	shunya	3 4
+9 Mohit gusalkhane mein chala gaya.
+10 Badri gendh le kar aaya.
+11 Mohit ke pass kitni cheezein hai?	shunya	3 4
+12 Mohit dhoodh le kar aaya.
+13 Badri seb le kar aaya.
+14 Badri ke pass kitni cheezein hai?	do	10 13
+15 Badri seb chod aaya.
+16 Mohit sayanakaksh mein chala gaya.
+17 Mohit ke pass kitni cheezein hai?	ek	3 4 12
+1 Badri dhoodh le aaya.
+2 Priya gendh le aayi.
+3 Badri ke pass kitni cheezein hai?	ek	1
+4 Sita daftar mein chali gayi.
+5 Badri dhoodh chod aaya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 5
+7 Badri galiyare mein chala gaya.
+8 Priya ne badri ko gendh di.
+9 Priya ke pass kitni cheezein hai?	shunya	2 8
+10 Priya sayanakaksh mein chali gayi.
+11 Badri gendh rakh aaya.
+12 Priya ke pass kitni cheezein hai?	shunya	2 8
+13 Priya dhoodh le kar aayi.
+14 Badri gendh le kar aaya.
+15 Priya ke pass kitni cheezein hai?	ek	2 8 13
+1 Mohit gusalkhane mein gaya.
+2 Sita rasoi ghar gayi.
+3 Mohit rasoi ghar mein gaya.
+4 Mohit gendh le aaya.
+5 Mohit ke pass kitni cheezein hai?	ek	4
+6 Priya rasoi ghar gayi.
+7 Mohit ne sita ko gendh di.
+8 Mohit ke pass kitni cheezein hai?	shunya	4 7
+9 Sita ne mohit ko gendh di.
+10 Badri gusalkhane mein chala gaya.
+11 Mohit ke pass kitni cheezein hai?	ek	4 7 9
+12 Mohit ne sita ko gendh di.
+13 Sita ne mohit ko gendh di.
+14 Mohit ke pass kitni cheezein hai?	ek	4 7 9 12 13
+15 Mohit gendh rakh aaya.
+16 Badri seb le kar aaya.
+17 Mohit ke pass kitni cheezein hai?	shunya	4 7 9 12 13 15
+1 Sita daftar mein gayi.
+2 Priya daftar mein chali gayi.
+3 Mohit gendh le kar aaya.
+4 Badri galiyare mein chala gaya.
+5 Mohit ke pass kitni cheezein hai?	ek	3
+6 Mohit galiyare mein chala gaya.
+7 Mohit ne badri ko gendh di.
+8 Mohit ke pass kitni cheezein hai?	shunya	3 7
+9 Priya gusalkhane gayi.
+10 Badri gendh rakh aaya.
+11 Mohit ke pass kitni cheezein hai?	shunya	3 7
+12 Priya daftar mein chali gayi.
+13 Badri bagichey mein gaya.
+14 Badri ke pass kitni cheezein hai?	shunya	7 10
+15 Mohit gendh le aaya.
+16 Priya gusalkhane mein gayi.
+17 Mohit ke pass kitni cheezein hai?	ek	3 7 15
+1 Priya dhoodh le aayi.
+2 Priya ne sita ko dhoodh diya.
+3 Priya ke pass kitni cheezein hai?	shunya	1 2
+4 Priya galiyare mein gayi.
+5 Badri seb le kar aaya.
+6 Priya ke pass kitni cheezein hai?	shunya	1 2
+7 Mohit sayanakaksh mein chala gaya.
+8 Mohit daftar mein gaya.
+9 Priya ke pass kitni cheezein hai?	shunya	1 2
+10 Badri ne priya ko seb diya.
+11 Priya ne badri ko seb diya.
+12 Badri ke pass kitni cheezein hai?	ek	5 10 11
+13 Badri ne priya ko seb diya.
+14 Priya bagichey gayi.
+15 Badri ke pass kitni cheezein hai?	shunya	5 10 11 13
+1 Sita gendh le kar aayi.
+2 Badri bagichey mein gaya.
+3 Sita ke pass kitni cheezein hai?	ek	1
+4 Mohit galiyare mein gaya.
+5 Sita gusalkhane mein gayi.
+6 Sita ke pass kitni cheezein hai?	ek	1
+7 Sita gendh rakh aayi.
+8 Mohit sayanakaksh mein chala gaya.
+9 Sita ke pass kitni cheezein hai?	shunya	1 7
+10 Badri galiyare mein gaya.
+11 Badri rasoi ghar mein chala gaya.
+12 Sita ke pass kitni cheezein hai?	shunya	1 7
+13 Mohit seb le aaya.
+14 Mohit dhoodh le aaya.
+15 Mohit ke pass kitni cheezein hai?	do	13 14
+1 Priya gendh le kar aayi.
+2 Mohit bagichey gaya.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Mohit daftar mein gaya.
+5 Badri gusalkhane gaya.
+6 Priya ke pass kitni cheezein hai?	ek	1
+7 Sita daftar mein gayi.
+8 Sita bagichey gayi.
+9 Mohit gusalkhane mein chala gaya.
+10 Sita sayanakaksh mein gayi.
+11 Sita dhoodh le aayi.
+12 Sita daftar mein chali gayi.
+13 Sita ke pass kitni cheezein hai?	ek	11
+14 Badri bagichey mein gaya.
+15 Badri seb le aaya.
+16 Badri ke pass kitni cheezein hai?	ek	15
+17 Mohit galiyare mein gaya.
+18 Sita gusalkhane mein chali gayi.
+19 Badri ke pass kitni cheezein hai?	ek	15
+1 Sita daftar mein gayi.
+2 Priya gusalkhane mein gayi.
+3 Priya sayanakaksh gayi.
+4 Badri daftar gaya.
+5 Mohit rasoi ghar mein chala gaya.
+6 Mohit gusalkhane gaya.
+7 Mohit dhoodh le aaya.
+8 Mohit seb le kar aaya.
+9 Mohit ke pass kitni cheezein hai?	do	7 8
+10 Priya bagichey gayi.
+11 Sita bagichey mein gayi.
+12 Mohit ke pass kitni cheezein hai?	do	7 8
+13 Mohit seb chod aaya.
+14 Badri rasoi ghar mein chala gaya.
+15 Mohit ke pass kitni cheezein hai?	ek	7 8 13
+16 Mohit sayanakaksh mein chala gaya.
+17 Mohit dhoodh chod aaya.
+18 Mohit ke pass kitni cheezein hai?	shunya	7 8 13 17
+19 Mohit dhoodh le kar aaya.
+20 Sita galiyare mein chali gayi.
+21 Mohit ke pass kitni cheezein hai?	ek	7 8 13 17 19
+1 Badri gusalkhane mein gaya.
+2 Badri bagichey gaya.
+3 Mohit rasoi ghar mein gaya.
+4 Mohit gusalkhane mein chala gaya.
+5 Sita daftar mein gayi.
+6 Badri gusalkhane mein chala gaya.
+7 Sita rasoi ghar mein chali gayi.
+8 Priya daftar gayi.
+9 Priya rasoi ghar gayi.
+10 Sita sayanakaksh gayi.
+11 Sita gendh le kar aayi.
+12 Sita seb le kar aayi.
+13 Sita ke pass kitni cheezein hai?	do	11 12
+14 Sita gendh rakh aayi.
+15 Sita seb chod aayi.
+16 Sita ke pass kitni cheezein hai?	shunya	11 12 14 15
+17 Priya gusalkhane mein gayi.
+18 Sita seb le aayi.
+19 Sita ke pass kitni cheezein hai?	ek	11 12 14 15 18
+20 Sita galiyare gayi.
+21 Sita sayanakaksh mein chali gayi.
+22 Sita ke pass kitni cheezein hai?	ek	11 12 14 15 18
+23 Sita gendh le aayi.
+24 Mohit rasoi ghar gaya.
+25 Sita ke pass kitni cheezein hai?	do	11 12 14 15 18 23
+1 Sita seb le kar aayi.
+2 Sita dhoodh le aayi.
+3 Sita ke pass kitni cheezein hai?	do	1 2
+4 Sita dhoodh chod aayi.
+5 Badri gusalkhane mein chala gaya.
+6 Sita ke pass kitni cheezein hai?	ek	1 2 4
+7 Badri galiyare mein gaya.
+8 Sita ne badri ko seb diya.
+9 Sita ke pass kitni cheezein hai?	shunya	1 2 4 8
+10 Badri dhoodh le aaya.
+11 Badri ne sita ko seb diya.
+12 Badri ke pass kitni cheezein hai?	ek	8 10 11
+13 Sita seb rakh aayi.
+14 Badri ne sita ko dhoodh diya.
+15 Badri ke pass kitni cheezein hai?	shunya	8 10 11 14
+1 Mohit galiyare gaya.
+2 Badri bagichey mein chala gaya.
+3 Mohit daftar mein chala gaya.
+4 Badri daftar mein gaya.
+5 Badri sayanakaksh gaya.
+6 Mohit gendh le aaya.
+7 Mohit ke pass kitni cheezein hai?	ek	6
+8 Mohit gendh rakh aaya.
+9 Priya daftar gayi.
+10 Mohit ke pass kitni cheezein hai?	shunya	6 8
+11 Mohit bagichey mein gaya.
+12 Priya gendh le kar aayi.
+13 Mohit ke pass kitni cheezein hai?	shunya	6 8
+14 Priya sayanakaksh gayi.
+15 Priya ne badri ko gendh di.
+16 Priya ke pass kitni cheezein hai?	shunya	12 15
+17 Sita sayanakaksh mein chali gayi.
+18 Sita rasoi ghar mein chali gayi.
+19 Priya ke pass kitni cheezein hai?	shunya	12 15
+1 Mohit gusalkhane mein chala gaya.
+2 Priya rasoi ghar mein chali gayi.
+3 Sita galiyare mein chali gayi.
+4 Priya daftar mein gayi.
+5 Sita gendh le aayi.
+6 Priya bagichey gayi.
+7 Sita ke pass kitni cheezein hai?	ek	5
+8 Badri seb le aaya.
+9 Sita gendh chod aayi.
+10 Sita ke pass kitni cheezein hai?	shunya	5 9
+11 Mohit sayanakaksh mein gaya.
+12 Sita gendh le kar aayi.
+13 Sita ke pass kitni cheezein hai?	ek	5 9 12
+14 Badri ne mohit ko seb diya.
+15 Sita gendh rakh aayi.
+16 Sita ke pass kitni cheezein hai?	shunya	5 9 12 15
+17 Priya rasoi ghar gayi.
+18 Priya galiyare gayi.
+19 Badri ke pass kitni cheezein hai?	shunya	8 14
+1 Mohit gendh le aaya.
+2 Badri gusalkhane mein gaya.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Priya gusalkhane gayi.
+5 Badri sayanakaksh gaya.
+6 Mohit ke pass kitni cheezein hai?	ek	1
+7 Mohit gusalkhane mein gaya.
+8 Mohit gendh rakh aaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 8
+10 Priya gendh le kar aayi.
+11 Priya ne mohit ko gendh di.
+12 Priya ke pass kitni cheezein hai?	shunya	10 11
+13 Badri gusalkhane gaya.
+14 Mohit ne priya ko gendh di.
+15 Mohit ke pass kitni cheezein hai?	shunya	1 8 11 14
+1 Sita galiyare mein gayi.
+2 Badri rasoi ghar gaya.
+3 Badri gendh le kar aaya.
+4 Sita sayanakaksh mein chali gayi.
+5 Badri ke pass kitni cheezein hai?	ek	3
+6 Sita galiyare mein chali gayi.
+7 Badri gendh rakh aaya.
+8 Badri ke pass kitni cheezein hai?	shunya	3 7
+9 Badri gendh le kar aaya.
+10 Badri gendh rakh aaya.
+11 Badri ke pass kitni cheezein hai?	shunya	3 7 9 10
+12 Mohit bagichey gaya.
+13 Mohit dhoodh le kar aaya.
+14 Badri ke pass kitni cheezein hai?	shunya	3 7 9 10
+15 Mohit galiyare gaya.
+16 Badri daftar gaya.
+17 Mohit ke pass kitni cheezein hai?	ek	13
+1 Badri bagichey mein chala gaya.
+2 Mohit bagichey gaya.
+3 Priya rasoi ghar gayi.
+4 Sita bagichey gayi.
+5 Sita galiyare mein gayi.
+6 Mohit galiyare mein chala gaya.
+7 Badri daftar gaya.
+8 Badri dhoodh le kar aaya.
+9 Badri ke pass kitni cheezein hai?	ek	8
+10 Priya gendh le kar aayi.
+11 Priya seb le kar aayi.
+12 Priya ke pass kitni cheezein hai?	do	10 11
+13 Priya galiyare gayi.
+14 Mohit rasoi ghar mein chala gaya.
+15 Badri ke pass kitni cheezein hai?	ek	8
+16 Priya ne sita ko seb diya.
+17 Mohit sayanakaksh mein chala gaya.
+18 Priya ke pass kitni cheezein hai?	ek	10 11 16
+19 Priya gusalkhane gayi.
+20 Mohit bagichey mein gaya.
+21 Priya ke pass kitni cheezein hai?	ek	10 11 16
+1 Mohit dhoodh le aaya.
+2 Mohit dhoodh rakh aaya.
+3 Mohit ke pass kitni cheezein hai?	shunya	1 2
+4 Priya rasoi ghar mein gayi.
+5 Badri galiyare mein gaya.
+6 Mohit ke pass kitni cheezein hai?	shunya	1 2
+7 Mohit dhoodh le kar aaya.
+8 Mohit dhoodh rakh aaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 2 7 8
+10 Badri bagichey gaya.
+11 Mohit dhoodh le aaya.
+12 Mohit ke pass kitni cheezein hai?	ek	1 2 7 8 11
+13 Sita gusalkhane mein gayi.
+14 Mohit ne priya ko dhoodh diya.
+15 Mohit ke pass kitni cheezein hai?	shunya	1 2 7 8 11 14
+1 Sita galiyare gayi.
+2 Badri rasoi ghar mein chala gaya.
+3 Sita gendh le aayi.
+4 Badri sayanakaksh mein chala gaya.
+5 Sita ke pass kitni cheezein hai?	ek	3
+6 Badri seb le kar aaya.
+7 Badri ne mohit ko seb diya.
+8 Badri ke pass kitni cheezein hai?	shunya	6 7
+9 Mohit ne badri ko seb diya.
+10 Badri ne mohit ko seb diya.
+11 Mohit ke pass kitni cheezein hai?	ek	7 9 10
+12 Sita dhoodh le kar aayi.
+13 Badri gusalkhane mein gaya.
+14 Mohit ke pass kitni cheezein hai?	ek	7 9 10
+15 Badri galiyare mein chala gaya.
+16 Priya rasoi ghar mein chali gayi.
+17 Badri ke pass kitni cheezein hai?	shunya	6 7 9 10
+1 Sita galiyare mein gayi.
+2 Badri seb le kar aaya.
+3 Badri ke pass kitni cheezein hai?	ek	2
+4 Badri seb chod aaya.
+5 Badri seb le aaya.
+6 Badri ke pass kitni cheezein hai?	ek	2 4 5
+7 Mohit daftar mein gaya.
+8 Mohit gendh le aaya.
+9 Badri ke pass kitni cheezein hai?	ek	2 4 5
+10 Mohit gendh rakh aaya.
+11 Badri seb rakh aaya.
+12 Badri ke pass kitni cheezein hai?	shunya	2 4 5 11
+13 Mohit dhoodh le aaya.
+14 Badri seb le aaya.
+15 Mohit ke pass kitni cheezein hai?	ek	8 10 13
+1 Sita bagichey gayi.
+2 Priya galiyare mein gayi.
+3 Badri daftar mein chala gaya.
+4 Sita sayanakaksh mein chali gayi.
+5 Priya gusalkhane mein chali gayi.
+6 Badri seb le aaya.
+7 Badri ke pass kitni cheezein hai?	ek	6
+8 Badri gendh le aaya.
+9 Badri gusalkhane mein chala gaya.
+10 Badri ke pass kitni cheezein hai?	do	6 8
+11 Badri ne mohit ko seb diya.
+12 Mohit ne priya ko seb diya.
+13 Badri ke pass kitni cheezein hai?	ek	6 8 11
+14 Mohit sayanakaksh mein chala gaya.
+15 Priya seb chod aayi.
+16 Priya ke pass kitni cheezein hai?	shunya	12 15
+17 Badri seb le aaya.
+18 Badri ne priya ko seb diya.
+19 Mohit ke pass kitni cheezein hai?	shunya	11 12
+1 Badri daftar mein chala gaya.
+2 Mohit gusalkhane gaya.
+3 Mohit bagichey mein chala gaya.
+4 Badri sayanakaksh gaya.
+5 Mohit sayanakaksh mein gaya.
+6 Badri bagichey mein chala gaya.
+7 Badri rasoi ghar mein gaya.
+8 Mohit seb le aaya.
+9 Mohit ke pass kitni cheezein hai?	ek	8
+10 Mohit seb chod aaya.
+11 Mohit seb le kar aaya.
+12 Mohit ke pass kitni cheezein hai?	ek	8 10 11
+13 Badri gusalkhane mein chala gaya.
+14 Priya galiyare gayi.
+15 Mohit ke pass kitni cheezein hai?	ek	8 10 11
+16 Sita sayanakaksh gayi.
+17 Priya gendh le aayi.
+18 Priya ke pass kitni cheezein hai?	ek	17
+19 Mohit ne sita ko seb diya.
+20 Priya gendh chod aayi.
+21 Priya ke pass kitni cheezein hai?	shunya	17 20
+1 Sita rasoi ghar mein chali gayi.
+2 Mohit sayanakaksh mein gaya.
+3 Sita bagichey mein chali gayi.
+4 Mohit gusalkhane gaya.
+5 Badri galiyare mein gaya.
+6 Priya sayanakaksh gayi.
+7 Sita rasoi ghar mein gayi.
+8 Mohit sayanakaksh mein gaya.
+9 Priya daftar mein gayi.
+10 Mohit daftar mein gaya.
+11 Badri seb le kar aaya.
+12 Sita bagichey mein gayi.
+13 Badri ke pass kitni cheezein hai?	ek	11
+14 Sita galiyare mein gayi.
+15 Badri ne sita ko seb diya.
+16 Badri ke pass kitni cheezein hai?	shunya	11 15
+17 Sita ne badri ko seb diya.
+18 Badri seb rakh aaya.
+19 Badri ke pass kitni cheezein hai?	shunya	11 15 17 18
+20 Priya sayanakaksh mein gayi.
+21 Badri seb le kar aaya.
+22 Badri ke pass kitni cheezein hai?	ek	11 15 17 18 21
+23 Mohit gusalkhane mein chala gaya.
+24 Sita gendh le kar aayi.
+25 Badri ke pass kitni cheezein hai?	ek	11 15 17 18 21
+1 Mohit galiyare mein chala gaya.
+2 Badri sayanakaksh gaya.
+3 Mohit sayanakaksh mein chala gaya.
+4 Mohit daftar mein gaya.
+5 Mohit rasoi ghar gaya.
+6 Sita dhoodh le aayi.
+7 Sita ke pass kitni cheezein hai?	ek	6
+8 Mohit gusalkhane mein gaya.
+9 Badri rasoi ghar mein chala gaya.
+10 Sita ke pass kitni cheezein hai?	ek	6
+11 Sita dhoodh chod aayi.
+12 Mohit rasoi ghar mein chala gaya.
+13 Sita ke pass kitni cheezein hai?	shunya	6 11
+14 Badri gendh le aaya.
+15 Badri ne mohit ko gendh di.
+16 Badri ke pass kitni cheezein hai?	shunya	14 15
+17 Sita bagichey mein gayi.
+18 Mohit ne badri ko gendh di.
+19 Badri ke pass kitni cheezein hai?	ek	14 15 18
+1 Priya daftar gayi.
+2 Mohit dhoodh le aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Mohit galiyare gaya.
+5 Mohit dhoodh chod aaya.
+6 Mohit ke pass kitni cheezein hai?	shunya	2 5
+7 Mohit sayanakaksh mein chala gaya.
+8 Priya sayanakaksh mein gayi.
+9 Mohit ke pass kitni cheezein hai?	shunya	2 5
+10 Priya galiyare mein gayi.
+11 Mohit galiyare mein chala gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	2 5
+13 Priya gendh le kar aayi.
+14 Badri sayanakaksh gaya.
+15 Priya ke pass kitni cheezein hai?	ek	13
+1 Sita daftar mein chali gayi.
+2 Priya gusalkhane gayi.
+3 Sita galiyare mein gayi.
+4 Mohit gusalkhane mein chala gaya.
+5 Badri daftar gaya.
+6 Badri sayanakaksh gaya.
+7 Mohit gendh le aaya.
+8 Mohit ne priya ko gendh di.
+9 Mohit ke pass kitni cheezein hai?	shunya	7 8
+10 Priya ne mohit ko gendh di.
+11 Mohit dhoodh le aaya.
+12 Mohit ke pass kitni cheezein hai?	do	7 8 10 11
+13 Sita bagichey mein chali gayi.
+14 Mohit ne priya ko gendh di.
+15 Mohit ke pass kitni cheezein hai?	ek	7 8 10 11 14
+16 Priya ne mohit ko gendh di.
+17 Mohit daftar mein gaya.
+18 Mohit ke pass kitni cheezein hai?	do	7 8 10 11 14 16
+19 Priya daftar mein gayi.
+20 Mohit gusalkhane mein gaya.
+21 Mohit ke pass kitni cheezein hai?	do	7 8 10 11 14 16
+1 Mohit daftar mein chala gaya.
+2 Priya seb le aayi.
+3 Priya ke pass kitni cheezein hai?	ek	2
+4 Badri dhoodh le kar aaya.
+5 Mohit gendh le kar aaya.
+6 Badri ke pass kitni cheezein hai?	ek	4
+7 Mohit ne sita ko gendh di.
+8 Sita ne mohit ko gendh di.
+9 Mohit ke pass kitni cheezein hai?	ek	5 7 8
+10 Priya seb chod aayi.
+11 Mohit ne sita ko gendh di.
+12 Sita ke pass kitni cheezein hai?	ek	7 8 11
+13 Sita ne mohit ko gendh di.
+14 Priya seb le kar aayi.
+15 Priya ke pass kitni cheezein hai?	ek	2 10 14
+1 Mohit gendh le aaya.
+2 Mohit gendh rakh aaya.
+3 Mohit ke pass kitni cheezein hai?	shunya	1 2
+4 Mohit dhoodh le aaya.
+5 Mohit dhoodh chod aaya.
+6 Mohit ke pass kitni cheezein hai?	shunya	1 2 4 5
+7 Mohit gendh le aaya.
+8 Mohit daftar mein gaya.
+9 Mohit ke pass kitni cheezein hai?	ek	1 2 4 5 7
+10 Badri sayanakaksh gaya.
+11 Mohit gusalkhane mein chala gaya.
+12 Mohit ke pass kitni cheezein hai?	ek	1 2 4 5 7
+13 Sita bagichey gayi.
+14 Badri dhoodh le aaya.
+15 Badri ke pass kitni cheezein hai?	ek	14
+1 Sita dhoodh le kar aayi.
+2 Sita ne badri ko dhoodh diya.
+3 Sita ke pass kitni cheezein hai?	shunya	1 2
+4 Priya galiyare mein gayi.
+5 Sita daftar gayi.
+6 Sita ke pass kitni cheezein hai?	shunya	1 2
+7 Sita seb le kar aayi.
+8 Sita gendh le aayi.
+9 Sita ke pass kitni cheezein hai?	do	1 2 7 8
+10 Sita seb rakh aayi.
+11 Badri rasoi ghar gaya.
+12 Sita ke pass kitni cheezein hai?	ek	1 2 7 8 10
+13 Mohit sayanakaksh gaya.
+14 Sita seb le aayi.
+15 Sita ke pass kitni cheezein hai?	do	1 2 7 8 10 14
+1 Badri rasoi ghar gaya.
+2 Badri sayanakaksh gaya.
+3 Mohit gendh le kar aaya.
+4 Mohit sayanakaksh mein gaya.
+5 Mohit ke pass kitni cheezein hai?	ek	3
+6 Mohit ne sita ko gendh di.
+7 Badri galiyare mein gaya.
+8 Mohit ke pass kitni cheezein hai?	shunya	3 6
+9 Sita ne mohit ko gendh di.
+10 Mohit ne sita ko gendh di.
+11 Mohit ke pass kitni cheezein hai?	shunya	3 6 9 10
+12 Priya rasoi ghar mein gayi.
+13 Sita ne mohit ko gendh di.
+14 Mohit ke pass kitni cheezein hai?	ek	3 6 9 10 13
+15 Mohit ne sita ko gendh di.
+16 Sita gusalkhane gayi.
+17 Sita ke pass kitni cheezein hai?	ek	6 9 10 13 15
+1 Priya rasoi ghar gayi.
+2 Priya galiyare mein gayi.
+3 Badri gendh le kar aaya.
+4 Sita gusalkhane gayi.
+5 Badri ke pass kitni cheezein hai?	ek	3
+6 Badri ne sita ko gendh di.
+7 Sita ne badri ko gendh di.
+8 Badri ke pass kitni cheezein hai?	ek	3 6 7
+9 Badri ne sita ko gendh di.
+10 Sita gendh rakh aayi.
+11 Sita ke pass kitni cheezein hai?	shunya	6 7 9 10
+12 Mohit daftar gaya.
+13 Mohit rasoi ghar gaya.
+14 Sita ke pass kitni cheezein hai?	shunya	6 7 9 10
+15 Priya bagichey mein chali gayi.
+16 Sita gendh le aayi.
+17 Sita ke pass kitni cheezein hai?	ek	6 7 9 10 16
+1 Priya galiyare mein chali gayi.
+2 Mohit daftar gaya.
+3 Sita dhoodh le aayi.
+4 Sita dhoodh rakh aayi.
+5 Sita ke pass kitni cheezein hai?	shunya	3 4
+6 Sita daftar gayi.
+7 Sita sayanakaksh gayi.
+8 Sita ke pass kitni cheezein hai?	shunya	3 4
+9 Sita seb le aayi.
+10 Sita rasoi ghar mein chali gayi.
+11 Sita ke pass kitni cheezein hai?	ek	3 4 9
+12 Sita ne badri ko seb diya.
+13 Priya sayanakaksh gayi.
+14 Sita ke pass kitni cheezein hai?	shunya	3 4 9 12
+15 Badri ne sita ko seb diya.
+16 Sita ne badri ko seb diya.
+17 Sita ke pass kitni cheezein hai?	shunya	3 4 9 12 15 16
+1 Badri rasoi ghar gaya.
+2 Badri daftar mein gaya.
+3 Badri bagichey mein chala gaya.
+4 Sita daftar mein gayi.
+5 Mohit dhoodh le aaya.
+6 Badri galiyare gaya.
+7 Mohit ke pass kitni cheezein hai?	ek	5
+8 Mohit dhoodh rakh aaya.
+9 Sita gusalkhane gayi.
+10 Mohit ke pass kitni cheezein hai?	shunya	5 8
+11 Badri rasoi ghar gaya.
+12 Sita dhoodh le aayi.
+13 Sita ke pass kitni cheezein hai?	ek	12
+14 Sita ne mohit ko dhoodh diya.
+15 Mohit ne sita ko dhoodh diya.
+16 Sita ke pass kitni cheezein hai?	ek	12 14 15
+17 Sita ne mohit ko dhoodh diya.
+18 Mohit dhoodh rakh aaya.
+19 Sita ke pass kitni cheezein hai?	shunya	12 14 15 17
+1 Priya rasoi ghar mein chali gayi.
+2 Badri sayanakaksh mein gaya.
+3 Priya gendh le aayi.
+4 Priya daftar gayi.
+5 Priya ke pass kitni cheezein hai?	ek	3
+6 Sita galiyare mein gayi.
+7 Sita bagichey mein gayi.
+8 Priya ke pass kitni cheezein hai?	ek	3
+9 Badri gusalkhane gaya.
+10 Priya gendh rakh aayi.
+11 Priya ke pass kitni cheezein hai?	shunya	3 10
+12 Mohit rasoi ghar mein gaya.
+13 Sita sayanakaksh gayi.
+14 Priya ke pass kitni cheezein hai?	shunya	3 10
+15 Badri daftar mein chala gaya.
+16 Priya galiyare gayi.
+17 Priya ke pass kitni cheezein hai?	shunya	3 10
+1 Priya bagichey mein chali gayi.
+2 Mohit gusalkhane mein gaya.
+3 Sita rasoi ghar mein gayi.
+4 Priya rasoi ghar mein gayi.
+5 Priya daftar mein gayi.
+6 Badri sayanakaksh gaya.
+7 Priya seb le kar aayi.
+8 Priya galiyare mein gayi.
+9 Priya ke pass kitni cheezein hai?	ek	7
+10 Badri galiyare mein chala gaya.
+11 Mohit bagichey mein gaya.
+12 Priya ke pass kitni cheezein hai?	ek	7
+13 Priya ne badri ko seb diya.
+14 Badri dhoodh le aaya.
+15 Priya ke pass kitni cheezein hai?	shunya	7 13
+16 Sita sayanakaksh gayi.
+17 Sita rasoi ghar mein gayi.
+18 Priya ke pass kitni cheezein hai?	shunya	7 13
+19 Badri ne priya ko seb diya.
+20 Priya ne badri ko seb diya.
+21 Badri ke pass kitni cheezein hai?	do	13 14 19 20
+1 Priya gendh le aayi.
+2 Badri bagichey gaya.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Priya daftar mein gayi.
+5 Badri dhoodh le kar aaya.
+6 Badri ke pass kitni cheezein hai?	ek	5
+7 Mohit rasoi ghar mein gaya.
+8 Mohit daftar gaya.
+9 Badri ke pass kitni cheezein hai?	ek	5
+10 Priya galiyare mein gayi.
+11 Priya gendh chod aayi.
+12 Badri ke pass kitni cheezein hai?	ek	5
+13 Priya bagichey mein chali gayi.
+14 Sita galiyare gayi.
+15 Priya ke pass kitni cheezein hai?	shunya	1 11
+1 Priya bagichey mein gayi.
+2 Sita gusalkhane gayi.
+3 Badri galiyare mein chala gaya.
+4 Priya sayanakaksh gayi.
+5 Badri sayanakaksh gaya.
+6 Sita bagichey mein chali gayi.
+7 Priya bagichey mein chali gayi.
+8 Sita daftar mein chali gayi.
+9 Mohit seb le kar aaya.
+10 Mohit gusalkhane mein gaya.
+11 Mohit ke pass kitni cheezein hai?	ek	9
+12 Priya daftar mein chali gayi.
+13 Sita sayanakaksh gayi.
+14 Mohit ke pass kitni cheezein hai?	ek	9
+15 Sita gusalkhane mein gayi.
+16 Mohit rasoi ghar gaya.
+17 Badri bagichey mein chala gaya.
+18 Sita bagichey gayi.
+19 Priya gendh le aayi.
+20 Badri rasoi ghar mein gaya.
+21 Priya ke pass kitni cheezein hai?	ek	19
+22 Priya gendh rakh aayi.
+23 Priya gendh le aayi.
+24 Priya ke pass kitni cheezein hai?	ek	19 22 23
+25 Priya galiyare mein chali gayi.
+26 Mohit seb chod aaya.
+27 Priya ke pass kitni cheezein hai?	ek	19 22 23
+1 Mohit gendh le aaya.
+2 Sita rasoi ghar mein chali gayi.
+3 Mohit ke pass kitni cheezein hai?	ek	1
+4 Badri rasoi ghar gaya.
+5 Mohit galiyare gaya.
+6 Mohit ke pass kitni cheezein hai?	ek	1
+7 Mohit ne priya ko gendh di.
+8 Badri sayanakaksh gaya.
+9 Mohit ke pass kitni cheezein hai?	shunya	1 7
+10 Mohit gusalkhane gaya.
+11 Badri rasoi ghar mein chala gaya.
+12 Mohit ke pass kitni cheezein hai?	shunya	1 7
+13 Badri galiyare mein gaya.
+14 Priya ne badri ko gendh di.
+15 Priya ke pass kitni cheezein hai?	shunya	7 14
+1 Priya gusalkhane mein chali gayi.
+2 Sita gendh le kar aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Badri seb le aaya.
+5 Sita galiyare mein gayi.
+6 Badri ke pass kitni cheezein hai?	ek	4
+7 Sita gendh rakh aayi.
+8 Badri ne mohit ko seb diya.
+9 Sita ke pass kitni cheezein hai?	shunya	2 7
+10 Sita bagichey mein chali gayi.
+11 Badri galiyare mein chala gaya.
+12 Sita ke pass kitni cheezein hai?	shunya	2 7
+13 Mohit ne priya ko seb diya.
+14 Priya ne mohit ko seb diya.
+15 Badri ke pass kitni cheezein hai?	shunya	4 8
+1 Badri sayanakaksh mein gaya.
+2 Priya gusalkhane gayi.
+3 Mohit bagichey gaya.
+4 Badri galiyare mein gaya.
+5 Sita daftar gayi.
+6 Mohit dhoodh le kar aaya.
+7 Mohit ke pass kitni cheezein hai?	ek	6
+8 Priya seb le kar aayi.
+9 Priya gendh le kar aayi.
+10 Priya ke pass kitni cheezein hai?	do	8 9
+11 Priya gendh chod aayi.
+12 Badri sayanakaksh mein gaya.
+13 Priya ke pass kitni cheezein hai?	ek	8 9 11
+14 Mohit dhoodh rakh aaya.
+15 Mohit galiyare gaya.
+16 Priya ke pass kitni cheezein hai?	ek	8 9 11
+17 Priya gendh le kar aayi.
+18 Priya galiyare mein gayi.
+19 Priya ke pass kitni cheezein hai?	do	8 9 11 17
+1 Sita seb le aayi.
+2 Badri gendh le aaya.
+3 Sita ke pass kitni cheezein hai?	ek	1
+4 Mohit daftar mein chala gaya.
+5 Sita seb rakh aayi.
+6 Sita ke pass kitni cheezein hai?	shunya	1 5
+7 Badri gendh rakh aaya.
+8 Badri daftar gaya.
+9 Badri ke pass kitni cheezein hai?	shunya	2 7
+10 Priya galiyare mein chali gayi.
+11 Mohit sayanakaksh mein gaya.
+12 Badri ke pass kitni cheezein hai?	shunya	2 7
+13 Badri bagichey mein chala gaya.
+14 Mohit dhoodh le aaya.
+15 Mohit ke pass kitni cheezein hai?	ek	14
+1 Badri seb le kar aaya.
+2 Badri ne mohit ko seb diya.
+3 Badri ke pass kitni cheezein hai?	shunya	1 2
+4 Mohit ne badri ko seb diya.
+5 Badri ne mohit ko seb diya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 2 4 5
+7 Mohit seb chod aaya.
+8 Sita daftar mein chali gayi.
+9 Badri ke pass kitni cheezein hai?	shunya	1 2 4 5
+10 Badri galiyare mein chala gaya.
+11 Mohit seb le kar aaya.
+12 Badri ke pass kitni cheezein hai?	shunya	1 2 4 5
+13 Mohit seb rakh aaya.
+14 Badri sayanakaksh gaya.
+15 Mohit ke pass kitni cheezein hai?	shunya	2 4 5 7 11 13
+1 Badri rasoi ghar mein chala gaya.
+2 Mohit daftar mein chala gaya.
+3 Mohit sayanakaksh mein gaya.
+4 Priya bagichey mein chali gayi.
+5 Mohit bagichey mein gaya.
+6 Badri gendh le aaya.
+7 Badri ke pass kitni cheezein hai?	ek	6
+8 Priya dhoodh le aayi.
+9 Priya ne mohit ko dhoodh diya.
+10 Priya ke pass kitni cheezein hai?	shunya	8 9
+11 Mohit ne priya ko dhoodh diya.
+12 Priya dhoodh rakh aayi.
+13 Mohit ke pass kitni cheezein hai?	shunya	9 11
+14 Sita seb le kar aayi.
+15 Badri gendh chod aaya.
+16 Badri ke pass kitni cheezein hai?	shunya	6 15
+17 Mohit rasoi ghar gaya.
+18 Sita daftar gayi.
+19 Priya ke pass kitni cheezein hai?	shunya	8 9 11 12
+1 Sita daftar mein chali gayi.
+2 Priya galiyare gayi.
+3 Priya dhoodh le aayi.
+4 Badri rasoi ghar mein gaya.
+5 Priya ke pass kitni cheezein hai?	ek	3
+6 Priya ne mohit ko dhoodh diya.
+7 Mohit ne priya ko dhoodh diya.
+8 Priya ke pass kitni cheezein hai?	ek	3 6 7
+9 Priya gusalkhane mein chali gayi.
+10 Badri sayanakaksh mein gaya.
+11 Priya ke pass kitni cheezein hai?	ek	3 6 7
+12 Badri seb le aaya.
+13 Sita gusalkhane mein gayi.
+14 Mohit ke pass kitni cheezein hai?	shunya	6 7
+15 Priya ne sita ko dhoodh diya.
+16 Sita ne priya ko dhoodh diya.
+17 Badri ke pass kitni cheezein hai?	ek	12
+1 Sita sayanakaksh mein gayi.
+2 Sita daftar gayi.
+3 Badri bagichey mein gaya.
+4 Mohit galiyare mein chala gaya.
+5 Mohit sayanakaksh gaya.
+6 Badri seb le kar aaya.
+7 Badri ke pass kitni cheezein hai?	ek	6
+8 Priya rasoi ghar mein gayi.
+9 Priya gendh le aayi.
+10 Priya ke pass kitni cheezein hai?	ek	9
+11 Badri seb rakh aaya.
+12 Sita dhoodh le kar aayi.
+13 Sita ke pass kitni cheezein hai?	ek	12
+14 Mohit bagichey mein chala gaya.
+15 Mohit rasoi ghar gaya.
+16 Priya ke pass kitni cheezein hai?	ek	9
+17 Priya gendh chod aayi.
+18 Mohit gendh le aaya.
+19 Priya ke pass kitni cheezein hai?	shunya	9 17
+1 Priya seb le kar aayi.
+2 Mohit sayanakaksh gaya.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Badri rasoi ghar gaya.
+5 Priya ne badri ko seb diya.
+6 Priya ke pass kitni cheezein hai?	shunya	1 5
+7 Badri ne priya ko seb diya.
+8 Mohit gendh le aaya.
+9 Badri ke pass kitni cheezein hai?	shunya	5 7
+10 Mohit gendh rakh aaya.
+11 Priya seb rakh aayi.
+12 Priya ke pass kitni cheezein hai?	shunya	1 5 7 11
+13 Mohit gendh le kar aaya.
+14 Sita gusalkhane mein gayi.
+15 Mohit ke pass kitni cheezein hai?	ek	8 10 13
+1 Sita sayanakaksh gayi.
+2 Mohit seb le kar aaya.
+3 Mohit ke pass kitni cheezein hai?	ek	2
+4 Mohit ne sita ko seb diya.
+5 Badri galiyare mein chala gaya.
+6 Mohit ke pass kitni cheezein hai?	shunya	2 4
+7 Sita bagichey mein chali gayi.
+8 Sita ne priya ko seb diya.
+9 Sita ke pass kitni cheezein hai?	shunya	4 8
+10 Sita daftar mein chali gayi.
+11 Badri gusalkhane mein chala gaya.
+12 Sita ke pass kitni cheezein hai?	shunya	4 8
+13 Priya daftar mein chali gayi.
+14 Priya seb chod aayi.
+15 Sita ke pass kitni cheezein hai?	shunya	4 8
+1 Priya dhoodh le aayi.
+2 Priya sayanakaksh mein gayi.
+3 Priya ke pass kitni cheezein hai?	ek	1
+4 Priya ne sita ko dhoodh diya.
+5 Sita ne priya ko dhoodh diya.
+6 Priya ke pass kitni cheezein hai?	ek	1 4 5
+7 Priya ne sita ko dhoodh diya.
+8 Mohit daftar mein chala gaya.
+9 Priya ke pass kitni cheezein hai?	shunya	1 4 5 7
+10 Priya daftar mein chali gayi.
+11 Sita ne badri ko dhoodh diya.
+12 Priya ke pass kitni cheezein hai?	shunya	1 4 5 7
+13 Badri ne sita ko dhoodh diya.
+14 Mohit rasoi ghar mein chala gaya.
+15 Badri ke pass kitni cheezein hai?	shunya	11 13
+1 Sita sayanakaksh mein chali gayi.
+2 Priya gusalkhane gayi.
+3 Sita rasoi ghar mein gayi.
+4 Badri rasoi ghar mein gaya.
+5 Sita gusalkhane mein gayi.
+6 Mohit daftar gaya.
+7 Mohit galiyare gaya.
+8 Badri galiyare mein gaya.
+9 Mohit daftar gaya.
+10 Badri daftar mein gaya.
+11 Priya bagichey gayi.
+12 Sita sayanakaksh mein chali gayi.
+13 Sita gendh le kar aayi.
+14 Mohit gusalkhane mein chala gaya.
+15 Sita ke pass kitni cheezein hai?	ek	13
+16 Sita bagichey mein chali gayi.
+17 Mohit daftar mein gaya.
+18 Sita ke pass kitni cheezein hai?	ek	13
+19 Sita ne priya ko gendh di.
+20 Badri rasoi ghar gaya.
+21 Sita ke pass kitni cheezein hai?	shunya	13 19
+22 Priya ne sita ko gendh di.
+23 Sita ne priya ko gendh di.
+24 Sita ke pass kitni cheezein hai?	shunya	13 19 22 23
+25 Sita gusalkhane mein gayi.
+26 Priya gendh rakh aayi.
+27 Priya ke pass kitni cheezein hai?	shunya	19 22 23 26
+1 Badri galiyare gaya.
+2 Sita gendh le aayi.
+3 Sita ke pass kitni cheezein hai?	ek	2
+4 Sita ne mohit ko gendh di.
+5 Badri dhoodh le aaya.
+6 Sita ke pass kitni cheezein hai?	shunya	2 4
+7 Sita bagichey mein gayi.
+8 Priya rasoi ghar mein chali gayi.
+9 Sita ke pass kitni cheezein hai?	shunya	2 4
+10 Badri seb le aaya.
+11 Badri sayanakaksh mein gaya.
+12 Badri ke pass kitni cheezein hai?	do	5 10
+13 Sita daftar mein chali gayi.
+14 Sita gusalkhane mein chali gayi.
+15 Badri ke pass kitni cheezein hai?	do	5 10
+1 Badri dhoodh le aaya.
+2 Badri dhoodh rakh aaya.
+3 Badri ke pass kitni cheezein hai?	shunya	1 2
+4 Priya rasoi ghar gayi.
+5 Mohit bagichey gaya.
+6 Badri ke pass kitni cheezein hai?	shunya	1 2
+7 Sita rasoi ghar mein gayi.
+8 Badri dhoodh le aaya.
+9 Badri ke pass kitni cheezein hai?	ek	1 2 8
+10 Priya bagichey gayi.
+11 Mohit galiyare mein gaya.
+12 Badri ke pass kitni cheezein hai?	ek	1 2 8
+13 Sita gendh le aayi.
+14 Sita gendh chod aayi.
+15 Sita ke pass kitni cheezein hai?	shunya	13 14

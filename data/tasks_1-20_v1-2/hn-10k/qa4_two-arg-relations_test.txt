@@ -1,0 +1,3000 @@
+1 Galiyara gusalkhaney ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	sayanakaksh	2
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	rasoi ghar	2
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	galiyara	2
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	2
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	daftar	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	gusalkhana	1
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	1
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Gusalkhana bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	gusalkhana	2
+1 Daftar rasoi ghar ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	daftar	1
+1 Bagicha galiyarey ki poorav disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	daftar	2
+1 Galiyara daftar ki uttar disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	galiyara	1
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Daftar rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	bagicha	1
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	rasoi ghar	2
+1 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	bagicha	2
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Sayanakaksh bagichey ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	daftar	1
+1 Gusalkhana bagichey ki uttar disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	gusalkhana	1
+1 Daftar galiyarey ki uttar disha mein hai.
+2 Galiyara gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	galiyara	2
+1 Gusalkhana rasoi ghar ki paschim disha mein hai.
+2 Gusalkhana daftar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	gusalkhana	1
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	2
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	bagicha	1
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	bagicha	2
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	bagicha	1
+1 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	sayanakaksh	1
+1 Daftar gusalkhaney ki paschim disha mein hai.
+2 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	sayanakaksh	2
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	daftar	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	gusalkhana	1
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	daftar	1
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	gusalkhana	2
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Gusalkhana daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	gusalkhana	2
+1 Gusalkhana bagichey ki poorav disha mein hai.
+2 Daftar bagichey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	gusalkhana	1
+1 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+2 Daftar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	daftar	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki poorav disha mein hai.
+3 Galiyara kiske poorav mein hai?	rasoi ghar	1
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	2
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	sayanakaksh	1
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	sayanakaksh	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	gusalkhana	1
+1 Galiyara daftar ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	gusalkhana	2
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	sayanakaksh	2
+1 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	gusalkhana	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	daftar	2
+1 Gusalkhana galiyarey ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	1
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	2
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	rasoi ghar	1
+1 Gusalkhana bagichey ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki dakshin disha mein hai.
+3 Bagicha ke uttar mein kya hai?	gusalkhana	1
+1 Bagicha daftar ki poorav disha mein hai.
+2 Galiyara daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	galiyara	2
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	galiyara	2
+1 Daftar bagichey ki dakshin disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	daftar	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	bagicha	2
+1 Bagicha galiyarey ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	bagicha	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	1
+1 Sayanakaksh galiyarey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	bagicha	2
+1 Daftar bagichey ki poorav disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	gusalkhana	2
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	sayanakaksh	2
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	gusalkhana	2
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	1
+1 Galiyara bagichey ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	sayanakaksh	2
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	galiyara	1
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Bagicha kiske poorav mein hai?	galiyara	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha ke paschim mein kya hai?	gusalkhana	1
+1 Galiyara gusalkhaney ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	galiyara	1
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	daftar	1
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	bagicha	1
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Bagicha galiyarey ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	galiyara	1
+1 Bagicha daftar ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	1
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	2
+1 Sayanakaksh galiyarey ki paschim disha mein hai.
+2 Gusalkhana sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	gusalkhana	2
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	daftar	2
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	rasoi ghar	1
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske dakshin mein hai?	gusalkhana	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	gusalkhana	2
+1 Daftar bagichey ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	1
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Galiyara bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	galiyara	2
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Gusalkhana daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	gusalkhana	2
+1 Galiyara daftar ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	galiyara	1
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	galiyara	1
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	galiyara	2
+1 Bagicha daftar ki dakshin disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	gusalkhana	2
+1 Rasoi ghar bagichey ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	gusalkhana	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	2
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	bagicha	2
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	sayanakaksh	2
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	galiyara	1
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	daftar	2
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	gusalkhana	2
+1 Gusalkhana daftar ki uttar disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	bagicha	2
+1 Galiyara bagichey ki dakshin disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	bagicha	2
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	2
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	rasoi ghar	2
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	sayanakaksh	2
+1 Galiyara daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	galiyara	1
+1 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	daftar	2
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Daftar ke poorav mein kya hai?	sayanakaksh	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	bagicha	1
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	bagicha	2
+1 Galiyara bagichey ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	2
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	rasoi ghar	1
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Daftar rasoi ghar ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	rasoi ghar	1
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	gusalkhana	1
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Daftar bagichey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	daftar	2
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	bagicha	1
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Galiyara bagichey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	rasoi ghar	1
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	gusalkhana	1
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	bagicha	1
+1 Sayanakaksh galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	sayanakaksh	2
+1 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	sayanakaksh	1
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar kiske dakshin mein hai?	rasoi ghar	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	2
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	galiyara	1
+1 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	bagicha	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	2
+1 Gusalkhana rasoi ghar ki paschim disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	gusalkhana	1
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	daftar	1
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Daftar galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	daftar	2
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	bagicha	2
+1 Bagicha galiyarey ki paschim disha mein hai.
+2 Daftar bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	daftar	2
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Daftar galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	daftar	2
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	bagicha	2
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Daftar galiyarey ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	rasoi ghar	1
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Rasoi ghar daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	rasoi ghar	2
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Gusalkhana sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	gusalkhana	2
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	galiyara	2
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	rasoi ghar	2
+1 Daftar gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	daftar	1
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	galiyara	2
+1 Bagicha rasoi ghar ki uttar disha mein hai.
+2 Daftar rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	daftar	2
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	bagicha	1
+1 Sayanakaksh galiyarey ki paschim disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	2
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	rasoi ghar	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	gusalkhana	1
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	galiyara	2
+1 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	gusalkhana	2
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	rasoi ghar	1
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	gusalkhana	1
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	galiyara	1
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	sayanakaksh	2
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	rasoi ghar	1
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	galiyara	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	bagicha	1
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	1
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Bagicha ke uttar mein kya hai?	rasoi ghar	1
+1 Daftar rasoi ghar ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	gusalkhana	2
+1 Gusalkhana rasoi ghar ki uttar disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	bagicha	2
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	bagicha	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	bagicha	2
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	rasoi ghar	1
+1 Rasoi ghar galiyarey ki uttar disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	bagicha	2
+1 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	galiyara	2
+1 Rasoi ghar gusalkhaney ki poorav disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	daftar	2
+1 Daftar galiyarey ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Galiyara ke uttar mein kya hai?	daftar	1
+1 Gusalkhana galiyarey ki poorav disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	gusalkhana	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	galiyara	2
+1 Rasoi ghar bagichey ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	gusalkhana	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	rasoi ghar	2
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	galiyara	2
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	2
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	1
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	galiyara	1
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh daftar ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	bagicha	1
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	sayanakaksh	1
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	sayanakaksh	1
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	sayanakaksh	1
+1 Galiyara gusalkhaney ki poorav disha mein hai.
+2 Bagicha gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	bagicha	2
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara kiske paschim mein hai?	daftar	1
+1 Daftar gusalkhaney ki paschim disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	bagicha	2
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	rasoi ghar	2
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	galiyara	2
+1 Daftar bagichey ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Bagicha kiske dakshin mein hai?	daftar	1
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Galiyara daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	galiyara	2
+1 Bagicha galiyarey ki paschim disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	bagicha	2
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	daftar	1
+1 Gusalkhana galiyarey ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	1
+1 Daftar rasoi ghar ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	daftar	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	galiyara	2
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	galiyara	1
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	daftar	2
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	bagicha	2
+1 Galiyara daftar ki poorav disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	galiyara	1
+1 Daftar rasoi ghar ki poorav disha mein hai.
+2 Gusalkhana daftar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	daftar	1
+1 Bagicha daftar ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	bagicha	2
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	galiyara	2
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	galiyara	1
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	galiyara	1
+1 Daftar bagichey ki paschim disha mein hai.
+2 Gusalkhana bagichey ki poorav disha mein hai.
+3 Bagicha kiske poorav mein hai?	daftar	1
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Bagicha daftar ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	daftar	1
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	sayanakaksh	2
+1 Bagicha daftar ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	gusalkhana	2
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	bagicha	2
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Daftar rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	bagicha	1
+1 Gusalkhana daftar ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	2
+1 Gusalkhana rasoi ghar ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	gusalkhana	1
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	sayanakaksh	1
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Galiyara daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	galiyara	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	galiyara	2
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	bagicha	2
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	daftar	1
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	bagicha	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Daftar ke paschim mein kya hai?	sayanakaksh	1
+1 Bagicha galiyarey ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	sayanakaksh	2
+1 Daftar rasoi ghar ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	daftar	1
+1 Bagicha galiyarey ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	bagicha	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	rasoi ghar	2
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Daftar kiske poorav mein hai?	gusalkhana	1
+1 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	1
+1 Daftar gusalkhaney ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	daftar	1
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	2
+1 Bagicha daftar ki paschim disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	bagicha	1
+1 Daftar bagichey ki uttar disha mein hai.
+2 Galiyara bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	galiyara	2
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Bagicha daftar ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	2
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	gusalkhana	1
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	daftar	2
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	daftar	1
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	gusalkhana	2
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	2
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	gusalkhana	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Gusalkhana galiyarey ki uttar disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	bagicha	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	bagicha	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Daftar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	bagicha	1
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	rasoi ghar	2
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	rasoi ghar	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	bagicha	2
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	daftar	2
+1 Rasoi ghar bagichey ki paschim disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Bagicha ke paschim mein kya hai?	rasoi ghar	1
+1 Galiyara rasoi ghar ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	gusalkhana	2
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	rasoi ghar	2
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Galiyara bagichey ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	bagicha	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	rasoi ghar	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	galiyara	2
+1 Galiyara bagichey ki dakshin disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Bagicha kiske uttar mein hai?	galiyara	1
+1 Gusalkhana daftar ki uttar disha mein hai.
+2 Galiyara gusalkhaney ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	gusalkhana	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	gusalkhana	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	daftar	2
+1 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	sayanakaksh	2
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Daftar sayanakaksh ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	sayanakaksh	1
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	rasoi ghar	1
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	2
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	rasoi ghar	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	sayanakaksh	2
+1 Rasoi ghar galiyarey ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	gusalkhana	2
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	bagicha	2
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	sayanakaksh	2
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	rasoi ghar	2
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	sayanakaksh	2
+1 Bagicha daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	1
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	galiyara	1
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Rasoi ghar daftar ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	galiyara	1
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	galiyara	2
+1 Daftar gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	rasoi ghar	2
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	rasoi ghar	2
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	bagicha	1
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki poorav disha mein hai.
+3 Daftar kiske poorav mein hai?	gusalkhana	1
+1 Gusalkhana galiyarey ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	gusalkhana	1
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	bagicha	2
+1 Rasoi ghar gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	gusalkhana	2
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	2
+1 Daftar galiyarey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	bagicha	2
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	bagicha	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	gusalkhana	1
+1 Galiyara daftar ki uttar disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar kiske dakshin mein hai?	galiyara	1
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Daftar kiske dakshin mein hai?	rasoi ghar	1
+1 Gusalkhana bagichey ki poorav disha mein hai.
+2 Daftar bagichey ki paschim disha mein hai.
+3 Bagicha ke poorav mein kya hai?	gusalkhana	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	daftar	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	bagicha	1
+1 Rasoi ghar bagichey ki paschim disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	rasoi ghar	1
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	1
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	gusalkhana	1
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	gusalkhana	2
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	bagicha	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	galiyara	2
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	galiyara	1
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	rasoi ghar	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	gusalkhana	2
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	gusalkhana	2
+1 Daftar gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	daftar	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	gusalkhana	1
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	rasoi ghar	2
+1 Bagicha rasoi ghar ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	2
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	rasoi ghar	1
+1 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	sayanakaksh	1
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	2
+1 Rasoi ghar bagichey ki poorav disha mein hai.
+2 Daftar bagichey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	rasoi ghar	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	bagicha	2
+1 Galiyara bagichey ki dakshin disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	galiyara	1
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	bagicha	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Bagicha daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	bagicha	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Daftar bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	2
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	bagicha	2
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	2
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	1
+1 Daftar rasoi ghar ki dakshin disha mein hai.
+2 Daftar gusalkhaney ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	daftar	1
+1 Gusalkhana daftar ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	sayanakaksh	2
+1 Daftar gusalkhaney ki dakshin disha mein hai.
+2 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	daftar	1
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	1
+1 Rasoi ghar daftar ki poorav disha mein hai.
+2 Sayanakaksh daftar ki paschim disha mein hai.
+3 Daftar ke poorav mein kya hai?	rasoi ghar	1
+1 Bagicha rasoi ghar ki poorav disha mein hai.
+2 Galiyara rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	1
+1 Daftar gusalkhaney ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	daftar	1
+1 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	sayanakaksh	1
+1 Galiyara daftar ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	galiyara	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	gusalkhana	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	galiyara	2
+1 Gusalkhana daftar ki poorav disha mein hai.
+2 Daftar bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	daftar	2
+1 Bagicha sayanakaksh ki paschim disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	bagicha	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	galiyara	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	bagicha	1
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	2
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	bagicha	2
+1 Rasoi ghar bagichey ki dakshin disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	daftar	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Bagicha daftar ki poorav disha mein hai.
+3 Daftar kiske poorav mein hai?	sayanakaksh	1
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	gusalkhana	2
+1 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	gusalkhana	1
+1 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	rasoi ghar	2
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	galiyara	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	daftar	1
+1 Daftar galiyarey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	daftar	1
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Daftar bagichey ki paschim disha mein hai.
+3 Bagicha ke poorav mein kya hai?	sayanakaksh	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	2
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Gusalkhana sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	gusalkhana	2
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	galiyara	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	gusalkhana	1
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	daftar	2
+1 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana bagichey ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	sayanakaksh	1
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	sayanakaksh	1
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	sayanakaksh	1
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	bagicha	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	gusalkhana	1
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	daftar	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	bagicha	1
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	gusalkhana	1
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	sayanakaksh	2
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	2
+1 Bagicha rasoi ghar ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	2
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	daftar	2
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	gusalkhana	2
+1 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	sayanakaksh	1
+1 Galiyara daftar ki paschim disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	galiyara	1
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	daftar	2
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Daftar rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	daftar	2
+1 Bagicha daftar ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	galiyara	2
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	rasoi ghar	2
+1 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	galiyara	2
+1 Daftar bagichey ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	rasoi ghar	2
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	gusalkhana	2
+1 Daftar bagichey ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	daftar	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	rasoi ghar	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Bagicha daftar ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	1
+1 Galiyara rasoi ghar ki poorav disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	galiyara	1
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	galiyara	2
+1 Rasoi ghar bagichey ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	sayanakaksh	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	daftar	1
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar daftar ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	1
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	gusalkhana	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	rasoi ghar	1
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	galiyara	2
+1 Rasoi ghar daftar ki paschim disha mein hai.
+2 Sayanakaksh daftar ki poorav disha mein hai.
+3 Daftar ke paschim mein kya hai?	rasoi ghar	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	rasoi ghar	2
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske dakshin mein hai?	gusalkhana	1
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	galiyara	1
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	galiyara	1
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Gusalkhana sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	gusalkhana	2
+1 Galiyara daftar ki paschim disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	daftar	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	galiyara	1
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	sayanakaksh	2
+1 Gusalkhana bagichey ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	gusalkhana	1
+1 Gusalkhana galiyarey ki paschim disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	gusalkhana	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki uttar disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	1
+1 Gusalkhana galiyarey ki paschim disha mein hai.
+2 Bagicha galiyarey ki poorav disha mein hai.
+3 Galiyara kiske poorav mein hai?	gusalkhana	1
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	2
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	daftar	2
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	gusalkhana	1
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	gusalkhana	1
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	rasoi ghar	1
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	sayanakaksh	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	rasoi ghar	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	daftar	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Rasoi ghar daftar ki paschim disha mein hai.
+3 Daftar ke poorav mein kya hai?	bagicha	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	sayanakaksh	2
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	gusalkhana	2
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Sayanakaksh bagichey ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	bagicha	1
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Daftar gusalkhaney ki uttar disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	daftar	1
+1 Bagicha sayanakaksh ki paschim disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	1
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	galiyara	1
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	bagicha	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	sayanakaksh	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	bagicha	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	2
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	bagicha	1
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	bagicha	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Gusalkhana daftar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	gusalkhana	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Sayanakaksh daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	sayanakaksh	2
+1 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	2
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	daftar	2
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	bagicha	2
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	2
+1 Galiyara daftar ki uttar disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	galiyara	1
+1 Bagicha galiyarey ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara kiske paschim mein hai?	bagicha	1
+1 Daftar bagichey ki paschim disha mein hai.
+2 Gusalkhana daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	gusalkhana	2
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	sayanakaksh	1
+1 Sayanakaksh galiyarey ki dakshin disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	bagicha	2
+1 Daftar galiyarey ki dakshin disha mein hai.
+2 Gusalkhana galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	daftar	1
+1 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	bagicha	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	rasoi ghar	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	1
+1 Gusalkhana daftar ki poorav disha mein hai.
+2 Sayanakaksh daftar ki paschim disha mein hai.
+3 Daftar kiske paschim mein hai?	gusalkhana	1
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	galiyara	2
+1 Daftar gusalkhaney ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	rasoi ghar	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	rasoi ghar	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Gusalkhana rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	gusalkhana	2
+1 Daftar bagichey ki uttar disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	daftar	1
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	galiyara	2
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	gusalkhana	2
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	gusalkhana	2
+1 Daftar galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	daftar	1
+1 Daftar rasoi ghar ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	gusalkhana	2
+1 Sayanakaksh galiyarey ki dakshin disha mein hai.
+2 Daftar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	daftar	2
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	rasoi ghar	2
+1 Daftar bagichey ki poorav disha mein hai.
+2 Galiyara bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	galiyara	2
+1 Rasoi ghar bagichey ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	bagicha	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Daftar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	daftar	2
+1 Gusalkhana galiyarey ki poorav disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	galiyara	2
+1 Gusalkhana daftar ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	gusalkhana	1
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	2
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	bagicha	2
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	galiyara	1
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	1
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	rasoi ghar	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	rasoi ghar	2
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	bagicha	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	bagicha	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	rasoi ghar	2
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Gusalkhana sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	gusalkhana	2
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	rasoi ghar	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	daftar	2
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	1
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	sayanakaksh	2
+1 Galiyara daftar ki poorav disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	daftar	2
+1 Daftar bagichey ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki poorav disha mein hai.
+3 Bagicha kiske poorav mein hai?	daftar	1
+1 Galiyara daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	galiyara	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	2
+1 Daftar rasoi ghar ki paschim disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	daftar	1
+1 Rasoi ghar bagichey ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	gusalkhana	2
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Galiyara bagichey ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	bagicha	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	sayanakaksh	2
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	daftar	1
+1 Daftar gusalkhaney ki uttar disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	galiyara	2
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	daftar	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	gusalkhana	2
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	gusalkhana	1
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	galiyara	1
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	2
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	galiyara	1
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	1
+1 Rasoi ghar daftar ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki poorav disha mein hai.
+3 Daftar ke paschim mein kya hai?	rasoi ghar	1
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	sayanakaksh	2
+1 Gusalkhana bagichey ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	2
+1 Gusalkhana galiyarey ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	rasoi ghar	2
+1 Bagicha daftar ki paschim disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	daftar	2
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Daftar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	daftar	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	bagicha	1
+1 Bagicha daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	2
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	galiyara	2
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	rasoi ghar	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	rasoi ghar	1
+1 Galiyara bagichey ki dakshin disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Bagicha kiske uttar mein hai?	galiyara	1
+1 Galiyara gusalkhaney ki poorav disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	galiyara	1
+1 Galiyara gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	gusalkhana	2
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Rasoi ghar daftar ki paschim disha mein hai.
+3 Daftar ke poorav mein kya hai?	sayanakaksh	1
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	galiyara	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	gusalkhana	1
+1 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	gusalkhana	2
+1 Bagicha daftar ki dakshin disha mein hai.
+2 Daftar rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	daftar	2
+1 Rasoi ghar bagichey ki poorav disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	rasoi ghar	1
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	galiyara	1
+1 Gusalkhana galiyarey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	bagicha	2
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	galiyara	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	1
+1 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	sayanakaksh	1
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	sayanakaksh	2
+1 Daftar galiyarey ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	galiyara	2
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	gusalkhana	2
+1 Rasoi ghar daftar ki poorav disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	rasoi ghar	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	gusalkhana	1
+1 Gusalkhana galiyarey ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	galiyara	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	galiyara	2
+1 Bagicha rasoi ghar ki poorav disha mein hai.
+2 Galiyara rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	bagicha	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Bagicha galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	bagicha	2
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	galiyara	2
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	rasoi ghar	1
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	sayanakaksh	1
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	1
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	bagicha	2
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	gusalkhana	2
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	sayanakaksh	2
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	rasoi ghar	1
+1 Galiyara bagichey ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	bagicha	2
+1 Gusalkhana galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	sayanakaksh	2
+1 Sayanakaksh galiyarey ki paschim disha mein hai.
+2 Sayanakaksh daftar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	sayanakaksh	2
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	rasoi ghar	2
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	bagicha	2
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	rasoi ghar	1
+1 Gusalkhana bagichey ki uttar disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Bagicha kiske dakshin mein hai?	gusalkhana	1
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Daftar galiyarey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	galiyara	1
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	sayanakaksh	1
+1 Galiyara daftar ki poorav disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Daftar ke poorav mein kya hai?	galiyara	1
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	bagicha	1
+1 Bagicha daftar ki uttar disha mein hai.
+2 Sayanakaksh daftar ki dakshin disha mein hai.
+3 Daftar kiske dakshin mein hai?	bagicha	1
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	rasoi ghar	1
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	daftar	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Galiyara bagichey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	rasoi ghar	1
+1 Gusalkhana rasoi ghar ki paschim disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	gusalkhana	1
+1 Bagicha daftar ki dakshin disha mein hai.
+2 Daftar galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	daftar	2
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	gusalkhana	1
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	sayanakaksh	2
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	rasoi ghar	2
+1 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	rasoi ghar	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	sayanakaksh	2
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	bagicha	2
+1 Gusalkhana bagichey ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+3 Bagicha ke uttar mein kya hai?	gusalkhana	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	daftar	1
+1 Bagicha daftar ki paschim disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	bagicha	1
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	galiyara	1
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	galiyara	1
+1 Bagicha rasoi ghar ki poorav disha mein hai.
+2 Gusalkhana rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	bagicha	1
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara kiske paschim mein hai?	sayanakaksh	1
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	gusalkhana	1
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	galiyara	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	bagicha	2
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	rasoi ghar	2
+1 Bagicha galiyarey ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	1
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	2
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Sayanakaksh daftar ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	sayanakaksh	1
+1 Sayanakaksh galiyarey ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	rasoi ghar	2
+1 Galiyara daftar ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	galiyara	2
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	galiyara	2
+1 Daftar rasoi ghar ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	rasoi ghar	2
+1 Gusalkhana bagichey ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	gusalkhana	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	bagicha	1
+1 Daftar galiyarey ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	daftar	1
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Daftar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	galiyara	1
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	sayanakaksh	2
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Sayanakaksh daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	sayanakaksh	2
+1 Gusalkhana galiyarey ki poorav disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	rasoi ghar	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Daftar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	bagicha	1
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki poorav disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	galiyara	1
+1 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	rasoi ghar	1
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	daftar	1
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	gusalkhana	1
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	daftar	2
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	bagicha	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	bagicha	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	1
+1 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	rasoi ghar	2
+1 Bagicha daftar ki uttar disha mein hai.
+2 Rasoi ghar daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	rasoi ghar	2
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	galiyara	2
+1 Bagicha galiyarey ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	1
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	1
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Sayanakaksh daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	sayanakaksh	2
+1 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	sayanakaksh	1
+1 Daftar gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	2
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	sayanakaksh	1
+1 Gusalkhana rasoi ghar ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	gusalkhana	1
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	daftar	2
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	rasoi ghar	1
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	sayanakaksh	1
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	2
+1 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	daftar	2
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	bagicha	1
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	rasoi ghar	1
+1 Daftar gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	daftar	1
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Daftar rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	daftar	2
+1 Rasoi ghar galiyarey ki uttar disha mein hai.
+2 Daftar galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	daftar	2
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	sayanakaksh	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Bagicha galiyarey ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	rasoi ghar	1
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	daftar	1
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	rasoi ghar	2
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	bagicha	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	galiyara	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	daftar	1
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Daftar ke paschim mein kya hai?	sayanakaksh	1
+1 Gusalkhana rasoi ghar ki uttar disha mein hai.
+2 Daftar rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	daftar	2
+1 Daftar rasoi ghar ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	gusalkhana	2
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	daftar	1
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	gusalkhana	2
+1 Galiyara daftar ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	galiyara	2
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	sayanakaksh	2
+1 Bagicha daftar ki paschim disha mein hai.
+2 Sayanakaksh daftar ki poorav disha mein hai.
+3 Daftar kiske poorav mein hai?	bagicha	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	sayanakaksh	2
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	gusalkhana	2
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	rasoi ghar	2
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	bagicha	2
+1 Daftar galiyarey ki uttar disha mein hai.
+2 Galiyara gusalkhaney ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	daftar	1
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	rasoi ghar	2
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Galiyara kiske dakshin mein hai?	sayanakaksh	1
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha kiske dakshin mein hai?	rasoi ghar	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	gusalkhana	1
+1 Rasoi ghar bagichey ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske uttar mein hai?	rasoi ghar	1
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Rasoi ghar daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	rasoi ghar	2
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	gusalkhana	1
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	galiyara	1
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	bagicha	2
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	sayanakaksh	2
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	daftar	2
+1 Bagicha daftar ki paschim disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	daftar	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Daftar galiyarey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	1
+1 Sayanakaksh galiyarey ki paschim disha mein hai.
+2 Daftar galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	daftar	2
+1 Bagicha daftar ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar kiske dakshin mein hai?	bagicha	1
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Gusalkhana sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	daftar	1
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	sayanakaksh	2
+1 Galiyara daftar ki paschim disha mein hai.
+2 Bagicha daftar ki poorav disha mein hai.
+3 Daftar ke paschim mein kya hai?	galiyara	1
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	gusalkhana	2
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	2
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	rasoi ghar	1
+1 Bagicha daftar ki uttar disha mein hai.
+2 Daftar rasoi ghar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	bagicha	1
+1 Bagicha daftar ki dakshin disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	bagicha	1
+1 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	daftar	2
+1 Rasoi ghar daftar ki poorav disha mein hai.
+2 Sayanakaksh daftar ki paschim disha mein hai.
+3 Daftar ke poorav mein kya hai?	rasoi ghar	1
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	daftar	2
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	sayanakaksh	2
+1 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	gusalkhana	2
+1 Rasoi ghar bagichey ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Bagicha kiske uttar mein hai?	rasoi ghar	1
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	sayanakaksh	2
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	sayanakaksh	1
+1 Gusalkhana galiyarey ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	gusalkhana	1
+1 Daftar sayanakaksh ki dakshin disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	bagicha	2
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	sayanakaksh	1
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	rasoi ghar	2
+1 Daftar rasoi ghar ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	daftar	1
+1 Rasoi ghar bagichey ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	rasoi ghar	1
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Daftar rasoi ghar ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	sayanakaksh	1
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	rasoi ghar	1
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	bagicha	2
+1 Galiyara daftar ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	sayanakaksh	2
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	daftar	1
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	galiyara	2
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Gusalkhana sayanakaksh ki poorav disha mein hai.
+3 Bagicha kiske poorav mein hai?	gusalkhana	1
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	galiyara	1
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	sayanakaksh	1
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	gusalkhana	1
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha kiske dakshin mein hai?	sayanakaksh	1
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	bagicha	1
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Daftar galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	daftar	2
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	bagicha	2
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	sayanakaksh	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Daftar bagichey ki poorav disha mein hai.
+3 Bagicha ke paschim mein kya hai?	galiyara	1
+1 Gusalkhana daftar ki poorav disha mein hai.
+2 Galiyara gusalkhaney ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	gusalkhana	1
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	daftar	1
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	bagicha	2
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Bagicha rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	bagicha	2
+1 Sayanakaksh bagichey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	sayanakaksh	1
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	rasoi ghar	2
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	rasoi ghar	1
+1 Bagicha gusalkhaney ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	daftar	2
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	1
+1 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	bagicha	2
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	sayanakaksh	1
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki poorav disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	galiyara	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	daftar	1
+1 Daftar bagichey ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	daftar	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	galiyara	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	2
+1 Bagicha daftar ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	bagicha	1
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	2
+1 Rasoi ghar bagichey ki poorav disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	rasoi ghar	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	gusalkhana	1
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	sayanakaksh	1
+1 Gusalkhana bagichey ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	gusalkhana	1
+1 Bagicha rasoi ghar ki poorav disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	galiyara	2
+1 Daftar gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	gusalkhana	2
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	gusalkhana	1
+1 Daftar rasoi ghar ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	sayanakaksh	2
+1 Daftar bagichey ki poorav disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	1
+1 Daftar rasoi ghar ki dakshin disha mein hai.
+2 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	sayanakaksh	2
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Galiyara gusalkhaney ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	bagicha	1
+1 Bagicha galiyarey ki poorav disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Galiyara kiske paschim mein hai?	bagicha	1
+1 Daftar gusalkhaney ki paschim disha mein hai.
+2 Galiyara daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	galiyara	2
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	rasoi ghar	1
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	sayanakaksh	1
+1 Galiyara daftar ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	gusalkhana	2
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Rasoi ghar daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	rasoi ghar	2
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	gusalkhana	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	1
+1 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+2 Gusalkhana rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	gusalkhana	2
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	rasoi ghar	1
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	galiyara	1
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Daftar kiske poorav mein hai?	sayanakaksh	1
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	gusalkhana	1
+1 Rasoi ghar daftar ki poorav disha mein hai.
+2 Gusalkhana daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	gusalkhana	2
+1 Sayanakaksh galiyarey ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	sayanakaksh	1
+1 Daftar gusalkhaney ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	bagicha	2
+1 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	sayanakaksh	1
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Rasoi ghar daftar ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	daftar	1
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Rasoi ghar daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	rasoi ghar	2
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	sayanakaksh	2
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	1
+1 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	1
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	daftar	2
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha kiske poorav mein hai?	sayanakaksh	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Galiyara daftar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	galiyara	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	1
+1 Galiyara daftar ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	galiyara	2
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	gusalkhana	1
+1 Gusalkhana daftar ki poorav disha mein hai.
+2 Daftar galiyarey ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	gusalkhana	1
+1 Gusalkhana bagichey ki poorav disha mein hai.
+2 Bagicha daftar ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	bagicha	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	rasoi ghar	1
+1 Daftar bagichey ki uttar disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	bagicha	1
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	rasoi ghar	1
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	galiyara	1
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	sayanakaksh	1
+1 Bagicha gusalkhaney ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	rasoi ghar	2
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	gusalkhana	2
+1 Galiyara rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	rasoi ghar	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	sayanakaksh	2
+1 Galiyara bagichey ki poorav disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	sayanakaksh	2
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	sayanakaksh	2
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Daftar rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	daftar	2
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Daftar galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske dakshin mein hai?	sayanakaksh	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	gusalkhana	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Galiyara bagichey ki paschim disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	1
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Galiyara bagichey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	sayanakaksh	1
+1 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	daftar	2
+1 Gusalkhana galiyarey ki poorav disha mein hai.
+2 Gusalkhana sayanakaksh ki paschim disha mein hai.
+3 Galiyara kiske paschim mein hai?	gusalkhana	1
+1 Galiyara daftar ki uttar disha mein hai.
+2 Rasoi ghar daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	rasoi ghar	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Daftar bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	daftar	2
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	rasoi ghar	2
+1 Galiyara rasoi ghar ki poorav disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	galiyara	1
+1 Gusalkhana galiyarey ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	gusalkhana	1
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	sayanakaksh	1
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	daftar	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Daftar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	bagicha	1
+1 Daftar bagichey ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	2
+1 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+2 Bagicha sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	bagicha	2
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	rasoi ghar	2
+1 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	daftar	2
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Daftar galiyarey ki dakshin disha mein hai.
+3 Galiyara ke uttar mein kya hai?	sayanakaksh	1
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	galiyara	1
+1 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	sayanakaksh	1
+1 Bagicha rasoi ghar ki poorav disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	1
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	sayanakaksh	1
+1 Rasoi ghar galiyarey ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske dakshin mein hai?	rasoi ghar	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	gusalkhana	2
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	daftar	2
+1 Bagicha rasoi ghar ki uttar disha mein hai.
+2 Rasoi ghar daftar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	bagicha	1
+1 Sayanakaksh bagichey ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	sayanakaksh	1
+1 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+2 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	rasoi ghar	1
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	galiyara	1
+1 Galiyara daftar ki poorav disha mein hai.
+2 Rasoi ghar galiyarey ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	rasoi ghar	2
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	gusalkhana	2
+1 Daftar gusalkhaney ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	daftar	1
+1 Daftar rasoi ghar ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	daftar	1
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	bagicha	2
+1 Galiyara sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	galiyara	1
+1 Rasoi ghar daftar ki uttar disha mein hai.
+2 Rasoi ghar galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	rasoi ghar	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Rasoi ghar daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	rasoi ghar	2
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	gusalkhana	2
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	galiyara	1
+1 Gusalkhana bagichey ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	sayanakaksh	2
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	galiyara	1
+1 Bagicha gusalkhaney ki paschim disha mein hai.
+2 Daftar bagichey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	daftar	2
+1 Gusalkhana rasoi ghar ki paschim disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	galiyara	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	1
+1 Galiyara bagichey ki poorav disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Bagicha kiske paschim mein hai?	galiyara	1
+1 Daftar bagichey ki paschim disha mein hai.
+2 Sayanakaksh daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	sayanakaksh	2
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Sayanakaksh daftar ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	daftar	1
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	gusalkhana	1
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	bagicha	1
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	bagicha	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Daftar ke poorav mein kya hai?	bagicha	1
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Bagicha galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	bagicha	2
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	rasoi ghar	2
+1 Gusalkhana galiyarey ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	bagicha	2
+1 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	bagicha	2
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	gusalkhana	2
+1 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	sayanakaksh	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Galiyara rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	galiyara	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Bagicha daftar ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki poorav disha mein hai.
+3 Bagicha ke paschim mein kya hai?	galiyara	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	gusalkhana	1
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh daftar ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	1
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	sayanakaksh	2
+1 Gusalkhana galiyarey ki poorav disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	daftar	2
+1 Daftar galiyarey ki poorav disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	galiyara	2
+1 Bagicha gusalkhaney ki paschim disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	2
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Sayanakaksh daftar ki poorav disha mein hai.
+3 Daftar ke paschim mein kya hai?	gusalkhana	1
+1 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	daftar	2
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Gusalkhana sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	gusalkhana	2
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki dakshin disha mein hai.
+3 Bagicha kiske dakshin mein hai?	rasoi ghar	1
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Sayanakaksh bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	sayanakaksh	2
+1 Galiyara bagichey ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki uttar disha mein hai.
+3 Bagicha kiske uttar mein hai?	galiyara	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	gusalkhana	1
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	galiyara	2
+1 Bagicha rasoi ghar ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	galiyara	2
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	daftar	1
+1 Rasoi ghar daftar ki dakshin disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Daftar ke dakshin mein kya hai?	rasoi ghar	1
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	bagicha	2
+1 Rasoi ghar bagichey ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	bagicha	2
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Gusalkhana sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	gusalkhana	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	bagicha	1
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	galiyara	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	galiyara	2
+1 Gusalkhana daftar ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	gusalkhana	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	rasoi ghar	2
+1 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	sayanakaksh	1
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	sayanakaksh	1
+1 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	daftar	2
+1 Galiyara daftar ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki dakshin disha mein hai.
+3 Galiyara kiske uttar mein hai?	rasoi ghar	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	2
+1 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	rasoi ghar	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	gusalkhana	1
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	rasoi ghar	2
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Bagicha gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	bagicha	2
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	gusalkhana	2
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	galiyara	1
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki uttar disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Daftar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	daftar	2
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Bagicha daftar ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	bagicha	2
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	daftar	2
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	rasoi ghar	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	gusalkhana	2
+1 Galiyara sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske poorav mein hai?	bagicha	2
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Rasoi ghar galiyarey ki dakshin disha mein hai.
+3 Galiyara ke uttar mein kya hai?	bagicha	1
+1 Daftar rasoi ghar ki paschim disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	daftar	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	daftar	2
+1 Rasoi ghar bagichey ki paschim disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	2
+1 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	gusalkhana	2
+1 Gusalkhana galiyarey ki paschim disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	gusalkhana	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	sayanakaksh	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Daftar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	daftar	2
+1 Gusalkhana galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	sayanakaksh	2
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Rasoi ghar daftar ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	daftar	1
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	rasoi ghar	1
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Rasoi ghar daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	rasoi ghar	2
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Galiyara rasoi ghar ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	bagicha	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	daftar	1
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	rasoi ghar	2
+1 Sayanakaksh daftar ki uttar disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Daftar kiske dakshin mein hai?	sayanakaksh	1
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Rasoi ghar daftar ki uttar disha mein hai.
+3 Daftar kiske uttar mein hai?	gusalkhana	1
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	gusalkhana	1
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	galiyara	2
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Bagicha galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	bagicha	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	rasoi ghar	1
+1 Bagicha galiyarey ki paschim disha mein hai.
+2 Daftar galiyarey ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	1
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	rasoi ghar	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	bagicha	2
+1 Sayanakaksh galiyarey ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	galiyara	2
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	rasoi ghar	2
+1 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+2 Daftar rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	daftar	2
+1 Galiyara bagichey ki poorav disha mein hai.
+2 Bagicha daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	bagicha	2
+1 Daftar gusalkhaney ki paschim disha mein hai.
+2 Daftar galiyarey ki poorav disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	daftar	1
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	sayanakaksh	2
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Daftar gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	galiyara	1
+1 Galiyara bagichey ki poorav disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana kiske paschim mein hai?	bagicha	2
+1 Daftar bagichey ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	sayanakaksh	2
+1 Daftar sayanakaksh ki poorav disha mein hai.
+2 Rasoi ghar daftar ki poorav disha mein hai.
+3 Daftar kiske paschim mein hai?	rasoi ghar	2
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	rasoi ghar	2
+1 Daftar sayanakaksh ki paschim disha mein hai.
+2 Galiyara sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	daftar	1
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Bagicha rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	sayanakaksh	1
+1 Rasoi ghar gusalkhaney ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	bagicha	2
+1 Bagicha daftar ki uttar disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	1
+1 Galiyara daftar ki uttar disha mein hai.
+2 Bagicha daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	bagicha	2
+1 Gusalkhana galiyarey ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske uttar mein hai?	gusalkhana	1
+1 Rasoi ghar galiyarey ki uttar disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	rasoi ghar	1
+1 Gusalkhana galiyarey ki dakshin disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	rasoi ghar	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	gusalkhana	2
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	galiyara	2
+1 Daftar gusalkhaney ki poorav disha mein hai.
+2 Daftar rasoi ghar ki paschim disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	daftar	1
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	rasoi ghar	1
+1 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+2 Daftar sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	rasoi ghar	1
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	bagicha	1
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Galiyara rasoi ghar ki dakshin disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	rasoi ghar	1
+1 Gusalkhana daftar ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	gusalkhana	1
+1 Bagicha daftar ki paschim disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	bagicha	1
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	rasoi ghar	2
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	sayanakaksh	1
+1 Galiyara rasoi ghar ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	galiyara	1
+1 Bagicha daftar ki poorav disha mein hai.
+2 Gusalkhana bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	gusalkhana	2
+1 Rasoi ghar gusalkhaney ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	rasoi ghar	1
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Daftar galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	daftar	2
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke uttar mein kya hai?	rasoi ghar	2
+1 Sayanakaksh galiyarey ki uttar disha mein hai.
+2 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+3 Galiyara kiske dakshin mein hai?	sayanakaksh	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	1
+1 Gusalkhana sayanakaksh ki uttar disha mein hai.
+2 Gusalkhana daftar ki dakshin disha mein hai.
+3 Sayanakaksh ke uttar mein kya hai?	gusalkhana	1
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Gusalkhana bagichey ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	bagicha	1
+1 Galiyara rasoi ghar ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	2
+1 Gusalkhana daftar ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	galiyara	2
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	sayanakaksh	2
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Gusalkhana daftar ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	gusalkhana	2
+1 Rasoi ghar galiyarey ki uttar disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	rasoi ghar	1
+1 Daftar galiyarey ki uttar disha mein hai.
+2 Rasoi ghar galiyarey ki dakshin disha mein hai.
+3 Galiyara ke dakshin mein kya hai?	rasoi ghar	2
+1 Sayanakaksh daftar ki dakshin disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	daftar	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Rasoi ghar galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	rasoi ghar	2
+1 Gusalkhana daftar ki paschim disha mein hai.
+2 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	gusalkhana	1
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	bagicha	1
+1 Gusalkhana rasoi ghar ki poorav disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	2
+1 Bagicha gusalkhaney ki paschim disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	bagicha	1
+1 Galiyara rasoi ghar ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	2
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Galiyara daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	galiyara	2
+1 Gusalkhana sayanakaksh ki dakshin disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	2
+1 Sayanakaksh gusalkhaney ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	sayanakaksh	1
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Bagicha sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	bagicha	2
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Rasoi ghar galiyarey ki poorav disha mein hai.
+3 Galiyara kiske paschim mein hai?	rasoi ghar	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Bagicha rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske dakshin mein hai?	daftar	1
+1 Bagicha galiyarey ki paschim disha mein hai.
+2 Rasoi ghar bagichey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	bagicha	1
+1 Bagicha daftar ki uttar disha mein hai.
+2 Daftar sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh kiske dakshin mein hai?	daftar	2
+1 Bagicha gusalkhaney ki dakshin disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	bagicha	1
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Daftar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	daftar	2
+1 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	sayanakaksh	1
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	galiyara	2
+1 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	1
+1 Sayanakaksh galiyarey ki poorav disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Galiyara ke poorav mein kya hai?	sayanakaksh	1
+1 Sayanakaksh bagichey ki paschim disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	galiyara	2
+1 Rasoi ghar daftar ki poorav disha mein hai.
+2 Rasoi ghar galiyarey ki paschim disha mein hai.
+3 Galiyara ke paschim mein kya hai?	rasoi ghar	2
+1 Bagicha rasoi ghar ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske uttar mein hai?	bagicha	2
+1 Gusalkhana rasoi ghar ki paschim disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	gusalkhana	1
+1 Rasoi ghar bagichey ki paschim disha mein hai.
+2 Gusalkhana rasoi ghar ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	rasoi ghar	1
+1 Sayanakaksh galiyarey ki dakshin disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	galiyara	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	2
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	galiyara	2
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Bagicha rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	bagicha	2
+1 Bagicha daftar ki poorav disha mein hai.
+2 Daftar gusalkhaney ki poorav disha mein hai.
+3 Daftar ke poorav mein kya hai?	bagicha	1
+1 Gusalkhana bagichey ki paschim disha mein hai.
+2 Daftar bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	daftar	2
+1 Sayanakaksh gusalkhaney ki uttar disha mein hai.
+2 Bagicha gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	bagicha	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	sayanakaksh	2
+1 Bagicha sayanakaksh ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	galiyara	2
+1 Daftar rasoi ghar ki uttar disha mein hai.
+2 Daftar sayanakaksh ki dakshin disha mein hai.
+3 Rasoi ghar ke uttar mein kya hai?	daftar	1
+1 Gusalkhana galiyarey ki poorav disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Galiyara ke poorav mein kya hai?	gusalkhana	1
+1 Rasoi ghar bagichey ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	rasoi ghar	1
+1 Rasoi ghar sayanakaksh ki uttar disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	galiyara	2
+1 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+2 Bagicha sayanakaksh ki poorav disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	bagicha	2
+1 Galiyara daftar ki paschim disha mein hai.
+2 Galiyara bagichey ki poorav disha mein hai.
+3 Bagicha kiske paschim mein hai?	galiyara	2
+1 Rasoi ghar gusalkhaney ki uttar disha mein hai.
+2 Galiyara gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	rasoi ghar	1
+1 Daftar rasoi ghar ki paschim disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	daftar	1
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Daftar gusalkhaney ki paschim disha mein hai.
+3 Gusalkhana kiske poorav mein hai?	daftar	2
+1 Bagicha gusalkhaney ki poorav disha mein hai.
+2 Bagicha sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	bagicha	2
+1 Sayanakaksh daftar ki poorav disha mein hai.
+2 Bagicha daftar ki paschim disha mein hai.
+3 Daftar kiske paschim mein hai?	sayanakaksh	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Sayanakaksh galiyarey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Rasoi ghar gusalkhaney ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	gusalkhana	1
+1 Daftar galiyarey ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara kiske poorav mein hai?	daftar	1
+1 Daftar bagichey ki paschim disha mein hai.
+2 Sayanakaksh daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	sayanakaksh	2
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana daftar ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	gusalkhana	2
+1 Bagicha sayanakaksh ki poorav disha mein hai.
+2 Sayanakaksh gusalkhaney ki poorav disha mein hai.
+3 Sayanakaksh ke poorav mein kya hai?	bagicha	1
+1 Gusalkhana sayanakaksh ki paschim disha mein hai.
+2 Gusalkhana bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	gusalkhana	2
+1 Daftar bagichey ki uttar disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	daftar	1
+1 Rasoi ghar daftar ki poorav disha mein hai.
+2 Galiyara rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar kiske paschim mein hai?	galiyara	2
+1 Galiyara bagichey ki dakshin disha mein hai.
+2 Daftar galiyarey ki dakshin disha mein hai.
+3 Bagicha kiske uttar mein hai?	galiyara	1
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	1
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Galiyara bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	galiyara	2
+1 Gusalkhana bagichey ki dakshin disha mein hai.
+2 Daftar bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	daftar	2
+1 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+2 Daftar sayanakaksh ki paschim disha mein hai.
+3 Rasoi ghar kiske poorav mein hai?	sayanakaksh	1
+1 Bagicha rasoi ghar ki uttar disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	2
+1 Sayanakaksh bagichey ki poorav disha mein hai.
+2 Bagicha rasoi ghar ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	sayanakaksh	1
+1 Bagicha daftar ki poorav disha mein hai.
+2 Rasoi ghar daftar ki paschim disha mein hai.
+3 Daftar kiske poorav mein hai?	rasoi ghar	2
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	daftar	2
+1 Galiyara bagichey ki paschim disha mein hai.
+2 Galiyara gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	galiyara	2
+1 Bagicha rasoi ghar ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Bagicha kiske poorav mein hai?	sayanakaksh	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Gusalkhana bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	gusalkhana	2
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Daftar rasoi ghar ki uttar disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	sayanakaksh	1
+1 Daftar bagichey ki poorav disha mein hai.
+2 Sayanakaksh bagichey ki paschim disha mein hai.
+3 Bagicha ke paschim mein kya hai?	sayanakaksh	2
+1 Sayanakaksh galiyarey ki dakshin disha mein hai.
+2 Daftar galiyarey ki uttar disha mein hai.
+3 Galiyara kiske dakshin mein hai?	daftar	2
+1 Gusalkhana sayanakaksh ki poorav disha mein hai.
+2 Bagicha gusalkhaney ki poorav disha mein hai.
+3 Gusalkhana ke poorav mein kya hai?	bagicha	2
+1 Galiyara gusalkhaney ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha ke uttar mein kya hai?	galiyara	2
+1 Rasoi ghar bagichey ki poorav disha mein hai.
+2 Daftar rasoi ghar ki poorav disha mein hai.
+3 Rasoi ghar ke poorav mein kya hai?	daftar	2
+1 Rasoi ghar galiyarey ki dakshin disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar ke dakshin mein kya hai?	galiyara	2
+1 Rasoi ghar galiyarey ki poorav disha mein hai.
+2 Gusalkhana galiyarey ki paschim disha mein hai.
+3 Galiyara kiske paschim mein hai?	rasoi ghar	1
+1 Bagicha gusalkhaney ki paschim disha mein hai.
+2 Gusalkhana sayanakaksh ki paschim disha mein hai.
+3 Gusalkhana ke paschim mein kya hai?	bagicha	1
+1 Sayanakaksh rasoi ghar ki uttar disha mein hai.
+2 Gusalkhana rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar kiske uttar mein hai?	gusalkhana	2
+1 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+2 Bagicha gusalkhaney ki uttar disha mein hai.
+3 Gusalkhana ke dakshin mein kya hai?	sayanakaksh	1
+1 Bagicha galiyarey ki dakshin disha mein hai.
+2 Galiyara daftar ki dakshin disha mein hai.
+3 Daftar kiske uttar mein hai?	galiyara	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Gusalkhana galiyarey ki poorav disha mein hai.
+3 Galiyara ke paschim mein kya hai?	rasoi ghar	1
+1 Bagicha daftar ki dakshin disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	galiyara	2
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Bagicha galiyarey ki uttar disha mein hai.
+3 Sayanakaksh kiske uttar mein hai?	bagicha	1
+1 Rasoi ghar sayanakaksh ki dakshin disha mein hai.
+2 Gusalkhana sayanakaksh ki uttar disha mein hai.
+3 Sayanakaksh ke dakshin mein kya hai?	rasoi ghar	1
+1 Daftar galiyarey ki dakshin disha mein hai.
+2 Gusalkhana galiyarey ki uttar disha mein hai.
+3 Galiyara ke uttar mein kya hai?	gusalkhana	2
+1 Galiyara gusalkhaney ki uttar disha mein hai.
+2 Sayanakaksh gusalkhaney ki dakshin disha mein hai.
+3 Gusalkhana kiske dakshin mein hai?	galiyara	1
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Rasoi ghar sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh ke paschim mein kya hai?	rasoi ghar	2
+1 Galiyara bagichey ki uttar disha mein hai.
+2 Rasoi ghar bagichey ki dakshin disha mein hai.
+3 Bagicha ke dakshin mein kya hai?	rasoi ghar	2
+1 Bagicha daftar ki uttar disha mein hai.
+2 Bagicha galiyarey ki dakshin disha mein hai.
+3 Daftar ke uttar mein kya hai?	bagicha	1
+1 Sayanakaksh daftar ki paschim disha mein hai.
+2 Daftar galiyarey ki paschim disha mein hai.
+3 Daftar ke paschim mein kya hai?	sayanakaksh	1
+1 Daftar sayanakaksh ki uttar disha mein hai.
+2 Galiyara daftar ki uttar disha mein hai.
+3 Daftar ke uttar mein kya hai?	galiyara	2
+1 Galiyara sayanakaksh ki paschim disha mein hai.
+2 Sayanakaksh rasoi ghar ki paschim disha mein hai.
+3 Rasoi ghar ke paschim mein kya hai?	sayanakaksh	2
+1 Rasoi ghar galiyarey ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki poorav disha mein hai.
+3 Galiyara kiske poorav mein hai?	rasoi ghar	1
+1 Galiyara sayanakaksh ki dakshin disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	2
+1 Galiyara gusalkhaney ki paschim disha mein hai.
+2 Sayanakaksh galiyarey ki paschim disha mein hai.
+3 Galiyara kiske poorav mein hai?	sayanakaksh	2
+1 Rasoi ghar sayanakaksh ki poorav disha mein hai.
+2 Galiyara sayanakaksh ki paschim disha mein hai.
+3 Sayanakaksh kiske paschim mein hai?	rasoi ghar	1
+1 Bagicha galiyarey ki uttar disha mein hai.
+2 Gusalkhana galiyarey ki dakshin disha mein hai.
+3 Galiyara ke uttar mein kya hai?	bagicha	1
+1 Rasoi ghar bagichey ki paschim disha mein hai.
+2 Sayanakaksh bagichey ki poorav disha mein hai.
+3 Bagicha ke poorav mein kya hai?	sayanakaksh	2
+1 Bagicha sayanakaksh ki dakshin disha mein hai.
+2 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	2
+1 Sayanakaksh rasoi ghar ki dakshin disha mein hai.
+2 Galiyara sayanakaksh ki dakshin disha mein hai.
+3 Rasoi ghar ke dakshin mein kya hai?	sayanakaksh	1
+1 Bagicha rasoi ghar ki uttar disha mein hai.
+2 Galiyara bagichey ki uttar disha mein hai.
+3 Bagicha kiske dakshin mein hai?	galiyara	2

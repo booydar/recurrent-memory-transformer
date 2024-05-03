@@ -1,0 +1,3354 @@
+1 Sita aaj subha daftar gayi.
+2 Kal sita paathshaala gayi.
+3 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+4 Aaj subha manoj sayanakaksh gaya.
+5 Kal manoj baagh mein chala gaya.
+6 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	baagh	4 5
+7 Sita aaj shyaam daftar mein chali gayi.
+8 Sita aaj dopeher rasoi ghar mein chali gayi.
+9 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 8
+10 Manoj aaj dopeher paathshaala gaya.
+11 Kal hari baagh mein gaya.
+12 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	baagh	4 5
+13 Gita kal daftar gayi.
+14 Hari aaj subha chalchitra ghar mein gaya.
+15 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 8
+1 Aaj subha sita chalchitra ghar mein chali gayi.
+2 Kal sita paathshaala mein chali gayi.
+3 Kal hari rasoi ghar mein chala gaya.
+4 Aaj subha hari daftar mein chala gaya.
+5 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	4 3
+6 Aaj dopeher hari sayanakaksh gaya.
+7 Kal manoj chalchitra ghar mein gaya.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+9 Manoj aaj subha daftar mein chala gaya.
+10 Aaj shyaam hari baagh gaya.
+11 Sayanakaksh mein jaaney sey pehley hari kahan tha?	daftar	6 4
+12 Sita aaj shyaam baagh mein gayi.
+13 Aaj dopeher sita rasoi ghar mein gayi.
+14 Daftar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	9 7
+15 Gita kal sayanakaksh mein gayi.
+16 Manoj aaj dopeher sayanakaksh mein chala gaya.
+17 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	16 9
+1 Kal manoj sayanakaksh mein gaya.
+2 Manoj aaj subha rasoi ghar gaya.
+3 Sita kal chalchitra ghar mein chali gayi.
+4 Aaj subha sita paathshaala gayi.
+5 Gita kal paathshaala mein chali gayi.
+6 Kal hari sayanakaksh gaya.
+7 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	2 1
+8 Sita aaj shyaam rasoi ghar mein chali gayi.
+9 Sita aaj dopeher daftar mein chali gayi.
+10 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	4 3
+11 Aaj dopeher gita rasoi ghar mein chali gayi.
+12 Aaj subha gita chalchitra ghar gayi.
+13 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	11 12
+14 Hari aaj subha baagh mein gaya.
+15 Aaj dopeher manoj sayanakaksh mein chala gaya.
+16 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	14 6
+17 Manoj aaj shyaam rasoi ghar mein chala gaya.
+18 Hari aaj dopeher daftar mein gaya.
+19 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	17 15
+1 Aaj subha hari paathshaala mein chala gaya.
+2 Manoj kal paathshaala mein gaya.
+3 Sita kal paathshaala mein chali gayi.
+4 Hari kal rasoi ghar gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 4
+6 Gita kal chalchitra ghar gayi.
+7 Manoj aaj subha baagh mein gaya.
+8 Paathshaala mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 4
+9 Gita aaj subha sayanakaksh mein chali gayi.
+10 Aaj dopeher hari daftar mein gaya.
+11 Daftar mein jaaney sey pehley hari kahan tha?	paathshaala	10 1
+12 Aaj shyaam hari paathshaala gaya.
+13 Aaj dopeher manoj paathshaala mein gaya.
+14 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	13 7
+15 Aaj subha sita chalchitra ghar mein gayi.
+16 Manoj aaj shyaam sayanakaksh mein chala gaya.
+17 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	16 13
+1 Kal manoj chalchitra ghar mein chala gaya.
+2 Kal sita daftar mein chali gayi.
+3 Kal hari daftar gaya.
+4 Sita aaj subha baagh mein gayi.
+5 Baagh mein jaaney sey pehley sita kahan thi?	daftar	4 2
+6 Aaj dopeher manoj paathshaala mein chala gaya.
+7 Manoj aaj subha baagh gaya.
+8 Baagh mein jaaney sey pehley sita kahan thi?	daftar	4 2
+9 Aaj shyaam sita daftar mein chali gayi.
+10 Aaj dopeher sita paathshaala mein chali gayi.
+11 Paathshaala mein jaaney sey pehley sita kahan thi?	baagh	10 4
+12 Aaj subha hari baagh gaya.
+13 Manoj aaj shyaam rasoi ghar gaya.
+14 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	9 10
+15 Aaj subha gita rasoi ghar mein gayi.
+16 Gita kal sayanakaksh gayi.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	15 16
+1 Kal sita paathshaala mein gayi.
+2 Gita aaj subha paathshaala gayi.
+3 Gita kal rasoi ghar mein gayi.
+4 Kal hari sayanakaksh mein gaya.
+5 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	2 3
+6 Manoj kal sayanakaksh gaya.
+7 Aaj subha sita daftar mein gayi.
+8 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	7 1
+9 Manoj aaj dopeher daftar mein chala gaya.
+10 Manoj aaj subha chalchitra ghar gaya.
+11 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	2 3
+12 Aaj subha hari baagh mein gaya.
+13 Aaj dopeher gita daftar mein chali gayi.
+14 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	12 4
+15 Aaj dopeher hari paathshaala gaya.
+16 Sita aaj dopeher paathshaala mein chali gayi.
+17 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	15 12
+1 Sita aaj subha rasoi ghar mein chali gayi.
+2 Sita kal daftar gayi.
+3 Sita aaj dopeher sayanakaksh gayi.
+4 Kal hari chalchitra ghar mein chala gaya.
+5 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	1 2
+6 Gita aaj subha paathshaala mein chali gayi.
+7 Kal gita daftar mein chali gayi.
+8 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	3 1
+9 Aaj subha hari baagh gaya.
+10 Aaj shyaam sita paathshaala mein chali gayi.
+11 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	9 4
+12 Kal manoj baagh mein chala gaya.
+13 Gita aaj dopeher sayanakaksh mein chali gayi.
+14 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	10 3
+15 Aaj dopeher manoj rasoi ghar gaya.
+16 Manoj aaj subha paathshaala gaya.
+17 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	9 4
+1 Manoj kal baagh mein chala gaya.
+2 Gita kal rasoi ghar gayi.
+3 Aaj subha gita daftar mein gayi.
+4 Kal hari daftar gaya.
+5 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	3 2
+6 Aaj subha manoj rasoi ghar gaya.
+7 Aaj dopeher gita baagh mein chali gayi.
+8 Baagh mein jaaney sey pehley gita kahan thi?	daftar	7 3
+9 Aaj shyaam gita paathshaala mein gayi.
+10 Hari aaj subha rasoi ghar mein chala gaya.
+11 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	3 2
+12 Hari aaj dopeher baagh mein chala gaya.
+13 Sita kal rasoi ghar mein chali gayi.
+14 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	9 7
+15 Aaj subha sita daftar gayi.
+16 Aaj shyaam hari sayanakaksh mein gaya.
+17 Sayanakaksh mein jaaney sey pehley hari kahan tha?	baagh	16 12
+1 Gita aaj subha daftar mein chali gayi.
+2 Kal hari sayanakaksh mein chala gaya.
+3 Gita kal paathshaala mein chali gayi.
+4 Kal manoj daftar mein gaya.
+5 Aaj subha sita sayanakaksh mein chali gayi.
+6 Sita kal rasoi ghar mein gayi.
+7 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	5 6
+8 Hari aaj subha paathshaala mein gaya.
+9 Manoj aaj subha chalchitra ghar mein gaya.
+10 Daftar mein jaaney sey pehley gita kahan thi?	paathshaala	1 3
+11 Manoj aaj shyaam rasoi ghar gaya.
+12 Manoj aaj dopeher daftar mein chala gaya.
+13 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	5 6
+14 Gita aaj dopeher sayanakaksh mein chali gayi.
+15 Aaj dopeher sita baagh mein chali gayi.
+16 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	14 1
+17 Aaj dopeher hari baagh mein gaya.
+18 Sita aaj shyaam sayanakaksh mein gayi.
+19 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	17 8
+1 Sita aaj subha paathshaala gayi.
+2 Sita aaj dopeher sayanakaksh gayi.
+3 Gita kal paathshaala gayi.
+4 Sita kal baagh mein chali gayi.
+5 Sayanakaksh mein jaaney sey pehley sita kahan thi?	paathshaala	2 1
+6 Hari kal chalchitra ghar mein gaya.
+7 Sita aaj shyaam rasoi ghar mein gayi.
+8 Sayanakaksh mein jaaney sey pehley sita kahan thi?	paathshaala	2 1
+9 Gita aaj subha rasoi ghar mein gayi.
+10 Kal manoj sayanakaksh mein chala gaya.
+11 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	9 3
+12 Manoj aaj subha paathshaala mein chala gaya.
+13 Gita aaj dopeher daftar mein chali gayi.
+14 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	12 10
+15 Gita aaj shyaam rasoi ghar mein gayi.
+16 Aaj subha hari paathshaala mein chala gaya.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	15 13
+1 Kal sita rasoi ghar gayi.
+2 Sita aaj subha paathshaala mein chali gayi.
+3 Kal manoj sayanakaksh mein gaya.
+4 Manoj aaj subha baagh mein gaya.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	4 3
+6 Sita aaj dopeher chalchitra ghar gayi.
+7 Hari kal daftar mein gaya.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	6 2
+9 Sita aaj shyaam paathshaala mein chali gayi.
+10 Hari aaj subha paathshaala mein gaya.
+11 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	9 6
+12 Hari aaj dopeher rasoi ghar gaya.
+13 Kal gita baagh gayi.
+14 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	9 6
+15 Gita aaj subha paathshaala mein chali gayi.
+16 Aaj shyaam hari daftar mein chala gaya.
+17 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	12 10
+1 Aaj subha sita baagh mein chali gayi.
+2 Kal sita sayanakaksh mein gayi.
+3 Gita kal sayanakaksh gayi.
+4 Kal manoj chalchitra ghar gaya.
+5 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+6 Aaj subha hari sayanakaksh mein chala gaya.
+7 Hari kal rasoi ghar mein gaya.
+8 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+9 Aaj subha gita baagh gayi.
+10 Hari aaj dopeher paathshaala mein chala gaya.
+11 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+12 Aaj shyaam hari sayanakaksh mein chala gaya.
+13 Aaj dopeher sita sayanakaksh mein gayi.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	13 1
+15 Manoj aaj subha sayanakaksh gaya.
+16 Gita aaj dopeher chalchitra ghar gayi.
+17 Sayanakaksh mein jaaney sey pehley hari kahan tha?	paathshaala	12 10
+1 Gita kal chalchitra ghar gayi.
+2 Aaj subha sita chalchitra ghar gayi.
+3 Kal sita paathshaala mein chali gayi.
+4 Gita aaj subha sayanakaksh gayi.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	4 1
+6 Aaj dopeher gita paathshaala gayi.
+7 Aaj dopeher sita daftar gayi.
+8 Sayanakaksh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	4 1
+9 Hari aaj subha paathshaala mein gaya.
+10 Kal hari chalchitra ghar mein gaya.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	2 3
+12 Manoj kal daftar gaya.
+13 Aaj dopeher hari baagh mein chala gaya.
+14 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	13 9
+15 Manoj aaj subha rasoi ghar mein gaya.
+16 Sita aaj shyaam sayanakaksh mein chali gayi.
+17 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	15 12
+1 Sita kal daftar gayi.
+2 Gita aaj dopeher rasoi ghar mein gayi.
+3 Gita kal sayanakaksh gayi.
+4 Aaj subha gita paathshaala gayi.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	2 4
+6 Manoj kal baagh gaya.
+7 Sita aaj subha chalchitra ghar mein gayi.
+8 Paathshaala mein jaaney sey pehley gita kahan thi?	sayanakaksh	4 3
+9 Aaj dopeher sita daftar mein chali gayi.
+10 Aaj shyaam gita paathshaala gayi.
+11 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	10 2
+12 Kal hari baagh gaya.
+13 Aaj subha manoj rasoi ghar mein gaya.
+14 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	10 2
+15 Manoj aaj shyaam rasoi ghar mein chala gaya.
+16 Manoj aaj dopeher baagh mein chala gaya.
+17 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	15 16
+1 Kal manoj daftar mein chala gaya.
+2 Kal sita chalchitra ghar gayi.
+3 Gita kal sayanakaksh mein chali gayi.
+4 Gita aaj subha baagh mein gayi.
+5 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	4 3
+6 Aaj shyaam gita sayanakaksh gayi.
+7 Aaj dopeher gita daftar mein chali gayi.
+8 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	4 3
+9 Manoj aaj dopeher paathshaala mein gaya.
+10 Manoj aaj subha rasoi ghar mein chala gaya.
+11 Daftar mein jaaney sey pehley gita kahan thi?	baagh	7 4
+12 Manoj aaj shyaam chalchitra ghar mein chala gaya.
+13 Hari kal sayanakaksh mein chala gaya.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	10 1
+15 Aaj dopeher sita daftar gayi.
+16 Sita aaj subha rasoi ghar mein gayi.
+17 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	16 2
+1 Manoj aaj subha paathshaala mein gaya.
+2 Kal sita rasoi ghar mein chali gayi.
+3 Manoj aaj dopeher baagh mein chala gaya.
+4 Kal hari baagh gaya.
+5 Gita kal chalchitra ghar gayi.
+6 Manoj kal rasoi ghar mein chala gaya.
+7 Paathshaala mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 6
+8 Sita aaj subha daftar mein chali gayi.
+9 Hari aaj subha paathshaala mein chala gaya.
+10 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	8 2
+11 Aaj shyaam sita sayanakaksh mein chali gayi.
+12 Aaj dopeher sita baagh mein chali gayi.
+13 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	9 4
+14 Aaj subha gita rasoi ghar mein chali gayi.
+15 Hari aaj dopeher daftar mein gaya.
+16 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	8 2
+17 Hari aaj shyaam rasoi ghar mein gaya.
+18 Manoj aaj shyaam chalchitra ghar mein gaya.
+19 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	11 12
+1 Gita aaj subha rasoi ghar gayi.
+2 Sita aaj subha daftar gayi.
+3 Sita kal rasoi ghar gayi.
+4 Gita kal chalchitra ghar gayi.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	1 4
+6 Kal manoj paathshaala mein chala gaya.
+7 Aaj dopeher sita chalchitra ghar mein chali gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	7 2
+9 Manoj aaj subha chalchitra ghar gaya.
+10 Hari kal baagh mein chala gaya.
+11 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	2 3
+12 Aaj dopeher gita sayanakaksh gayi.
+13 Aaj shyaam sita sayanakaksh mein chali gayi.
+14 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	12 1
+15 Manoj aaj dopeher paathshaala gaya.
+16 Gita aaj shyaam chalchitra ghar mein chali gayi.
+17 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	12 1
+1 Manoj aaj subha rasoi ghar mein gaya.
+2 Kal manoj paathshaala mein chala gaya.
+3 Sita kal paathshaala mein chali gayi.
+4 Kal hari sayanakaksh mein gaya.
+5 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	1 2
+6 Manoj aaj shyaam chalchitra ghar gaya.
+7 Aaj dopeher manoj sayanakaksh mein chala gaya.
+8 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 7
+9 Aaj subha hari baagh gaya.
+10 Kal gita sayanakaksh mein chali gayi.
+11 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	7 1
+12 Hari aaj shyaam sayanakaksh mein gaya.
+13 Aaj dopeher hari daftar mein gaya.
+14 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	9 4
+15 Gita aaj subha baagh mein gayi.
+16 Aaj subha sita chalchitra ghar mein gayi.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	16 3
+1 Sita kal sayanakaksh mein gayi.
+2 Sita aaj subha rasoi ghar mein gayi.
+3 Hari kal baagh mein chala gaya.
+4 Kal manoj chalchitra ghar mein gaya.
+5 Rasoi ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	2 1
+6 Aaj subha manoj daftar mein gaya.
+7 Aaj subha hari sayanakaksh mein gaya.
+8 Daftar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	6 4
+9 Aaj dopeher hari paathshaala mein gaya.
+10 Sita aaj dopeher baagh mein chali gayi.
+11 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	10 2
+12 Hari aaj shyaam baagh mein gaya.
+13 Kal gita chalchitra ghar gayi.
+14 Paathshaala mein jaaney sey pehley hari kahan tha?	sayanakaksh	9 7
+15 Manoj aaj shyaam sayanakaksh mein gaya.
+16 Manoj aaj dopeher paathshaala mein gaya.
+17 Paathshaala mein jaaney sey pehley hari kahan tha?	sayanakaksh	9 7
+1 Kal hari daftar mein gaya.
+2 Aaj subha sita baagh mein gayi.
+3 Manoj kal chalchitra ghar mein gaya.
+4 Sita kal rasoi ghar mein chali gayi.
+5 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	2 4
+6 Hari aaj subha baagh gaya.
+7 Aaj subha manoj rasoi ghar mein gaya.
+8 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	2 4
+9 Kal gita daftar mein gayi.
+10 Hari aaj dopeher rasoi ghar mein gaya.
+11 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	10 6
+12 Hari aaj shyaam sayanakaksh gaya.
+13 Aaj dopeher sita rasoi ghar mein chali gayi.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	10 6
+15 Gita aaj subha rasoi ghar mein gayi.
+16 Aaj dopeher manoj chalchitra ghar mein gaya.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	15 9
+1 Sita kal rasoi ghar mein chali gayi.
+2 Hari kal baagh mein chala gaya.
+3 Manoj kal sayanakaksh mein chala gaya.
+4 Manoj aaj subha paathshaala gaya.
+5 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	4 3
+6 Sita aaj subha paathshaala mein chali gayi.
+7 Hari aaj subha paathshaala mein gaya.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	4 3
+9 Aaj subha gita baagh mein gayi.
+10 Gita kal rasoi ghar mein gayi.
+11 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	7 2
+12 Aaj shyaam hari paathshaala mein gaya.
+13 Aaj dopeher hari baagh mein chala gaya.
+14 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	6 1
+15 Aaj dopeher manoj baagh mein chala gaya.
+16 Aaj dopeher gita chalchitra ghar mein gayi.
+17 Baagh mein jaaney sey pehley manoj kahan tha?	paathshaala	15 4
+1 Gita kal baagh mein gayi.
+2 Aaj subha sita baagh mein chali gayi.
+3 Sita kal paathshaala mein gayi.
+4 Manoj kal chalchitra ghar mein chala gaya.
+5 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	2 3
+6 Aaj dopeher sita daftar gayi.
+7 Manoj aaj subha paathshaala mein gaya.
+8 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	2 3
+9 Aaj shyaam sita rasoi ghar mein chali gayi.
+10 Manoj aaj dopeher baagh mein chala gaya.
+11 Daftar mein jaaney sey pehley sita kahan thi?	baagh	6 2
+12 Kal hari paathshaala gaya.
+13 Gita aaj subha daftar gayi.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	paathshaala	10 7
+15 Aaj dopeher hari daftar gaya.
+16 Hari aaj subha baagh mein chala gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	baagh	15 16
+1 Sita aaj subha chalchitra ghar mein gayi.
+2 Manoj kal baagh mein gaya.
+3 Kal gita paathshaala mein chali gayi.
+4 Sita kal baagh mein gayi.
+5 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	1 4
+6 Hari kal baagh gaya.
+7 Sita aaj dopeher paathshaala gayi.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	7 1
+9 Hari aaj dopeher sayanakaksh mein chala gaya.
+10 Aaj subha hari daftar mein gaya.
+11 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	7 1
+12 Aaj subha manoj rasoi ghar mein chala gaya.
+13 Hari aaj shyaam chalchitra ghar mein chala gaya.
+14 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	13 9
+15 Aaj dopeher manoj daftar mein gaya.
+16 Sita aaj shyaam chalchitra ghar mein chali gayi.
+17 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	13 9
+1 Manoj kal paathshaala gaya.
+2 Manoj aaj subha rasoi ghar mein gaya.
+3 Sita kal rasoi ghar gayi.
+4 Kal gita daftar mein gayi.
+5 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	2 1
+6 Hari kal rasoi ghar gaya.
+7 Aaj subha sita chalchitra ghar mein gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 3
+9 Aaj shyaam sita sayanakaksh gayi.
+10 Aaj dopeher sita paathshaala gayi.
+11 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	10 7
+12 Aaj dopeher gita daftar mein chali gayi.
+13 Aaj subha gita rasoi ghar gayi.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	paathshaala	9 10
+15 Aaj shyaam gita baagh mein chali gayi.
+16 Manoj aaj dopeher daftar mein gaya.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	13 4
+1 Sita kal daftar gayi.
+2 Aaj subha sita rasoi ghar gayi.
+3 Kal gita baagh mein gayi.
+4 Hari kal sayanakaksh gaya.
+5 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	2 1
+6 Hari aaj dopeher sayanakaksh mein chala gaya.
+7 Aaj subha hari chalchitra ghar gaya.
+8 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	6 7
+9 Hari aaj shyaam daftar mein chala gaya.
+10 Sita aaj dopeher paathshaala gayi.
+11 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	6 7
+12 Sita aaj shyaam sayanakaksh mein chali gayi.
+13 Gita aaj subha chalchitra ghar mein chali gayi.
+14 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	6 7
+15 Aaj subha manoj baagh mein chala gaya.
+16 Kal manoj chalchitra ghar mein gaya.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	baagh	13 3
+1 Aaj subha sita daftar mein gayi.
+2 Sita kal sayanakaksh mein chali gayi.
+3 Gita kal chalchitra ghar gayi.
+4 Manoj kal sayanakaksh gaya.
+5 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+6 Manoj aaj subha baagh gaya.
+7 Gita aaj subha baagh gayi.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 4
+9 Gita aaj dopeher sayanakaksh mein gayi.
+10 Hari kal sayanakaksh mein gaya.
+11 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+12 Aaj dopeher hari baagh mein gaya.
+13 Hari aaj subha chalchitra ghar mein chala gaya.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 4
+15 Aaj shyaam gita chalchitra ghar mein chali gayi.
+16 Hari aaj shyaam sayanakaksh gaya.
+17 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	12 13
+1 Kal sita rasoi ghar mein gayi.
+2 Kal manoj daftar mein chala gaya.
+3 Kal gita daftar mein chali gayi.
+4 Aaj subha gita rasoi ghar mein chali gayi.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	4 3
+6 Gita aaj dopeher paathshaala mein gayi.
+7 Manoj aaj subha sayanakaksh gaya.
+8 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	4 3
+9 Manoj aaj dopeher rasoi ghar gaya.
+10 Aaj shyaam gita baagh gayi.
+11 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	10 6
+12 Sita aaj dopeher paathshaala mein gayi.
+13 Aaj subha sita daftar mein gayi.
+14 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	13 1
+15 Hari kal rasoi ghar mein gaya.
+16 Manoj aaj shyaam baagh gaya.
+17 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	13 1
+1 Hari aaj subha baagh mein gaya.
+2 Kal hari rasoi ghar mein chala gaya.
+3 Baagh mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+4 Kal gita paathshaala mein gayi.
+5 Kal manoj daftar mein chala gaya.
+6 Baagh mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+7 Aaj subha manoj paathshaala mein gaya.
+8 Kal sita baagh gayi.
+9 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	7 5
+10 Sita aaj dopeher sayanakaksh mein gayi.
+11 Sita aaj subha paathshaala gayi.
+12 Paathshaala mein jaaney sey pehley sita kahan thi?	baagh	11 8
+13 Hari aaj dopeher rasoi ghar mein gaya.
+14 Aaj subha gita daftar mein chali gayi.
+15 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	13 1
+1 Aaj subha sita sayanakaksh gayi.
+2 Manoj kal sayanakaksh gaya.
+3 Hari kal baagh gaya.
+4 Kal sita rasoi ghar mein gayi.
+5 Gita kal chalchitra ghar gayi.
+6 Aaj subha hari rasoi ghar gaya.
+7 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	6 3
+8 Gita aaj subha baagh mein chali gayi.
+9 Aaj subha manoj daftar gaya.
+10 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 4
+11 Manoj aaj dopeher paathshaala gaya.
+12 Aaj dopeher sita paathshaala mein chali gayi.
+13 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	9 2
+14 Manoj aaj shyaam sayanakaksh gaya.
+15 Sita aaj shyaam rasoi ghar gayi.
+16 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	14 11
+17 Aaj shyaam gita rasoi ghar mein chali gayi.
+18 Gita aaj dopeher daftar mein chali gayi.
+19 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	15 12
+1 Manoj aaj subha rasoi ghar gaya.
+2 Kal manoj sayanakaksh mein gaya.
+3 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 2
+4 Sita kal rasoi ghar gayi.
+5 Kal gita sayanakaksh mein gayi.
+6 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 2
+7 Gita aaj subha chalchitra ghar mein chali gayi.
+8 Manoj aaj dopeher daftar mein gaya.
+9 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	7 5
+10 Aaj shyaam manoj chalchitra ghar mein gaya.
+11 Aaj dopeher gita sayanakaksh gayi.
+12 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	7 5
+13 Aaj subha hari baagh mein chala gaya.
+14 Kal hari chalchitra ghar gaya.
+15 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	daftar	10 8
+1 Aaj subha hari sayanakaksh gaya.
+2 Kal sita paathshaala mein gayi.
+3 Gita kal paathshaala mein gayi.
+4 Hari kal paathshaala gaya.
+5 Sayanakaksh mein jaaney sey pehley hari kahan tha?	paathshaala	1 4
+6 Hari aaj dopeher baagh mein gaya.
+7 Gita aaj subha baagh mein chali gayi.
+8 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	7 3
+9 Aaj shyaam hari sayanakaksh mein chala gaya.
+10 Sita aaj subha rasoi ghar mein chali gayi.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	10 2
+12 Gita aaj dopeher chalchitra ghar gayi.
+13 Manoj kal baagh mein gaya.
+14 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	6 1
+15 Gita aaj shyaam daftar mein gayi.
+16 Manoj aaj subha daftar mein gaya.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	baagh	16 13
+1 Gita aaj subha daftar mein gayi.
+2 Gita kal baagh mein gayi.
+3 Kal hari chalchitra ghar mein gaya.
+4 Hari aaj subha rasoi ghar mein gaya.
+5 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	4 3
+6 Gita aaj dopeher sayanakaksh mein chali gayi.
+7 Aaj dopeher hari chalchitra ghar gaya.
+8 Daftar mein jaaney sey pehley gita kahan thi?	baagh	1 2
+9 Kal sita daftar mein chali gayi.
+10 Aaj shyaam hari rasoi ghar gaya.
+11 Daftar mein jaaney sey pehley gita kahan thi?	baagh	1 2
+12 Aaj shyaam gita daftar gayi.
+13 Aaj subha sita chalchitra ghar gayi.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	10 7
+15 Aaj dopeher sita daftar gayi.
+16 Manoj kal baagh gaya.
+17 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	12 6
+1 Kal gita daftar mein gayi.
+2 Hari aaj subha paathshaala mein chala gaya.
+3 Manoj kal chalchitra ghar gaya.
+4 Hari kal baagh mein chala gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	2 4
+6 Aaj dopeher hari rasoi ghar gaya.
+7 Kal sita paathshaala mein gayi.
+8 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	2 4
+9 Hari aaj shyaam chalchitra ghar mein gaya.
+10 Aaj subha manoj sayanakaksh mein chala gaya.
+11 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	9 6
+12 Aaj shyaam manoj sayanakaksh gaya.
+13 Manoj aaj dopeher daftar mein gaya.
+14 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	9 6
+15 Gita aaj dopeher paathshaala mein chali gayi.
+16 Aaj subha gita baagh mein chali gayi.
+17 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	15 16
+1 Aaj subha sita paathshaala mein chali gayi.
+2 Hari kal sayanakaksh gaya.
+3 Kal gita baagh mein gayi.
+4 Kal sita chalchitra ghar mein chali gayi.
+5 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	1 4
+6 Aaj subha gita rasoi ghar mein chali gayi.
+7 Manoj kal chalchitra ghar mein chala gaya.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	1 4
+9 Hari aaj subha chalchitra ghar mein gaya.
+10 Aaj dopeher gita daftar mein chali gayi.
+11 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	9 2
+12 Aaj shyaam sita rasoi ghar mein chali gayi.
+13 Sita aaj dopeher chalchitra ghar gayi.
+14 Rasoi ghar mein jaaney sey pehley gita kahan thi?	baagh	6 3
+15 Aaj subha manoj daftar mein gaya.
+16 Aaj dopeher hari paathshaala mein chala gaya.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	15 7
+1 Aaj subha sita baagh mein gayi.
+2 Manoj kal rasoi ghar mein gaya.
+3 Hari kal paathshaala mein chala gaya.
+4 Kal sita rasoi ghar mein gayi.
+5 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 4
+6 Kal gita baagh gayi.
+7 Manoj aaj subha baagh gaya.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	7 2
+9 Manoj aaj dopeher sayanakaksh mein gaya.
+10 Sita aaj dopeher chalchitra ghar gayi.
+11 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 4
+12 Hari aaj dopeher rasoi ghar mein gaya.
+13 Hari aaj subha chalchitra ghar gaya.
+14 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	13 3
+15 Hari aaj shyaam daftar mein gaya.
+16 Aaj shyaam manoj rasoi ghar mein chala gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	15 12
+1 Hari kal paathshaala gaya.
+2 Manoj kal paathshaala mein gaya.
+3 Gita aaj subha chalchitra ghar gayi.
+4 Sita kal baagh mein gayi.
+5 Aaj subha hari rasoi ghar gaya.
+6 Kal gita daftar mein chali gayi.
+7 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	3 6
+8 Hari aaj dopeher sayanakaksh mein gaya.
+9 Sita aaj subha paathshaala mein chali gayi.
+10 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	5 1
+11 Aaj dopeher sita chalchitra ghar mein gayi.
+12 Manoj aaj subha chalchitra ghar gaya.
+13 Paathshaala mein jaaney sey pehley sita kahan thi?	baagh	9 4
+14 Aaj dopeher manoj baagh gaya.
+15 Aaj shyaam hari rasoi ghar gaya.
+16 Rasoi ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	15 8
+17 Aaj shyaam manoj sayanakaksh mein chala gaya.
+18 Sita aaj shyaam paathshaala mein gayi.
+19 Rasoi ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	15 8
+1 Kal sita rasoi ghar gayi.
+2 Gita kal rasoi ghar mein chali gayi.
+3 Aaj subha sita paathshaala mein gayi.
+4 Manoj kal chalchitra ghar mein chala gaya.
+5 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	3 1
+6 Aaj dopeher sita rasoi ghar gayi.
+7 Aaj subha gita daftar mein chali gayi.
+8 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	6 3
+9 Manoj aaj subha paathshaala gaya.
+10 Kal hari rasoi ghar mein gaya.
+11 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	3 1
+12 Aaj dopeher manoj sayanakaksh mein gaya.
+13 Gita aaj dopeher baagh mein gayi.
+14 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	6 3
+15 Aaj subha hari daftar gaya.
+16 Aaj shyaam manoj baagh gaya.
+17 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	16 12
+1 Manoj kal daftar mein gaya.
+2 Aaj subha manoj paathshaala gaya.
+3 Sita kal sayanakaksh mein chali gayi.
+4 Gita kal baagh gayi.
+5 Manoj aaj dopeher rasoi ghar gaya.
+6 Hari kal daftar mein gaya.
+7 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	2 1
+8 Hari aaj dopeher baagh gaya.
+9 Aaj subha hari chalchitra ghar mein gaya.
+10 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	8 9
+11 Aaj shyaam hari chalchitra ghar mein chala gaya.
+12 Aaj shyaam manoj baagh mein chala gaya.
+13 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	8 9
+14 Aaj dopeher sita daftar mein chali gayi.
+15 Aaj subha sita rasoi ghar gayi.
+16 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	8 9
+17 Aaj shyaam sita sayanakaksh gayi.
+18 Aaj subha gita paathshaala mein gayi.
+19 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	11 8
+1 Aaj subha manoj paathshaala gaya.
+2 Manoj kal sayanakaksh mein chala gaya.
+3 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 2
+4 Kal hari baagh gaya.
+5 Kal gita chalchitra ghar gayi.
+6 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 2
+7 Sita kal rasoi ghar mein chali gayi.
+8 Manoj aaj dopeher baagh mein chala gaya.
+9 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 2
+10 Hari aaj subha chalchitra ghar mein gaya.
+11 Manoj aaj shyaam daftar gaya.
+12 Daftar mein jaaney sey pehley manoj kahan tha?	baagh	11 8
+13 Gita aaj subha paathshaala mein gayi.
+14 Aaj dopeher hari sayanakaksh mein gaya.
+15 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	14 10
+1 Gita aaj subha daftar gayi.
+2 Kal manoj paathshaala mein chala gaya.
+3 Sita kal baagh gayi.
+4 Gita kal rasoi ghar mein gayi.
+5 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 4
+6 Hari kal daftar gaya.
+7 Gita aaj dopeher paathshaala mein gayi.
+8 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 4
+9 Aaj subha manoj sayanakaksh mein chala gaya.
+10 Hari aaj subha rasoi ghar mein chala gaya.
+11 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 4
+12 Gita aaj shyaam chalchitra ghar mein gayi.
+13 Aaj dopeher manoj paathshaala mein gaya.
+14 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	9 2
+15 Hari aaj dopeher daftar mein gaya.
+16 Aaj shyaam manoj rasoi ghar mein gaya.
+17 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	9 2
+1 Kal sita baagh mein chali gayi.
+2 Aaj subha gita rasoi ghar mein chali gayi.
+3 Kal hari sayanakaksh mein chala gaya.
+4 Gita kal daftar gayi.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	2 4
+6 Kal manoj rasoi ghar mein chala gaya.
+7 Aaj subha sita paathshaala mein gayi.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	baagh	7 1
+9 Aaj subha manoj baagh gaya.
+10 Aaj dopeher sita daftar gayi.
+11 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	10 7
+12 Manoj aaj shyaam baagh mein gaya.
+13 Manoj aaj dopeher rasoi ghar gaya.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	13 9
+15 Aaj shyaam sita baagh gayi.
+16 Aaj subha hari chalchitra ghar gaya.
+17 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	13 9
+1 Aaj subha manoj chalchitra ghar mein chala gaya.
+2 Manoj aaj dopeher baagh mein chala gaya.
+3 Manoj kal rasoi ghar mein gaya.
+4 Kal gita rasoi ghar gayi.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	2 1
+6 Hari kal baagh mein gaya.
+7 Aaj shyaam manoj paathshaala mein gaya.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	2 1
+9 Aaj subha gita sayanakaksh mein chali gayi.
+10 Kal sita chalchitra ghar gayi.
+11 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	2 1
+12 Aaj dopeher gita daftar mein chali gayi.
+13 Sita aaj subha sayanakaksh gayi.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	13 10
+15 Sita aaj dopeher baagh gayi.
+16 Hari aaj subha paathshaala gaya.
+17 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	12 9
+1 Hari kal daftar gaya.
+2 Manoj kal chalchitra ghar gaya.
+3 Aaj subha manoj sayanakaksh gaya.
+4 Kal gita baagh gayi.
+5 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	3 2
+6 Aaj subha hari sayanakaksh gaya.
+7 Sita kal sayanakaksh mein chali gayi.
+8 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	3 2
+9 Aaj shyaam manoj sayanakaksh gaya.
+10 Aaj dopeher manoj rasoi ghar mein gaya.
+11 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	10 3
+12 Sita aaj subha daftar mein gayi.
+13 Hari aaj dopeher paathshaala mein gaya.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	10 3
+15 Sita aaj shyaam sayanakaksh gayi.
+16 Sita aaj dopeher paathshaala mein gayi.
+17 Paathshaala mein jaaney sey pehley sita kahan thi?	daftar	16 12
+1 Manoj aaj subha paathshaala gaya.
+2 Kal gita daftar gayi.
+3 Sita kal daftar mein chali gayi.
+4 Manoj kal daftar gaya.
+5 Hari kal daftar gaya.
+6 Hari aaj subha rasoi ghar mein chala gaya.
+7 Rasoi ghar mein jaaney sey pehley hari kahan tha?	daftar	6 5
+8 Aaj subha sita paathshaala mein chali gayi.
+9 Aaj dopeher manoj daftar gaya.
+10 Paathshaala mein jaaney sey pehley sita kahan thi?	daftar	8 3
+11 Sita aaj shyaam paathshaala gayi.
+12 Aaj dopeher sita baagh gayi.
+13 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	12 8
+14 Aaj shyaam hari daftar mein gaya.
+15 Hari aaj dopeher sayanakaksh mein gaya.
+16 Sayanakaksh mein jaaney sey pehley hari kahan tha?	rasoi ghar	15 6
+17 Aaj dopeher gita rasoi ghar gayi.
+18 Gita aaj subha sayanakaksh gayi.
+19 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	17 18
+1 Hari kal chalchitra ghar mein gaya.
+2 Manoj aaj subha baagh gaya.
+3 Gita kal sayanakaksh gayi.
+4 Manoj kal rasoi ghar mein gaya.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	2 4
+6 Aaj subha hari rasoi ghar mein chala gaya.
+7 Gita aaj subha paathshaala mein gayi.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	2 4
+9 Manoj aaj dopeher rasoi ghar mein chala gaya.
+10 Hari aaj dopeher chalchitra ghar mein gaya.
+11 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	2 4
+12 Kal sita chalchitra ghar gayi.
+13 Aaj dopeher gita daftar mein gayi.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	9 2
+15 Hari aaj shyaam sayanakaksh mein gaya.
+16 Aaj shyaam manoj paathshaala gaya.
+17 Daftar mein jaaney sey pehley gita kahan thi?	paathshaala	13 7
+1 Aaj subha manoj rasoi ghar mein gaya.
+2 Aaj subha sita chalchitra ghar mein gayi.
+3 Kal manoj daftar mein chala gaya.
+4 Sita kal sayanakaksh mein gayi.
+5 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	2 4
+6 Aaj dopeher manoj daftar gaya.
+7 Kal gita chalchitra ghar gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	2 4
+9 Sita aaj dopeher rasoi ghar gayi.
+10 Gita aaj subha baagh mein gayi.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	9 2
+12 Hari kal paathshaala gaya.
+13 Aaj shyaam sita chalchitra ghar mein chali gayi.
+14 Baagh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	10 7
+15 Hari aaj subha baagh mein chala gaya.
+16 Aaj shyaam manoj sayanakaksh gaya.
+17 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	15 12
+1 Kal gita chalchitra ghar mein gayi.
+2 Aaj dopeher gita rasoi ghar gayi.
+3 Sita kal baagh mein chali gayi.
+4 Aaj subha gita daftar mein chali gayi.
+5 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	4 1
+6 Hari kal sayanakaksh mein gaya.
+7 Aaj subha sita sayanakaksh mein chali gayi.
+8 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	4 1
+9 Manoj kal sayanakaksh gaya.
+10 Aaj shyaam gita baagh mein gayi.
+11 Baagh mein jaaney sey pehley gita kahan thi?	rasoi ghar	10 2
+12 Sita aaj dopeher baagh gayi.
+13 Aaj subha hari rasoi ghar mein gaya.
+14 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	12 7
+15 Manoj aaj subha paathshaala mein gaya.
+16 Aaj shyaam sita chalchitra ghar gayi.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	16 12
+1 Aaj subha manoj daftar mein chala gaya.
+2 Kal gita chalchitra ghar mein gayi.
+3 Kal hari chalchitra ghar gaya.
+4 Manoj kal baagh mein gaya.
+5 Daftar mein jaaney sey pehley manoj kahan tha?	baagh	1 4
+6 Aaj shyaam manoj daftar mein gaya.
+7 Manoj aaj dopeher paathshaala gaya.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	7 1
+9 Gita aaj subha daftar gayi.
+10 Hari aaj subha baagh mein gaya.
+11 Daftar mein jaaney sey pehley manoj kahan tha?	paathshaala	6 7
+12 Aaj dopeher hari chalchitra ghar gaya.
+13 Gita aaj dopeher chalchitra ghar mein chali gayi.
+14 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	9 2
+15 Aaj shyaam hari rasoi ghar gaya.
+16 Gita aaj shyaam sayanakaksh mein chali gayi.
+17 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	15 12
+1 Aaj subha sita baagh gayi.
+2 Gita kal daftar mein gayi.
+3 Kal manoj sayanakaksh gaya.
+4 Sita kal sayanakaksh mein gayi.
+5 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 4
+6 Aaj dopeher sita chalchitra ghar mein chali gayi.
+7 Kal hari baagh mein gaya.
+8 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 4
+9 Hari aaj subha daftar mein gaya.
+10 Manoj aaj subha paathshaala gaya.
+11 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 4
+12 Aaj shyaam hari baagh mein gaya.
+13 Aaj dopeher hari sayanakaksh mein gaya.
+14 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	12 13
+15 Manoj aaj shyaam rasoi ghar mein gaya.
+16 Aaj dopeher manoj sayanakaksh mein chala gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	baagh	9 7
+1 Kal manoj sayanakaksh mein gaya.
+2 Aaj subha sita chalchitra ghar gayi.
+3 Kal sita daftar gayi.
+4 Hari kal sayanakaksh gaya.
+5 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	2 3
+6 Gita kal chalchitra ghar mein chali gayi.
+7 Aaj dopeher sita paathshaala mein gayi.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	7 2
+9 Aaj shyaam sita sayanakaksh gayi.
+10 Gita aaj subha rasoi ghar mein chali gayi.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	2 3
+12 Gita aaj dopeher paathshaala mein gayi.
+13 Aaj subha hari chalchitra ghar mein gaya.
+14 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	10 6
+15 Gita aaj shyaam chalchitra ghar gayi.
+16 Hari aaj dopeher sayanakaksh mein chala gaya.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	paathshaala	15 12
+1 Kal sita rasoi ghar gayi.
+2 Hari aaj subha daftar mein gaya.
+3 Gita kal sayanakaksh mein chali gayi.
+4 Kal hari chalchitra ghar gaya.
+5 Daftar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	2 4
+6 Hari aaj dopeher rasoi ghar gaya.
+7 Aaj subha sita paathshaala mein chali gayi.
+8 Daftar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	2 4
+9 Hari aaj shyaam paathshaala gaya.
+10 Sita aaj dopeher rasoi ghar gayi.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	10 7
+12 Gita aaj subha chalchitra ghar mein gayi.
+13 Sita aaj shyaam chalchitra ghar mein gayi.
+14 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	13 10
+15 Aaj subha manoj sayanakaksh mein gaya.
+16 Kal manoj chalchitra ghar mein chala gaya.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	13 10
+1 Aaj subha sita baagh mein gayi.
+2 Sita kal sayanakaksh gayi.
+3 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+4 Hari kal baagh gaya.
+5 Gita kal chalchitra ghar gayi.
+6 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+7 Aaj subha gita paathshaala mein gayi.
+8 Hari aaj subha chalchitra ghar mein chala gaya.
+9 Paathshaala mein jaaney sey pehley gita kahan thi?	chalchitra ghar	7 5
+10 Aaj dopeher gita baagh mein chali gayi.
+11 Manoj kal baagh mein chala gaya.
+12 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	8 4
+13 Aaj dopeher hari rasoi ghar mein gaya.
+14 Aaj subha manoj sayanakaksh mein gaya.
+15 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	10 7
+1 Aaj subha manoj baagh mein chala gaya.
+2 Kal manoj daftar gaya.
+3 Kal sita daftar gayi.
+4 Hari kal paathshaala mein chala gaya.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	daftar	1 2
+6 Hari aaj subha rasoi ghar mein chala gaya.
+7 Manoj aaj dopeher paathshaala mein chala gaya.
+8 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	6 4
+9 Aaj dopeher sita daftar mein gayi.
+10 Aaj subha sita rasoi ghar mein gayi.
+11 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	6 4
+12 Kal gita rasoi ghar mein gayi.
+13 Manoj aaj shyaam rasoi ghar gaya.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	6 4
+15 Aaj subha gita chalchitra ghar gayi.
+16 Sita aaj shyaam paathshaala mein chali gayi.
+17 Paathshaala mein jaaney sey pehley sita kahan thi?	daftar	16 9
+1 Sita aaj subha paathshaala mein chali gayi.
+2 Kal sita sayanakaksh mein gayi.
+3 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+4 Aaj subha hari baagh mein gaya.
+5 Hari kal daftar mein chala gaya.
+6 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+7 Kal manoj chalchitra ghar mein gaya.
+8 Gita kal daftar mein gayi.
+9 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+10 Aaj subha gita rasoi ghar mein chali gayi.
+11 Aaj dopeher hari chalchitra ghar gaya.
+12 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	11 4
+13 Gita aaj dopeher daftar mein gayi.
+14 Sita aaj dopeher chalchitra ghar mein gayi.
+15 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	13 10
+1 Aaj subha gita daftar mein chali gayi.
+2 Kal gita chalchitra ghar mein chali gayi.
+3 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	1 2
+4 Manoj kal chalchitra ghar mein gaya.
+5 Aaj dopeher gita chalchitra ghar mein gayi.
+6 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	1 2
+7 Kal sita rasoi ghar mein gayi.
+8 Gita aaj shyaam daftar gayi.
+9 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	8 5
+10 Hari kal sayanakaksh mein gaya.
+11 Aaj subha sita paathshaala mein chali gayi.
+12 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	11 7
+13 Manoj aaj subha baagh mein gaya.
+14 Sita aaj dopeher baagh gayi.
+15 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	11 7
+1 Gita aaj dopeher chalchitra ghar gayi.
+2 Gita aaj subha rasoi ghar mein gayi.
+3 Gita kal paathshaala mein chali gayi.
+4 Manoj kal daftar gaya.
+5 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+6 Gita aaj shyaam sayanakaksh mein gayi.
+7 Aaj subha manoj paathshaala mein chala gaya.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	7 4
+9 Manoj aaj dopeher baagh mein gaya.
+10 Kal sita paathshaala mein chali gayi.
+11 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	7 4
+12 Manoj aaj shyaam paathshaala mein chala gaya.
+13 Hari kal daftar mein gaya.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	paathshaala	9 7
+15 Hari aaj subha sayanakaksh mein chala gaya.
+16 Sita aaj subha rasoi ghar gayi.
+17 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	16 10
+1 Kal manoj daftar mein chala gaya.
+2 Gita kal baagh mein gayi.
+3 Sita aaj subha chalchitra ghar mein chali gayi.
+4 Kal sita baagh mein chali gayi.
+5 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	3 4
+6 Aaj dopeher sita sayanakaksh gayi.
+7 Manoj aaj subha sayanakaksh mein chala gaya.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	3 4
+9 Aaj dopeher manoj chalchitra ghar mein gaya.
+10 Aaj shyaam sita rasoi ghar mein gayi.
+11 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	9 7
+12 Kal hari baagh mein gaya.
+13 Gita aaj subha rasoi ghar gayi.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	6 3
+15 Manoj aaj shyaam rasoi ghar gaya.
+16 Aaj dopeher gita daftar mein gayi.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	baagh	13 2
+1 Hari aaj subha chalchitra ghar gaya.
+2 Hari kal daftar mein gaya.
+3 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	daftar	1 2
+4 Kal gita paathshaala gayi.
+5 Kal manoj sayanakaksh mein chala gaya.
+6 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	daftar	1 2
+7 Gita aaj dopeher sayanakaksh mein chali gayi.
+8 Gita aaj subha rasoi ghar gayi.
+9 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	8 4
+10 Hari aaj shyaam rasoi ghar mein chala gaya.
+11 Aaj dopeher hari paathshaala gaya.
+12 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	11 1
+13 Aaj subha manoj rasoi ghar mein chala gaya.
+14 Kal sita chalchitra ghar mein chali gayi.
+15 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	7 8
+1 Manoj aaj subha daftar mein chala gaya.
+2 Manoj kal sayanakaksh gaya.
+3 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 2
+4 Kal gita rasoi ghar gayi.
+5 Manoj aaj dopeher rasoi ghar mein chala gaya.
+6 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 2
+7 Gita aaj dopeher chalchitra ghar mein chali gayi.
+8 Gita aaj subha sayanakaksh gayi.
+9 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	7 8
+10 Kal hari daftar mein chala gaya.
+11 Manoj aaj shyaam chalchitra ghar gaya.
+12 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	7 8
+13 Aaj shyaam gita sayanakaksh mein gayi.
+14 Aaj subha hari paathshaala gaya.
+15 Paathshaala mein jaaney sey pehley hari kahan tha?	daftar	14 10
+1 Sita aaj subha rasoi ghar gayi.
+2 Kal hari chalchitra ghar gaya.
+3 Manoj kal baagh mein gaya.
+4 Kal sita daftar mein gayi.
+5 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	1 4
+6 Aaj shyaam sita daftar mein chali gayi.
+7 Aaj dopeher sita sayanakaksh mein gayi.
+8 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	6 7
+9 Aaj dopeher hari paathshaala mein gaya.
+10 Aaj subha hari rasoi ghar mein gaya.
+11 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 1
+12 Gita aaj subha paathshaala mein chali gayi.
+13 Gita kal chalchitra ghar mein gayi.
+14 Paathshaala mein jaaney sey pehley gita kahan thi?	chalchitra ghar	12 13
+15 Aaj shyaam hari daftar gaya.
+16 Aaj dopeher gita daftar mein gayi.
+17 Daftar mein jaaney sey pehley hari kahan tha?	paathshaala	15 9
+1 Aaj dopeher sita sayanakaksh mein gayi.
+2 Kal hari sayanakaksh mein gaya.
+3 Sita kal rasoi ghar gayi.
+4 Sita aaj subha paathshaala gayi.
+5 Sayanakaksh mein jaaney sey pehley sita kahan thi?	paathshaala	1 4
+6 Gita kal sayanakaksh mein chali gayi.
+7 Aaj subha hari paathshaala gaya.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	4 3
+9 Manoj kal daftar gaya.
+10 Aaj subha gita paathshaala mein chali gayi.
+11 Paathshaala mein jaaney sey pehley gita kahan thi?	sayanakaksh	10 6
+12 Gita aaj dopeher baagh mein gayi.
+13 Aaj dopeher hari baagh gaya.
+14 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	13 7
+15 Aaj shyaam hari chalchitra ghar gaya.
+16 Sita aaj shyaam paathshaala gayi.
+17 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	16 1
+1 Aaj subha manoj rasoi ghar mein gaya.
+2 Kal manoj daftar mein chala gaya.
+3 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	1 2
+4 Kal gita chalchitra ghar mein gayi.
+5 Manoj aaj dopeher baagh mein gaya.
+6 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	5 1
+7 Gita aaj subha daftar mein chali gayi.
+8 Kal sita daftar mein gayi.
+9 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	1 2
+10 Manoj aaj shyaam chalchitra ghar gaya.
+11 Aaj dopeher gita baagh mein chali gayi.
+12 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	7 4
+13 Sita aaj subha paathshaala mein gayi.
+14 Aaj shyaam gita paathshaala gayi.
+15 Paathshaala mein jaaney sey pehley sita kahan thi?	daftar	13 8
+1 Aaj subha gita sayanakaksh mein chali gayi.
+2 Kal gita baagh gayi.
+3 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	1 2
+4 Kal hari rasoi ghar mein gaya.
+5 Manoj kal rasoi ghar gaya.
+6 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	1 2
+7 Sita kal rasoi ghar mein gayi.
+8 Hari aaj subha chalchitra ghar mein gaya.
+9 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	8 4
+10 Aaj dopeher sita daftar mein chali gayi.
+11 Aaj subha sita chalchitra ghar mein chali gayi.
+12 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	11 7
+13 Aaj dopeher hari daftar gaya.
+14 Aaj dopeher gita paathshaala gayi.
+15 Paathshaala mein jaaney sey pehley gita kahan thi?	sayanakaksh	14 1
+1 Manoj aaj subha paathshaala mein gaya.
+2 Manoj kal chalchitra ghar gaya.
+3 Kal hari daftar mein gaya.
+4 Kal gita paathshaala gayi.
+5 Paathshaala mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	1 2
+6 Aaj subha hari rasoi ghar mein gaya.
+7 Aaj subha gita rasoi ghar gayi.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	1 2
+9 Aaj shyaam hari baagh mein gaya.
+10 Hari aaj dopeher daftar mein chala gaya.
+11 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	10 6
+12 Gita aaj shyaam paathshaala gayi.
+13 Gita aaj dopeher baagh mein chali gayi.
+14 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	10 6
+15 Aaj shyaam manoj paathshaala mein gaya.
+16 Aaj dopeher manoj rasoi ghar mein chala gaya.
+17 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	16 1
+1 Kal gita rasoi ghar mein gayi.
+2 Gita aaj subha paathshaala mein gayi.
+3 Kal sita chalchitra ghar mein gayi.
+4 Hari kal daftar gaya.
+5 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	2 1
+6 Sita aaj subha baagh mein chali gayi.
+7 Hari aaj subha sayanakaksh gaya.
+8 Baagh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	6 3
+9 Aaj dopeher gita daftar mein chali gayi.
+10 Aaj dopeher sita paathshaala mein chali gayi.
+11 Baagh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	6 3
+12 Sita aaj shyaam chalchitra ghar mein chali gayi.
+13 Aaj shyaam gita chalchitra ghar gayi.
+14 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	12 10
+15 Kal manoj paathshaala mein gaya.
+16 Aaj dopeher hari daftar gaya.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	13 9
+1 Gita aaj subha sayanakaksh mein gayi.
+2 Kal gita rasoi ghar gayi.
+3 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+4 Aaj dopeher gita daftar mein gayi.
+5 Kal sita chalchitra ghar gayi.
+6 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+7 Kal manoj sayanakaksh mein gaya.
+8 Aaj subha sita daftar mein gayi.
+9 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	4 1
+10 Kal hari rasoi ghar gaya.
+11 Aaj subha manoj baagh mein chala gaya.
+12 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	4 1
+13 Aaj shyaam gita rasoi ghar gayi.
+14 Manoj aaj dopeher chalchitra ghar mein gaya.
+15 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	11 7
+1 Kal sita daftar mein gayi.
+2 Aaj subha hari paathshaala mein chala gaya.
+3 Kal gita sayanakaksh gayi.
+4 Hari kal chalchitra ghar mein gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	2 4
+6 Hari aaj dopeher rasoi ghar gaya.
+7 Manoj kal rasoi ghar gaya.
+8 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	6 2
+9 Aaj subha gita daftar mein chali gayi.
+10 Aaj shyaam hari baagh mein gaya.
+11 Baagh mein jaaney sey pehley hari kahan tha?	rasoi ghar	10 6
+12 Aaj dopeher gita paathshaala mein gayi.
+13 Manoj aaj subha sayanakaksh gaya.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	6 2
+15 Manoj aaj shyaam rasoi ghar mein chala gaya.
+16 Aaj dopeher manoj baagh mein chala gaya.
+17 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	9 3
+1 Aaj subha sita rasoi ghar mein chali gayi.
+2 Kal sita baagh gayi.
+3 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	1 2
+4 Sita aaj shyaam chalchitra ghar mein gayi.
+5 Sita aaj dopeher baagh mein chali gayi.
+6 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	1 2
+7 Kal hari paathshaala mein gaya.
+8 Gita kal paathshaala mein chali gayi.
+9 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	1 2
+10 Gita aaj subha baagh mein gayi.
+11 Kal manoj baagh gaya.
+12 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	10 8
+13 Hari aaj subha rasoi ghar mein chala gaya.
+14 Manoj aaj subha sayanakaksh mein chala gaya.
+15 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	13 7
+1 Kal sita baagh mein chali gayi.
+2 Kal manoj chalchitra ghar mein gaya.
+3 Aaj subha manoj rasoi ghar mein gaya.
+4 Aaj subha gita sayanakaksh mein chali gayi.
+5 Hari kal rasoi ghar gaya.
+6 Gita kal chalchitra ghar mein gayi.
+7 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	3 2
+8 Manoj aaj dopeher baagh mein chala gaya.
+9 Aaj subha sita sayanakaksh mein chali gayi.
+10 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	8 3
+11 Gita aaj shyaam rasoi ghar gayi.
+12 Aaj dopeher gita chalchitra ghar gayi.
+13 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	11 12
+14 Hari aaj dopeher paathshaala mein chala gaya.
+15 Hari aaj subha sayanakaksh gaya.
+16 Paathshaala mein jaaney sey pehley hari kahan tha?	sayanakaksh	14 15
+17 Manoj aaj shyaam chalchitra ghar gaya.
+18 Hari aaj shyaam rasoi ghar mein gaya.
+19 Paathshaala mein jaaney sey pehley hari kahan tha?	sayanakaksh	14 15
+1 Aaj subha gita rasoi ghar mein chali gayi.
+2 Kal gita sayanakaksh gayi.
+3 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	1 2
+4 Sita kal paathshaala mein gayi.
+5 Kal hari baagh gaya.
+6 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	1 2
+7 Hari aaj subha chalchitra ghar mein gaya.
+8 Kal manoj rasoi ghar gaya.
+9 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	7 5
+10 Gita aaj dopeher baagh gayi.
+11 Aaj subha sita rasoi ghar mein chali gayi.
+12 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	11 4
+13 Aaj dopeher sita chalchitra ghar gayi.
+14 Hari aaj dopeher baagh mein gaya.
+15 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	11 4
+1 Hari aaj dopeher daftar gaya.
+2 Hari aaj subha chalchitra ghar mein chala gaya.
+3 Hari kal sayanakaksh mein gaya.
+4 Gita kal daftar gayi.
+5 Daftar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	1 2
+6 Hari aaj shyaam rasoi ghar mein gaya.
+7 Kal sita rasoi ghar gayi.
+8 Rasoi ghar mein jaaney sey pehley hari kahan tha?	daftar	6 1
+9 Gita aaj dopeher rasoi ghar mein chali gayi.
+10 Aaj subha gita chalchitra ghar mein chali gayi.
+11 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	9 10
+12 Sita aaj subha paathshaala mein chali gayi.
+13 Gita aaj shyaam daftar gayi.
+14 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	13 9
+15 Aaj shyaam sita baagh mein chali gayi.
+16 Sita aaj dopeher daftar mein gayi.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	9 10
+1 Kal gita paathshaala mein chali gayi.
+2 Kal manoj daftar gaya.
+3 Gita aaj subha sayanakaksh mein chali gayi.
+4 Kal hari chalchitra ghar mein chala gaya.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	3 1
+6 Sita aaj subha chalchitra ghar mein gayi.
+7 Kal sita baagh mein gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	6 7
+9 Aaj shyaam sita chalchitra ghar mein chali gayi.
+10 Aaj dopeher sita baagh mein gayi.
+11 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	3 1
+12 Manoj aaj dopeher paathshaala gaya.
+13 Manoj aaj subha rasoi ghar gaya.
+14 Baagh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	10 6
+15 Hari aaj subha sayanakaksh mein gaya.
+16 Aaj shyaam manoj rasoi ghar mein gaya.
+17 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	15 4
+1 Manoj kal rasoi ghar mein chala gaya.
+2 Gita kal sayanakaksh mein gayi.
+3 Manoj aaj subha chalchitra ghar gaya.
+4 Aaj subha gita rasoi ghar mein chali gayi.
+5 Hari kal paathshaala gaya.
+6 Sita kal chalchitra ghar mein gayi.
+7 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	3 1
+8 Aaj shyaam manoj sayanakaksh gaya.
+9 Manoj aaj dopeher baagh mein chala gaya.
+10 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	4 2
+11 Aaj dopeher sita baagh gayi.
+12 Aaj subha sita daftar mein gayi.
+13 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	3 1
+14 Gita aaj shyaam rasoi ghar mein chali gayi.
+15 Aaj dopeher gita paathshaala gayi.
+16 Baagh mein jaaney sey pehley sita kahan thi?	daftar	11 12
+17 Aaj shyaam sita paathshaala mein chali gayi.
+18 Hari aaj subha baagh mein chala gaya.
+19 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	15 4
+1 Gita aaj subha sayanakaksh gayi.
+2 Kal gita chalchitra ghar mein gayi.
+3 Kal manoj daftar mein chala gaya.
+4 Manoj aaj subha chalchitra ghar mein chala gaya.
+5 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	daftar	4 3
+6 Kal sita chalchitra ghar gayi.
+7 Kal hari paathshaala gaya.
+8 Sayanakaksh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	1 2
+9 Manoj aaj dopeher sayanakaksh mein gaya.
+10 Sita aaj subha rasoi ghar gayi.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	10 6
+12 Sita aaj dopeher sayanakaksh gayi.
+13 Aaj subha hari chalchitra ghar mein gaya.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	12 10
+15 Hari aaj dopeher daftar mein gaya.
+16 Aaj dopeher gita daftar mein chali gayi.
+17 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	12 10
+1 Hari aaj subha rasoi ghar gaya.
+2 Hari kal paathshaala mein chala gaya.
+3 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	1 2
+4 Sita kal daftar mein chali gayi.
+5 Hari aaj dopeher daftar gaya.
+6 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	1 2
+7 Gita kal rasoi ghar gayi.
+8 Aaj subha sita rasoi ghar gayi.
+9 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	5 1
+10 Aaj shyaam hari baagh mein chala gaya.
+11 Manoj kal baagh mein gaya.
+12 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	8 4
+13 Gita aaj subha paathshaala gayi.
+14 Aaj subha manoj rasoi ghar mein gaya.
+15 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	13 7
+1 Aaj dopeher gita sayanakaksh mein chali gayi.
+2 Kal gita paathshaala mein chali gayi.
+3 Kal sita daftar gayi.
+4 Aaj subha gita baagh mein gayi.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	1 4
+6 Manoj kal sayanakaksh mein chala gaya.
+7 Kal hari paathshaala gaya.
+8 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	4 2
+9 Hari aaj dopeher baagh mein gaya.
+10 Aaj subha hari chalchitra ghar mein gaya.
+11 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	1 4
+12 Sita aaj dopeher rasoi ghar mein chali gayi.
+13 Aaj subha sita sayanakaksh mein gayi.
+14 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	9 10
+15 Sita aaj shyaam daftar mein chali gayi.
+16 Manoj aaj subha baagh mein chala gaya.
+17 Rasoi ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	12 13
+1 Sita kal chalchitra ghar gayi.
+2 Manoj kal sayanakaksh gaya.
+3 Sita aaj subha rasoi ghar mein chali gayi.
+4 Kal hari chalchitra ghar mein gaya.
+5 Kal gita sayanakaksh mein gayi.
+6 Hari aaj subha daftar mein chala gaya.
+7 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	3 1
+8 Gita aaj subha chalchitra ghar mein chali gayi.
+9 Aaj dopeher sita daftar mein gayi.
+10 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	3 1
+11 Hari aaj dopeher chalchitra ghar gaya.
+12 Gita aaj dopeher sayanakaksh mein chali gayi.
+13 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	9 3
+14 Aaj shyaam sita sayanakaksh gayi.
+15 Aaj subha manoj rasoi ghar gaya.
+16 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	8 5
+17 Manoj aaj dopeher chalchitra ghar mein chala gaya.
+18 Gita aaj shyaam daftar mein chali gayi.
+19 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	daftar	11 6
+1 Aaj subha hari paathshaala mein gaya.
+2 Kal hari chalchitra ghar mein chala gaya.
+3 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	1 2
+4 Kal sita baagh mein chali gayi.
+5 Gita kal baagh mein gayi.
+6 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	1 2
+7 Kal manoj chalchitra ghar mein gaya.
+8 Aaj dopeher hari chalchitra ghar gaya.
+9 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	8 1
+10 Aaj subha sita sayanakaksh mein gayi.
+11 Gita aaj subha sayanakaksh gayi.
+12 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	8 1
+13 Sita aaj dopeher chalchitra ghar gayi.
+14 Aaj subha manoj rasoi ghar gaya.
+15 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	14 7
+1 Aaj subha hari chalchitra ghar gaya.
+2 Hari kal baagh mein chala gaya.
+3 Aaj subha sita daftar mein chali gayi.
+4 Kal gita paathshaala mein chali gayi.
+5 Kal sita chalchitra ghar gayi.
+6 Manoj kal rasoi ghar mein gaya.
+7 Daftar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	3 5
+8 Hari aaj dopeher paathshaala gaya.
+9 Sita aaj dopeher baagh mein gayi.
+10 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	1 2
+11 Manoj aaj subha paathshaala mein gaya.
+12 Sita aaj shyaam paathshaala gayi.
+13 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	8 1
+14 Aaj shyaam hari baagh mein chala gaya.
+15 Aaj subha gita baagh mein gayi.
+16 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	14 8
+17 Aaj dopeher manoj chalchitra ghar gaya.
+18 Aaj dopeher gita sayanakaksh mein gayi.
+19 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	15 4
+1 Gita kal baagh mein gayi.
+2 Hari kal paathshaala mein gaya.
+3 Aaj subha sita sayanakaksh gayi.
+4 Kal sita chalchitra ghar mein gayi.
+5 Sayanakaksh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	3 4
+6 Hari aaj dopeher baagh mein chala gaya.
+7 Aaj subha hari chalchitra ghar mein chala gaya.
+8 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	7 2
+9 Sita aaj shyaam baagh mein gayi.
+10 Aaj dopeher sita chalchitra ghar mein chali gayi.
+11 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	6 7
+12 Aaj shyaam hari daftar gaya.
+13 Aaj subha gita sayanakaksh mein chali gayi.
+14 Baagh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	9 10
+15 Kal manoj sayanakaksh mein gaya.
+16 Aaj dopeher gita paathshaala gayi.
+17 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	13 1
+1 Kal manoj sayanakaksh mein gaya.
+2 Gita aaj subha rasoi ghar mein gayi.
+3 Kal gita paathshaala gayi.
+4 Sita kal rasoi ghar mein gayi.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	2 3
+6 Manoj aaj subha baagh mein chala gaya.
+7 Gita aaj dopeher chalchitra ghar mein gayi.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 1
+9 Hari kal sayanakaksh mein chala gaya.
+10 Gita aaj shyaam rasoi ghar gayi.
+11 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	10 7
+12 Aaj subha hari daftar mein gaya.
+13 Aaj subha sita daftar mein chali gayi.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 1
+15 Hari aaj shyaam chalchitra ghar gaya.
+16 Hari aaj dopeher rasoi ghar gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	sayanakaksh	12 9
+1 Kal manoj paathshaala mein gaya.
+2 Sita kal paathshaala mein gayi.
+3 Hari kal chalchitra ghar gaya.
+4 Hari aaj subha paathshaala mein chala gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	4 3
+6 Aaj dopeher hari sayanakaksh mein chala gaya.
+7 Sita aaj subha chalchitra ghar mein gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	7 2
+9 Manoj aaj subha daftar mein chala gaya.
+10 Hari aaj shyaam chalchitra ghar mein gaya.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	7 2
+12 Gita aaj subha rasoi ghar mein gayi.
+13 Kal gita daftar mein chali gayi.
+14 Sayanakaksh mein jaaney sey pehley hari kahan tha?	paathshaala	6 4
+15 Manoj aaj dopeher paathshaala gaya.
+16 Sita aaj dopeher rasoi ghar mein gayi.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	paathshaala	9 1
+1 Sita kal sayanakaksh mein chali gayi.
+2 Aaj subha hari rasoi ghar mein gaya.
+3 Hari aaj dopeher sayanakaksh gaya.
+4 Hari kal sayanakaksh mein chala gaya.
+5 Rasoi ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	2 4
+6 Gita kal chalchitra ghar mein chali gayi.
+7 Hari aaj shyaam daftar mein gaya.
+8 Rasoi ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	2 4
+9 Manoj kal rasoi ghar mein chala gaya.
+10 Gita aaj subha daftar mein chali gayi.
+11 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	10 6
+12 Manoj aaj subha sayanakaksh mein chala gaya.
+13 Aaj subha sita daftar mein chali gayi.
+14 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	13 1
+15 Gita aaj dopeher baagh mein gayi.
+16 Aaj dopeher manoj rasoi ghar gaya.
+17 Baagh mein jaaney sey pehley gita kahan thi?	daftar	15 10
+1 Aaj subha gita baagh gayi.
+2 Gita kal chalchitra ghar mein gayi.
+3 Baagh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	1 2
+4 Manoj aaj subha sayanakaksh gaya.
+5 Kal manoj chalchitra ghar mein gaya.
+6 Baagh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	1 2
+7 Gita aaj dopeher rasoi ghar mein gayi.
+8 Manoj aaj dopeher chalchitra ghar gaya.
+9 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	8 4
+10 Aaj shyaam manoj daftar gaya.
+11 Hari kal sayanakaksh gaya.
+12 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	4 5
+13 Hari aaj dopeher paathshaala gaya.
+14 Hari aaj subha chalchitra ghar gaya.
+15 Daftar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	10 8
+1 Aaj subha manoj rasoi ghar mein chala gaya.
+2 Manoj kal paathshaala mein gaya.
+3 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	1 2
+4 Aaj subha hari chalchitra ghar gaya.
+5 Hari kal daftar mein gaya.
+6 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	1 2
+7 Kal gita chalchitra ghar mein chali gayi.
+8 Aaj dopeher manoj chalchitra ghar gaya.
+9 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	8 1
+10 Aaj subha sita sayanakaksh mein gayi.
+11 Sita kal chalchitra ghar mein chali gayi.
+12 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	daftar	4 5
+13 Gita aaj subha daftar gayi.
+14 Aaj dopeher hari baagh mein gaya.
+15 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	14 4
+1 Sita aaj subha rasoi ghar gayi.
+2 Kal sita paathshaala mein chali gayi.
+3 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+4 Gita aaj subha daftar mein chali gayi.
+5 Gita kal baagh gayi.
+6 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+7 Aaj dopeher sita baagh gayi.
+8 Gita aaj dopeher sayanakaksh mein chali gayi.
+9 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 1
+10 Aaj shyaam gita baagh gayi.
+11 Sita aaj shyaam rasoi ghar mein gayi.
+12 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	8 4
+13 Hari kal sayanakaksh mein gaya.
+14 Manoj kal chalchitra ghar gaya.
+15 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	11 7
+1 Aaj subha hari baagh gaya.
+2 Hari kal chalchitra ghar gaya.
+3 Baagh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	1 2
+4 Gita kal chalchitra ghar mein gayi.
+5 Hari aaj dopeher rasoi ghar gaya.
+6 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	5 1
+7 Gita aaj subha baagh gayi.
+8 Manoj kal paathshaala mein gaya.
+9 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	5 1
+10 Kal sita sayanakaksh gayi.
+11 Aaj subha manoj baagh mein chala gaya.
+12 Baagh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	7 4
+13 Aaj dopeher gita rasoi ghar mein chali gayi.
+14 Sita aaj subha paathshaala gayi.
+15 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	14 10
+1 Kal sita rasoi ghar mein gayi.
+2 Gita kal rasoi ghar gayi.
+3 Gita aaj subha sayanakaksh gayi.
+4 Manoj kal rasoi ghar gaya.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	3 2
+6 Manoj aaj subha sayanakaksh mein chala gaya.
+7 Kal hari paathshaala mein gaya.
+8 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	3 2
+9 Aaj dopeher manoj daftar mein gaya.
+10 Aaj subha sita daftar mein chali gayi.
+11 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	9 6
+12 Aaj dopeher sita sayanakaksh gayi.
+13 Manoj aaj shyaam chalchitra ghar mein gaya.
+14 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	9 6
+15 Gita aaj dopeher chalchitra ghar mein chali gayi.
+16 Sita aaj shyaam rasoi ghar mein gayi.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	15 3
+1 Aaj subha sita sayanakaksh mein gayi.
+2 Manoj kal baagh gaya.
+3 Manoj aaj subha paathshaala mein gaya.
+4 Gita kal baagh mein gayi.
+5 Sita kal daftar mein gayi.
+6 Kal hari daftar gaya.
+7 Sayanakaksh mein jaaney sey pehley sita kahan thi?	daftar	1 5
+8 Hari aaj dopeher daftar mein chala gaya.
+9 Hari aaj subha chalchitra ghar gaya.
+10 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	3 2
+11 Manoj aaj dopeher rasoi ghar mein gaya.
+12 Hari aaj shyaam rasoi ghar gaya.
+13 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	11 3
+14 Aaj dopeher sita chalchitra ghar mein chali gayi.
+15 Aaj shyaam manoj chalchitra ghar mein gaya.
+16 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	11 3
+17 Aaj dopeher gita rasoi ghar mein chali gayi.
+18 Aaj subha gita paathshaala mein gayi.
+19 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	15 11
+1 Sita aaj subha paathshaala gayi.
+2 Hari kal chalchitra ghar mein chala gaya.
+3 Aaj subha hari paathshaala gaya.
+4 Sita kal chalchitra ghar mein chali gayi.
+5 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	1 4
+6 Kal manoj daftar gaya.
+7 Sita aaj dopeher baagh mein gayi.
+8 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	3 2
+9 Hari aaj shyaam daftar mein chala gaya.
+10 Hari aaj dopeher chalchitra ghar gaya.
+11 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	7 1
+12 Aaj subha manoj rasoi ghar mein gaya.
+13 Aaj shyaam sita rasoi ghar mein chali gayi.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	12 6
+15 Kal gita rasoi ghar mein gayi.
+16 Aaj dopeher manoj daftar mein gaya.
+17 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	13 7
+1 Gita aaj subha sayanakaksh mein chali gayi.
+2 Kal gita rasoi ghar gayi.
+3 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+4 Kal manoj baagh mein chala gaya.
+5 Kal hari baagh mein gaya.
+6 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+7 Sita kal rasoi ghar gayi.
+8 Manoj aaj subha sayanakaksh mein chala gaya.
+9 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+10 Aaj subha sita sayanakaksh gayi.
+11 Aaj dopeher manoj baagh mein chala gaya.
+12 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	11 8
+13 Hari aaj subha chalchitra ghar mein chala gaya.
+14 Manoj aaj shyaam rasoi ghar gaya.
+15 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	10 7
+1 Sita aaj subha chalchitra ghar mein chali gayi.
+2 Manoj kal sayanakaksh mein gaya.
+3 Sita kal daftar mein chali gayi.
+4 Kal gita sayanakaksh mein gayi.
+5 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	1 3
+6 Hari kal baagh mein gaya.
+7 Sita aaj dopeher paathshaala gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	1 3
+9 Manoj aaj subha paathshaala mein chala gaya.
+10 Gita aaj subha paathshaala mein chali gayi.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	1 3
+12 Manoj aaj dopeher rasoi ghar mein chala gaya.
+13 Aaj shyaam sita chalchitra ghar mein gayi.
+14 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	13 7
+15 Hari aaj subha chalchitra ghar mein chala gaya.
+16 Manoj aaj shyaam daftar mein chala gaya.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	16 12
+1 Manoj kal daftar mein chala gaya.
+2 Aaj dopeher hari baagh mein chala gaya.
+3 Kal hari paathshaala mein gaya.
+4 Aaj subha hari daftar mein gaya.
+5 Baagh mein jaaney sey pehley hari kahan tha?	daftar	2 4
+6 Kal sita rasoi ghar mein chali gayi.
+7 Manoj aaj subha sayanakaksh mein gaya.
+8 Daftar mein jaaney sey pehley hari kahan tha?	paathshaala	4 3
+9 Hari aaj shyaam sayanakaksh mein chala gaya.
+10 Manoj aaj dopeher daftar mein gaya.
+11 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	10 7
+12 Sita aaj subha baagh mein gayi.
+13 Aaj shyaam manoj sayanakaksh mein chala gaya.
+14 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	13 10
+15 Kal gita rasoi ghar gayi.
+16 Sita aaj dopeher sayanakaksh mein gayi.
+17 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	12 6
+1 Aaj subha gita paathshaala mein gayi.
+2 Kal gita daftar mein chali gayi.
+3 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	1 2
+4 Kal sita daftar mein gayi.
+5 Manoj kal daftar mein chala gaya.
+6 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	1 2
+7 Sita aaj subha sayanakaksh mein gayi.
+8 Aaj subha manoj paathshaala mein chala gaya.
+9 Sayanakaksh mein jaaney sey pehley sita kahan thi?	daftar	7 4
+10 Kal hari daftar mein chala gaya.
+11 Aaj dopeher sita baagh mein chali gayi.
+12 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	11 7
+13 Hari aaj subha sayanakaksh mein chala gaya.
+14 Manoj aaj dopeher chalchitra ghar mein chala gaya.
+15 Sayanakaksh mein jaaney sey pehley sita kahan thi?	daftar	7 4
+1 Sita kal baagh gayi.
+2 Kal hari chalchitra ghar mein chala gaya.
+3 Gita aaj subha baagh gayi.
+4 Gita kal sayanakaksh gayi.
+5 Aaj subha manoj rasoi ghar gaya.
+6 Kal manoj sayanakaksh mein chala gaya.
+7 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	3 4
+8 Aaj dopeher manoj daftar mein chala gaya.
+9 Gita aaj dopeher daftar mein chali gayi.
+10 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	8 5
+11 Aaj shyaam manoj sayanakaksh mein chala gaya.
+12 Gita aaj shyaam sayanakaksh gayi.
+13 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	8 5
+14 Aaj subha hari rasoi ghar mein chala gaya.
+15 Sita aaj subha paathshaala mein chali gayi.
+16 Paathshaala mein jaaney sey pehley sita kahan thi?	baagh	15 1
+17 Aaj shyaam hari baagh gaya.
+18 Aaj dopeher hari sayanakaksh mein chala gaya.
+19 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	11 8
+1 Hari aaj subha paathshaala mein chala gaya.
+2 Hari aaj dopeher chalchitra ghar mein gaya.
+3 Kal hari baagh mein chala gaya.
+4 Gita kal chalchitra ghar mein gayi.
+5 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	2 1
+6 Kal manoj daftar mein gaya.
+7 Sita kal sayanakaksh mein gayi.
+8 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	2 1
+9 Sita aaj subha daftar gayi.
+10 Aaj subha gita sayanakaksh mein gayi.
+11 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	2 1
+12 Aaj shyaam gita chalchitra ghar mein gayi.
+13 Gita aaj dopeher paathshaala mein gayi.
+14 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	9 7
+15 Hari aaj shyaam paathshaala mein chala gaya.
+16 Manoj aaj subha paathshaala mein chala gaya.
+17 Paathshaala mein jaaney sey pehley gita kahan thi?	sayanakaksh	13 10
+1 Sita aaj subha paathshaala mein gayi.
+2 Manoj kal daftar mein chala gaya.
+3 Sita kal rasoi ghar gayi.
+4 Hari kal rasoi ghar mein gaya.
+5 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 3
+6 Kal gita rasoi ghar mein chali gayi.
+7 Manoj aaj subha paathshaala gaya.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	7 2
+9 Gita aaj subha daftar gayi.
+10 Sita aaj dopeher baagh mein gayi.
+11 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 3
+12 Manoj aaj shyaam paathshaala mein chala gaya.
+13 Aaj dopeher manoj daftar gaya.
+14 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	9 6
+15 Aaj shyaam sita daftar mein gayi.
+16 Hari aaj subha chalchitra ghar gaya.
+17 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	16 4
+1 Aaj subha gita paathshaala gayi.
+2 Gita kal daftar mein gayi.
+3 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	1 2
+4 Gita aaj dopeher rasoi ghar gayi.
+5 Sita kal rasoi ghar gayi.
+6 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	1 2
+7 Kal hari sayanakaksh mein chala gaya.
+8 Aaj shyaam gita paathshaala mein chali gayi.
+9 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	8 4
+10 Sita aaj subha chalchitra ghar mein gayi.
+11 Hari aaj subha chalchitra ghar gaya.
+12 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	10 5
+13 Aaj shyaam sita daftar gayi.
+14 Aaj dopeher sita baagh mein gayi.
+15 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	11 7
+1 Sita aaj subha sayanakaksh mein gayi.
+2 Gita kal daftar gayi.
+3 Aaj subha gita sayanakaksh mein chali gayi.
+4 Kal sita chalchitra ghar mein gayi.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	3 2
+6 Kal manoj baagh mein chala gaya.
+7 Hari kal paathshaala gaya.
+8 Sayanakaksh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	1 4
+9 Gita aaj dopeher baagh gayi.
+10 Aaj subha hari sayanakaksh gaya.
+11 Sayanakaksh mein jaaney sey pehley hari kahan tha?	paathshaala	10 7
+12 Aaj dopeher manoj paathshaala mein chala gaya.
+13 Aaj subha manoj sayanakaksh gaya.
+14 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	9 3
+15 Aaj shyaam manoj daftar gaya.
+16 Aaj dopeher hari chalchitra ghar mein chala gaya.
+17 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	12 13
+1 Sita aaj subha daftar gayi.
+2 Sita kal sayanakaksh mein gayi.
+3 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+4 Sita aaj dopeher chalchitra ghar gayi.
+5 Manoj kal sayanakaksh gaya.
+6 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	4 1
+7 Aaj subha gita daftar mein chali gayi.
+8 Gita kal baagh gayi.
+9 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	4 1
+10 Hari kal chalchitra ghar gaya.
+11 Manoj aaj subha rasoi ghar mein gaya.
+12 Daftar mein jaaney sey pehley gita kahan thi?	baagh	7 8
+13 Gita aaj dopeher chalchitra ghar mein chali gayi.
+14 Aaj shyaam sita paathshaala mein gayi.
+15 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	13 7
+1 Aaj subha manoj paathshaala mein gaya.
+2 Hari aaj subha sayanakaksh mein chala gaya.
+3 Hari kal baagh mein gaya.
+4 Sita kal daftar gayi.
+5 Manoj kal daftar mein chala gaya.
+6 Kal gita paathshaala gayi.
+7 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	1 5
+8 Gita aaj subha chalchitra ghar mein gayi.
+9 Hari aaj dopeher paathshaala mein gaya.
+10 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	1 5
+11 Aaj subha sita rasoi ghar mein gayi.
+12 Aaj dopeher gita paathshaala mein chali gayi.
+13 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	11 4
+14 Aaj shyaam manoj rasoi ghar mein chala gaya.
+15 Manoj aaj dopeher daftar gaya.
+16 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	paathshaala	8 6
+17 Sita aaj dopeher daftar gayi.
+18 Aaj shyaam hari daftar mein chala gaya.
+19 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	14 15
+1 Kal gita paathshaala mein chali gayi.
+2 Gita aaj subha baagh gayi.
+3 Hari aaj subha chalchitra ghar gaya.
+4 Kal hari rasoi ghar mein chala gaya.
+5 Kal sita sayanakaksh mein gayi.
+6 Kal manoj paathshaala mein gaya.
+7 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	3 4
+8 Gita aaj dopeher paathshaala mein chali gayi.
+9 Aaj dopeher hari daftar mein gaya.
+10 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	3 4
+11 Aaj subha sita rasoi ghar mein gayi.
+12 Hari aaj shyaam paathshaala gaya.
+13 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	8 2
+14 Aaj dopeher sita daftar gayi.
+15 Aaj subha manoj sayanakaksh gaya.
+16 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	8 2
+17 Gita aaj shyaam daftar gayi.
+18 Sita aaj shyaam sayanakaksh mein gayi.
+19 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	14 11
+1 Kal hari chalchitra ghar mein chala gaya.
+2 Kal manoj sayanakaksh mein gaya.
+3 Sita kal rasoi ghar mein chali gayi.
+4 Aaj subha manoj baagh mein chala gaya.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	4 2
+6 Manoj aaj dopeher rasoi ghar mein chala gaya.
+7 Aaj subha sita paathshaala mein chali gayi.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 3
+9 Gita kal daftar mein chali gayi.
+10 Manoj aaj shyaam sayanakaksh mein chala gaya.
+11 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	10 6
+12 Hari aaj subha rasoi ghar mein gaya.
+13 Aaj dopeher sita rasoi ghar mein chali gayi.
+14 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	10 6
+15 Hari aaj dopeher paathshaala mein chala gaya.
+16 Sita aaj shyaam baagh gayi.
+17 Paathshaala mein jaaney sey pehley hari kahan tha?	rasoi ghar	15 12
+1 Kal manoj chalchitra ghar gaya.
+2 Kal gita baagh gayi.
+3 Aaj subha gita paathshaala mein chali gayi.
+4 Hari kal baagh gaya.
+5 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	3 2
+6 Aaj shyaam gita daftar mein chali gayi.
+7 Gita aaj dopeher sayanakaksh mein gayi.
+8 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	6 7
+9 Manoj aaj dopeher baagh gaya.
+10 Manoj aaj subha paathshaala gaya.
+11 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	3 2
+12 Manoj aaj shyaam paathshaala gaya.
+13 Aaj subha hari rasoi ghar mein gaya.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	13 4
+15 Aaj dopeher hari daftar mein chala gaya.
+16 Kal sita rasoi ghar mein gayi.
+17 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	13 4
+1 Aaj subha hari sayanakaksh gaya.
+2 Hari kal daftar gaya.
+3 Sayanakaksh mein jaaney sey pehley hari kahan tha?	daftar	1 2
+4 Kal sita daftar gayi.
+5 Aaj dopeher hari daftar mein chala gaya.
+6 Daftar mein jaaney sey pehley hari kahan tha?	sayanakaksh	5 1
+7 Sita aaj subha chalchitra ghar mein chali gayi.
+8 Kal manoj baagh mein chala gaya.
+9 Sayanakaksh mein jaaney sey pehley hari kahan tha?	daftar	1 2
+10 Aaj dopeher manoj daftar gaya.
+11 Aaj subha manoj sayanakaksh gaya.
+12 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	10 11
+13 Kal gita sayanakaksh mein chali gayi.
+14 Aaj dopeher sita baagh mein gayi.
+15 Baagh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	14 7
+1 Gita kal chalchitra ghar mein chali gayi.
+2 Aaj subha hari rasoi ghar mein chala gaya.
+3 Hari kal daftar mein chala gaya.
+4 Sita kal sayanakaksh mein chali gayi.
+5 Rasoi ghar mein jaaney sey pehley hari kahan tha?	daftar	2 3
+6 Sita aaj subha daftar mein gayi.
+7 Aaj dopeher hari chalchitra ghar mein gaya.
+8 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	7 2
+9 Aaj subha manoj rasoi ghar mein chala gaya.
+10 Manoj kal baagh mein gaya.
+11 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	6 4
+12 Sita aaj dopeher sayanakaksh gayi.
+13 Aaj dopeher manoj chalchitra ghar mein gaya.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	daftar	12 6
+15 Aaj shyaam sita rasoi ghar mein gayi.
+16 Aaj subha gita daftar gayi.
+17 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	13 9
+1 Aaj subha sita chalchitra ghar mein gayi.
+2 Sita kal paathshaala gayi.
+3 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+4 Hari aaj subha paathshaala gaya.
+5 Kal hari chalchitra ghar mein chala gaya.
+6 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+7 Kal gita daftar mein chali gayi.
+8 Aaj dopeher hari sayanakaksh mein gaya.
+9 Sayanakaksh mein jaaney sey pehley hari kahan tha?	paathshaala	8 4
+10 Gita aaj subha baagh mein chali gayi.
+11 Aaj shyaam hari baagh gaya.
+12 Sayanakaksh mein jaaney sey pehley hari kahan tha?	paathshaala	8 4
+13 Gita aaj dopeher daftar mein chali gayi.
+14 Kal manoj sayanakaksh gaya.
+15 Daftar mein jaaney sey pehley gita kahan thi?	baagh	13 10
+1 Manoj kal rasoi ghar gaya.
+2 Aaj subha manoj baagh mein gaya.
+3 Hari aaj subha paathshaala mein chala gaya.
+4 Kal hari rasoi ghar gaya.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	2 1
+6 Aaj dopeher manoj rasoi ghar mein gaya.
+7 Sita kal sayanakaksh mein chali gayi.
+8 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	6 2
+9 Aaj subha sita paathshaala mein chali gayi.
+10 Gita kal sayanakaksh gayi.
+11 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	9 7
+12 Aaj shyaam manoj daftar mein gaya.
+13 Aaj dopeher hari sayanakaksh gaya.
+14 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	12 6
+15 Aaj subha gita baagh mein gayi.
+16 Aaj dopeher sita chalchitra ghar mein chali gayi.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	16 9
+1 Sita kal baagh mein gayi.
+2 Gita aaj subha daftar mein gayi.
+3 Manoj kal baagh gaya.
+4 Kal gita sayanakaksh gayi.
+5 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	2 4
+6 Aaj dopeher gita rasoi ghar mein chali gayi.
+7 Sita aaj subha paathshaala mein gayi.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	baagh	7 1
+9 Gita aaj shyaam paathshaala gayi.
+10 Sita aaj dopeher chalchitra ghar mein chali gayi.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	10 7
+12 Hari aaj subha rasoi ghar mein chala gaya.
+13 Kal hari baagh gaya.
+14 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	6 2
+15 Sita aaj shyaam rasoi ghar mein chali gayi.
+16 Aaj subha manoj daftar mein chala gaya.
+17 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	9 6
+1 Aaj subha gita rasoi ghar mein gayi.
+2 Hari kal sayanakaksh mein chala gaya.
+3 Kal gita sayanakaksh mein gayi.
+4 Sita kal sayanakaksh gayi.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	1 3
+6 Hari aaj subha rasoi ghar mein chala gaya.
+7 Sita aaj subha rasoi ghar mein chali gayi.
+8 Rasoi ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	7 4
+9 Gita aaj dopeher sayanakaksh mein gayi.
+10 Hari aaj dopeher daftar gaya.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	7 4
+12 Sita aaj shyaam chalchitra ghar mein chali gayi.
+13 Aaj dopeher sita baagh mein chali gayi.
+14 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	13 7
+15 Kal manoj sayanakaksh gaya.
+16 Gita aaj shyaam daftar mein gayi.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	12 13
+1 Aaj subha gita paathshaala mein chali gayi.
+2 Kal sita paathshaala mein chali gayi.
+3 Aaj subha manoj chalchitra ghar mein chala gaya.
+4 Hari kal rasoi ghar mein chala gaya.
+5 Gita kal rasoi ghar mein gayi.
+6 Manoj kal baagh gaya.
+7 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 5
+8 Gita aaj shyaam daftar mein chali gayi.
+9 Aaj dopeher gita rasoi ghar mein gayi.
+10 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	9 1
+11 Aaj dopeher hari baagh mein chala gaya.
+12 Hari aaj subha paathshaala gaya.
+13 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 5
+14 Aaj shyaam hari sayanakaksh mein chala gaya.
+15 Sita aaj subha rasoi ghar mein gayi.
+16 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	11 12
+17 Aaj shyaam manoj rasoi ghar mein gaya.
+18 Aaj dopeher manoj baagh mein chala gaya.
+19 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	17 18
+1 Aaj subha manoj paathshaala mein chala gaya.
+2 Manoj kal baagh mein gaya.
+3 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	1 2
+4 Kal sita sayanakaksh gayi.
+5 Hari kal sayanakaksh mein chala gaya.
+6 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	1 2
+7 Aaj subha hari daftar mein chala gaya.
+8 Aaj dopeher manoj sayanakaksh mein gaya.
+9 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	1 2
+10 Aaj subha gita baagh mein gayi.
+11 Gita kal chalchitra ghar mein gayi.
+12 Baagh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	10 11
+13 Aaj shyaam manoj baagh mein gaya.
+14 Hari aaj dopeher chalchitra ghar gaya.
+15 Baagh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	10 11
+1 Kal gita sayanakaksh gayi.
+2 Manoj kal sayanakaksh mein gaya.
+3 Gita aaj subha daftar mein chali gayi.
+4 Kal hari chalchitra ghar gaya.
+5 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	3 1
+6 Hari aaj subha paathshaala gaya.
+7 Aaj subha manoj chalchitra ghar gaya.
+8 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	7 2
+9 Aaj dopeher gita chalchitra ghar mein chali gayi.
+10 Aaj dopeher manoj baagh mein chala gaya.
+11 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	3 1
+12 Aaj shyaam gita sayanakaksh mein gayi.
+13 Manoj aaj shyaam chalchitra ghar gaya.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	10 7
+15 Aaj shyaam hari paathshaala mein chala gaya.
+16 Hari aaj dopeher sayanakaksh mein gaya.
+17 Paathshaala mein jaaney sey pehley hari kahan tha?	sayanakaksh	15 16
+1 Aaj subha hari baagh mein chala gaya.
+2 Hari kal rasoi ghar mein chala gaya.
+3 Kal manoj sayanakaksh mein chala gaya.
+4 Kal sita rasoi ghar mein gayi.
+5 Baagh mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+6 Aaj dopeher sita baagh mein gayi.
+7 Sita aaj subha chalchitra ghar mein chali gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 4
+9 Manoj aaj subha rasoi ghar mein chala gaya.
+10 Sita aaj shyaam rasoi ghar mein chali gayi.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	10 6
+12 Hari aaj shyaam rasoi ghar gaya.
+13 Hari aaj dopeher daftar gaya.
+14 Baagh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	6 7
+15 Gita kal daftar mein chali gayi.
+16 Aaj dopeher manoj sayanakaksh gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	baagh	13 1
+1 Hari aaj subha rasoi ghar mein gaya.
+2 Kal hari daftar gaya.
+3 Rasoi ghar mein jaaney sey pehley hari kahan tha?	daftar	1 2
+4 Gita kal rasoi ghar mein chali gayi.
+5 Kal sita rasoi ghar mein chali gayi.
+6 Rasoi ghar mein jaaney sey pehley hari kahan tha?	daftar	1 2
+7 Aaj dopeher hari sayanakaksh mein chala gaya.
+8 Sita aaj subha baagh gayi.
+9 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	8 5
+10 Hari aaj shyaam paathshaala gaya.
+11 Kal manoj baagh mein chala gaya.
+12 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	8 5
+13 Aaj subha manoj sayanakaksh mein gaya.
+14 Aaj subha gita paathshaala mein gayi.
+15 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	baagh	13 11
+1 Aaj subha manoj daftar mein chala gaya.
+2 Manoj kal rasoi ghar gaya.
+3 Kal gita paathshaala mein chali gayi.
+4 Kal hari rasoi ghar mein chala gaya.
+5 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 2
+6 Aaj subha sita daftar gayi.
+7 Kal sita sayanakaksh gayi.
+8 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 2
+9 Hari aaj subha baagh gaya.
+10 Aaj subha gita daftar mein chali gayi.
+11 Daftar mein jaaney sey pehley gita kahan thi?	paathshaala	10 3
+12 Gita aaj dopeher baagh mein chali gayi.
+13 Aaj dopeher sita sayanakaksh gayi.
+14 Daftar mein jaaney sey pehley gita kahan thi?	paathshaala	10 3
+15 Gita aaj shyaam daftar mein chali gayi.
+16 Aaj dopeher hari sayanakaksh mein chala gaya.
+17 Baagh mein jaaney sey pehley gita kahan thi?	daftar	12 10
+1 Manoj aaj subha paathshaala mein gaya.
+2 Manoj kal baagh mein chala gaya.
+3 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	1 2
+4 Kal hari rasoi ghar gaya.
+5 Gita kal baagh mein gayi.
+6 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	1 2
+7 Aaj subha hari chalchitra ghar mein gaya.
+8 Sita kal baagh gayi.
+9 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	1 2
+10 Aaj dopeher manoj chalchitra ghar gaya.
+11 Aaj subha gita chalchitra ghar gayi.
+12 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	10 1
+13 Aaj dopeher gita rasoi ghar mein chali gayi.
+14 Aaj dopeher hari rasoi ghar gaya.
+15 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	14 7
+1 Manoj aaj subha rasoi ghar mein chala gaya.
+2 Gita aaj subha sayanakaksh mein gayi.
+3 Gita kal chalchitra ghar mein chali gayi.
+4 Kal manoj sayanakaksh gaya.
+5 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 4
+6 Hari kal baagh gaya.
+7 Sita kal paathshaala gayi.
+8 Sayanakaksh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	2 3
+9 Manoj aaj dopeher daftar mein chala gaya.
+10 Gita aaj dopeher baagh mein gayi.
+11 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	10 2
+12 Aaj subha hari sayanakaksh gaya.
+13 Manoj aaj shyaam paathshaala mein gaya.
+14 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	10 2
+15 Aaj dopeher hari chalchitra ghar gaya.
+16 Aaj shyaam gita chalchitra ghar mein chali gayi.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	baagh	16 10
+1 Aaj subha sita daftar gayi.
+2 Kal gita baagh mein gayi.
+3 Sita kal sayanakaksh mein chali gayi.
+4 Aaj subha gita sayanakaksh gayi.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	4 2
+6 Aaj dopeher sita chalchitra ghar gayi.
+7 Hari kal paathshaala mein gaya.
+8 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 3
+9 Gita aaj dopeher rasoi ghar gayi.
+10 Hari aaj subha chalchitra ghar mein chala gaya.
+11 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 3
+12 Manoj kal rasoi ghar mein chala gaya.
+13 Gita aaj shyaam baagh mein gayi.
+14 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	6 1
+15 Aaj dopeher manoj baagh mein chala gaya.
+16 Manoj aaj subha sayanakaksh gaya.
+17 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	15 16
+1 Manoj aaj subha paathshaala mein chala gaya.
+2 Aaj dopeher manoj baagh mein gaya.
+3 Kal gita baagh mein gayi.
+4 Kal manoj rasoi ghar mein gaya.
+5 Paathshaala mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 4
+6 Kal hari paathshaala mein gaya.
+7 Sita kal paathshaala mein chali gayi.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 4
+9 Aaj subha hari daftar gaya.
+10 Gita aaj subha rasoi ghar gayi.
+11 Rasoi ghar mein jaaney sey pehley gita kahan thi?	baagh	10 3
+12 Sita aaj subha chalchitra ghar gayi.
+13 Aaj dopeher hari rasoi ghar mein gaya.
+14 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	12 7
+15 Gita aaj dopeher daftar mein gayi.
+16 Aaj shyaam hari sayanakaksh gaya.
+17 Rasoi ghar mein jaaney sey pehley hari kahan tha?	daftar	13 9
+1 Sita aaj subha baagh mein gayi.
+2 Sita kal sayanakaksh mein gayi.
+3 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+4 Gita kal baagh mein gayi.
+5 Sita aaj dopeher daftar gayi.
+6 Daftar mein jaaney sey pehley sita kahan thi?	baagh	5 1
+7 Kal manoj chalchitra ghar mein chala gaya.
+8 Hari kal rasoi ghar gaya.
+9 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+10 Gita aaj subha daftar mein gayi.
+11 Aaj subha hari paathshaala mein gaya.
+12 Paathshaala mein jaaney sey pehley hari kahan tha?	rasoi ghar	11 8
+13 Aaj subha manoj sayanakaksh mein gaya.
+14 Gita aaj dopeher sayanakaksh gayi.
+15 Paathshaala mein jaaney sey pehley hari kahan tha?	rasoi ghar	11 8
+1 Kal manoj baagh mein gaya.
+2 Sita aaj subha rasoi ghar gayi.
+3 Kal sita baagh mein gayi.
+4 Gita kal baagh mein gayi.
+5 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	2 3
+6 Aaj subha gita daftar gayi.
+7 Hari kal baagh gaya.
+8 Daftar mein jaaney sey pehley gita kahan thi?	baagh	6 4
+9 Aaj subha manoj sayanakaksh gaya.
+10 Aaj dopeher gita baagh mein gayi.
+11 Baagh mein jaaney sey pehley gita kahan thi?	daftar	10 6
+12 Aaj shyaam manoj daftar gaya.
+13 Aaj dopeher manoj baagh gaya.
+14 Baagh mein jaaney sey pehley gita kahan thi?	daftar	10 6
+15 Sita aaj dopeher chalchitra ghar mein gayi.
+16 Hari aaj subha rasoi ghar mein chala gaya.
+17 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	baagh	9 1
+1 Hari kal baagh gaya.
+2 Manoj aaj dopeher daftar gaya.
+3 Manoj kal paathshaala mein chala gaya.
+4 Manoj aaj subha rasoi ghar mein chala gaya.
+5 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	2 4
+6 Aaj shyaam manoj sayanakaksh mein gaya.
+7 Hari aaj subha chalchitra ghar mein gaya.
+8 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	4 3
+9 Kal sita paathshaala mein gayi.
+10 Gita kal chalchitra ghar gayi.
+11 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	2 4
+12 Aaj subha gita sayanakaksh gayi.
+13 Aaj dopeher hari sayanakaksh gaya.
+14 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	13 7
+15 Hari aaj shyaam rasoi ghar mein chala gaya.
+16 Gita aaj dopeher chalchitra ghar mein chali gayi.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	16 12
+1 Kal hari baagh mein gaya.
+2 Aaj subha sita baagh mein gayi.
+3 Kal manoj rasoi ghar mein chala gaya.
+4 Kal sita rasoi ghar mein gayi.
+5 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	2 4
+6 Hari aaj subha daftar mein chala gaya.
+7 Gita kal sayanakaksh mein chali gayi.
+8 Daftar mein jaaney sey pehley hari kahan tha?	baagh	6 1
+9 Hari aaj dopeher baagh mein chala gaya.
+10 Sita aaj dopeher sayanakaksh mein gayi.
+11 Baagh mein jaaney sey pehley hari kahan tha?	daftar	9 6
+12 Aaj shyaam hari paathshaala gaya.
+13 Aaj shyaam sita baagh mein chali gayi.
+14 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	12 9
+15 Manoj aaj dopeher rasoi ghar mein gaya.
+16 Manoj aaj subha paathshaala mein gaya.
+17 Baagh mein jaaney sey pehley hari kahan tha?	daftar	9 6
+1 Aaj subha gita chalchitra ghar mein gayi.
+2 Kal gita rasoi ghar mein gayi.
+3 Manoj kal baagh mein gaya.
+4 Hari kal paathshaala gaya.
+5 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+6 Aaj dopeher manoj daftar mein chala gaya.
+7 Aaj subha manoj paathshaala mein chala gaya.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	7 3
+9 Gita aaj dopeher rasoi ghar gayi.
+10 Aaj shyaam manoj sayanakaksh mein chala gaya.
+11 Daftar mein jaaney sey pehley manoj kahan tha?	paathshaala	6 7
+12 Kal sita baagh gayi.
+13 Aaj shyaam gita daftar gayi.
+14 Daftar mein jaaney sey pehley manoj kahan tha?	paathshaala	6 7
+15 Sita aaj dopeher baagh mein chali gayi.
+16 Aaj subha sita chalchitra ghar mein gayi.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	9 1
+1 Aaj subha gita chalchitra ghar mein chali gayi.
+2 Gita kal paathshaala mein chali gayi.
+3 Sita kal chalchitra ghar gayi.
+4 Aaj subha sita paathshaala mein chali gayi.
+5 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	paathshaala	1 2
+6 Kal hari rasoi ghar gaya.
+7 Aaj dopeher gita baagh mein chali gayi.
+8 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	paathshaala	1 2
+9 Gita aaj shyaam chalchitra ghar mein chali gayi.
+10 Sita aaj dopeher daftar gayi.
+11 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	10 4
+12 Hari aaj subha chalchitra ghar gaya.
+13 Sita aaj shyaam sayanakaksh mein gayi.
+14 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	baagh	9 7
+15 Aaj shyaam hari daftar mein chala gaya.
+16 Aaj dopeher hari sayanakaksh mein gaya.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	baagh	9 7
+1 Aaj subha gita rasoi ghar mein gayi.
+2 Kal gita baagh mein chali gayi.
+3 Rasoi ghar mein jaaney sey pehley gita kahan thi?	baagh	1 2
+4 Sita kal paathshaala gayi.
+5 Manoj kal daftar mein chala gaya.
+6 Rasoi ghar mein jaaney sey pehley gita kahan thi?	baagh	1 2
+7 Aaj dopeher gita paathshaala gayi.
+8 Kal hari baagh gaya.
+9 Rasoi ghar mein jaaney sey pehley gita kahan thi?	baagh	1 2
+10 Aaj subha hari daftar mein gaya.
+11 Aaj shyaam gita rasoi ghar mein chali gayi.
+12 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	11 7
+13 Hari aaj dopeher baagh mein chala gaya.
+14 Manoj aaj subha paathshaala mein chala gaya.
+15 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	7 1
+1 Sita kal paathshaala gayi.
+2 Aaj subha hari sayanakaksh mein gaya.
+3 Kal hari baagh gaya.
+4 Kal gita paathshaala mein gayi.
+5 Sayanakaksh mein jaaney sey pehley hari kahan tha?	baagh	2 3
+6 Aaj dopeher sita rasoi ghar mein chali gayi.
+7 Aaj subha sita chalchitra ghar gayi.
+8 Sayanakaksh mein jaaney sey pehley hari kahan tha?	baagh	2 3
+9 Kal manoj daftar mein chala gaya.
+10 Aaj shyaam sita sayanakaksh gayi.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	7 1
+12 Manoj aaj subha rasoi ghar mein gaya.
+13 Gita aaj subha baagh mein gayi.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	12 9
+15 Gita aaj dopeher chalchitra ghar mein gayi.
+16 Hari aaj dopeher daftar gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	sayanakaksh	16 2
+1 Gita aaj subha daftar mein chali gayi.
+2 Kal gita chalchitra ghar mein gayi.
+3 Kal sita sayanakaksh gayi.
+4 Kal manoj chalchitra ghar mein gaya.
+5 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	1 2
+6 Aaj subha manoj paathshaala mein chala gaya.
+7 Sita aaj subha baagh mein gayi.
+8 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	7 3
+9 Manoj aaj dopeher baagh mein chala gaya.
+10 Hari kal rasoi ghar mein chala gaya.
+11 Baagh mein jaaney sey pehley manoj kahan tha?	paathshaala	9 6
+12 Aaj shyaam gita daftar mein chali gayi.
+13 Gita aaj dopeher paathshaala gayi.
+14 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	13 1
+15 Aaj shyaam manoj rasoi ghar gaya.
+16 Aaj subha hari daftar gaya.
+17 Daftar mein jaaney sey pehley gita kahan thi?	paathshaala	12 13
+1 Gita kal daftar mein gayi.
+2 Manoj kal rasoi ghar mein gaya.
+3 Hari kal daftar gaya.
+4 Aaj subha hari paathshaala gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	daftar	4 3
+6 Aaj subha sita sayanakaksh mein gayi.
+7 Kal sita baagh mein gayi.
+8 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	6 7
+9 Aaj shyaam sita baagh mein chali gayi.
+10 Aaj dopeher sita daftar mein chali gayi.
+11 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	6 7
+12 Hari aaj dopeher chalchitra ghar mein chala gaya.
+13 Aaj subha gita chalchitra ghar mein chali gayi.
+14 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	10 6
+15 Manoj aaj dopeher chalchitra ghar mein chala gaya.
+16 Aaj subha manoj sayanakaksh mein chala gaya.
+17 Baagh mein jaaney sey pehley sita kahan thi?	daftar	9 10
+1 Aaj subha manoj sayanakaksh mein gaya.
+2 Aaj subha sita sayanakaksh gayi.
+3 Sita kal daftar mein gayi.
+4 Manoj kal rasoi ghar mein chala gaya.
+5 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 4
+6 Kal gita daftar mein gayi.
+7 Aaj dopeher manoj paathshaala mein chala gaya.
+8 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 4
+9 Aaj shyaam manoj sayanakaksh mein gaya.
+10 Gita aaj subha chalchitra ghar mein chali gayi.
+11 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	10 6
+12 Aaj dopeher sita paathshaala mein chali gayi.
+13 Aaj dopeher gita daftar mein gayi.
+14 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	12 2
+15 Aaj shyaam gita sayanakaksh mein gayi.
+16 Sita aaj shyaam baagh mein gayi.
+17 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	15 13
+1 Manoj aaj subha paathshaala mein gaya.
+2 Kal gita rasoi ghar mein gayi.
+3 Manoj kal daftar mein chala gaya.
+4 Kal sita chalchitra ghar mein gayi.
+5 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	1 3
+6 Aaj dopeher gita rasoi ghar mein gayi.
+7 Gita aaj subha sayanakaksh mein chali gayi.
+8 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	6 7
+9 Aaj dopeher manoj sayanakaksh gaya.
+10 Hari kal rasoi ghar gaya.
+11 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	9 1
+12 Aaj dopeher hari sayanakaksh gaya.
+13 Hari aaj subha chalchitra ghar mein chala gaya.
+14 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	12 13
+15 Gita aaj shyaam sayanakaksh mein gayi.
+16 Manoj aaj shyaam rasoi ghar gaya.
+17 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	9 1
+1 Kal sita rasoi ghar gayi.
+2 Manoj kal paathshaala mein gaya.
+3 Manoj aaj subha daftar mein chala gaya.
+4 Hari kal rasoi ghar gaya.
+5 Daftar mein jaaney sey pehley manoj kahan tha?	paathshaala	3 2
+6 Aaj dopeher hari rasoi ghar mein chala gaya.
+7 Hari aaj subha daftar mein gaya.
+8 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	7 4
+9 Kal gita chalchitra ghar mein gayi.
+10 Aaj shyaam hari paathshaala mein gaya.
+11 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	7 4
+12 Manoj aaj shyaam chalchitra ghar mein chala gaya.
+13 Aaj dopeher manoj baagh gaya.
+14 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	baagh	12 13
+15 Sita aaj subha baagh gayi.
+16 Aaj subha gita baagh mein chali gayi.
+17 Baagh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	16 9
+1 Hari aaj subha baagh gaya.
+2 Hari kal paathshaala mein chala gaya.
+3 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	1 2
+4 Aaj dopeher hari daftar gaya.
+5 Manoj kal paathshaala gaya.
+6 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	1 2
+7 Manoj aaj subha rasoi ghar gaya.
+8 Hari aaj shyaam baagh mein chala gaya.
+9 Daftar mein jaaney sey pehley hari kahan tha?	baagh	4 1
+10 Aaj subha sita paathshaala mein chali gayi.
+11 Kal sita baagh gayi.
+12 Daftar mein jaaney sey pehley hari kahan tha?	baagh	4 1
+13 Manoj aaj dopeher paathshaala gaya.
+14 Kal gita paathshaala mein gayi.
+15 Paathshaala mein jaaney sey pehley manoj kahan tha?	rasoi ghar	13 7
+1 Aaj subha sita chalchitra ghar mein chali gayi.
+2 Sita kal sayanakaksh mein gayi.
+3 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 2
+4 Aaj dopeher sita rasoi ghar mein gayi.
+5 Hari kal daftar gaya.
+6 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	4 1
+7 Aaj subha hari baagh gaya.
+8 Kal manoj paathshaala mein chala gaya.
+9 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	4 1
+10 Hari aaj shyaam sayanakaksh mein gaya.
+11 Aaj dopeher hari rasoi ghar gaya.
+12 Baagh mein jaaney sey pehley hari kahan tha?	daftar	7 5
+13 Aaj subha gita daftar mein chali gayi.
+14 Gita kal rasoi ghar mein chali gayi.
+15 Sayanakaksh mein jaaney sey pehley hari kahan tha?	rasoi ghar	10 11
+1 Kal gita daftar mein chali gayi.
+2 Sita kal rasoi ghar mein chali gayi.
+3 Kal manoj sayanakaksh gaya.
+4 Aaj subha gita sayanakaksh mein gayi.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	4 1
+6 Manoj aaj subha baagh mein chala gaya.
+7 Kal hari chalchitra ghar mein gaya.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 3
+9 Aaj subha sita baagh mein chali gayi.
+10 Hari aaj subha paathshaala mein chala gaya.
+11 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 3
+12 Aaj shyaam sita daftar gayi.
+13 Sita aaj dopeher paathshaala mein gayi.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 3
+15 Aaj dopeher manoj sayanakaksh mein chala gaya.
+16 Aaj dopeher hari chalchitra ghar gaya.
+17 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	16 10
+1 Sita aaj subha baagh mein gayi.
+2 Sita kal rasoi ghar gayi.
+3 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 2
+4 Aaj dopeher sita paathshaala gayi.
+5 Kal hari daftar gaya.
+6 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 2
+7 Aaj subha manoj sayanakaksh gaya.
+8 Manoj kal daftar mein chala gaya.
+9 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	7 8
+10 Kal gita baagh mein gayi.
+11 Aaj dopeher manoj rasoi ghar gaya.
+12 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	7 8
+13 Manoj aaj shyaam baagh gaya.
+14 Aaj subha hari rasoi ghar gaya.
+15 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	7 8
+1 Aaj subha hari paathshaala mein chala gaya.
+2 Kal gita paathshaala mein gayi.
+3 Kal manoj sayanakaksh mein gaya.
+4 Hari kal daftar gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	daftar	1 4
+6 Kal sita daftar gayi.
+7 Aaj subha gita sayanakaksh gayi.
+8 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	7 2
+9 Gita aaj dopeher chalchitra ghar gayi.
+10 Sita aaj subha paathshaala mein gayi.
+11 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	7 2
+12 Aaj dopeher sita baagh gayi.
+13 Gita aaj shyaam paathshaala mein gayi.
+14 Paathshaala mein jaaney sey pehley sita kahan thi?	daftar	10 6
+15 Aaj shyaam sita paathshaala mein gayi.
+16 Manoj aaj subha baagh mein gaya.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	9 7
+1 Gita kal baagh gayi.
+2 Hari aaj subha paathshaala gaya.
+3 Kal sita daftar mein gayi.
+4 Kal hari chalchitra ghar mein gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	2 4
+6 Aaj dopeher hari daftar mein chala gaya.
+7 Aaj subha gita sayanakaksh mein gayi.
+8 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	7 1
+9 Sita aaj subha chalchitra ghar mein gayi.
+10 Manoj kal paathshaala mein chala gaya.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	9 3
+12 Aaj subha manoj rasoi ghar gaya.
+13 Aaj dopeher sita rasoi ghar gayi.
+14 Daftar mein jaaney sey pehley hari kahan tha?	paathshaala	6 2
+15 Manoj aaj shyaam paathshaala mein gaya.
+16 Aaj dopeher manoj chalchitra ghar mein gaya.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	9 3
+1 Gita kal sayanakaksh mein gayi.
+2 Aaj subha manoj rasoi ghar gaya.
+3 Sita kal paathshaala gayi.
+4 Manoj kal chalchitra ghar mein chala gaya.
+5 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	2 4
+6 Aaj dopeher manoj daftar mein gaya.
+7 Hari kal chalchitra ghar mein chala gaya.
+8 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	6 2
+9 Gita aaj subha baagh mein chali gayi.
+10 Aaj subha hari rasoi ghar mein chala gaya.
+11 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	6 2
+12 Aaj dopeher gita rasoi ghar gayi.
+13 Aaj dopeher hari baagh mein chala gaya.
+14 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	6 2
+15 Manoj aaj shyaam rasoi ghar mein chala gaya.
+16 Sita aaj subha baagh mein gayi.
+17 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	16 3
+1 Sita aaj subha daftar mein chali gayi.
+2 Kal sita paathshaala gayi.
+3 Kal gita daftar mein chali gayi.
+4 Manoj kal sayanakaksh mein chala gaya.
+5 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+6 Kal hari rasoi ghar mein gaya.
+7 Gita aaj subha sayanakaksh mein gayi.
+8 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+9 Aaj dopeher gita daftar mein chali gayi.
+10 Hari aaj subha baagh mein chala gaya.
+11 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+12 Manoj aaj subha chalchitra ghar mein chala gaya.
+13 Hari aaj dopeher sayanakaksh mein gaya.
+14 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	9 7
+15 Aaj dopeher sita paathshaala mein chali gayi.
+16 Hari aaj shyaam paathshaala gaya.
+17 Sayanakaksh mein jaaney sey pehley hari kahan tha?	baagh	13 10
+1 Aaj subha sita rasoi ghar mein gayi.
+2 Aaj subha gita chalchitra ghar mein chali gayi.
+3 Gita kal rasoi ghar gayi.
+4 Kal sita daftar mein gayi.
+5 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	1 4
+6 Aaj dopeher gita paathshaala mein gayi.
+7 Kal manoj chalchitra ghar gaya.
+8 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	1 4
+9 Kal hari chalchitra ghar mein gaya.
+10 Sita aaj dopeher sayanakaksh gayi.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	1 4
+12 Aaj subha manoj daftar mein chala gaya.
+13 Gita aaj shyaam rasoi ghar mein gayi.
+14 Daftar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	12 7
+15 Sita aaj shyaam paathshaala mein gayi.
+16 Manoj aaj dopeher sayanakaksh mein gaya.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	12 7
+1 Kal manoj baagh gaya.
+2 Kal gita paathshaala mein chali gayi.
+3 Hari aaj subha rasoi ghar mein gaya.
+4 Kal hari chalchitra ghar gaya.
+5 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	3 4
+6 Aaj subha manoj chalchitra ghar mein gaya.
+7 Gita aaj subha chalchitra ghar mein chali gayi.
+8 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	baagh	6 1
+9 Manoj aaj dopeher paathshaala gaya.
+10 Kal sita sayanakaksh gayi.
+11 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	3 4
+12 Aaj shyaam gita sayanakaksh gayi.
+13 Aaj dopeher gita daftar gayi.
+14 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	baagh	6 1
+15 Hari aaj dopeher sayanakaksh gaya.
+16 Manoj aaj shyaam sayanakaksh mein gaya.
+17 Paathshaala mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	9 6
+1 Aaj subha gita sayanakaksh mein chali gayi.
+2 Gita kal daftar mein chali gayi.
+3 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	1 2
+4 Aaj shyaam gita sayanakaksh mein gayi.
+5 Aaj dopeher gita chalchitra ghar mein gayi.
+6 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	5 1
+7 Kal manoj rasoi ghar gaya.
+8 Kal sita sayanakaksh mein chali gayi.
+9 Sayanakaksh mein jaaney sey pehley gita kahan thi?	chalchitra ghar	4 5
+10 Sita aaj subha rasoi ghar mein gayi.
+11 Manoj aaj subha baagh gaya.
+12 Rasoi ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	10 8
+13 Hari kal daftar mein chala gaya.
+14 Sita aaj dopeher chalchitra ghar mein gayi.
+15 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	14 10
+1 Gita aaj subha chalchitra ghar mein chali gayi.
+2 Kal gita daftar mein gayi.
+3 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	1 2
+4 Aaj shyaam gita sayanakaksh gayi.
+5 Aaj dopeher gita baagh mein chali gayi.
+6 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	1 2
+7 Aaj subha sita daftar mein chali gayi.
+8 Kal sita sayanakaksh mein gayi.
+9 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	7 8
+10 Manoj kal paathshaala mein gaya.
+11 Hari kal paathshaala gaya.
+12 Sayanakaksh mein jaaney sey pehley gita kahan thi?	baagh	4 5
+13 Sita aaj dopeher rasoi ghar mein chali gayi.
+14 Aaj subha manoj chalchitra ghar mein chala gaya.
+15 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	13 7
+1 Manoj aaj subha baagh gaya.
+2 Kal manoj chalchitra ghar mein chala gaya.
+3 Kal hari daftar mein chala gaya.
+4 Sita kal sayanakaksh mein gayi.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	1 2
+6 Aaj subha hari sayanakaksh mein gaya.
+7 Aaj subha sita chalchitra ghar mein chali gayi.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	1 2
+9 Manoj aaj dopeher sayanakaksh mein gaya.
+10 Kal gita sayanakaksh mein chali gayi.
+11 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	1 2
+12 Aaj subha gita paathshaala mein chali gayi.
+13 Manoj aaj shyaam rasoi ghar mein gaya.
+14 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	baagh	9 1
+15 Gita aaj shyaam chalchitra ghar mein gayi.
+16 Aaj dopeher gita daftar mein gayi.
+17 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	13 9
+1 Hari aaj subha chalchitra ghar gaya.
+2 Hari kal rasoi ghar mein chala gaya.
+3 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+4 Aaj subha sita rasoi ghar gayi.
+5 Kal sita sayanakaksh gayi.
+6 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+7 Aaj dopeher sita baagh gayi.
+8 Kal manoj daftar gaya.
+9 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+10 Aaj dopeher hari daftar mein gaya.
+11 Sita aaj shyaam sayanakaksh mein chali gayi.
+12 Daftar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	10 1
+13 Manoj aaj subha chalchitra ghar gaya.
+14 Kal gita baagh gayi.
+15 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	daftar	13 8
+1 Manoj kal baagh gaya.
+2 Aaj subha hari paathshaala mein gaya.
+3 Sita kal sayanakaksh mein chali gayi.
+4 Kal hari chalchitra ghar gaya.
+5 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	2 4
+6 Aaj subha manoj daftar mein gaya.
+7 Sita aaj subha rasoi ghar mein gayi.
+8 Daftar mein jaaney sey pehley manoj kahan tha?	baagh	6 1
+9 Aaj subha gita baagh gayi.
+10 Kal gita chalchitra ghar mein gayi.
+11 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	2 4
+12 Sita aaj shyaam paathshaala mein gayi.
+13 Sita aaj dopeher sayanakaksh mein gayi.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	rasoi ghar	13 7
+15 Hari aaj dopeher baagh gaya.
+16 Aaj dopeher manoj baagh mein chala gaya.
+17 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	12 13
+1 Gita kal daftar gayi.
+2 Aaj subha gita rasoi ghar gayi.
+3 Kal manoj daftar mein chala gaya.
+4 Kal hari rasoi ghar mein chala gaya.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	2 1
+6 Hari aaj subha daftar mein chala gaya.
+7 Aaj subha manoj paathshaala mein chala gaya.
+8 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	2 1
+9 Aaj dopeher gita sayanakaksh mein chali gayi.
+10 Aaj dopeher hari paathshaala mein gaya.
+11 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	7 3
+12 Aaj dopeher manoj chalchitra ghar mein gaya.
+13 Aaj shyaam gita daftar gayi.
+14 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	6 4
+15 Sita kal chalchitra ghar mein gayi.
+16 Manoj aaj shyaam baagh mein gaya.
+17 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	16 12
+1 Aaj subha manoj chalchitra ghar mein chala gaya.
+2 Kal manoj rasoi ghar gaya.
+3 Sita kal chalchitra ghar gayi.
+4 Hari kal daftar mein chala gaya.
+5 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 2
+6 Manoj aaj dopeher baagh gaya.
+7 Hari aaj subha sayanakaksh mein gaya.
+8 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	1 2
+9 Aaj subha sita baagh mein chali gayi.
+10 Gita kal chalchitra ghar gayi.
+11 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	6 1
+12 Gita aaj dopeher sayanakaksh mein gayi.
+13 Gita aaj subha paathshaala mein gayi.
+14 Paathshaala mein jaaney sey pehley gita kahan thi?	chalchitra ghar	13 10
+15 Aaj shyaam manoj chalchitra ghar mein gaya.
+16 Sita aaj dopeher rasoi ghar mein chali gayi.
+17 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	baagh	15 6
+1 Gita aaj subha daftar mein chali gayi.
+2 Gita kal baagh gayi.
+3 Daftar mein jaaney sey pehley gita kahan thi?	baagh	1 2
+4 Kal manoj daftar gaya.
+5 Sita kal baagh gayi.
+6 Daftar mein jaaney sey pehley gita kahan thi?	baagh	1 2
+7 Gita aaj dopeher chalchitra ghar mein gayi.
+8 Aaj subha sita sayanakaksh gayi.
+9 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	8 5
+10 Aaj shyaam gita paathshaala mein chali gayi.
+11 Aaj dopeher sita daftar mein gayi.
+12 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	7 1
+13 Kal hari daftar gaya.
+14 Aaj subha manoj rasoi ghar mein gaya.
+15 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	14 4
+1 Aaj subha gita paathshaala mein chali gayi.
+2 Kal gita rasoi ghar mein gayi.
+3 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+4 Kal hari daftar mein gaya.
+5 Kal sita baagh mein gayi.
+6 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+7 Aaj subha sita daftar mein chali gayi.
+8 Hari aaj subha sayanakaksh mein gaya.
+9 Sayanakaksh mein jaaney sey pehley hari kahan tha?	daftar	8 4
+10 Manoj kal sayanakaksh gaya.
+11 Aaj dopeher gita sayanakaksh mein chali gayi.
+12 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	11 1
+13 Aaj dopeher hari baagh mein gaya.
+14 Aaj shyaam gita paathshaala mein chali gayi.
+15 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	11 1
+1 Kal hari sayanakaksh mein chala gaya.
+2 Aaj subha sita baagh gayi.
+3 Kal manoj rasoi ghar mein chala gaya.
+4 Kal sita rasoi ghar mein gayi.
+5 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	2 4
+6 Sita aaj dopeher paathshaala gayi.
+7 Aaj subha manoj daftar mein gaya.
+8 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	2 4
+9 Sita aaj shyaam daftar gayi.
+10 Gita kal paathshaala mein chali gayi.
+11 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	9 6
+12 Aaj subha hari paathshaala mein chala gaya.
+13 Aaj subha gita baagh gayi.
+14 Paathshaala mein jaaney sey pehley hari kahan tha?	sayanakaksh	12 1
+15 Manoj aaj shyaam rasoi ghar mein chala gaya.
+16 Aaj dopeher manoj chalchitra ghar mein gaya.
+17 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	daftar	16 7
+1 Kal hari rasoi ghar mein chala gaya.
+2 Sita aaj subha chalchitra ghar gayi.
+3 Sita kal sayanakaksh mein chali gayi.
+4 Manoj kal chalchitra ghar mein chala gaya.
+5 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	2 3
+6 Manoj aaj subha sayanakaksh gaya.
+7 Aaj dopeher sita sayanakaksh mein gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	2 3
+9 Sita aaj shyaam daftar gayi.
+10 Gita kal rasoi ghar gayi.
+11 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	6 4
+12 Aaj dopeher manoj baagh mein gaya.
+13 Hari aaj subha chalchitra ghar mein gaya.
+14 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	13 1
+15 Aaj shyaam manoj sayanakaksh mein chala gaya.
+16 Hari aaj dopeher paathshaala gaya.
+17 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	9 7
+1 Aaj subha hari baagh mein chala gaya.
+2 Aaj subha manoj rasoi ghar gaya.
+3 Manoj kal sayanakaksh mein chala gaya.
+4 Sita kal rasoi ghar mein chali gayi.
+5 Hari kal sayanakaksh mein chala gaya.
+6 Kal gita baagh gayi.
+7 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	2 3
+8 Aaj subha gita chalchitra ghar mein chali gayi.
+9 Sita aaj subha paathshaala mein chali gayi.
+10 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	baagh	8 6
+11 Aaj shyaam gita paathshaala gayi.
+12 Aaj dopeher gita rasoi ghar mein gayi.
+13 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	baagh	8 6
+14 Hari aaj dopeher rasoi ghar mein gaya.
+15 Sita aaj dopeher rasoi ghar mein chali gayi.
+16 Rasoi ghar mein jaaney sey pehley sita kahan thi?	paathshaala	15 9
+17 Hari aaj shyaam baagh mein gaya.
+18 Sita aaj shyaam paathshaala mein gayi.
+19 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	11 12
+1 Kal sita baagh mein gayi.
+2 Aaj dopeher gita rasoi ghar gayi.
+3 Gita kal chalchitra ghar gayi.
+4 Aaj subha gita daftar mein chali gayi.
+5 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	2 4
+6 Kal manoj chalchitra ghar gaya.
+7 Aaj subha sita sayanakaksh gayi.
+8 Daftar mein jaaney sey pehley gita kahan thi?	chalchitra ghar	4 3
+9 Manoj aaj dopeher sayanakaksh mein chala gaya.
+10 Aaj subha manoj paathshaala mein chala gaya.
+11 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	7 1
+12 Gita aaj shyaam baagh gayi.
+13 Manoj aaj shyaam rasoi ghar gaya.
+14 Paathshaala mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	10 6
+15 Sita aaj dopeher baagh gayi.
+16 Hari kal sayanakaksh gaya.
+17 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	9 10
+1 Gita aaj subha rasoi ghar gayi.
+2 Kal hari baagh mein gaya.
+3 Kal manoj rasoi ghar gaya.
+4 Sita aaj subha daftar mein gayi.
+5 Gita kal baagh mein gayi.
+6 Kal sita rasoi ghar mein gayi.
+7 Daftar mein jaaney sey pehley sita kahan thi?	rasoi ghar	4 6
+8 Aaj subha hari daftar mein gaya.
+9 Gita aaj dopeher paathshaala mein chali gayi.
+10 Daftar mein jaaney sey pehley hari kahan tha?	baagh	8 2
+11 Sita aaj dopeher paathshaala mein gayi.
+12 Aaj shyaam gita chalchitra ghar gayi.
+13 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	9 1
+14 Manoj aaj subha chalchitra ghar gaya.
+15 Aaj shyaam sita daftar mein chali gayi.
+16 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	paathshaala	12 9
+17 Aaj shyaam manoj sayanakaksh gaya.
+18 Aaj dopeher manoj daftar mein gaya.
+19 Paathshaala mein jaaney sey pehley sita kahan thi?	daftar	11 4
+1 Kal gita baagh mein chali gayi.
+2 Kal sita baagh mein chali gayi.
+3 Hari aaj subha rasoi ghar gaya.
+4 Gita aaj subha paathshaala mein chali gayi.
+5 Kal manoj sayanakaksh gaya.
+6 Hari kal paathshaala gaya.
+7 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	4 1
+8 Aaj subha manoj baagh gaya.
+9 Sita aaj subha sayanakaksh mein gayi.
+10 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	3 6
+11 Aaj dopeher sita chalchitra ghar mein chali gayi.
+12 Aaj dopeher hari daftar mein chala gaya.
+13 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	9 2
+14 Aaj shyaam sita baagh mein gayi.
+15 Aaj dopeher manoj sayanakaksh gaya.
+16 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	11 9
+17 Gita aaj dopeher sayanakaksh mein chali gayi.
+18 Aaj shyaam hari paathshaala mein gaya.
+19 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	baagh	15 8
+1 Kal gita rasoi ghar gayi.
+2 Aaj subha gita baagh mein gayi.
+3 Kal hari chalchitra ghar mein chala gaya.
+4 Manoj kal sayanakaksh mein chala gaya.
+5 Baagh mein jaaney sey pehley gita kahan thi?	rasoi ghar	2 1
+6 Aaj subha hari paathshaala mein chala gaya.
+7 Aaj dopeher gita daftar gayi.
+8 Baagh mein jaaney sey pehley gita kahan thi?	rasoi ghar	2 1
+9 Sita kal daftar mein gayi.
+10 Aaj dopeher hari rasoi ghar gaya.
+11 Daftar mein jaaney sey pehley gita kahan thi?	baagh	7 2
+12 Manoj aaj subha daftar mein chala gaya.
+13 Aaj shyaam hari paathshaala mein chala gaya.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	10 6
+15 Aaj shyaam gita rasoi ghar mein gayi.
+16 Sita aaj subha rasoi ghar gayi.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	daftar	15 7
+1 Hari kal chalchitra ghar mein gaya.
+2 Aaj subha hari sayanakaksh gaya.
+3 Sita kal baagh mein chali gayi.
+4 Gita kal rasoi ghar gayi.
+5 Sayanakaksh mein jaaney sey pehley hari kahan tha?	chalchitra ghar	2 1
+6 Manoj kal rasoi ghar gaya.
+7 Aaj subha sita chalchitra ghar gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	7 3
+9 Aaj dopeher hari daftar mein gaya.
+10 Sita aaj dopeher sayanakaksh gayi.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	7 3
+12 Manoj aaj subha paathshaala mein gaya.
+13 Gita aaj subha sayanakaksh mein chali gayi.
+14 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	13 4
+15 Aaj shyaam gita baagh mein gayi.
+16 Gita aaj dopeher paathshaala mein chali gayi.
+17 Paathshaala mein jaaney sey pehley gita kahan thi?	sayanakaksh	16 13
+1 Manoj kal chalchitra ghar gaya.
+2 Manoj aaj subha sayanakaksh mein gaya.
+3 Kal hari rasoi ghar mein chala gaya.
+4 Hari aaj subha paathshaala gaya.
+5 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	2 1
+6 Aaj shyaam hari rasoi ghar gaya.
+7 Aaj dopeher hari baagh gaya.
+8 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	2 1
+9 Gita kal sayanakaksh gayi.
+10 Manoj aaj dopeher paathshaala mein chala gaya.
+11 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	10 2
+12 Kal sita chalchitra ghar mein gayi.
+13 Manoj aaj shyaam daftar mein chala gaya.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	6 7
+15 Aaj subha sita paathshaala gayi.
+16 Aaj subha gita chalchitra ghar gayi.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	paathshaala	13 10
+1 Gita kal sayanakaksh gayi.
+2 Sita kal paathshaala gayi.
+3 Kal manoj chalchitra ghar mein chala gaya.
+4 Aaj subha manoj sayanakaksh mein gaya.
+5 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	4 3
+6 Gita aaj dopeher baagh mein gayi.
+7 Aaj subha gita chalchitra ghar gayi.
+8 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	4 3
+9 Aaj shyaam manoj daftar mein gaya.
+10 Manoj aaj dopeher rasoi ghar mein gaya.
+11 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	9 10
+12 Sita aaj subha baagh gayi.
+13 Aaj shyaam gita sayanakaksh mein gayi.
+14 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	12 2
+15 Hari aaj subha rasoi ghar mein gaya.
+16 Hari kal daftar mein chala gaya.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	9 10
+1 Aaj subha sita baagh mein gayi.
+2 Kal sita rasoi ghar gayi.
+3 Baagh mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 2
+4 Aaj subha manoj baagh mein chala gaya.
+5 Manoj kal sayanakaksh gaya.
+6 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	4 5
+7 Gita aaj subha baagh mein gayi.
+8 Kal gita paathshaala mein chali gayi.
+9 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	4 5
+10 Aaj dopeher sita daftar mein gayi.
+11 Gita aaj dopeher chalchitra ghar mein chali gayi.
+12 Daftar mein jaaney sey pehley sita kahan thi?	baagh	10 1
+13 Hari aaj subha rasoi ghar mein chala gaya.
+14 Kal hari sayanakaksh mein chala gaya.
+15 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	7 8
+1 Hari aaj subha sayanakaksh gaya.
+2 Kal hari rasoi ghar gaya.
+3 Sayanakaksh mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+4 Sita kal sayanakaksh gayi.
+5 Hari aaj dopeher rasoi ghar gaya.
+6 Sayanakaksh mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 2
+7 Gita kal baagh mein chali gayi.
+8 Hari aaj shyaam chalchitra ghar mein chala gaya.
+9 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	8 5
+10 Aaj dopeher gita chalchitra ghar gayi.
+11 Aaj subha gita sayanakaksh gayi.
+12 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	8 5
+13 Aaj subha sita paathshaala mein gayi.
+14 Aaj shyaam gita daftar gayi.
+15 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	10 11
+1 Hari aaj subha baagh gaya.
+2 Hari kal sayanakaksh mein chala gaya.
+3 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	1 2
+4 Gita kal paathshaala mein chali gayi.
+5 Aaj dopeher hari sayanakaksh gaya.
+6 Sayanakaksh mein jaaney sey pehley hari kahan tha?	baagh	5 1
+7 Aaj subha gita daftar mein chali gayi.
+8 Sita kal paathshaala mein gayi.
+9 Daftar mein jaaney sey pehley gita kahan thi?	paathshaala	7 4
+10 Aaj dopeher gita paathshaala mein gayi.
+11 Aaj shyaam hari chalchitra ghar mein gaya.
+12 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	11 5
+13 Sita aaj subha baagh mein gayi.
+14 Kal manoj sayanakaksh mein chala gaya.
+15 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	10 7
+1 Kal gita rasoi ghar gayi.
+2 Kal sita daftar mein gayi.
+3 Manoj kal baagh mein chala gaya.
+4 Aaj subha gita chalchitra ghar gayi.
+5 Hari kal sayanakaksh gaya.
+6 Aaj subha manoj chalchitra ghar gaya.
+7 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	rasoi ghar	4 1
+8 Aaj dopeher manoj baagh mein chala gaya.
+9 Aaj dopeher gita sayanakaksh mein gayi.
+10 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	baagh	6 3
+11 Gita aaj shyaam paathshaala mein gayi.
+12 Aaj shyaam manoj chalchitra ghar gaya.
+13 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	8 6
+14 Aaj subha sita chalchitra ghar mein chali gayi.
+15 Hari aaj subha chalchitra ghar mein chala gaya.
+16 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	8 6
+17 Aaj dopeher sita baagh gayi.
+18 Aaj dopeher hari daftar mein gaya.
+19 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	15 5
+1 Kal hari baagh mein chala gaya.
+2 Manoj aaj subha rasoi ghar mein chala gaya.
+3 Sita kal rasoi ghar gayi.
+4 Kal manoj paathshaala mein chala gaya.
+5 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	2 4
+6 Aaj dopeher manoj paathshaala mein chala gaya.
+7 Gita kal rasoi ghar mein gayi.
+8 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	2 4
+9 Aaj subha hari sayanakaksh mein gaya.
+10 Aaj subha sita chalchitra ghar mein gayi.
+11 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	2 4
+12 Hari aaj dopeher baagh mein chala gaya.
+13 Aaj shyaam manoj baagh mein chala gaya.
+14 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	12 9
+15 Aaj subha gita chalchitra ghar gayi.
+16 Aaj shyaam hari chalchitra ghar gaya.
+17 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	16 12
+1 Aaj subha gita baagh gayi.
+2 Gita kal rasoi ghar mein chali gayi.
+3 Baagh mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+4 Hari kal rasoi ghar gaya.
+5 Gita aaj dopeher daftar gayi.
+6 Baagh mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 2
+7 Manoj kal paathshaala gaya.
+8 Aaj shyaam gita chalchitra ghar gayi.
+9 Daftar mein jaaney sey pehley gita kahan thi?	baagh	5 1
+10 Sita kal paathshaala gayi.
+11 Aaj subha manoj chalchitra ghar mein gaya.
+12 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	11 7
+13 Aaj subha hari paathshaala gaya.
+14 Sita aaj subha chalchitra ghar mein chali gayi.
+15 Paathshaala mein jaaney sey pehley hari kahan tha?	rasoi ghar	13 4
+1 Gita aaj subha baagh gayi.
+2 Kal gita sayanakaksh mein gayi.
+3 Hari kal daftar gaya.
+4 Kal manoj rasoi ghar gaya.
+5 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	1 2
+6 Aaj subha hari rasoi ghar mein chala gaya.
+7 Sita kal rasoi ghar mein gayi.
+8 Baagh mein jaaney sey pehley gita kahan thi?	sayanakaksh	1 2
+9 Aaj dopeher gita paathshaala mein gayi.
+10 Hari aaj dopeher sayanakaksh gaya.
+11 Rasoi ghar mein jaaney sey pehley hari kahan tha?	daftar	6 3
+12 Sita aaj subha chalchitra ghar gayi.
+13 Aaj shyaam hari chalchitra ghar gaya.
+14 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	13 10
+15 Gita aaj shyaam daftar gayi.
+16 Sita aaj dopeher paathshaala mein gayi.
+17 Paathshaala mein jaaney sey pehley gita kahan thi?	baagh	9 1
+1 Manoj aaj dopeher rasoi ghar gaya.
+2 Manoj aaj subha daftar mein gaya.
+3 Kal manoj paathshaala gaya.
+4 Hari kal paathshaala mein chala gaya.
+5 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	daftar	1 2
+6 Manoj aaj shyaam baagh gaya.
+7 Aaj subha hari rasoi ghar mein chala gaya.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	6 1
+9 Hari aaj dopeher baagh mein gaya.
+10 Kal gita baagh mein gayi.
+11 Baagh mein jaaney sey pehley hari kahan tha?	rasoi ghar	9 7
+12 Kal sita baagh gayi.
+13 Hari aaj shyaam paathshaala gaya.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	6 1
+15 Sita aaj subha chalchitra ghar gayi.
+16 Gita aaj subha daftar mein chali gayi.
+17 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	13 9
+1 Hari kal sayanakaksh gaya.
+2 Kal manoj sayanakaksh mein gaya.
+3 Kal sita baagh mein chali gayi.
+4 Gita aaj subha daftar gayi.
+5 Aaj dopeher gita sayanakaksh mein gayi.
+6 Gita kal chalchitra ghar mein gayi.
+7 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	5 4
+8 Hari aaj subha baagh gaya.
+9 Gita aaj shyaam daftar gayi.
+10 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	5 4
+11 Aaj subha manoj paathshaala mein chala gaya.
+12 Sita aaj subha daftar mein gayi.
+13 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	11 2
+14 Sita aaj dopeher rasoi ghar gayi.
+15 Hari aaj dopeher daftar mein chala gaya.
+16 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	14 12
+17 Aaj shyaam hari chalchitra ghar gaya.
+18 Aaj shyaam sita baagh mein chali gayi.
+19 Daftar mein jaaney sey pehley hari kahan tha?	baagh	15 8
+1 Kal manoj paathshaala gaya.
+2 Kal sita rasoi ghar gayi.
+3 Sita aaj subha paathshaala mein chali gayi.
+4 Hari kal paathshaala gaya.
+5 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	3 2
+6 Aaj subha gita baagh mein chali gayi.
+7 Gita kal daftar mein chali gayi.
+8 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	3 2
+9 Manoj aaj dopeher sayanakaksh mein chala gaya.
+10 Manoj aaj subha daftar gaya.
+11 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	9 10
+12 Sita aaj dopeher daftar gayi.
+13 Gita aaj dopeher chalchitra ghar mein gayi.
+14 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	daftar	9 10
+15 Aaj dopeher hari chalchitra ghar mein chala gaya.
+16 Aaj subha hari sayanakaksh mein gaya.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	baagh	13 6
+1 Sita kal daftar mein gayi.
+2 Manoj kal daftar mein gaya.
+3 Aaj subha sita sayanakaksh gayi.
+4 Gita kal rasoi ghar mein gayi.
+5 Sayanakaksh mein jaaney sey pehley sita kahan thi?	daftar	3 1
+6 Kal hari daftar gaya.
+7 Aaj subha gita paathshaala gayi.
+8 Sayanakaksh mein jaaney sey pehley sita kahan thi?	daftar	3 1
+9 Aaj subha hari baagh gaya.
+10 Aaj subha manoj chalchitra ghar gaya.
+11 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	daftar	10 2
+12 Aaj shyaam hari baagh mein gaya.
+13 Aaj dopeher hari sayanakaksh gaya.
+14 Baagh mein jaaney sey pehley hari kahan tha?	sayanakaksh	12 13
+15 Aaj shyaam manoj sayanakaksh gaya.
+16 Manoj aaj dopeher daftar mein gaya.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	16 10
+1 Aaj subha manoj chalchitra ghar mein chala gaya.
+2 Manoj aaj dopeher baagh mein chala gaya.
+3 Kal hari rasoi ghar mein chala gaya.
+4 Kal manoj paathshaala gaya.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	2 1
+6 Sita kal rasoi ghar gayi.
+7 Aaj shyaam manoj rasoi ghar gaya.
+8 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	7 2
+9 Aaj subha sita daftar mein gayi.
+10 Kal gita sayanakaksh mein chali gayi.
+11 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	baagh	7 2
+12 Aaj subha gita chalchitra ghar mein chali gayi.
+13 Aaj dopeher sita rasoi ghar mein gayi.
+14 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	12 10
+15 Aaj dopeher gita sayanakaksh mein gayi.
+16 Aaj shyaam sita paathshaala mein gayi.
+17 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	12 10
+1 Manoj kal rasoi ghar mein gaya.
+2 Manoj aaj subha paathshaala gaya.
+3 Sita kal daftar mein chali gayi.
+4 Hari kal rasoi ghar gaya.
+5 Paathshaala mein jaaney sey pehley manoj kahan tha?	rasoi ghar	2 1
+6 Kal gita baagh gayi.
+7 Hari aaj subha chalchitra ghar mein chala gaya.
+8 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	7 4
+9 Manoj aaj dopeher rasoi ghar gaya.
+10 Aaj dopeher hari rasoi ghar mein gaya.
+11 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	9 2
+12 Manoj aaj shyaam paathshaala gaya.
+13 Aaj shyaam hari chalchitra ghar mein gaya.
+14 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	13 10
+15 Gita aaj dopeher sayanakaksh mein gayi.
+16 Aaj subha gita paathshaala gayi.
+17 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	15 16
+1 Aaj subha manoj daftar mein chala gaya.
+2 Hari kal baagh mein chala gaya.
+3 Kal manoj sayanakaksh gaya.
+4 Kal sita paathshaala gayi.
+5 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	1 3
+6 Aaj subha sita sayanakaksh mein chali gayi.
+7 Gita kal daftar gayi.
+8 Sayanakaksh mein jaaney sey pehley sita kahan thi?	paathshaala	6 4
+9 Aaj subha gita rasoi ghar mein gayi.
+10 Sita aaj dopeher daftar gayi.
+11 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	10 6
+12 Aaj subha hari daftar mein chala gaya.
+13 Aaj dopeher gita daftar gayi.
+14 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	10 6
+15 Aaj dopeher hari sayanakaksh gaya.
+16 Sita aaj shyaam rasoi ghar mein gayi.
+17 Daftar mein jaaney sey pehley gita kahan thi?	rasoi ghar	13 9
+1 Gita aaj subha chalchitra ghar mein gayi.
+2 Sita kal baagh mein gayi.
+3 Gita kal rasoi ghar gayi.
+4 Manoj kal rasoi ghar gaya.
+5 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 3
+6 Aaj subha manoj sayanakaksh gaya.
+7 Sita aaj subha rasoi ghar mein chali gayi.
+8 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	rasoi ghar	1 3
+9 Aaj dopeher gita sayanakaksh mein chali gayi.
+10 Sita aaj dopeher chalchitra ghar mein gayi.
+11 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	7 2
+12 Kal hari chalchitra ghar gaya.
+13 Gita aaj shyaam rasoi ghar mein chali gayi.
+14 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	13 9
+15 Manoj aaj dopeher rasoi ghar mein gaya.
+16 Aaj shyaam sita baagh mein gayi.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	13 9
+1 Kal manoj rasoi ghar mein gaya.
+2 Hari kal sayanakaksh gaya.
+3 Manoj aaj subha paathshaala mein chala gaya.
+4 Kal sita rasoi ghar mein gayi.
+5 Paathshaala mein jaaney sey pehley manoj kahan tha?	rasoi ghar	3 1
+6 Aaj dopeher sita daftar mein chali gayi.
+7 Sita aaj subha chalchitra ghar gayi.
+8 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	rasoi ghar	7 4
+9 Gita kal sayanakaksh mein chali gayi.
+10 Hari aaj subha paathshaala gaya.
+11 Daftar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	6 7
+12 Aaj dopeher manoj chalchitra ghar gaya.
+13 Aaj shyaam sita rasoi ghar gayi.
+14 Rasoi ghar mein jaaney sey pehley sita kahan thi?	daftar	13 6
+15 Aaj dopeher gita sayanakaksh gayi.
+16 Aaj subha gita paathshaala mein gayi.
+17 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	15 16
+1 Kal gita baagh gayi.
+2 Manoj kal daftar mein chala gaya.
+3 Manoj aaj subha chalchitra ghar mein chala gaya.
+4 Hari kal chalchitra ghar gaya.
+5 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	daftar	3 2
+6 Aaj subha hari rasoi ghar mein gaya.
+7 Kal sita rasoi ghar gayi.
+8 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	6 4
+9 Aaj shyaam hari paathshaala mein chala gaya.
+10 Aaj dopeher hari daftar gaya.
+11 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	6 4
+12 Aaj dopeher manoj rasoi ghar mein chala gaya.
+13 Sita aaj subha paathshaala mein gayi.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	12 3
+15 Gita aaj subha rasoi ghar gayi.
+16 Sita aaj dopeher daftar mein gayi.
+17 Rasoi ghar mein jaaney sey pehley gita kahan thi?	baagh	15 1
+1 Kal sita paathshaala mein chali gayi.
+2 Aaj subha sita daftar mein chali gayi.
+3 Kal manoj rasoi ghar mein chala gaya.
+4 Hari kal sayanakaksh mein gaya.
+5 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	2 1
+6 Aaj shyaam sita sayanakaksh gayi.
+7 Aaj dopeher sita chalchitra ghar mein chali gayi.
+8 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	2 1
+9 Aaj subha gita sayanakaksh gayi.
+10 Gita kal paathshaala mein gayi.
+11 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	9 10
+12 Aaj subha hari paathshaala mein gaya.
+13 Aaj subha manoj sayanakaksh mein gaya.
+14 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	13 3
+15 Aaj dopeher manoj rasoi ghar mein gaya.
+16 Gita aaj dopeher daftar mein chali gayi.
+17 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	15 13
+1 Sita aaj dopeher baagh gayi.
+2 Hari kal paathshaala mein gaya.
+3 Sita kal baagh gayi.
+4 Sita aaj subha paathshaala mein chali gayi.
+5 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	1 4
+6 Manoj kal rasoi ghar gaya.
+7 Sita aaj shyaam daftar mein gayi.
+8 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	1 4
+9 Manoj aaj subha paathshaala mein chala gaya.
+10 Aaj subha hari sayanakaksh mein chala gaya.
+11 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	1 4
+12 Hari aaj dopeher rasoi ghar mein gaya.
+13 Kal gita rasoi ghar mein gayi.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	sayanakaksh	12 10
+15 Aaj subha gita sayanakaksh mein chali gayi.
+16 Hari aaj shyaam paathshaala gaya.
+17 Paathshaala mein jaaney sey pehley manoj kahan tha?	rasoi ghar	9 6
+1 Hari aaj subha chalchitra ghar mein gaya.
+2 Gita kal paathshaala mein chali gayi.
+3 Kal sita sayanakaksh mein chali gayi.
+4 Kal hari rasoi ghar mein chala gaya.
+5 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	rasoi ghar	1 4
+6 Sita aaj subha daftar mein gayi.
+7 Gita aaj subha baagh mein gayi.
+8 Daftar mein jaaney sey pehley sita kahan thi?	sayanakaksh	6 3
+9 Aaj dopeher gita daftar mein gayi.
+10 Kal manoj rasoi ghar gaya.
+11 Daftar mein jaaney sey pehley gita kahan thi?	baagh	9 7
+12 Aaj shyaam sita daftar mein gayi.
+13 Aaj dopeher sita paathshaala gayi.
+14 Paathshaala mein jaaney sey pehley sita kahan thi?	daftar	13 6
+15 Aaj subha manoj baagh mein chala gaya.
+16 Aaj shyaam gita sayanakaksh gayi.
+17 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	15 10
+1 Kal gita paathshaala mein chali gayi.
+2 Kal hari daftar mein gaya.
+3 Aaj subha manoj sayanakaksh mein chala gaya.
+4 Manoj kal rasoi ghar gaya.
+5 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	3 4
+6 Aaj subha hari baagh mein chala gaya.
+7 Gita aaj subha baagh mein chali gayi.
+8 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	3 4
+9 Aaj dopeher manoj rasoi ghar mein gaya.
+10 Kal sita rasoi ghar mein chali gayi.
+11 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	7 1
+12 Aaj subha sita daftar mein chali gayi.
+13 Aaj dopeher hari chalchitra ghar gaya.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	9 3
+15 Hari aaj shyaam rasoi ghar mein chala gaya.
+16 Sita aaj dopeher paathshaala mein gayi.
+17 Rasoi ghar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	15 13
+1 Aaj subha gita paathshaala mein gayi.
+2 Kal gita daftar gayi.
+3 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	1 2
+4 Gita aaj dopeher sayanakaksh mein chali gayi.
+5 Manoj kal paathshaala mein chala gaya.
+6 Paathshaala mein jaaney sey pehley gita kahan thi?	daftar	1 2
+7 Hari kal paathshaala gaya.
+8 Gita aaj shyaam chalchitra ghar mein chali gayi.
+9 Sayanakaksh mein jaaney sey pehley gita kahan thi?	paathshaala	4 1
+10 Sita aaj subha rasoi ghar mein gayi.
+11 Kal sita baagh gayi.
+12 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	sayanakaksh	8 4
+13 Aaj dopeher hari daftar mein chala gaya.
+14 Aaj subha hari chalchitra ghar gaya.
+15 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	14 7
+1 Manoj aaj subha chalchitra ghar mein gaya.
+2 Sita aaj subha chalchitra ghar mein chali gayi.
+3 Kal manoj baagh mein chala gaya.
+4 Gita kal paathshaala mein gayi.
+5 Kal sita baagh gayi.
+6 Kal hari paathshaala gaya.
+7 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	2 5
+8 Aaj shyaam manoj baagh gaya.
+9 Aaj dopeher manoj daftar mein gaya.
+10 Baagh mein jaaney sey pehley manoj kahan tha?	daftar	8 9
+11 Aaj shyaam sita chalchitra ghar gayi.
+12 Sita aaj dopeher daftar gayi.
+13 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	baagh	1 3
+14 Hari aaj subha daftar gaya.
+15 Gita aaj subha baagh mein chali gayi.
+16 Baagh mein jaaney sey pehley gita kahan thi?	paathshaala	15 4
+17 Aaj dopeher hari baagh gaya.
+18 Aaj dopeher gita sayanakaksh mein chali gayi.
+19 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	daftar	11 12
+1 Kal gita rasoi ghar mein chali gayi.
+2 Kal hari chalchitra ghar mein chala gaya.
+3 Kal sita chalchitra ghar mein chali gayi.
+4 Aaj subha hari daftar gaya.
+5 Daftar mein jaaney sey pehley hari kahan tha?	chalchitra ghar	4 2
+6 Kal manoj baagh mein gaya.
+7 Aaj dopeher hari paathshaala mein chala gaya.
+8 Paathshaala mein jaaney sey pehley hari kahan tha?	daftar	7 4
+9 Aaj subha manoj daftar mein chala gaya.
+10 Aaj shyaam hari rasoi ghar mein chala gaya.
+11 Rasoi ghar mein jaaney sey pehley hari kahan tha?	paathshaala	10 7
+12 Sita aaj subha sayanakaksh mein chali gayi.
+13 Aaj subha gita paathshaala mein chali gayi.
+14 Daftar mein jaaney sey pehley manoj kahan tha?	baagh	9 6
+15 Aaj dopeher gita sayanakaksh mein chali gayi.
+16 Aaj dopeher sita chalchitra ghar mein gayi.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	16 12
+1 Aaj subha gita rasoi ghar gayi.
+2 Kal gita paathshaala mein chali gayi.
+3 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	1 2
+4 Gita aaj shyaam daftar mein chali gayi.
+5 Gita aaj dopeher sayanakaksh mein gayi.
+6 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	5 1
+7 Sita aaj subha chalchitra ghar mein chali gayi.
+8 Kal sita daftar mein chali gayi.
+9 Sayanakaksh mein jaaney sey pehley gita kahan thi?	rasoi ghar	5 1
+10 Aaj shyaam sita paathshaala mein chali gayi.
+11 Aaj dopeher sita sayanakaksh mein chali gayi.
+12 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	10 11
+13 Manoj kal rasoi ghar mein chala gaya.
+14 Hari kal sayanakaksh mein chala gaya.
+15 Sayanakaksh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	11 7
+1 Aaj subha gita sayanakaksh gayi.
+2 Gita kal daftar mein gayi.
+3 Sita kal daftar mein gayi.
+4 Hari kal chalchitra ghar mein chala gaya.
+5 Sayanakaksh mein jaaney sey pehley gita kahan thi?	daftar	1 2
+6 Aaj subha manoj paathshaala gaya.
+7 Kal manoj sayanakaksh mein gaya.
+8 Paathshaala mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 7
+9 Aaj subha sita baagh gayi.
+10 Aaj subha hari paathshaala gaya.
+11 Baagh mein jaaney sey pehley sita kahan thi?	daftar	9 3
+12 Gita aaj dopeher daftar mein gayi.
+13 Aaj dopeher manoj sayanakaksh mein chala gaya.
+14 Daftar mein jaaney sey pehley gita kahan thi?	sayanakaksh	12 1
+15 Aaj dopeher sita paathshaala mein gayi.
+16 Manoj aaj shyaam daftar mein chala gaya.
+17 Daftar mein jaaney sey pehley manoj kahan tha?	sayanakaksh	16 13
+1 Hari aaj subha chalchitra ghar mein chala gaya.
+2 Kal manoj rasoi ghar mein gaya.
+3 Sita kal paathshaala mein chali gayi.
+4 Kal hari baagh mein chala gaya.
+5 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	1 4
+6 Aaj subha sita chalchitra ghar mein chali gayi.
+7 Aaj subha manoj daftar gaya.
+8 Daftar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	7 2
+9 Aaj dopeher sita sayanakaksh gayi.
+10 Gita kal chalchitra ghar mein gayi.
+11 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	paathshaala	6 3
+12 Aaj dopeher hari rasoi ghar mein chala gaya.
+13 Gita aaj subha rasoi ghar mein gayi.
+14 Sayanakaksh mein jaaney sey pehley sita kahan thi?	chalchitra ghar	9 6
+15 Manoj aaj dopeher rasoi ghar mein gaya.
+16 Gita aaj dopeher paathshaala mein gayi.
+17 Paathshaala mein jaaney sey pehley gita kahan thi?	rasoi ghar	16 13
+1 Aaj subha hari chalchitra ghar mein chala gaya.
+2 Gita kal rasoi ghar mein gayi.
+3 Kal sita chalchitra ghar mein chali gayi.
+4 Kal hari paathshaala mein gaya.
+5 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	1 4
+6 Aaj subha sita rasoi ghar gayi.
+7 Manoj kal rasoi ghar gaya.
+8 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	paathshaala	1 4
+9 Aaj dopeher gita sayanakaksh mein chali gayi.
+10 Gita aaj subha baagh mein gayi.
+11 Baagh mein jaaney sey pehley gita kahan thi?	rasoi ghar	10 2
+12 Aaj shyaam sita daftar gayi.
+13 Aaj dopeher sita paathshaala mein gayi.
+14 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	6 3
+15 Hari aaj dopeher sayanakaksh mein gaya.
+16 Gita aaj shyaam chalchitra ghar mein gayi.
+17 Daftar mein jaaney sey pehley sita kahan thi?	paathshaala	12 13
+1 Aaj subha gita chalchitra ghar gayi.
+2 Sita kal paathshaala mein chali gayi.
+3 Kal gita daftar mein gayi.
+4 Manoj kal rasoi ghar mein chala gaya.
+5 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	1 3
+6 Kal hari chalchitra ghar gaya.
+7 Gita aaj dopeher sayanakaksh mein chali gayi.
+8 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	daftar	1 3
+9 Aaj subha hari paathshaala mein chala gaya.
+10 Aaj shyaam gita paathshaala mein gayi.
+11 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	9 6
+12 Aaj subha manoj paathshaala gaya.
+13 Hari aaj dopeher rasoi ghar mein chala gaya.
+14 Paathshaala mein jaaney sey pehley hari kahan tha?	chalchitra ghar	9 6
+15 Aaj shyaam hari daftar gaya.
+16 Aaj dopeher manoj daftar gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	rasoi ghar	15 13
+1 Aaj subha hari rasoi ghar mein chala gaya.
+2 Hari kal baagh mein gaya.
+3 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	1 2
+4 Aaj dopeher hari baagh mein gaya.
+5 Sita kal daftar gayi.
+6 Baagh mein jaaney sey pehley hari kahan tha?	rasoi ghar	4 1
+7 Aaj subha sita chalchitra ghar mein gayi.
+8 Aaj shyaam hari chalchitra ghar gaya.
+9 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	8 4
+10 Sita aaj dopeher paathshaala gayi.
+11 Gita kal sayanakaksh gayi.
+12 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	baagh	8 4
+13 Sita aaj shyaam sayanakaksh gayi.
+14 Gita aaj subha paathshaala mein gayi.
+15 Paathshaala mein jaaney sey pehley sita kahan thi?	chalchitra ghar	10 7
+1 Gita kal baagh gayi.
+2 Aaj subha gita sayanakaksh mein chali gayi.
+3 Hari aaj subha daftar mein gaya.
+4 Kal hari paathshaala mein chala gaya.
+5 Daftar mein jaaney sey pehley hari kahan tha?	paathshaala	3 4
+6 Aaj shyaam gita sayanakaksh mein gayi.
+7 Aaj dopeher gita paathshaala gayi.
+8 Daftar mein jaaney sey pehley hari kahan tha?	paathshaala	3 4
+9 Hari aaj dopeher baagh mein gaya.
+10 Manoj kal rasoi ghar mein gaya.
+11 Paathshaala mein jaaney sey pehley gita kahan thi?	sayanakaksh	7 2
+12 Aaj subha manoj chalchitra ghar mein gaya.
+13 Hari aaj shyaam rasoi ghar mein chala gaya.
+14 Rasoi ghar mein jaaney sey pehley hari kahan tha?	baagh	13 9
+15 Kal sita daftar gayi.
+16 Manoj aaj dopeher rasoi ghar gaya.
+17 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	rasoi ghar	12 10
+1 Kal gita chalchitra ghar mein gayi.
+2 Kal hari sayanakaksh mein gaya.
+3 Manoj kal baagh mein gaya.
+4 Aaj subha manoj paathshaala mein gaya.
+5 Paathshaala mein jaaney sey pehley manoj kahan tha?	baagh	4 3
+6 Manoj aaj shyaam rasoi ghar mein gaya.
+7 Manoj aaj dopeher chalchitra ghar mein gaya.
+8 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	7 4
+9 Sita aaj subha chalchitra ghar mein chali gayi.
+10 Sita kal sayanakaksh gayi.
+11 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	6 7
+12 Sita aaj dopeher paathshaala mein chali gayi.
+13 Gita aaj subha daftar mein chali gayi.
+14 Rasoi ghar mein jaaney sey pehley manoj kahan tha?	chalchitra ghar	6 7
+15 Aaj dopeher gita paathshaala mein chali gayi.
+16 Hari aaj subha daftar gaya.
+17 Daftar mein jaaney sey pehley hari kahan tha?	sayanakaksh	16 2
+1 Aaj subha sita paathshaala gayi.
+2 Kal hari baagh gaya.
+3 Kal gita daftar gayi.
+4 Kal sita rasoi ghar mein gayi.
+5 Paathshaala mein jaaney sey pehley sita kahan thi?	rasoi ghar	1 4
+6 Gita aaj dopeher chalchitra ghar mein gayi.
+7 Gita aaj subha rasoi ghar mein gayi.
+8 Chalchitra ghar mein jaaney sey pehley gita kahan thi?	rasoi ghar	6 7
+9 Aaj shyaam gita paathshaala mein gayi.
+10 Aaj subha hari sayanakaksh mein gaya.
+11 Sayanakaksh mein jaaney sey pehley hari kahan tha?	baagh	10 2
+12 Kal manoj rasoi ghar mein gaya.
+13 Hari aaj dopeher paathshaala mein gaya.
+14 Paathshaala mein jaaney sey pehley gita kahan thi?	chalchitra ghar	9 6
+15 Sita aaj shyaam chalchitra ghar mein chali gayi.
+16 Aaj dopeher sita sayanakaksh mein gayi.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	sayanakaksh	15 16
+1 Aaj subha manoj baagh mein chala gaya.
+2 Kal hari rasoi ghar mein gaya.
+3 Manoj kal paathshaala mein chala gaya.
+4 Sita kal chalchitra ghar mein gayi.
+5 Baagh mein jaaney sey pehley manoj kahan tha?	paathshaala	1 3
+6 Aaj subha hari baagh mein chala gaya.
+7 Manoj aaj dopeher chalchitra ghar gaya.
+8 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	baagh	7 1
+9 Aaj dopeher sita baagh mein gayi.
+10 Aaj subha sita daftar gayi.
+11 Daftar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	10 4
+12 Aaj shyaam sita chalchitra ghar gayi.
+13 Gita kal rasoi ghar gayi.
+14 Baagh mein jaaney sey pehley hari kahan tha?	rasoi ghar	6 2
+15 Aaj subha gita baagh mein chali gayi.
+16 Hari aaj dopeher chalchitra ghar gaya.
+17 Chalchitra ghar mein jaaney sey pehley sita kahan thi?	baagh	12 9
+1 Manoj aaj subha paathshaala mein gaya.
+2 Gita kal sayanakaksh gayi.
+3 Manoj aaj dopeher chalchitra ghar mein gaya.
+4 Kal manoj daftar mein gaya.
+5 Sita kal daftar gayi.
+6 Hari kal baagh gaya.
+7 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	3 1
+8 Sita aaj subha paathshaala mein gayi.
+9 Aaj subha hari rasoi ghar mein gaya.
+10 Paathshaala mein jaaney sey pehley manoj kahan tha?	daftar	1 4
+11 Aaj dopeher sita baagh mein gayi.
+12 Aaj shyaam manoj sayanakaksh mein chala gaya.
+13 Chalchitra ghar mein jaaney sey pehley manoj kahan tha?	paathshaala	3 1
+14 Gita aaj subha baagh mein chali gayi.
+15 Hari aaj dopeher chalchitra ghar mein chala gaya.
+16 Baagh mein jaaney sey pehley sita kahan thi?	paathshaala	11 8
+17 Gita aaj dopeher paathshaala mein chali gayi.
+18 Aaj shyaam sita sayanakaksh mein chali gayi.
+19 Sayanakaksh mein jaaney sey pehley sita kahan thi?	baagh	18 11
+1 Sita aaj subha sayanakaksh mein gayi.
+2 Sita kal paathshaala mein gayi.
+3 Kal gita rasoi ghar gayi.
+4 Manoj kal sayanakaksh mein chala gaya.
+5 Sayanakaksh mein jaaney sey pehley sita kahan thi?	paathshaala	1 2
+6 Aaj subha manoj baagh mein chala gaya.
+7 Hari kal daftar mein gaya.
+8 Baagh mein jaaney sey pehley manoj kahan tha?	sayanakaksh	6 4
+9 Hari aaj subha chalchitra ghar mein gaya.
+10 Sita aaj dopeher chalchitra ghar gayi.
+11 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	daftar	9 7
+12 Aaj shyaam sita rasoi ghar gayi.
+13 Aaj dopeher manoj rasoi ghar mein chala gaya.
+14 Chalchitra ghar mein jaaney sey pehley hari kahan tha?	daftar	9 7
+15 Gita aaj subha sayanakaksh mein gayi.
+16 Hari aaj dopeher rasoi ghar gaya.
+17 Rasoi ghar mein jaaney sey pehley sita kahan thi?	chalchitra ghar	12 10
+1 Aaj subha sita paathshaala mein chali gayi.
+2 Gita kal paathshaala mein gayi.
+3 Kal hari baagh mein gaya.
+4 Sita kal sayanakaksh mein gayi.
+5 Paathshaala mein jaaney sey pehley sita kahan thi?	sayanakaksh	1 4
+6 Gita aaj subha rasoi ghar gayi.
+7 Manoj kal rasoi ghar mein gaya.
+8 Rasoi ghar mein jaaney sey pehley gita kahan thi?	paathshaala	6 2
+9 Sita aaj dopeher sayanakaksh mein chali gayi.
+10 Aaj subha manoj baagh gaya.
+11 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	10 7
+12 Aaj shyaam sita baagh gayi.
+13 Aaj subha hari rasoi ghar gaya.
+14 Baagh mein jaaney sey pehley manoj kahan tha?	rasoi ghar	10 7
+15 Gita aaj dopeher daftar mein gayi.
+16 Manoj aaj dopeher chalchitra ghar mein chala gaya.
+17 Baagh mein jaaney sey pehley sita kahan thi?	sayanakaksh	12 9
+1 Gita kal rasoi ghar mein gayi.
+2 Hari aaj subha baagh mein gaya.
+3 Kal sita baagh mein gayi.
+4 Hari kal paathshaala mein gaya.
+5 Baagh mein jaaney sey pehley hari kahan tha?	paathshaala	2 4
+6 Manoj kal rasoi ghar mein gaya.
+7 Aaj dopeher hari paathshaala gaya.
+8 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	7 2
+9 Sita aaj subha rasoi ghar mein gayi.
+10 Manoj aaj subha sayanakaksh mein gaya.
+11 Paathshaala mein jaaney sey pehley hari kahan tha?	baagh	7 2
+12 Manoj aaj shyaam sayanakaksh gaya.
+13 Manoj aaj dopeher paathshaala gaya.
+14 Sayanakaksh mein jaaney sey pehley manoj kahan tha?	paathshaala	12 13
+15 Sita aaj dopeher baagh gayi.
+16 Aaj subha gita chalchitra ghar gayi.
+17 Rasoi ghar mein jaaney sey pehley sita kahan thi?	baagh	9 3

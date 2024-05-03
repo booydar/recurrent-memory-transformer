@@ -1,0 +1,3566 @@
+1 Sita gusalkhaney mein gayi.
+2 Priya sayanakaksh mein gayi.
+3 Sita gayend le kar aayi.
+4 Mohit daftar mein gaya.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	3
+6 Priya gusalkhaney mein chali gayi.
+7 Badri galiyarey mein gaya.
+8 Sita ne kya cheezein pakdi hui hein?	gayend	3
+9 Mohit gusalkhaney mein gaya.
+10 Priya bagichey mein chali gayi.
+11 Badri seb le aaya.
+12 Mohit bagichey mein gaya.
+13 Badri ne kya cheezein pakdi hui hein?	seb	11
+14 Priya gusalkhaney gayi.
+15 Sita gayend rakh aayi.
+16 Badri ne kya cheezein pakdi hui hein?	seb	11
+17 Priya gayend le aayi.
+18 Badri sayanakaksh mein gaya.
+19 Priya ne kya cheezein pakdi hui hein?	gayend	17
+1 Badri sayanakaksh mein gaya.
+2 Priya galiyarey mein chali gayi.
+3 Badri seb le kar aaya.
+4 Badri seb rakh aaya.
+5 Badri ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Badri dhoodh le aaya.
+7 Badri daftar mein chala gaya.
+8 Badri ne kya cheezein pakdi hui hein?	dhoodh	3 4 6
+9 Priya daftar mein gayi.
+10 Badri dhoodh chod aaya.
+11 Badri ne kya cheezein pakdi hui hein?	nothing	3 4 6 10
+12 Badri gayend le aaya.
+13 Sita daftar gayi.
+14 Badri ne kya cheezein pakdi hui hein?	gayend	3 4 6 10 12
+15 Badri sayanakaksh gaya.
+16 Badri gayend rakh aaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	3 4 6 10 12 16
+1 Mohit sayanakaksh mein chala gaya.
+2 Sita bagichey mein gayi.
+3 Sita seb le aayi.
+4 Mohit bagichey gaya.
+5 Sita ne kya cheezein pakdi hui hein?	seb	3
+6 Mohit rasoi ghar gaya.
+7 Sita daftar gayi.
+8 Sita ne kya cheezein pakdi hui hein?	seb	3
+9 Sita dhoodh le aayi.
+10 Sita seb chod aayi.
+11 Sita ne kya cheezein pakdi hui hein?	dhoodh	3 10 9
+12 Priya sayanakaksh mein gayi.
+13 Sita sayanakaksh gayi.
+14 Sita ne kya cheezein pakdi hui hein?	dhoodh	3 10 9
+15 Sita dhoodh chod aayi.
+16 Sita dhoodh le kar aayi.
+17 Sita ne kya cheezein pakdi hui hein?	dhoodh	3 10 9 15 16
+1 Mohit daftar gaya.
+2 Priya gayend le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	2
+4 Mohit gusalkhaney gaya.
+5 Priya gayend rakh aayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Priya bagichey gayi.
+8 Priya galiyarey mein gayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Priya daftar mein gayi.
+11 Mohit galiyarey gaya.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+13 Badri sayanakaksh mein chala gaya.
+14 Priya seb le kar aayi.
+15 Priya ne kya cheezein pakdi hui hein?	seb	2 5 14
+1 Priya bagichey mein chali gayi.
+2 Sita sayanakaksh gayi.
+3 Badri seb le aaya.
+4 Badri gusalkhaney gaya.
+5 Badri ne kya cheezein pakdi hui hein?	seb	3
+6 Sita gusalkhaney mein chali gayi.
+7 Badri gayend le aaya.
+8 Badri ne kya cheezein pakdi hui hein?	seb,gayend	3 7
+9 Badri galiyarey gaya.
+10 Sita daftar mein chali gayi.
+11 Badri ne kya cheezein pakdi hui hein?	seb,gayend	3 7
+12 Sita bagichey gayi.
+13 Badri seb chod aaya.
+14 Badri ne kya cheezein pakdi hui hein?	gayend	3 13 7
+15 Mohit galiyarey gaya.
+16 Badri gayend rakh aaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	3 13 7 16
+1 Mohit seb le aaya.
+2 Sita sayanakaksh gayi.
+3 Mohit ne kya cheezein pakdi hui hein?	seb	1
+4 Priya galiyarey mein chali gayi.
+5 Priya daftar gayi.
+6 Mohit ne kya cheezein pakdi hui hein?	seb	1
+7 Sita gayend le aayi.
+8 Sita gayend rakh aayi.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	7 8
+10 Sita gayend le aayi.
+11 Priya dhoodh le kar aayi.
+12 Sita ne kya cheezein pakdi hui hein?	gayend	7 8 10
+13 Mohit gusalkhaney mein gaya.
+14 Sita gusalkhaney mein gayi.
+15 Sita ne kya cheezein pakdi hui hein?	gayend	7 8 10
+1 Sita daftar mein chali gayi.
+2 Mohit rasoi ghar mein chala gaya.
+3 Badri dhoodh le kar aaya.
+4 Badri dhoodh rakh aaya.
+5 Badri ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Sita sayanakaksh mein chali gayi.
+7 Sita gayend le aayi.
+8 Badri ne kya cheezein pakdi hui hein?	nothing	3 4
+9 Sita gayend chod aayi.
+10 Badri galiyarey mein chala gaya.
+11 Sita ne kya cheezein pakdi hui hein?	nothing	7 9
+12 Badri rasoi ghar mein gaya.
+13 Priya bagichey gayi.
+14 Sita ne kya cheezein pakdi hui hein?	nothing	7 9
+15 Badri daftar gaya.
+16 Sita gusalkhaney mein gayi.
+17 Priya gusalkhaney mein chali gayi.
+18 Badri bagichey mein chala gaya.
+19 Badri dhoodh le aaya.
+20 Sita daftar mein chali gayi.
+21 Badri ne kya cheezein pakdi hui hein?	dhoodh	3 4 19
+1 Badri rasoi ghar mein gaya.
+2 Badri gayend le kar aaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	2
+4 Badri gayend rakh aaya.
+5 Badri gayend le aaya.
+6 Badri ne kya cheezein pakdi hui hein?	gayend	2 4 5
+7 Sita gusalkhaney gayi.
+8 Badri gayend chod aaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	2 4 5 8
+10 Mohit rasoi ghar gaya.
+11 Badri gayend le aaya.
+12 Badri ne kya cheezein pakdi hui hein?	gayend	2 4 5 8 11
+13 Badri gayend chod aaya.
+14 Sita daftar mein gayi.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	2 4 5 8 11 13
+1 Mohit dhoodh le kar aaya.
+2 Mohit rasoi ghar mein chala gaya.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Priya gusalkhaney gayi.
+5 Mohit daftar mein chala gaya.
+6 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Badri gusalkhaney mein chala gaya.
+8 Badri sayanakaksh mein chala gaya.
+9 Badri daftar mein gaya.
+10 Badri sayanakaksh mein gaya.
+11 Sita gusalkhaney gayi.
+12 Badri rasoi ghar mein chala gaya.
+13 Mohit dhoodh rakh aaya.
+14 Priya seb le kar aayi.
+15 Priya ne kya cheezein pakdi hui hein?	seb	14
+16 Sita gayend le aayi.
+17 Sita rasoi ghar mein chali gayi.
+18 Priya ne kya cheezein pakdi hui hein?	seb	14
+19 Mohit dhoodh le aaya.
+20 Mohit sayanakaksh mein chala gaya.
+21 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1 13 19
+1 Sita gusalkhaney mein chali gayi.
+2 Priya galiyarey mein gayi.
+3 Sita bagichey mein gayi.
+4 Priya bagichey mein chali gayi.
+5 Badri rasoi ghar mein gaya.
+6 Priya sayanakaksh mein gayi.
+7 Priya seb le kar aayi.
+8 Priya bagichey mein chali gayi.
+9 Priya ne kya cheezein pakdi hui hein?	seb	7
+10 Badri gusalkhaney gaya.
+11 Priya seb rakh aayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	7 11
+13 Priya gusalkhaney mein chali gayi.
+14 Badri daftar mein chala gaya.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	7 11
+16 Sita galiyarey mein gayi.
+17 Mohit rasoi ghar mein chala gaya.
+18 Priya ne kya cheezein pakdi hui hein?	nothing	7 11
+19 Priya dhoodh le aayi.
+20 Sita daftar gayi.
+21 Priya ne kya cheezein pakdi hui hein?	dhoodh	7 11 19
+1 Badri rasoi ghar gaya.
+2 Mohit bagichey gaya.
+3 Priya daftar gayi.
+4 Mohit sayanakaksh mein gaya.
+5 Sita gusalkhaney mein gayi.
+6 Sita dhoodh le kar aayi.
+7 Sita ne kya cheezein pakdi hui hein?	dhoodh	6
+8 Priya gayend le aayi.
+9 Priya sayanakaksh gayi.
+10 Sita ne kya cheezein pakdi hui hein?	dhoodh	6
+11 Sita rasoi ghar mein gayi.
+12 Mohit bagichey mein chala gaya.
+13 Sita ne kya cheezein pakdi hui hein?	dhoodh	6
+14 Sita gusalkhaney mein chali gayi.
+15 Mohit rasoi ghar mein gaya.
+16 Priya galiyarey mein chali gayi.
+17 Mohit sayanakaksh gaya.
+18 Badri gusalkhaney mein chala gaya.
+19 Sita bagichey gayi.
+20 Sita dhoodh chod aayi.
+21 Priya sayanakaksh mein gayi.
+22 Sita ne kya cheezein pakdi hui hein?	nothing	6 20
+23 Priya gayend rakh aayi.
+24 Priya gayend le kar aayi.
+25 Priya ne kya cheezein pakdi hui hein?	gayend	8 23 24
+1 Mohit daftar mein chala gaya.
+2 Badri bagichey gaya.
+3 Badri dhoodh le kar aaya.
+4 Badri sayanakaksh gaya.
+5 Badri ne kya cheezein pakdi hui hein?	dhoodh	3
+6 Badri seb le kar aaya.
+7 Mohit galiyarey mein gaya.
+8 Badri ne kya cheezein pakdi hui hein?	dhoodh,seb	3 6
+9 Priya daftar mein gayi.
+10 Priya rasoi ghar mein chali gayi.
+11 Badri ne kya cheezein pakdi hui hein?	dhoodh,seb	3 6
+12 Priya gusalkhaney mein gayi.
+13 Priya sayanakaksh gayi.
+14 Mohit daftar gaya.
+15 Priya daftar mein chali gayi.
+16 Sita sayanakaksh mein gayi.
+17 Badri seb chod aaya.
+18 Badri ne kya cheezein pakdi hui hein?	dhoodh	3 6 17
+19 Sita gusalkhaney mein chali gayi.
+20 Priya gusalkhaney gayi.
+21 Badri ne kya cheezein pakdi hui hein?	dhoodh	3 6 17
+1 Mohit gusalkhaney gaya.
+2 Priya daftar mein gayi.
+3 Priya bagichey gayi.
+4 Sita gusalkhaney mein chali gayi.
+5 Priya gayend le aayi.
+6 Badri dhoodh le aaya.
+7 Priya ne kya cheezein pakdi hui hein?	gayend	5
+8 Badri dhoodh rakh aaya.
+9 Priya gayend chod aayi.
+10 Badri ne kya cheezein pakdi hui hein?	nothing	6 8
+11 Mohit galiyarey gaya.
+12 Sita rasoi ghar gayi.
+13 Badri ne kya cheezein pakdi hui hein?	nothing	6 8
+14 Sita sayanakaksh mein gayi.
+15 Mohit dhoodh le aaya.
+16 Priya ne kya cheezein pakdi hui hein?	nothing	5 9
+17 Priya gayend le aayi.
+18 Priya sayanakaksh mein gayi.
+19 Mohit ne kya cheezein pakdi hui hein?	dhoodh	15
+1 Sita dhoodh le kar aayi.
+2 Priya bagichey mein gayi.
+3 Sita ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Sita dhoodh rakh aayi.
+5 Priya sayanakaksh mein chali gayi.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Badri dhoodh le kar aaya.
+8 Sita daftar mein gayi.
+9 Badri ne kya cheezein pakdi hui hein?	dhoodh	7
+10 Mohit bagichey mein gaya.
+11 Badri galiyarey mein gaya.
+12 Badri ne kya cheezein pakdi hui hein?	dhoodh	7
+13 Sita gusalkhaney gayi.
+14 Sita bagichey mein gayi.
+15 Mohit sayanakaksh mein chala gaya.
+16 Priya seb le kar aayi.
+17 Priya ne kya cheezein pakdi hui hein?	seb	16
+1 Sita bagichey mein chali gayi.
+2 Sita gusalkhaney gayi.
+3 Sita rasoi ghar mein gayi.
+4 Mohit bagichey mein gaya.
+5 Mohit dhoodh le kar aaya.
+6 Mohit rasoi ghar gaya.
+7 Mohit ne kya cheezein pakdi hui hein?	dhoodh	5
+8 Sita bagichey mein chali gayi.
+9 Badri rasoi ghar gaya.
+10 Mohit ne kya cheezein pakdi hui hein?	dhoodh	5
+11 Mohit gusalkhaney gaya.
+12 Sita gayend le kar aayi.
+13 Sita ne kya cheezein pakdi hui hein?	gayend	12
+14 Sita gayend rakh aayi.
+15 Mohit sayanakaksh mein chala gaya.
+16 Sita ne kya cheezein pakdi hui hein?	nothing	12 14
+17 Mohit daftar gaya.
+18 Sita gayend le aayi.
+19 Sita ne kya cheezein pakdi hui hein?	gayend	12 14 18
+1 Mohit rasoi ghar gaya.
+2 Badri bagichey gaya.
+3 Badri gusalkhaney mein chala gaya.
+4 Sita rasoi ghar gayi.
+5 Badri rasoi ghar mein gaya.
+6 Priya galiyarey gayi.
+7 Sita gusalkhaney mein gayi.
+8 Mohit sayanakaksh mein chala gaya.
+9 Sita galiyarey mein chali gayi.
+10 Priya dhoodh le kar aayi.
+11 Priya ne kya cheezein pakdi hui hein?	dhoodh	10
+12 Mohit rasoi ghar mein gaya.
+13 Priya gayend le aayi.
+14 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend	10 13
+15 Badri daftar mein gaya.
+16 Priya seb le aayi.
+17 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend,seb	10 13 16
+18 Mohit daftar gaya.
+19 Priya daftar mein gayi.
+20 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend,seb	10 13 16
+21 Priya rasoi ghar mein chali gayi.
+22 Priya sayanakaksh mein chali gayi.
+23 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend,seb	10 13 16
+1 Sita seb le kar aayi.
+2 Badri gayend le kar aaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	2
+4 Badri rasoi ghar mein chala gaya.
+5 Badri daftar mein gaya.
+6 Badri ne kya cheezein pakdi hui hein?	gayend	2
+7 Badri gayend chod aaya.
+8 Sita seb rakh aayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	2 7
+10 Badri rasoi ghar mein chala gaya.
+11 Badri seb le aaya.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	1 8
+13 Priya galiyarey mein gayi.
+14 Sita bagichey mein chali gayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	1 8
+1 Sita gayend le aayi.
+2 Mohit galiyarey mein gaya.
+3 Sita ne kya cheezein pakdi hui hein?	gayend	1
+4 Mohit seb le kar aaya.
+5 Sita gayend rakh aayi.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	1 5
+7 Mohit daftar gaya.
+8 Sita sayanakaksh gayi.
+9 Mohit ne kya cheezein pakdi hui hein?	seb	4
+10 Sita dhoodh le aayi.
+11 Sita dhoodh chod aayi.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	1 5 10 11
+13 Priya sayanakaksh mein gayi.
+14 Sita dhoodh le aayi.
+15 Sita ne kya cheezein pakdi hui hein?	dhoodh	1 5 10 11 14
+1 Mohit bagichey mein chala gaya.
+2 Priya seb le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	2
+4 Priya rasoi ghar mein gayi.
+5 Priya seb chod aayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Priya galiyarey mein gayi.
+8 Mohit galiyarey mein gaya.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Mohit bagichey mein gaya.
+11 Priya rasoi ghar mein chali gayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+13 Mohit daftar gaya.
+14 Mohit bagichey mein gaya.
+15 Priya seb le kar aayi.
+16 Sita daftar gayi.
+17 Priya ne kya cheezein pakdi hui hein?	seb	2 5 15
+1 Badri galiyarey gaya.
+2 Priya dhoodh le aayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Priya rasoi ghar mein chali gayi.
+5 Badri gusalkhaney mein gaya.
+6 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Badri bagichey gaya.
+8 Priya dhoodh chod aayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 8
+10 Sita bagichey mein gayi.
+11 Priya dhoodh le aayi.
+12 Priya ne kya cheezein pakdi hui hein?	dhoodh	2 8 11
+13 Priya dhoodh chod aayi.
+14 Badri gusalkhaney mein chala gaya.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	2 8 11 13
+1 Mohit dhoodh le aaya.
+2 Mohit dhoodh rakh aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Sita daftar mein chali gayi.
+5 Badri gayend le aaya.
+6 Mohit ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Priya bagichey gayi.
+8 Sita dhoodh le kar aayi.
+9 Badri ne kya cheezein pakdi hui hein?	gayend	5
+10 Badri gayend rakh aaya.
+11 Priya rasoi ghar gayi.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	5 10
+13 Badri gayend le kar aaya.
+14 Priya bagichey mein chali gayi.
+15 Sita ne kya cheezein pakdi hui hein?	dhoodh	8
+1 Badri seb le aaya.
+2 Sita gusalkhaney gayi.
+3 Badri ne kya cheezein pakdi hui hein?	seb	1
+4 Mohit rasoi ghar mein chala gaya.
+5 Badri seb chod aaya.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 5
+7 Badri seb le aaya.
+8 Priya sayanakaksh mein chali gayi.
+9 Badri ne kya cheezein pakdi hui hein?	seb	1 5 7
+10 Badri rasoi ghar mein gaya.
+11 Priya dhoodh le kar aayi.
+12 Priya ne kya cheezein pakdi hui hein?	dhoodh	11
+13 Priya gayend le kar aayi.
+14 Mohit bagichey mein gaya.
+15 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend	11 13
+1 Mohit bagichey mein chala gaya.
+2 Sita gusalkhaney mein chali gayi.
+3 Badri daftar mein gaya.
+4 Sita bagichey mein chali gayi.
+5 Badri galiyarey gaya.
+6 Mohit daftar mein gaya.
+7 Priya gusalkhaney mein gayi.
+8 Badri dhoodh le kar aaya.
+9 Badri ne kya cheezein pakdi hui hein?	dhoodh	8
+10 Badri gayend le kar aaya.
+11 Mohit seb le kar aaya.
+12 Mohit ne kya cheezein pakdi hui hein?	seb	11
+13 Badri gusalkhaney gaya.
+14 Sita rasoi ghar mein gayi.
+15 Badri ne kya cheezein pakdi hui hein?	dhoodh,gayend	8 10
+16 Priya daftar gayi.
+17 Priya sayanakaksh gayi.
+18 Mohit ne kya cheezein pakdi hui hein?	seb	11
+19 Mohit seb rakh aaya.
+20 Mohit seb le kar aaya.
+21 Mohit ne kya cheezein pakdi hui hein?	seb	11 19 20
+1 Sita bagichey mein gayi.
+2 Priya seb le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	2
+4 Sita rasoi ghar mein chali gayi.
+5 Badri galiyarey gaya.
+6 Priya ne kya cheezein pakdi hui hein?	seb	2
+7 Sita sayanakaksh gayi.
+8 Mohit sayanakaksh mein chala gaya.
+9 Priya ne kya cheezein pakdi hui hein?	seb	2
+10 Priya seb rakh aayi.
+11 Mohit bagichey mein chala gaya.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 10
+13 Sita dhoodh le kar aayi.
+14 Mohit rasoi ghar mein gaya.
+15 Sita ne kya cheezein pakdi hui hein?	dhoodh	13
+1 Badri rasoi ghar mein gaya.
+2 Sita gusalkhaney gayi.
+3 Mohit sayanakaksh mein gaya.
+4 Priya gusalkhaney gayi.
+5 Badri sayanakaksh mein chala gaya.
+6 Badri daftar gaya.
+7 Priya dhoodh le kar aayi.
+8 Priya galiyarey mein gayi.
+9 Priya ne kya cheezein pakdi hui hein?	dhoodh	7
+10 Priya bagichey mein chali gayi.
+11 Badri seb le aaya.
+12 Badri ne kya cheezein pakdi hui hein?	seb	11
+13 Priya dhoodh rakh aayi.
+14 Priya rasoi ghar gayi.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	7 13
+16 Priya daftar gayi.
+17 Sita daftar mein chali gayi.
+18 Badri ne kya cheezein pakdi hui hein?	seb	11
+19 Mohit gusalkhaney mein chala gaya.
+20 Priya rasoi ghar mein chali gayi.
+21 Mohit sayanakaksh gaya.
+22 Badri seb rakh aaya.
+23 Badri ne kya cheezein pakdi hui hein?	nothing	11 22
+1 Badri galiyarey gaya.
+2 Priya gusalkhaney gayi.
+3 Sita galiyarey mein chali gayi.
+4 Sita daftar mein chali gayi.
+5 Sita gusalkhaney mein gayi.
+6 Mohit daftar mein chala gaya.
+7 Priya daftar mein gayi.
+8 Mohit gayend le kar aaya.
+9 Mohit ne kya cheezein pakdi hui hein?	gayend	8
+10 Mohit gusalkhaney mein chala gaya.
+11 Priya bagichey mein gayi.
+12 Mohit ne kya cheezein pakdi hui hein?	gayend	8
+13 Mohit daftar mein gaya.
+14 Badri gusalkhaney gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	gayend	8
+16 Mohit gayend rakh aaya.
+17 Mohit gayend le kar aaya.
+18 Mohit ne kya cheezein pakdi hui hein?	gayend	8 16 17
+19 Badri rasoi ghar mein chala gaya.
+20 Badri gusalkhaney mein chala gaya.
+21 Mohit ne kya cheezein pakdi hui hein?	gayend	8 16 17
+1 Priya bagichey mein gayi.
+2 Priya daftar mein chali gayi.
+3 Sita daftar mein chali gayi.
+4 Priya seb le aayi.
+5 Priya ne kya cheezein pakdi hui hein?	seb	4
+6 Sita bagichey gayi.
+7 Priya gusalkhaney mein chali gayi.
+8 Priya ne kya cheezein pakdi hui hein?	seb	4
+9 Mohit rasoi ghar gaya.
+10 Mohit bagichey gaya.
+11 Priya ne kya cheezein pakdi hui hein?	seb	4
+12 Badri sayanakaksh gaya.
+13 Badri gayend le aaya.
+14 Badri ne kya cheezein pakdi hui hein?	gayend	13
+15 Priya daftar mein chali gayi.
+16 Badri gayend chod aaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	13 16
+1 Sita dhoodh le kar aayi.
+2 Sita bagichey mein chali gayi.
+3 Sita ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Badri seb le aaya.
+5 Priya galiyarey mein chali gayi.
+6 Sita ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Mohit bagichey gaya.
+8 Sita dhoodh rakh aayi.
+9 Badri ne kya cheezein pakdi hui hein?	seb	4
+10 Mohit dhoodh le aaya.
+11 Badri seb chod aaya.
+12 Mohit ne kya cheezein pakdi hui hein?	dhoodh	10
+13 Priya gayend le aayi.
+14 Badri gusalkhaney gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh	10
+1 Mohit galiyarey mein gaya.
+2 Sita rasoi ghar gayi.
+3 Priya bagichey mein gayi.
+4 Sita sayanakaksh mein gayi.
+5 Mohit daftar gaya.
+6 Priya daftar mein gayi.
+7 Sita bagichey mein gayi.
+8 Priya bagichey gayi.
+9 Mohit sayanakaksh mein chala gaya.
+10 Priya galiyarey mein chali gayi.
+11 Mohit galiyarey gaya.
+12 Sita gusalkhaney mein chali gayi.
+13 Mohit rasoi ghar mein gaya.
+14 Priya dhoodh le aayi.
+15 Priya ne kya cheezein pakdi hui hein?	dhoodh	14
+16 Sita gayend le kar aayi.
+17 Priya dhoodh rakh aayi.
+18 Sita ne kya cheezein pakdi hui hein?	gayend	16
+19 Priya rasoi ghar mein gayi.
+20 Sita gayend rakh aayi.
+21 Sita ne kya cheezein pakdi hui hein?	nothing	16 20
+22 Sita bagichey gayi.
+23 Badri daftar mein gaya.
+24 Priya ne kya cheezein pakdi hui hein?	nothing	14 17
+25 Badri sayanakaksh gaya.
+26 Sita gusalkhaney mein chali gayi.
+27 Sita ne kya cheezein pakdi hui hein?	nothing	16 20
+1 Priya gayend le aayi.
+2 Mohit bagichey gaya.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	1
+4 Priya gayend rakh aayi.
+5 Sita daftar mein chali gayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Priya bagichey mein gayi.
+8 Sita rasoi ghar mein gayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Priya daftar mein gayi.
+11 Priya gusalkhaney mein gayi.
+12 Priya gayend le aayi.
+13 Sita daftar gayi.
+14 Priya ne kya cheezein pakdi hui hein?	gayend	1 4 12
+15 Mohit daftar gaya.
+16 Priya gayend chod aayi.
+17 Priya ne kya cheezein pakdi hui hein?	nothing	1 4 12 16
+1 Badri gayend le aaya.
+2 Badri sayanakaksh mein gaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	1
+4 Mohit daftar mein chala gaya.
+5 Priya bagichey mein gayi.
+6 Badri ne kya cheezein pakdi hui hein?	gayend	1
+7 Badri gayend chod aaya.
+8 Priya sayanakaksh mein chali gayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 7
+10 Badri gayend le kar aaya.
+11 Sita sayanakaksh gayi.
+12 Badri ne kya cheezein pakdi hui hein?	gayend	1 7 10
+13 Mohit dhoodh le kar aaya.
+14 Priya bagichey gayi.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh	13
+1 Mohit sayanakaksh mein chala gaya.
+2 Priya gusalkhaney gayi.
+3 Priya seb le kar aayi.
+4 Priya seb rakh aayi.
+5 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Sita gusalkhaney mein gayi.
+7 Priya galiyarey gayi.
+8 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+9 Badri sayanakaksh mein gaya.
+10 Badri rasoi ghar mein gaya.
+11 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+12 Sita seb le aayi.
+13 Mohit rasoi ghar mein gaya.
+14 Sita ne kya cheezein pakdi hui hein?	seb	12
+15 Priya gusalkhaney mein chali gayi.
+16 Priya rasoi ghar mein gayi.
+17 Sita ne kya cheezein pakdi hui hein?	seb	12
+1 Sita dhoodh le aayi.
+2 Sita dhoodh chod aayi.
+3 Sita ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Sita rasoi ghar mein chali gayi.
+5 Sita gayend le kar aayi.
+6 Sita ne kya cheezein pakdi hui hein?	gayend	1 2 5
+7 Priya galiyarey mein gayi.
+8 Priya gusalkhaney mein gayi.
+9 Sita ne kya cheezein pakdi hui hein?	gayend	1 2 5
+10 Priya galiyarey gayi.
+11 Sita gayend chod aayi.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	1 2 5 11
+13 Mohit gayend le kar aaya.
+14 Mohit galiyarey mein gaya.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	1 2 5 11
+1 Badri rasoi ghar mein gaya.
+2 Badri bagichey mein chala gaya.
+3 Mohit seb le aaya.
+4 Mohit seb rakh aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Priya sayanakaksh gayi.
+7 Priya rasoi ghar gayi.
+8 Mohit ne kya cheezein pakdi hui hein?	nothing	3 4
+9 Mohit seb le kar aaya.
+10 Sita galiyarey gayi.
+11 Mohit ne kya cheezein pakdi hui hein?	seb	3 4 9
+12 Mohit galiyarey mein chala gaya.
+13 Priya galiyarey mein chali gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	seb	3 4 9
+15 Mohit seb chod aaya.
+16 Priya rasoi ghar mein chali gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	nothing	3 4 9 15
+1 Mohit galiyarey gaya.
+2 Mohit gayend le aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	gayend	2
+4 Priya seb le aayi.
+5 Mohit gayend chod aaya.
+6 Mohit ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Priya gayend le kar aayi.
+8 Priya gayend rakh aayi.
+9 Priya ne kya cheezein pakdi hui hein?	seb	4 7 8
+10 Priya gayend le kar aayi.
+11 Priya gusalkhaney mein chali gayi.
+12 Mohit ne kya cheezein pakdi hui hein?	nothing	2 5
+13 Mohit gusalkhaney mein chala gaya.
+14 Mohit galiyarey mein gaya.
+15 Priya ne kya cheezein pakdi hui hein?	seb,gayend	4 7 8 10
+1 Badri gayend le aaya.
+2 Priya gusalkhaney mein chali gayi.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	1
+4 Sita rasoi ghar gayi.
+5 Mohit rasoi ghar mein gaya.
+6 Badri ne kya cheezein pakdi hui hein?	gayend	1
+7 Badri galiyarey gaya.
+8 Sita daftar gayi.
+9 Sita sayanakaksh mein chali gayi.
+10 Mohit galiyarey mein chala gaya.
+11 Badri sayanakaksh gaya.
+12 Mohit bagichey mein gaya.
+13 Mohit gusalkhaney gaya.
+14 Priya sayanakaksh gayi.
+15 Badri gayend chod aaya.
+16 Priya gayend le aayi.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	1 15
+18 Priya gayend rakh aayi.
+19 Badri rasoi ghar gaya.
+20 Priya ne kya cheezein pakdi hui hein?	nothing	16 18
+21 Priya galiyarey gayi.
+22 Badri galiyarey mein chala gaya.
+23 Priya ne kya cheezein pakdi hui hein?	nothing	16 18
+1 Badri gusalkhaney mein gaya.
+2 Priya rasoi ghar mein gayi.
+3 Mohit gayend le aaya.
+4 Mohit rasoi ghar mein gaya.
+5 Mohit ne kya cheezein pakdi hui hein?	gayend	3
+6 Mohit gayend rakh aaya.
+7 Mohit galiyarey mein gaya.
+8 Mohit ne kya cheezein pakdi hui hein?	nothing	3 6
+9 Mohit sayanakaksh mein chala gaya.
+10 Sita gayend le kar aayi.
+11 Sita ne kya cheezein pakdi hui hein?	gayend	10
+12 Badri bagichey mein gaya.
+13 Priya sayanakaksh mein gayi.
+14 Sita ne kya cheezein pakdi hui hein?	gayend	10
+15 Mohit rasoi ghar mein gaya.
+16 Mohit daftar mein chala gaya.
+17 Sita ne kya cheezein pakdi hui hein?	gayend	10
+1 Sita bagichey mein gayi.
+2 Priya daftar mein gayi.
+3 Priya dhoodh le kar aayi.
+4 Priya dhoodh rakh aayi.
+5 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Sita gusalkhaney gayi.
+7 Badri sayanakaksh gaya.
+8 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+9 Badri gayend le aaya.
+10 Badri gayend chod aaya.
+11 Badri ne kya cheezein pakdi hui hein?	nothing	9 10
+12 Sita seb le aayi.
+13 Priya galiyarey mein gayi.
+14 Sita ne kya cheezein pakdi hui hein?	seb	12
+15 Badri bagichey gaya.
+16 Sita seb chod aayi.
+17 Sita ne kya cheezein pakdi hui hein?	nothing	12 16
+1 Badri rasoi ghar mein gaya.
+2 Mohit galiyarey mein gaya.
+3 Badri daftar mein gaya.
+4 Priya gayend le aayi.
+5 Priya ne kya cheezein pakdi hui hein?	gayend	4
+6 Priya dhoodh le aayi.
+7 Mohit gusalkhaney mein gaya.
+8 Priya ne kya cheezein pakdi hui hein?	gayend,dhoodh	4 6
+9 Mohit daftar mein gaya.
+10 Badri sayanakaksh mein gaya.
+11 Priya ne kya cheezein pakdi hui hein?	gayend,dhoodh	4 6
+12 Priya galiyarey gayi.
+13 Priya gayend rakh aayi.
+14 Priya ne kya cheezein pakdi hui hein?	dhoodh	4 13 6
+15 Badri rasoi ghar mein chala gaya.
+16 Sita sayanakaksh gayi.
+17 Priya ne kya cheezein pakdi hui hein?	dhoodh	4 13 6
+1 Badri seb le aaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Badri ne kya cheezein pakdi hui hein?	seb	1
+4 Sita bagichey mein gayi.
+5 Badri seb chod aaya.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 5
+7 Priya daftar gayi.
+8 Priya bagichey mein gayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 5
+10 Badri seb le aaya.
+11 Mohit daftar mein gaya.
+12 Badri ne kya cheezein pakdi hui hein?	seb	1 5 10
+13 Badri seb rakh aaya.
+14 Mohit rasoi ghar mein chala gaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	1 5 10 13
+1 Mohit dhoodh le aaya.
+2 Sita gusalkhaney gayi.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Badri daftar mein chala gaya.
+5 Sita gayend le aayi.
+6 Sita ne kya cheezein pakdi hui hein?	gayend	5
+7 Mohit dhoodh rakh aaya.
+8 Mohit dhoodh le aaya.
+9 Sita ne kya cheezein pakdi hui hein?	gayend	5
+10 Mohit sayanakaksh gaya.
+11 Priya gusalkhaney mein chali gayi.
+12 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1 7 8
+13 Sita gayend chod aayi.
+14 Priya galiyarey gayi.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1 7 8
+1 Sita bagichey gayi.
+2 Mohit sayanakaksh mein gaya.
+3 Mohit dhoodh le aaya.
+4 Badri daftar mein chala gaya.
+5 Mohit ne kya cheezein pakdi hui hein?	dhoodh	3
+6 Mohit bagichey mein gaya.
+7 Mohit dhoodh chod aaya.
+8 Mohit ne kya cheezein pakdi hui hein?	nothing	3 7
+9 Sita dhoodh le aayi.
+10 Badri bagichey mein gaya.
+11 Sita ne kya cheezein pakdi hui hein?	dhoodh	9
+12 Sita dhoodh chod aayi.
+13 Sita dhoodh le aayi.
+14 Sita ne kya cheezein pakdi hui hein?	dhoodh	9 12 13
+15 Badri daftar mein gaya.
+16 Badri bagichey mein gaya.
+17 Sita ne kya cheezein pakdi hui hein?	dhoodh	9 12 13
+1 Mohit galiyarey mein chala gaya.
+2 Mohit bagichey gaya.
+3 Mohit gayend le kar aaya.
+4 Mohit gusalkhaney gaya.
+5 Mohit ne kya cheezein pakdi hui hein?	gayend	3
+6 Mohit gayend rakh aaya.
+7 Mohit gayend le aaya.
+8 Mohit ne kya cheezein pakdi hui hein?	gayend	3 6 7
+9 Mohit galiyarey mein gaya.
+10 Badri galiyarey gaya.
+11 Mohit ne kya cheezein pakdi hui hein?	gayend	3 6 7
+12 Sita bagichey gayi.
+13 Priya galiyarey mein chali gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	gayend	3 6 7
+15 Badri seb le aaya.
+16 Sita sayanakaksh mein chali gayi.
+17 Badri ne kya cheezein pakdi hui hein?	seb	15
+1 Mohit galiyarey mein gaya.
+2 Badri seb le kar aaya.
+3 Badri ne kya cheezein pakdi hui hein?	seb	2
+4 Priya bagichey mein chali gayi.
+5 Badri rasoi ghar mein gaya.
+6 Badri ne kya cheezein pakdi hui hein?	seb	2
+7 Badri daftar gaya.
+8 Priya gayend le aayi.
+9 Badri ne kya cheezein pakdi hui hein?	seb	2
+10 Priya gayend rakh aayi.
+11 Priya sayanakaksh gayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	8 10
+13 Mohit daftar mein gaya.
+14 Sita gusalkhaney gayi.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	8 10
+1 Priya gayend le kar aayi.
+2 Sita gusalkhaney mein chali gayi.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	1
+4 Badri bagichey mein chala gaya.
+5 Mohit sayanakaksh mein gaya.
+6 Priya ne kya cheezein pakdi hui hein?	gayend	1
+7 Mohit bagichey gaya.
+8 Priya gayend rakh aayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	1 8
+10 Priya daftar mein chali gayi.
+11 Priya seb le kar aayi.
+12 Priya ne kya cheezein pakdi hui hein?	seb	1 8 11
+13 Sita rasoi ghar gayi.
+14 Sita bagichey gayi.
+15 Priya ne kya cheezein pakdi hui hein?	seb	1 8 11
+1 Badri rasoi ghar gaya.
+2 Mohit bagichey mein gaya.
+3 Badri dhoodh le aaya.
+4 Sita galiyarey mein gayi.
+5 Badri ne kya cheezein pakdi hui hein?	dhoodh	3
+6 Badri dhoodh rakh aaya.
+7 Badri gusalkhaney mein gaya.
+8 Badri ne kya cheezein pakdi hui hein?	nothing	3 6
+9 Badri gayend le kar aaya.
+10 Sita daftar mein gayi.
+11 Badri ne kya cheezein pakdi hui hein?	gayend	3 6 9
+12 Badri gayend chod aaya.
+13 Priya galiyarey mein chali gayi.
+14 Badri ne kya cheezein pakdi hui hein?	nothing	3 6 9 12
+15 Badri gayend le aaya.
+16 Badri gayend rakh aaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	3 6 9 12 15 16
+1 Priya bagichey mein gayi.
+2 Priya gusalkhaney mein chali gayi.
+3 Mohit daftar mein gaya.
+4 Badri gusalkhaney mein chala gaya.
+5 Sita dhoodh le aayi.
+6 Badri daftar mein gaya.
+7 Sita ne kya cheezein pakdi hui hein?	dhoodh	5
+8 Sita dhoodh chod aayi.
+9 Mohit bagichey mein gaya.
+10 Sita ne kya cheezein pakdi hui hein?	nothing	5 8
+11 Sita daftar mein chali gayi.
+12 Priya galiyarey gayi.
+13 Sita ne kya cheezein pakdi hui hein?	nothing	5 8
+14 Badri bagichey mein chala gaya.
+15 Badri gusalkhaney mein chala gaya.
+16 Badri rasoi ghar gaya.
+17 Badri gayend le aaya.
+18 Badri ne kya cheezein pakdi hui hein?	gayend	17
+19 Badri gayend rakh aaya.
+20 Mohit dhoodh le aaya.
+21 Badri ne kya cheezein pakdi hui hein?	nothing	17 19
+1 Sita sayanakaksh gayi.
+2 Mohit bagichey mein chala gaya.
+3 Mohit rasoi ghar mein gaya.
+4 Sita bagichey mein gayi.
+5 Priya bagichey mein gayi.
+6 Mohit dhoodh le kar aaya.
+7 Mohit ne kya cheezein pakdi hui hein?	dhoodh	6
+8 Sita gusalkhaney gayi.
+9 Mohit bagichey mein chala gaya.
+10 Mohit ne kya cheezein pakdi hui hein?	dhoodh	6
+11 Mohit daftar gaya.
+12 Mohit galiyarey gaya.
+13 Mohit ne kya cheezein pakdi hui hein?	dhoodh	6
+14 Badri bagichey mein gaya.
+15 Priya gusalkhaney gayi.
+16 Priya galiyarey gayi.
+17 Priya seb le aayi.
+18 Priya ne kya cheezein pakdi hui hein?	seb	17
+19 Priya sayanakaksh mein gayi.
+20 Badri gusalkhaney mein chala gaya.
+21 Priya ne kya cheezein pakdi hui hein?	seb	17
+1 Mohit gusalkhaney mein chala gaya.
+2 Priya seb le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	2
+4 Badri gusalkhaney mein chala gaya.
+5 Priya rasoi ghar gayi.
+6 Priya ne kya cheezein pakdi hui hein?	seb	2
+7 Priya bagichey gayi.
+8 Sita daftar mein chali gayi.
+9 Priya ne kya cheezein pakdi hui hein?	seb	2
+10 Sita galiyarey mein gayi.
+11 Priya seb chod aayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 11
+13 Mohit galiyarey mein gaya.
+14 Priya daftar mein chali gayi.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	2 11
+1 Sita daftar gayi.
+2 Priya seb le aayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	2
+4 Priya seb rakh aayi.
+5 Priya seb le kar aayi.
+6 Priya ne kya cheezein pakdi hui hein?	seb	2 4 5
+7 Mohit gusalkhaney mein gaya.
+8 Priya rasoi ghar mein chali gayi.
+9 Priya ne kya cheezein pakdi hui hein?	seb	2 4 5
+10 Priya gusalkhaney mein chali gayi.
+11 Badri gusalkhaney gaya.
+12 Priya ne kya cheezein pakdi hui hein?	seb	2 4 5
+13 Badri rasoi ghar mein gaya.
+14 Priya sayanakaksh mein chali gayi.
+15 Priya seb chod aayi.
+16 Sita bagichey gayi.
+17 Priya ne kya cheezein pakdi hui hein?	nothing	2 4 5 15
+1 Sita sayanakaksh gayi.
+2 Priya bagichey mein chali gayi.
+3 Priya dhoodh le aayi.
+4 Priya dhoodh chod aayi.
+5 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Mohit gusalkhaney mein chala gaya.
+7 Badri rasoi ghar mein chala gaya.
+8 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+9 Mohit galiyarey gaya.
+10 Priya dhoodh le kar aayi.
+11 Priya ne kya cheezein pakdi hui hein?	dhoodh	3 4 10
+12 Badri daftar gaya.
+13 Priya dhoodh chod aayi.
+14 Priya ne kya cheezein pakdi hui hein?	nothing	3 4 10 13
+15 Priya galiyarey mein chali gayi.
+16 Priya daftar gayi.
+17 Priya ne kya cheezein pakdi hui hein?	nothing	3 4 10 13
+1 Mohit seb le aaya.
+2 Mohit rasoi ghar gaya.
+3 Mohit ne kya cheezein pakdi hui hein?	seb	1
+4 Mohit seb chod aaya.
+5 Priya seb le kar aayi.
+6 Mohit ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Mohit sayanakaksh gaya.
+8 Sita gayend le aayi.
+9 Sita ne kya cheezein pakdi hui hein?	gayend	8
+10 Sita gayend rakh aayi.
+11 Sita gayend le kar aayi.
+12 Sita ne kya cheezein pakdi hui hein?	gayend	8 10 11
+13 Sita gayend rakh aayi.
+14 Sita gusalkhaney mein gayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	8 10 11 13
+1 Badri gayend le aaya.
+2 Badri daftar gaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	1
+4 Badri gayend chod aaya.
+5 Mohit seb le aaya.
+6 Mohit ne kya cheezein pakdi hui hein?	seb	5
+7 Mohit galiyarey mein gaya.
+8 Sita rasoi ghar gayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Mohit bagichey mein chala gaya.
+11 Badri galiyarey mein chala gaya.
+12 Mohit ne kya cheezein pakdi hui hein?	seb	5
+13 Sita dhoodh le kar aayi.
+14 Mohit seb rakh aaya.
+15 Sita ne kya cheezein pakdi hui hein?	dhoodh	13
+1 Badri rasoi ghar mein chala gaya.
+2 Badri dhoodh le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Priya seb le kar aayi.
+5 Badri sayanakaksh gaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Badri daftar mein chala gaya.
+8 Badri bagichey mein gaya.
+9 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+10 Mohit daftar gaya.
+11 Sita rasoi ghar gayi.
+12 Mohit galiyarey mein chala gaya.
+13 Priya seb rakh aayi.
+14 Priya ne kya cheezein pakdi hui hein?	nothing	4 13
+15 Badri dhoodh rakh aaya.
+16 Priya seb le aayi.
+17 Priya ne kya cheezein pakdi hui hein?	seb	4 13 16
+1 Mohit bagichey gaya.
+2 Sita daftar mein chali gayi.
+3 Priya gusalkhaney mein chali gayi.
+4 Mohit daftar gaya.
+5 Priya daftar mein chali gayi.
+6 Badri gusalkhaney mein gaya.
+7 Priya gusalkhaney gayi.
+8 Priya gayend le aayi.
+9 Priya ne kya cheezein pakdi hui hein?	gayend	8
+10 Priya rasoi ghar mein chali gayi.
+11 Badri daftar gaya.
+12 Priya ne kya cheezein pakdi hui hein?	gayend	8
+13 Mohit rasoi ghar mein gaya.
+14 Badri rasoi ghar gaya.
+15 Priya ne kya cheezein pakdi hui hein?	gayend	8
+16 Mohit gusalkhaney mein gaya.
+17 Priya gayend chod aayi.
+18 Priya ne kya cheezein pakdi hui hein?	nothing	8 17
+19 Sita bagichey mein gayi.
+20 Mohit galiyarey mein chala gaya.
+21 Priya ne kya cheezein pakdi hui hein?	nothing	8 17
+1 Badri daftar mein gaya.
+2 Badri sayanakaksh gaya.
+3 Mohit dhoodh le kar aaya.
+4 Mohit galiyarey gaya.
+5 Mohit ne kya cheezein pakdi hui hein?	dhoodh	3
+6 Badri seb le aaya.
+7 Badri seb rakh aaya.
+8 Mohit ne kya cheezein pakdi hui hein?	dhoodh	3
+9 Badri daftar mein gaya.
+10 Badri rasoi ghar mein gaya.
+11 Badri ne kya cheezein pakdi hui hein?	nothing	6 7
+12 Priya bagichey gayi.
+13 Mohit bagichey mein gaya.
+14 Badri ne kya cheezein pakdi hui hein?	nothing	6 7
+15 Sita galiyarey mein chali gayi.
+16 Badri gusalkhaney gaya.
+17 Sita sayanakaksh mein gayi.
+18 Badri galiyarey gaya.
+19 Mohit rasoi ghar gaya.
+20 Sita bagichey gayi.
+21 Sita rasoi ghar mein gayi.
+22 Mohit dhoodh chod aaya.
+23 Mohit ne kya cheezein pakdi hui hein?	nothing	3 22
+1 Mohit gayend le aaya.
+2 Mohit dhoodh le kar aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	gayend,dhoodh	1 2
+4 Badri daftar gaya.
+5 Priya daftar mein chali gayi.
+6 Mohit ne kya cheezein pakdi hui hein?	gayend,dhoodh	1 2
+7 Mohit galiyarey gaya.
+8 Mohit gusalkhaney gaya.
+9 Mohit ne kya cheezein pakdi hui hein?	gayend,dhoodh	1 2
+10 Priya sayanakaksh mein gayi.
+11 Sita rasoi ghar mein gayi.
+12 Badri rasoi ghar mein gaya.
+13 Mohit daftar mein chala gaya.
+14 Mohit gusalkhaney gaya.
+15 Badri galiyarey mein gaya.
+16 Priya daftar mein gayi.
+17 Sita seb le kar aayi.
+18 Sita ne kya cheezein pakdi hui hein?	seb	17
+19 Sita seb rakh aayi.
+20 Sita seb le aayi.
+21 Sita ne kya cheezein pakdi hui hein?	seb	17 19 20
+1 Priya daftar mein chali gayi.
+2 Badri rasoi ghar mein chala gaya.
+3 Sita daftar mein gayi.
+4 Mohit daftar gaya.
+5 Badri gusalkhaney mein chala gaya.
+6 Sita sayanakaksh mein gayi.
+7 Priya seb le kar aayi.
+8 Sita daftar gayi.
+9 Priya ne kya cheezein pakdi hui hein?	seb	7
+10 Mohit rasoi ghar mein gaya.
+11 Priya gusalkhaney mein chali gayi.
+12 Priya ne kya cheezein pakdi hui hein?	seb	7
+13 Badri galiyarey mein chala gaya.
+14 Priya seb rakh aayi.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	7 14
+16 Mohit sayanakaksh gaya.
+17 Mohit bagichey gaya.
+18 Priya ne kya cheezein pakdi hui hein?	nothing	7 14
+19 Sita sayanakaksh mein gayi.
+20 Priya seb le kar aayi.
+21 Priya ne kya cheezein pakdi hui hein?	seb	7 14 20
+1 Badri gusalkhaney mein chala gaya.
+2 Badri daftar mein gaya.
+3 Mohit rasoi ghar mein gaya.
+4 Mohit galiyarey gaya.
+5 Badri bagichey mein gaya.
+6 Priya daftar mein chali gayi.
+7 Mohit sayanakaksh gaya.
+8 Mohit rasoi ghar mein chala gaya.
+9 Badri gayend le aaya.
+10 Sita daftar mein chali gayi.
+11 Badri ne kya cheezein pakdi hui hein?	gayend	9
+12 Badri gayend rakh aaya.
+13 Sita galiyarey mein chali gayi.
+14 Badri ne kya cheezein pakdi hui hein?	nothing	9 12
+15 Badri gayend le aaya.
+16 Badri sayanakaksh mein chala gaya.
+17 Badri ne kya cheezein pakdi hui hein?	gayend	9 12 15
+18 Badri gayend rakh aaya.
+19 Badri galiyarey mein chala gaya.
+20 Badri ne kya cheezein pakdi hui hein?	nothing	9 12 15 18
+21 Badri gusalkhaney mein gaya.
+22 Sita gusalkhaney mein gayi.
+23 Badri ne kya cheezein pakdi hui hein?	nothing	9 12 15 18
+1 Sita dhoodh le aayi.
+2 Priya gusalkhaney mein chali gayi.
+3 Sita ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Sita daftar mein chali gayi.
+5 Sita dhoodh rakh aayi.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	1 5
+7 Mohit seb le kar aaya.
+8 Sita bagichey mein gayi.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	1 5
+10 Mohit seb rakh aaya.
+11 Badri rasoi ghar mein gaya.
+12 Mohit ne kya cheezein pakdi hui hein?	nothing	7 10
+13 Mohit dhoodh le aaya.
+14 Mohit galiyarey gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh	7 10 13
+1 Priya daftar gayi.
+2 Priya dhoodh le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita sayanakaksh mein chali gayi.
+5 Priya dhoodh chod aayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Priya bagichey mein chali gayi.
+8 Priya gusalkhaney mein chali gayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Priya daftar mein gayi.
+11 Priya galiyarey mein gayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+13 Badri gusalkhaney gaya.
+14 Priya sayanakaksh gayi.
+15 Mohit galiyarey mein gaya.
+16 Badri sayanakaksh gaya.
+17 Mohit gayend le kar aaya.
+18 Badri gusalkhaney gaya.
+19 Mohit ne kya cheezein pakdi hui hein?	gayend	17
+1 Priya sayanakaksh mein gayi.
+2 Mohit gayend le kar aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	gayend	2
+4 Priya gusalkhaney mein chali gayi.
+5 Sita dhoodh le kar aayi.
+6 Sita ne kya cheezein pakdi hui hein?	dhoodh	5
+7 Sita rasoi ghar gayi.
+8 Mohit galiyarey gaya.
+9 Sita ne kya cheezein pakdi hui hein?	dhoodh	5
+10 Priya daftar gayi.
+11 Priya rasoi ghar mein gayi.
+12 Sita ne kya cheezein pakdi hui hein?	dhoodh	5
+13 Badri sayanakaksh mein chala gaya.
+14 Sita dhoodh rakh aayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	5 14
+1 Badri dhoodh le kar aaya.
+2 Mohit gusalkhaney mein chala gaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Badri dhoodh rakh aaya.
+5 Priya sayanakaksh mein gayi.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Mohit sayanakaksh mein gaya.
+8 Priya gusalkhaney gayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Badri dhoodh le kar aaya.
+11 Sita gusalkhaney mein chali gayi.
+12 Badri ne kya cheezein pakdi hui hein?	dhoodh	1 4 10
+13 Priya gayend le kar aayi.
+14 Sita galiyarey gayi.
+15 Badri ne kya cheezein pakdi hui hein?	dhoodh	1 4 10
+1 Badri gusalkhaney gaya.
+2 Priya daftar gayi.
+3 Badri gayend le kar aaya.
+4 Sita seb le aayi.
+5 Badri ne kya cheezein pakdi hui hein?	gayend	3
+6 Priya gusalkhaney mein chali gayi.
+7 Badri gayend chod aaya.
+8 Badri ne kya cheezein pakdi hui hein?	nothing	3 7
+9 Badri gayend le aaya.
+10 Sita seb chod aayi.
+11 Sita ne kya cheezein pakdi hui hein?	nothing	4 10
+12 Badri gayend rakh aaya.
+13 Sita seb le kar aayi.
+14 Sita ne kya cheezein pakdi hui hein?	seb	4 10 13
+15 Priya gayend le kar aayi.
+16 Sita seb chod aayi.
+17 Sita ne kya cheezein pakdi hui hein?	nothing	4 10 13 16
+1 Sita sayanakaksh gayi.
+2 Sita dhoodh le aayi.
+3 Sita ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Priya sayanakaksh mein chali gayi.
+5 Sita dhoodh rakh aayi.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Badri bagichey gaya.
+8 Mohit daftar gaya.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Sita dhoodh le aayi.
+11 Mohit gayend le kar aaya.
+12 Sita ne kya cheezein pakdi hui hein?	dhoodh	2 5 10
+13 Mohit galiyarey mein gaya.
+14 Mohit sayanakaksh gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	gayend	11
+1 Priya dhoodh le kar aayi.
+2 Sita daftar mein chali gayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Priya dhoodh rakh aayi.
+5 Badri bagichey gaya.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Badri seb le kar aaya.
+8 Badri gayend le aaya.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Badri daftar gaya.
+11 Priya sayanakaksh mein chali gayi.
+12 Badri ne kya cheezein pakdi hui hein?	seb,gayend	7 8
+13 Badri gayend chod aaya.
+14 Badri gayend le kar aaya.
+15 Badri ne kya cheezein pakdi hui hein?	seb,gayend	7 8 13 14
+1 Badri daftar mein chala gaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Badri bagichey gaya.
+4 Priya gusalkhaney gayi.
+5 Priya dhoodh le kar aayi.
+6 Sita gusalkhaney mein gayi.
+7 Priya ne kya cheezein pakdi hui hein?	dhoodh	5
+8 Badri rasoi ghar mein chala gaya.
+9 Mohit galiyarey mein gaya.
+10 Priya ne kya cheezein pakdi hui hein?	dhoodh	5
+11 Priya gayend le aayi.
+12 Priya daftar mein gayi.
+13 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend	5 11
+14 Sita bagichey mein gayi.
+15 Priya rasoi ghar mein gayi.
+16 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend	5 11
+17 Badri galiyarey mein chala gaya.
+18 Priya dhoodh rakh aayi.
+19 Priya ne kya cheezein pakdi hui hein?	gayend	5 18 11
+1 Mohit rasoi ghar mein chala gaya.
+2 Badri daftar mein chala gaya.
+3 Badri galiyarey gaya.
+4 Mohit bagichey mein chala gaya.
+5 Priya galiyarey gayi.
+6 Sita rasoi ghar mein gayi.
+7 Priya rasoi ghar mein gayi.
+8 Mohit gusalkhaney mein chala gaya.
+9 Mohit seb le aaya.
+10 Priya daftar gayi.
+11 Mohit ne kya cheezein pakdi hui hein?	seb	9
+12 Priya gusalkhaney mein chali gayi.
+13 Sita sayanakaksh mein gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	seb	9
+15 Mohit seb rakh aaya.
+16 Sita rasoi ghar mein gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	nothing	9 15
+18 Priya sayanakaksh mein gayi.
+19 Badri bagichey mein chala gaya.
+20 Mohit ne kya cheezein pakdi hui hein?	nothing	9 15
+21 Mohit seb le aaya.
+22 Mohit rasoi ghar mein chala gaya.
+23 Mohit ne kya cheezein pakdi hui hein?	seb	9 15 21
+1 Sita galiyarey mein chali gayi.
+2 Mohit bagichey mein chala gaya.
+3 Sita sayanakaksh mein gayi.
+4 Sita gusalkhaney gayi.
+5 Badri daftar mein chala gaya.
+6 Priya daftar mein chali gayi.
+7 Mohit sayanakaksh mein chala gaya.
+8 Sita bagichey gayi.
+9 Priya galiyarey mein gayi.
+10 Sita galiyarey mein gayi.
+11 Priya gayend le aayi.
+12 Priya daftar gayi.
+13 Priya ne kya cheezein pakdi hui hein?	gayend	11
+14 Priya bagichey gayi.
+15 Badri gusalkhaney gaya.
+16 Priya ne kya cheezein pakdi hui hein?	gayend	11
+17 Badri sayanakaksh mein gaya.
+18 Priya gayend rakh aayi.
+19 Priya ne kya cheezein pakdi hui hein?	nothing	11 18
+20 Badri rasoi ghar mein gaya.
+21 Badri galiyarey mein gaya.
+22 Priya ne kya cheezein pakdi hui hein?	nothing	11 18
+23 Mohit bagichey mein gaya.
+24 Mohit gayend le kar aaya.
+25 Priya ne kya cheezein pakdi hui hein?	nothing	11 18
+1 Badri gusalkhaney mein gaya.
+2 Mohit bagichey mein gaya.
+3 Priya seb le aayi.
+4 Badri galiyarey mein gaya.
+5 Priya ne kya cheezein pakdi hui hein?	seb	3
+6 Sita gusalkhaney gayi.
+7 Priya seb chod aayi.
+8 Priya ne kya cheezein pakdi hui hein?	nothing	3 7
+9 Priya seb le kar aayi.
+10 Badri bagichey gaya.
+11 Priya ne kya cheezein pakdi hui hein?	seb	3 7 9
+12 Priya seb rakh aayi.
+13 Priya seb le aayi.
+14 Priya ne kya cheezein pakdi hui hein?	seb	3 7 9 12 13
+15 Sita daftar mein chali gayi.
+16 Priya bagichey gayi.
+17 Priya ne kya cheezein pakdi hui hein?	seb	3 7 9 12 13
+1 Priya gusalkhaney mein chali gayi.
+2 Mohit daftar mein chala gaya.
+3 Badri rasoi ghar gaya.
+4 Badri galiyarey mein gaya.
+5 Priya bagichey gayi.
+6 Sita gayend le kar aayi.
+7 Sita ne kya cheezein pakdi hui hein?	gayend	6
+8 Badri rasoi ghar mein chala gaya.
+9 Sita bagichey mein gayi.
+10 Sita ne kya cheezein pakdi hui hein?	gayend	6
+11 Priya seb le kar aayi.
+12 Sita dhoodh le aayi.
+13 Sita ne kya cheezein pakdi hui hein?	gayend,dhoodh	6 12
+14 Priya seb rakh aayi.
+15 Priya seb le aayi.
+16 Priya ne kya cheezein pakdi hui hein?	seb	11 14 15
+17 Mohit bagichey gaya.
+18 Sita galiyarey mein gayi.
+19 Sita ne kya cheezein pakdi hui hein?	gayend,dhoodh	6 12
+1 Priya sayanakaksh gayi.
+2 Sita galiyarey gayi.
+3 Sita gusalkhaney gayi.
+4 Mohit rasoi ghar gaya.
+5 Priya dhoodh le aayi.
+6 Badri sayanakaksh mein gaya.
+7 Priya ne kya cheezein pakdi hui hein?	dhoodh	5
+8 Mohit bagichey mein gaya.
+9 Priya dhoodh chod aayi.
+10 Priya ne kya cheezein pakdi hui hein?	nothing	5 9
+11 Priya gusalkhaney gayi.
+12 Badri rasoi ghar gaya.
+13 Priya ne kya cheezein pakdi hui hein?	nothing	5 9
+14 Mohit gayend le kar aaya.
+15 Badri daftar gaya.
+16 Mohit ne kya cheezein pakdi hui hein?	gayend	14
+17 Priya bagichey gayi.
+18 Badri bagichey mein chala gaya.
+19 Mohit ne kya cheezein pakdi hui hein?	gayend	14
+1 Priya gayend le kar aayi.
+2 Sita seb le kar aayi.
+3 Sita ne kya cheezein pakdi hui hein?	seb	2
+4 Mohit gusalkhaney mein chala gaya.
+5 Priya bagichey mein gayi.
+6 Priya ne kya cheezein pakdi hui hein?	gayend	1
+7 Priya sayanakaksh mein gayi.
+8 Sita seb chod aayi.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	2 8
+10 Priya gayend chod aayi.
+11 Priya gayend le kar aayi.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	2 8
+13 Sita seb le aayi.
+14 Priya rasoi ghar mein gayi.
+15 Sita ne kya cheezein pakdi hui hein?	seb	2 8 13
+1 Priya galiyarey gayi.
+2 Sita galiyarey gayi.
+3 Priya seb le aayi.
+4 Mohit dhoodh le aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	dhoodh	4
+6 Priya rasoi ghar mein gayi.
+7 Mohit dhoodh rakh aaya.
+8 Priya ne kya cheezein pakdi hui hein?	seb	3
+9 Badri sayanakaksh gaya.
+10 Priya seb chod aayi.
+11 Mohit ne kya cheezein pakdi hui hein?	nothing	4 7
+12 Priya seb le aayi.
+13 Badri gayend le kar aaya.
+14 Priya ne kya cheezein pakdi hui hein?	seb	3 10 12
+15 Mohit sayanakaksh gaya.
+16 Sita daftar gayi.
+17 Badri ne kya cheezein pakdi hui hein?	gayend	13
+1 Priya seb le kar aayi.
+2 Priya rasoi ghar gayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	1
+4 Mohit daftar gaya.
+5 Priya seb rakh aayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 5
+7 Badri dhoodh le aaya.
+8 Priya seb le aayi.
+9 Priya ne kya cheezein pakdi hui hein?	seb	1 5 8
+10 Priya seb rakh aayi.
+11 Priya galiyarey mein chali gayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	1 5 8 10
+13 Priya gusalkhaney mein chali gayi.
+14 Badri daftar mein chala gaya.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	1 5 8 10
+1 Badri rasoi ghar mein gaya.
+2 Sita gayend le kar aayi.
+3 Sita ne kya cheezein pakdi hui hein?	gayend	2
+4 Sita gusalkhaney gayi.
+5 Priya bagichey gayi.
+6 Sita ne kya cheezein pakdi hui hein?	gayend	2
+7 Sita gayend rakh aayi.
+8 Mohit daftar mein gaya.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	2 7
+10 Mohit dhoodh le kar aaya.
+11 Sita seb le aayi.
+12 Sita ne kya cheezein pakdi hui hein?	seb	2 7 11
+13 Sita gayend le aayi.
+14 Sita daftar gayi.
+15 Sita ne kya cheezein pakdi hui hein?	gayend,seb	2 7 13 11
+1 Priya seb le aayi.
+2 Priya daftar mein chali gayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	1
+4 Mohit gusalkhaney mein chala gaya.
+5 Badri daftar gaya.
+6 Priya ne kya cheezein pakdi hui hein?	seb	1
+7 Priya seb chod aayi.
+8 Sita rasoi ghar gayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	1 7
+10 Priya seb le kar aayi.
+11 Priya seb rakh aayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	1 7 10 11
+13 Sita galiyarey mein chali gayi.
+14 Sita rasoi ghar mein gayi.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	1 7 10 11
+1 Priya gusalkhaney mein gayi.
+2 Sita dhoodh le kar aayi.
+3 Sita ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Priya daftar mein gayi.
+5 Sita sayanakaksh gayi.
+6 Sita ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Mohit bagichey mein chala gaya.
+8 Badri sayanakaksh mein chala gaya.
+9 Sita ne kya cheezein pakdi hui hein?	dhoodh	2
+10 Mohit galiyarey gaya.
+11 Mohit gusalkhaney mein gaya.
+12 Sita dhoodh rakh aayi.
+13 Mohit sayanakaksh mein chala gaya.
+14 Sita ne kya cheezein pakdi hui hein?	nothing	2 12
+15 Badri rasoi ghar mein chala gaya.
+16 Mohit dhoodh le aaya.
+17 Mohit ne kya cheezein pakdi hui hein?	dhoodh	16
+1 Sita daftar mein gayi.
+2 Priya gusalkhaney mein gayi.
+3 Sita dhoodh le kar aayi.
+4 Sita dhoodh rakh aayi.
+5 Sita ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Badri seb le aaya.
+7 Mohit daftar mein chala gaya.
+8 Badri ne kya cheezein pakdi hui hein?	seb	6
+9 Mohit dhoodh le kar aaya.
+10 Badri seb chod aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	dhoodh	9
+12 Badri seb le kar aaya.
+13 Badri seb rakh aaya.
+14 Mohit ne kya cheezein pakdi hui hein?	dhoodh	9
+15 Sita gusalkhaney gayi.
+16 Mohit gusalkhaney mein chala gaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	6 10 12 13
+1 Sita daftar mein gayi.
+2 Badri dhoodh le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita galiyarey gayi.
+5 Mohit bagichey mein chala gaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Priya galiyarey mein gayi.
+8 Priya bagichey mein chali gayi.
+9 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+10 Badri gayend le kar aaya.
+11 Badri sayanakaksh mein chala gaya.
+12 Badri ne kya cheezein pakdi hui hein?	dhoodh,gayend	2 10
+13 Mohit rasoi ghar mein gaya.
+14 Sita gusalkhaney gayi.
+15 Badri ne kya cheezein pakdi hui hein?	dhoodh,gayend	2 10
+1 Badri dhoodh le kar aaya.
+2 Badri dhoodh rakh aaya.
+3 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Priya bagichey gayi.
+5 Sita sayanakaksh gayi.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Badri gusalkhaney gaya.
+8 Priya galiyarey gayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+10 Priya daftar mein chali gayi.
+11 Mohit bagichey mein gaya.
+12 Priya seb le aayi.
+13 Badri sayanakaksh mein gaya.
+14 Priya ne kya cheezein pakdi hui hein?	seb	12
+15 Badri daftar gaya.
+16 Priya gusalkhaney mein gayi.
+17 Priya ne kya cheezein pakdi hui hein?	seb	12
+1 Priya dhoodh le aayi.
+2 Priya daftar mein gayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Priya dhoodh chod aayi.
+5 Priya rasoi ghar mein chali gayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Mohit daftar mein chala gaya.
+8 Priya sayanakaksh gayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Mohit bagichey gaya.
+11 Badri rasoi ghar mein chala gaya.
+12 Mohit rasoi ghar gaya.
+13 Badri gusalkhaney mein chala gaya.
+14 Badri galiyarey mein gaya.
+15 Badri seb le kar aaya.
+16 Badri ne kya cheezein pakdi hui hein?	seb	15
+17 Badri seb chod aaya.
+18 Badri gusalkhaney mein chala gaya.
+19 Badri ne kya cheezein pakdi hui hein?	nothing	15 17
+1 Mohit dhoodh le kar aaya.
+2 Badri sayanakaksh mein chala gaya.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Sita sayanakaksh mein chali gayi.
+5 Mohit dhoodh chod aaya.
+6 Mohit ne kya cheezein pakdi hui hein?	nothing	1 5
+7 Badri seb le aaya.
+8 Badri seb chod aaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	7 8
+10 Mohit dhoodh le aaya.
+11 Sita bagichey mein chali gayi.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	7 8
+13 Mohit seb le kar aaya.
+14 Mohit rasoi ghar gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh,seb	1 5 10 13
+1 Mohit gusalkhaney mein gaya.
+2 Mohit seb le kar aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	seb	2
+4 Mohit rasoi ghar mein chala gaya.
+5 Mohit sayanakaksh mein gaya.
+6 Mohit ne kya cheezein pakdi hui hein?	seb	2
+7 Badri bagichey gaya.
+8 Sita bagichey gayi.
+9 Mohit ne kya cheezein pakdi hui hein?	seb	2
+10 Badri galiyarey gaya.
+11 Badri sayanakaksh mein chala gaya.
+12 Sita rasoi ghar mein chali gayi.
+13 Badri galiyarey gaya.
+14 Mohit dhoodh le aaya.
+15 Badri sayanakaksh gaya.
+16 Mohit ne kya cheezein pakdi hui hein?	seb,dhoodh	2 14
+17 Mohit seb rakh aaya.
+18 Mohit dhoodh chod aaya.
+19 Mohit ne kya cheezein pakdi hui hein?	nothing	2 17 14 18
+1 Badri gayend le aaya.
+2 Mohit sayanakaksh gaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	1
+4 Badri gayend chod aaya.
+5 Priya sayanakaksh mein gayi.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Badri gayend le aaya.
+8 Sita sayanakaksh mein chali gayi.
+9 Badri ne kya cheezein pakdi hui hein?	gayend	1 4 7
+10 Badri gusalkhaney gaya.
+11 Sita dhoodh le aayi.
+12 Badri ne kya cheezein pakdi hui hein?	gayend	1 4 7
+13 Sita dhoodh rakh aayi.
+14 Priya dhoodh le aayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	11 13
+1 Badri seb le aaya.
+2 Badri rasoi ghar gaya.
+3 Badri ne kya cheezein pakdi hui hein?	seb	1
+4 Mohit rasoi ghar mein gaya.
+5 Priya gusalkhaney mein gayi.
+6 Badri ne kya cheezein pakdi hui hein?	seb	1
+7 Badri sayanakaksh mein chala gaya.
+8 Priya daftar mein chali gayi.
+9 Priya sayanakaksh gayi.
+10 Priya galiyarey mein gayi.
+11 Badri seb rakh aaya.
+12 Badri seb le aaya.
+13 Badri ne kya cheezein pakdi hui hein?	seb	1 11 12
+14 Badri rasoi ghar mein chala gaya.
+15 Sita rasoi ghar gayi.
+16 Badri ne kya cheezein pakdi hui hein?	seb	1 11 12
+17 Badri seb rakh aaya.
+18 Priya gusalkhaney mein chali gayi.
+19 Badri ne kya cheezein pakdi hui hein?	nothing	1 11 12 17
+1 Priya rasoi ghar mein chali gayi.
+2 Priya galiyarey gayi.
+3 Mohit bagichey gaya.
+4 Mohit sayanakaksh mein gaya.
+5 Badri galiyarey gaya.
+6 Priya sayanakaksh mein gayi.
+7 Mohit dhoodh le aaya.
+8 Badri gayend le aaya.
+9 Badri ne kya cheezein pakdi hui hein?	gayend	8
+10 Mohit galiyarey mein gaya.
+11 Badri bagichey mein gaya.
+12 Badri ne kya cheezein pakdi hui hein?	gayend	8
+13 Mohit bagichey mein chala gaya.
+14 Sita sayanakaksh gayi.
+15 Badri ne kya cheezein pakdi hui hein?	gayend	8
+16 Priya seb le aayi.
+17 Mohit dhoodh rakh aaya.
+18 Priya ne kya cheezein pakdi hui hein?	seb	16
+19 Badri gayend chod aaya.
+20 Badri gayend le aaya.
+21 Badri ne kya cheezein pakdi hui hein?	gayend	8 19 20
+1 Badri rasoi ghar gaya.
+2 Priya dhoodh le aayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita rasoi ghar mein chali gayi.
+5 Priya dhoodh chod aayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Priya sayanakaksh mein chali gayi.
+8 Badri daftar gaya.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Badri gayend le kar aaya.
+11 Mohit gusalkhaney mein gaya.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+13 Badri gayend rakh aaya.
+14 Mohit seb le kar aaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	10 13
+1 Mohit sayanakaksh mein chala gaya.
+2 Mohit rasoi ghar mein chala gaya.
+3 Sita sayanakaksh mein chali gayi.
+4 Priya rasoi ghar gayi.
+5 Sita bagichey gayi.
+6 Mohit gusalkhaney mein gaya.
+7 Priya galiyarey mein chali gayi.
+8 Badri sayanakaksh mein chala gaya.
+9 Mohit bagichey gaya.
+10 Mohit galiyarey mein chala gaya.
+11 Priya gusalkhaney gayi.
+12 Mohit rasoi ghar mein chala gaya.
+13 Priya bagichey gayi.
+14 Badri rasoi ghar mein gaya.
+15 Priya galiyarey gayi.
+16 Priya daftar gayi.
+17 Priya sayanakaksh gayi.
+18 Sita galiyarey mein gayi.
+19 Mohit sayanakaksh mein chala gaya.
+20 Priya rasoi ghar mein chali gayi.
+21 Mohit daftar mein gaya.
+22 Mohit rasoi ghar gaya.
+23 Mohit sayanakaksh mein chala gaya.
+24 Badri gusalkhaney gaya.
+25 Priya daftar mein chali gayi.
+26 Priya dhoodh le aayi.
+27 Priya ne kya cheezein pakdi hui hein?	dhoodh	26
+28 Priya gayend le kar aayi.
+29 Priya gayend rakh aayi.
+30 Priya ne kya cheezein pakdi hui hein?	dhoodh	26 28 29
+31 Priya dhoodh chod aayi.
+32 Sita seb le kar aayi.
+33 Priya ne kya cheezein pakdi hui hein?	nothing	26 31 28 29
+34 Sita bagichey mein gayi.
+35 Sita gusalkhaney mein gayi.
+36 Priya ne kya cheezein pakdi hui hein?	nothing	26 31 28 29
+37 Sita sayanakaksh mein gayi.
+38 Priya bagichey mein chali gayi.
+39 Sita ne kya cheezein pakdi hui hein?	seb	32
+1 Priya bagichey mein gayi.
+2 Priya daftar mein gayi.
+3 Badri bagichey gaya.
+4 Badri daftar mein chala gaya.
+5 Priya gusalkhaney mein chali gayi.
+6 Mohit seb le kar aaya.
+7 Mohit ne kya cheezein pakdi hui hein?	seb	6
+8 Priya gayend le aayi.
+9 Priya gayend chod aayi.
+10 Priya ne kya cheezein pakdi hui hein?	nothing	8 9
+11 Priya galiyarey mein gayi.
+12 Badri rasoi ghar gaya.
+13 Mohit ne kya cheezein pakdi hui hein?	seb	6
+14 Badri galiyarey mein gaya.
+15 Mohit sayanakaksh mein gaya.
+16 Priya ne kya cheezein pakdi hui hein?	nothing	8 9
+17 Badri dhoodh le aaya.
+18 Badri dhoodh chod aaya.
+19 Badri ne kya cheezein pakdi hui hein?	nothing	17 18
+1 Mohit dhoodh le aaya.
+2 Priya bagichey gayi.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Priya galiyarey gayi.
+5 Priya bagichey mein chali gayi.
+6 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Priya sayanakaksh mein chali gayi.
+8 Mohit dhoodh chod aaya.
+9 Mohit ne kya cheezein pakdi hui hein?	nothing	1 8
+10 Sita gusalkhaney mein chali gayi.
+11 Mohit daftar gaya.
+12 Mohit ne kya cheezein pakdi hui hein?	nothing	1 8
+13 Mohit rasoi ghar gaya.
+14 Mohit gusalkhaney mein chala gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	nothing	1 8
+1 Priya galiyarey gayi.
+2 Mohit rasoi ghar mein chala gaya.
+3 Priya seb le kar aayi.
+4 Priya rasoi ghar mein chali gayi.
+5 Priya ne kya cheezein pakdi hui hein?	seb	3
+6 Priya seb chod aayi.
+7 Mohit daftar mein gaya.
+8 Priya ne kya cheezein pakdi hui hein?	nothing	3 6
+9 Priya gusalkhaney gayi.
+10 Priya rasoi ghar gayi.
+11 Priya ne kya cheezein pakdi hui hein?	nothing	3 6
+12 Mohit gusalkhaney mein chala gaya.
+13 Badri galiyarey mein gaya.
+14 Sita bagichey gayi.
+15 Priya bagichey mein chali gayi.
+16 Badri bagichey mein gaya.
+17 Mohit sayanakaksh mein gaya.
+18 Mohit rasoi ghar gaya.
+19 Badri gusalkhaney gaya.
+20 Badri dhoodh le aaya.
+21 Badri gayend le kar aaya.
+22 Badri ne kya cheezein pakdi hui hein?	dhoodh,gayend	20 21
+23 Sita sayanakaksh mein chali gayi.
+24 Badri dhoodh chod aaya.
+25 Badri ne kya cheezein pakdi hui hein?	gayend	20 24 21
+1 Mohit sayanakaksh mein gaya.
+2 Mohit bagichey mein chala gaya.
+3 Sita dhoodh le kar aayi.
+4 Badri gayend le kar aaya.
+5 Badri ne kya cheezein pakdi hui hein?	gayend	4
+6 Mohit sayanakaksh gaya.
+7 Badri gayend rakh aaya.
+8 Sita ne kya cheezein pakdi hui hein?	dhoodh	3
+9 Badri gayend le kar aaya.
+10 Sita bagichey gayi.
+11 Badri ne kya cheezein pakdi hui hein?	gayend	4 7 9
+12 Badri daftar mein chala gaya.
+13 Mohit galiyarey mein gaya.
+14 Badri ne kya cheezein pakdi hui hein?	gayend	4 7 9
+15 Badri gayend chod aaya.
+16 Mohit sayanakaksh mein chala gaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	4 7 9 15
+1 Badri daftar gaya.
+2 Mohit daftar gaya.
+3 Sita sayanakaksh mein chali gayi.
+4 Priya daftar mein gayi.
+5 Sita dhoodh le kar aayi.
+6 Mohit rasoi ghar mein chala gaya.
+7 Sita ne kya cheezein pakdi hui hein?	dhoodh	5
+8 Mohit seb le kar aaya.
+9 Sita bagichey gayi.
+10 Sita ne kya cheezein pakdi hui hein?	dhoodh	5
+11 Badri galiyarey mein chala gaya.
+12 Sita daftar mein chali gayi.
+13 Mohit ne kya cheezein pakdi hui hein?	seb	8
+14 Badri gayend le aaya.
+15 Mohit seb rakh aaya.
+16 Badri ne kya cheezein pakdi hui hein?	gayend	14
+17 Priya bagichey gayi.
+18 Priya daftar gayi.
+19 Mohit ne kya cheezein pakdi hui hein?	nothing	8 15
+1 Badri dhoodh le kar aaya.
+2 Mohit sayanakaksh mein gaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Mohit bagichey mein gaya.
+5 Sita galiyarey mein chali gayi.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Sita bagichey mein gayi.
+8 Sita gusalkhaney mein gayi.
+9 Badri dhoodh rakh aaya.
+10 Mohit galiyarey gaya.
+11 Badri ne kya cheezein pakdi hui hein?	nothing	1 9
+12 Badri dhoodh le kar aaya.
+13 Mohit bagichey mein gaya.
+14 Badri ne kya cheezein pakdi hui hein?	dhoodh	1 9 12
+15 Priya bagichey gayi.
+16 Mohit gusalkhaney mein gaya.
+17 Badri ne kya cheezein pakdi hui hein?	dhoodh	1 9 12
+1 Priya galiyarey mein chali gayi.
+2 Priya seb le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	2
+4 Mohit gusalkhaney mein chala gaya.
+5 Sita sayanakaksh mein chali gayi.
+6 Priya ne kya cheezein pakdi hui hein?	seb	2
+7 Badri daftar mein gaya.
+8 Priya seb rakh aayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 8
+10 Priya gusalkhaney mein gayi.
+11 Priya gayend le kar aayi.
+12 Priya ne kya cheezein pakdi hui hein?	gayend	2 8 11
+13 Badri bagichey gaya.
+14 Mohit dhoodh le aaya.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh	14
+1 Sita gusalkhaney mein chali gayi.
+2 Priya daftar mein chali gayi.
+3 Sita daftar mein chali gayi.
+4 Sita sayanakaksh mein chali gayi.
+5 Badri daftar gaya.
+6 Priya bagichey mein chali gayi.
+7 Priya sayanakaksh gayi.
+8 Priya dhoodh le kar aayi.
+9 Priya ne kya cheezein pakdi hui hein?	dhoodh	8
+10 Sita bagichey gayi.
+11 Priya galiyarey mein chali gayi.
+12 Priya ne kya cheezein pakdi hui hein?	dhoodh	8
+13 Priya rasoi ghar mein gayi.
+14 Priya gayend le kar aayi.
+15 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend	8 14
+16 Priya dhoodh rakh aayi.
+17 Priya gayend chod aayi.
+18 Priya ne kya cheezein pakdi hui hein?	nothing	8 16 14 17
+19 Mohit daftar mein gaya.
+20 Mohit galiyarey mein gaya.
+21 Priya ne kya cheezein pakdi hui hein?	nothing	8 16 14 17
+1 Sita daftar mein chali gayi.
+2 Mohit rasoi ghar mein gaya.
+3 Priya rasoi ghar mein gayi.
+4 Mohit sayanakaksh mein gaya.
+5 Sita gusalkhaney mein chali gayi.
+6 Mohit daftar gaya.
+7 Sita sayanakaksh mein gayi.
+8 Badri gusalkhaney mein gaya.
+9 Priya bagichey mein chali gayi.
+10 Mohit gusalkhaney mein chala gaya.
+11 Mohit galiyarey gaya.
+12 Mohit daftar gaya.
+13 Badri galiyarey gaya.
+14 Mohit gayend le aaya.
+15 Mohit ne kya cheezein pakdi hui hein?	gayend	14
+16 Mohit gayend chod aaya.
+17 Mohit gayend le aaya.
+18 Mohit ne kya cheezein pakdi hui hein?	gayend	14 16 17
+19 Badri dhoodh le kar aaya.
+20 Badri dhoodh chod aaya.
+21 Badri ne kya cheezein pakdi hui hein?	nothing	19 20
+22 Priya sayanakaksh gayi.
+23 Badri dhoodh le aaya.
+24 Badri ne kya cheezein pakdi hui hein?	dhoodh	19 20 23
+25 Mohit rasoi ghar mein gaya.
+26 Priya seb le aayi.
+27 Badri ne kya cheezein pakdi hui hein?	dhoodh	19 20 23
+1 Sita daftar mein chali gayi.
+2 Priya bagichey mein gayi.
+3 Mohit gayend le kar aaya.
+4 Badri daftar mein chala gaya.
+5 Mohit ne kya cheezein pakdi hui hein?	gayend	3
+6 Badri dhoodh le kar aaya.
+7 Sita sayanakaksh mein gayi.
+8 Mohit ne kya cheezein pakdi hui hein?	gayend	3
+9 Mohit gayend chod aaya.
+10 Sita galiyarey gayi.
+11 Badri ne kya cheezein pakdi hui hein?	dhoodh	6
+12 Mohit gayend le kar aaya.
+13 Badri sayanakaksh mein gaya.
+14 Mohit ne kya cheezein pakdi hui hein?	gayend	3 9 12
+15 Badri dhoodh rakh aaya.
+16 Priya sayanakaksh mein chali gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	gayend	3 9 12
+1 Badri daftar gaya.
+2 Mohit galiyarey mein gaya.
+3 Sita gusalkhaney mein chali gayi.
+4 Mohit gayend le kar aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	gayend	4
+6 Mohit daftar mein chala gaya.
+7 Sita sayanakaksh mein gayi.
+8 Mohit ne kya cheezein pakdi hui hein?	gayend	4
+9 Mohit galiyarey mein gaya.
+10 Sita daftar gayi.
+11 Mohit ne kya cheezein pakdi hui hein?	gayend	4
+12 Priya rasoi ghar mein gayi.
+13 Mohit gayend rakh aaya.
+14 Mohit ne kya cheezein pakdi hui hein?	nothing	4 13
+15 Priya sayanakaksh mein chali gayi.
+16 Sita bagichey gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	nothing	4 13
+1 Priya gayend le kar aayi.
+2 Priya gayend rakh aayi.
+3 Priya ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Sita sayanakaksh mein gayi.
+5 Sita gusalkhaney gayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Badri gusalkhaney mein chala gaya.
+8 Priya gayend le aayi.
+9 Priya ne kya cheezein pakdi hui hein?	gayend	1 2 8
+10 Badri seb le kar aaya.
+11 Mohit dhoodh le kar aaya.
+12 Priya ne kya cheezein pakdi hui hein?	gayend	1 2 8
+13 Badri seb rakh aaya.
+14 Badri seb le kar aaya.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh	11
+1 Priya rasoi ghar mein chali gayi.
+2 Sita galiyarey mein chali gayi.
+3 Sita daftar gayi.
+4 Priya gayend le kar aayi.
+5 Priya ne kya cheezein pakdi hui hein?	gayend	4
+6 Priya gayend rakh aayi.
+7 Priya seb le aayi.
+8 Priya ne kya cheezein pakdi hui hein?	seb	4 6 7
+9 Priya dhoodh le kar aayi.
+10 Priya galiyarey gayi.
+11 Priya ne kya cheezein pakdi hui hein?	seb,dhoodh	4 6 7 9
+12 Mohit rasoi ghar mein gaya.
+13 Priya seb rakh aayi.
+14 Priya ne kya cheezein pakdi hui hein?	dhoodh	4 6 7 13 9
+15 Priya seb le kar aayi.
+16 Sita bagichey mein chali gayi.
+17 Priya ne kya cheezein pakdi hui hein?	seb,dhoodh	4 6 7 13 15 9
+1 Sita sayanakaksh gayi.
+2 Priya gayend le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	2
+4 Sita galiyarey mein chali gayi.
+5 Mohit seb le kar aaya.
+6 Mohit ne kya cheezein pakdi hui hein?	seb	5
+7 Sita dhoodh le kar aayi.
+8 Mohit seb chod aaya.
+9 Mohit ne kya cheezein pakdi hui hein?	nothing	5 8
+10 Badri bagichey mein chala gaya.
+11 Mohit seb le aaya.
+12 Sita ne kya cheezein pakdi hui hein?	dhoodh	7
+13 Sita gusalkhaney mein gayi.
+14 Sita dhoodh rakh aayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	7 14
+1 Sita daftar gayi.
+2 Priya sayanakaksh mein chali gayi.
+3 Mohit rasoi ghar mein gaya.
+4 Mohit seb le kar aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	seb	4
+6 Sita gusalkhaney mein chali gayi.
+7 Badri daftar mein gaya.
+8 Mohit ne kya cheezein pakdi hui hein?	seb	4
+9 Priya galiyarey mein gayi.
+10 Priya daftar mein chali gayi.
+11 Mohit ne kya cheezein pakdi hui hein?	seb	4
+12 Sita daftar mein chali gayi.
+13 Priya bagichey mein gayi.
+14 Priya rasoi ghar mein chali gayi.
+15 Badri gusalkhaney mein chala gaya.
+16 Badri sayanakaksh mein chala gaya.
+17 Sita bagichey mein gayi.
+18 Sita sayanakaksh mein gayi.
+19 Badri galiyarey gaya.
+20 Badri rasoi ghar gaya.
+21 Mohit sayanakaksh mein chala gaya.
+22 Mohit bagichey mein gaya.
+23 Mohit seb chod aaya.
+24 Mohit ne kya cheezein pakdi hui hein?	nothing	4 23
+25 Priya gusalkhaney mein chali gayi.
+26 Badri daftar mein gaya.
+27 Mohit ne kya cheezein pakdi hui hein?	nothing	4 23
+1 Badri gusalkhaney gaya.
+2 Sita daftar mein gayi.
+3 Priya gayend le aayi.
+4 Mohit gusalkhaney gaya.
+5 Priya ne kya cheezein pakdi hui hein?	gayend	3
+6 Mohit seb le kar aaya.
+7 Sita rasoi ghar mein gayi.
+8 Priya ne kya cheezein pakdi hui hein?	gayend	3
+9 Mohit daftar mein gaya.
+10 Mohit dhoodh le aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	seb,dhoodh	6 10
+12 Mohit seb chod aaya.
+13 Priya gayend rakh aayi.
+14 Mohit ne kya cheezein pakdi hui hein?	dhoodh	6 12 10
+15 Priya gayend le kar aayi.
+16 Mohit dhoodh rakh aaya.
+17 Priya ne kya cheezein pakdi hui hein?	gayend	3 13 15
+1 Sita daftar gayi.
+2 Sita bagichey gayi.
+3 Mohit bagichey mein chala gaya.
+4 Mohit gusalkhaney gaya.
+5 Badri bagichey gaya.
+6 Sita sayanakaksh mein chali gayi.
+7 Sita galiyarey mein chali gayi.
+8 Mohit daftar mein gaya.
+9 Mohit rasoi ghar mein chala gaya.
+10 Sita rasoi ghar mein gayi.
+11 Sita bagichey mein gayi.
+12 Priya sayanakaksh gayi.
+13 Priya gusalkhaney mein gayi.
+14 Sita gusalkhaney gayi.
+15 Priya bagichey mein chali gayi.
+16 Badri daftar mein gaya.
+17 Mohit bagichey mein chala gaya.
+18 Mohit gusalkhaney mein chala gaya.
+19 Sita bagichey gayi.
+20 Mohit sayanakaksh mein chala gaya.
+21 Mohit galiyarey mein chala gaya.
+22 Sita sayanakaksh gayi.
+23 Priya sayanakaksh mein gayi.
+24 Mohit sayanakaksh mein chala gaya.
+25 Badri gayend le aaya.
+26 Mohit seb le aaya.
+27 Mohit ne kya cheezein pakdi hui hein?	seb	26
+28 Sita dhoodh le kar aayi.
+29 Sita gusalkhaney mein chali gayi.
+30 Sita ne kya cheezein pakdi hui hein?	dhoodh	28
+31 Mohit seb chod aaya.
+32 Sita daftar gayi.
+33 Mohit ne kya cheezein pakdi hui hein?	nothing	26 31
+34 Sita rasoi ghar mein gayi.
+35 Sita dhoodh rakh aayi.
+36 Sita ne kya cheezein pakdi hui hein?	nothing	28 35
+37 Sita galiyarey gayi.
+38 Badri sayanakaksh mein gaya.
+39 Sita ne kya cheezein pakdi hui hein?	nothing	28 35
+1 Priya gayend le kar aayi.
+2 Badri daftar gaya.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	1
+4 Priya seb le kar aayi.
+5 Priya seb chod aayi.
+6 Priya ne kya cheezein pakdi hui hein?	gayend	1 4 5
+7 Priya seb le kar aayi.
+8 Priya daftar gayi.
+9 Priya ne kya cheezein pakdi hui hein?	gayend,seb	1 4 5 7
+10 Mohit rasoi ghar mein chala gaya.
+11 Priya gayend rakh aayi.
+12 Priya ne kya cheezein pakdi hui hein?	seb	1 11 4 5 7
+13 Priya seb rakh aayi.
+14 Badri seb le kar aaya.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	1 11 4 5 7 13
+1 Sita daftar mein gayi.
+2 Sita rasoi ghar mein gayi.
+3 Priya bagichey gayi.
+4 Priya galiyarey mein chali gayi.
+5 Priya sayanakaksh gayi.
+6 Badri bagichey mein gaya.
+7 Mohit sayanakaksh mein chala gaya.
+8 Sita sayanakaksh mein gayi.
+9 Badri rasoi ghar mein gaya.
+10 Sita galiyarey mein gayi.
+11 Badri gusalkhaney mein chala gaya.
+12 Sita dhoodh le aayi.
+13 Sita ne kya cheezein pakdi hui hein?	dhoodh	12
+14 Mohit daftar gaya.
+15 Priya bagichey gayi.
+16 Sita ne kya cheezein pakdi hui hein?	dhoodh	12
+17 Priya gayend le kar aayi.
+18 Mohit bagichey mein chala gaya.
+19 Priya ne kya cheezein pakdi hui hein?	gayend	17
+20 Priya daftar mein chali gayi.
+21 Sita seb le aayi.
+22 Priya ne kya cheezein pakdi hui hein?	gayend	17
+23 Mohit rasoi ghar gaya.
+24 Priya rasoi ghar mein gayi.
+25 Sita ne kya cheezein pakdi hui hein?	dhoodh,seb	12 21
+1 Sita rasoi ghar mein chali gayi.
+2 Sita seb le aayi.
+3 Sita ne kya cheezein pakdi hui hein?	seb	2
+4 Mohit sayanakaksh mein gaya.
+5 Badri galiyarey gaya.
+6 Sita ne kya cheezein pakdi hui hein?	seb	2
+7 Priya sayanakaksh mein gayi.
+8 Priya dhoodh le kar aayi.
+9 Sita ne kya cheezein pakdi hui hein?	seb	2
+10 Priya dhoodh rakh aayi.
+11 Sita seb chod aayi.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	2 11
+13 Mohit gusalkhaney gaya.
+14 Priya gusalkhaney mein chali gayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	2 11
+1 Badri gayend le kar aaya.
+2 Mohit galiyarey gaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	1
+4 Sita dhoodh le kar aayi.
+5 Sita galiyarey mein gayi.
+6 Sita ne kya cheezein pakdi hui hein?	dhoodh	4
+7 Sita rasoi ghar mein gayi.
+8 Sita bagichey gayi.
+9 Sita ne kya cheezein pakdi hui hein?	dhoodh	4
+10 Badri gayend rakh aaya.
+11 Badri gayend le kar aaya.
+12 Badri ne kya cheezein pakdi hui hein?	gayend	1 10 11
+13 Badri gusalkhaney mein gaya.
+14 Priya daftar mein gayi.
+15 Badri ne kya cheezein pakdi hui hein?	gayend	1 10 11
+1 Priya dhoodh le kar aayi.
+2 Badri daftar gaya.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Priya dhoodh rakh aayi.
+5 Priya rasoi ghar mein gayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Mohit daftar mein gaya.
+8 Priya seb le aayi.
+9 Priya ne kya cheezein pakdi hui hein?	seb	1 4 8
+10 Badri gusalkhaney mein chala gaya.
+11 Badri bagichey gaya.
+12 Priya ne kya cheezein pakdi hui hein?	seb	1 4 8
+13 Mohit rasoi ghar mein chala gaya.
+14 Sita gusalkhaney mein gayi.
+15 Priya ne kya cheezein pakdi hui hein?	seb	1 4 8
+1 Priya gusalkhaney gayi.
+2 Badri galiyarey mein chala gaya.
+3 Sita sayanakaksh mein chali gayi.
+4 Badri seb le aaya.
+5 Badri ne kya cheezein pakdi hui hein?	seb	4
+6 Badri dhoodh le kar aaya.
+7 Sita gusalkhaney mein chali gayi.
+8 Badri ne kya cheezein pakdi hui hein?	seb,dhoodh	4 6
+9 Priya sayanakaksh gayi.
+10 Badri daftar gaya.
+11 Badri ne kya cheezein pakdi hui hein?	seb,dhoodh	4 6
+12 Badri gayend le aaya.
+13 Mohit gusalkhaney mein gaya.
+14 Badri ne kya cheezein pakdi hui hein?	seb,dhoodh,gayend	4 6 12
+15 Mohit bagichey gaya.
+16 Badri gayend chod aaya.
+17 Badri ne kya cheezein pakdi hui hein?	seb,dhoodh	4 6 12 16
+1 Badri bagichey gaya.
+2 Priya galiyarey mein gayi.
+3 Sita rasoi ghar mein gayi.
+4 Priya bagichey mein gayi.
+5 Sita gayend le aayi.
+6 Badri daftar mein gaya.
+7 Sita ne kya cheezein pakdi hui hein?	gayend	5
+8 Badri sayanakaksh gaya.
+9 Badri galiyarey gaya.
+10 Sita ne kya cheezein pakdi hui hein?	gayend	5
+11 Sita gayend chod aayi.
+12 Badri daftar gaya.
+13 Sita ne kya cheezein pakdi hui hein?	nothing	5 11
+14 Badri rasoi ghar mein gaya.
+15 Sita galiyarey gayi.
+16 Sita ne kya cheezein pakdi hui hein?	nothing	5 11
+17 Badri gayend le aaya.
+18 Badri gusalkhaney mein gaya.
+19 Badri ne kya cheezein pakdi hui hein?	gayend	17
+1 Badri seb le aaya.
+2 Badri seb chod aaya.
+3 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Mohit sayanakaksh mein gaya.
+5 Priya rasoi ghar mein gayi.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Badri galiyarey gaya.
+8 Badri daftar mein chala gaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+10 Badri dhoodh le kar aaya.
+11 Priya sayanakaksh mein chali gayi.
+12 Badri ne kya cheezein pakdi hui hein?	dhoodh	1 2 10
+13 Badri gusalkhaney gaya.
+14 Mohit rasoi ghar mein chala gaya.
+15 Badri ne kya cheezein pakdi hui hein?	dhoodh	1 2 10
+1 Priya dhoodh le aayi.
+2 Sita gusalkhaney mein gayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Badri galiyarey mein chala gaya.
+5 Priya gusalkhaney mein chali gayi.
+6 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Sita galiyarey gayi.
+8 Mohit seb le kar aaya.
+9 Mohit ne kya cheezein pakdi hui hein?	seb	8
+10 Badri rasoi ghar gaya.
+11 Priya rasoi ghar mein gayi.
+12 Mohit ne kya cheezein pakdi hui hein?	seb	8
+13 Badri bagichey mein chala gaya.
+14 Sita sayanakaksh gayi.
+15 Mohit ne kya cheezein pakdi hui hein?	seb	8
+1 Mohit rasoi ghar gaya.
+2 Priya sayanakaksh mein chali gayi.
+3 Priya bagichey gayi.
+4 Mohit daftar mein chala gaya.
+5 Priya sayanakaksh mein chali gayi.
+6 Priya bagichey gayi.
+7 Mohit bagichey mein gaya.
+8 Mohit gusalkhaney gaya.
+9 Sita rasoi ghar mein gayi.
+10 Sita seb le aayi.
+11 Sita ne kya cheezein pakdi hui hein?	seb	10
+12 Badri bagichey mein chala gaya.
+13 Badri rasoi ghar mein gaya.
+14 Sita ne kya cheezein pakdi hui hein?	seb	10
+15 Sita sayanakaksh mein gayi.
+16 Badri sayanakaksh gaya.
+17 Sita ne kya cheezein pakdi hui hein?	seb	10
+18 Sita bagichey mein chali gayi.
+19 Mohit sayanakaksh mein chala gaya.
+20 Sita seb rakh aayi.
+21 Mohit gusalkhaney mein gaya.
+22 Sita ne kya cheezein pakdi hui hein?	nothing	10 20
+23 Priya seb le aayi.
+24 Priya seb rakh aayi.
+25 Priya ne kya cheezein pakdi hui hein?	nothing	23 24
+1 Mohit sayanakaksh gaya.
+2 Mohit galiyarey mein chala gaya.
+3 Mohit bagichey mein chala gaya.
+4 Mohit rasoi ghar mein gaya.
+5 Badri gusalkhaney mein gaya.
+6 Sita sayanakaksh gayi.
+7 Sita gusalkhaney mein chali gayi.
+8 Badri sayanakaksh mein chala gaya.
+9 Sita rasoi ghar mein gayi.
+10 Mohit seb le aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	seb	10
+12 Badri dhoodh le kar aaya.
+13 Priya daftar gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	seb	10
+15 Mohit seb chod aaya.
+16 Mohit seb le aaya.
+17 Mohit ne kya cheezein pakdi hui hein?	seb	10 15 16
+18 Priya bagichey mein gayi.
+19 Sita sayanakaksh mein gayi.
+20 Mohit ne kya cheezein pakdi hui hein?	seb	10 15 16
+21 Priya galiyarey mein gayi.
+22 Sita bagichey mein gayi.
+23 Mohit ne kya cheezein pakdi hui hein?	seb	10 15 16
+1 Priya daftar gayi.
+2 Priya seb le aayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	2
+4 Badri rasoi ghar mein chala gaya.
+5 Priya seb chod aayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Priya gusalkhaney mein gayi.
+8 Priya rasoi ghar mein gayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Priya galiyarey mein chali gayi.
+11 Mohit rasoi ghar mein chala gaya.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+13 Sita bagichey gayi.
+14 Sita dhoodh le aayi.
+15 Sita ne kya cheezein pakdi hui hein?	dhoodh	14
+1 Mohit sayanakaksh mein gaya.
+2 Priya seb le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	seb	2
+4 Sita sayanakaksh mein gayi.
+5 Sita gusalkhaney mein gayi.
+6 Priya ne kya cheezein pakdi hui hein?	seb	2
+7 Priya seb chod aayi.
+8 Sita sayanakaksh mein gayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 7
+10 Priya rasoi ghar mein chali gayi.
+11 Badri galiyarey gaya.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 7
+13 Badri rasoi ghar gaya.
+14 Mohit galiyarey gaya.
+15 Mohit seb le aaya.
+16 Priya sayanakaksh mein gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	seb	15
+1 Badri galiyarey mein gaya.
+2 Sita daftar gayi.
+3 Badri sayanakaksh mein chala gaya.
+4 Priya seb le kar aayi.
+5 Priya ne kya cheezein pakdi hui hein?	seb	4
+6 Badri bagichey gaya.
+7 Badri sayanakaksh mein chala gaya.
+8 Priya ne kya cheezein pakdi hui hein?	seb	4
+9 Priya seb chod aayi.
+10 Priya daftar mein gayi.
+11 Priya ne kya cheezein pakdi hui hein?	nothing	4 9
+12 Priya dhoodh le aayi.
+13 Badri rasoi ghar mein gaya.
+14 Priya ne kya cheezein pakdi hui hein?	dhoodh	4 9 12
+15 Priya sayanakaksh gayi.
+16 Badri bagichey gaya.
+17 Priya ne kya cheezein pakdi hui hein?	dhoodh	4 9 12
+1 Badri sayanakaksh gaya.
+2 Priya rasoi ghar mein gayi.
+3 Mohit daftar mein gaya.
+4 Priya gusalkhaney mein chali gayi.
+5 Mohit gusalkhaney mein gaya.
+6 Mohit dhoodh le aaya.
+7 Mohit ne kya cheezein pakdi hui hein?	dhoodh	6
+8 Sita galiyarey mein gayi.
+9 Sita daftar gayi.
+10 Mohit ne kya cheezein pakdi hui hein?	dhoodh	6
+11 Priya galiyarey mein gayi.
+12 Sita seb le kar aayi.
+13 Sita ne kya cheezein pakdi hui hein?	seb	12
+14 Badri galiyarey mein chala gaya.
+15 Sita rasoi ghar mein chali gayi.
+16 Sita ne kya cheezein pakdi hui hein?	seb	12
+17 Sita bagichey mein gayi.
+18 Priya gusalkhaney mein chali gayi.
+19 Sita ne kya cheezein pakdi hui hein?	seb	12
+1 Badri dhoodh le aaya.
+2 Badri dhoodh rakh aaya.
+3 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Sita seb le kar aayi.
+5 Sita gusalkhaney mein chali gayi.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Mohit bagichey gaya.
+8 Badri rasoi ghar mein chala gaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+10 Mohit galiyarey mein chala gaya.
+11 Sita bagichey mein gayi.
+12 Mohit sayanakaksh mein gaya.
+13 Priya rasoi ghar mein gayi.
+14 Sita seb rakh aayi.
+15 Mohit gusalkhaney mein gaya.
+16 Sita ne kya cheezein pakdi hui hein?	nothing	4 14
+17 Badri bagichey gaya.
+18 Badri daftar mein chala gaya.
+19 Sita ne kya cheezein pakdi hui hein?	nothing	4 14
+1 Sita seb le aayi.
+2 Priya bagichey mein chali gayi.
+3 Sita ne kya cheezein pakdi hui hein?	seb	1
+4 Mohit daftar mein chala gaya.
+5 Mohit galiyarey mein chala gaya.
+6 Sita ne kya cheezein pakdi hui hein?	seb	1
+7 Priya gayend le aayi.
+8 Sita seb chod aayi.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	1 8
+10 Badri bagichey gaya.
+11 Sita sayanakaksh mein chali gayi.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	1 8
+13 Priya gayend chod aayi.
+14 Badri gusalkhaney mein gaya.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	7 13
+1 Priya sayanakaksh gayi.
+2 Priya daftar mein chali gayi.
+3 Badri rasoi ghar mein gaya.
+4 Sita bagichey gayi.
+5 Priya dhoodh le kar aayi.
+6 Badri bagichey mein gaya.
+7 Priya ne kya cheezein pakdi hui hein?	dhoodh	5
+8 Sita gayend le aayi.
+9 Badri seb le kar aaya.
+10 Sita ne kya cheezein pakdi hui hein?	gayend	8
+11 Priya dhoodh chod aayi.
+12 Badri seb rakh aaya.
+13 Sita ne kya cheezein pakdi hui hein?	gayend	8
+14 Mohit galiyarey mein chala gaya.
+15 Priya gusalkhaney mein gayi.
+16 Priya ne kya cheezein pakdi hui hein?	nothing	5 11
+17 Sita seb le aayi.
+18 Mohit bagichey mein chala gaya.
+19 Badri ne kya cheezein pakdi hui hein?	nothing	9 12
+1 Priya dhoodh le aayi.
+2 Mohit daftar mein chala gaya.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Sita galiyarey mein chali gayi.
+5 Badri seb le kar aaya.
+6 Badri ne kya cheezein pakdi hui hein?	seb	5
+7 Mohit gusalkhaney gaya.
+8 Mohit galiyarey mein gaya.
+9 Badri ne kya cheezein pakdi hui hein?	seb	5
+10 Priya rasoi ghar mein chali gayi.
+11 Badri galiyarey mein gaya.
+12 Badri ne kya cheezein pakdi hui hein?	seb	5
+13 Priya gayend le kar aayi.
+14 Mohit rasoi ghar gaya.
+15 Priya ne kya cheezein pakdi hui hein?	dhoodh,gayend	1 13
+1 Badri sayanakaksh gaya.
+2 Priya galiyarey mein chali gayi.
+3 Badri dhoodh le aaya.
+4 Priya daftar mein gayi.
+5 Badri ne kya cheezein pakdi hui hein?	dhoodh	3
+6 Mohit daftar mein gaya.
+7 Badri daftar mein chala gaya.
+8 Badri ne kya cheezein pakdi hui hein?	dhoodh	3
+9 Mohit seb le kar aaya.
+10 Badri galiyarey mein gaya.
+11 Mohit ne kya cheezein pakdi hui hein?	seb	9
+12 Mohit galiyarey gaya.
+13 Badri sayanakaksh gaya.
+14 Mohit ne kya cheezein pakdi hui hein?	seb	9
+15 Mohit seb rakh aaya.
+16 Mohit seb le kar aaya.
+17 Mohit ne kya cheezein pakdi hui hein?	seb	9 15 16
+1 Badri dhoodh le aaya.
+2 Priya rasoi ghar mein chali gayi.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Badri dhoodh chod aaya.
+5 Sita daftar mein chali gayi.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Priya gusalkhaney mein gayi.
+8 Badri galiyarey mein gaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Sita bagichey mein gayi.
+11 Badri rasoi ghar mein gaya.
+12 Sita seb le aayi.
+13 Priya daftar mein gayi.
+14 Sita ne kya cheezein pakdi hui hein?	seb	12
+15 Badri galiyarey mein chala gaya.
+16 Badri rasoi ghar gaya.
+17 Sita ne kya cheezein pakdi hui hein?	seb	12
+1 Priya daftar mein gayi.
+2 Badri rasoi ghar mein chala gaya.
+3 Badri seb le aaya.
+4 Badri gayend le aaya.
+5 Badri ne kya cheezein pakdi hui hein?	seb,gayend	3 4
+6 Priya sayanakaksh gayi.
+7 Sita bagichey gayi.
+8 Badri ne kya cheezein pakdi hui hein?	seb,gayend	3 4
+9 Sita dhoodh le kar aayi.
+10 Badri galiyarey mein chala gaya.
+11 Sita ne kya cheezein pakdi hui hein?	dhoodh	9
+12 Sita dhoodh chod aayi.
+13 Priya gusalkhaney gayi.
+14 Sita ne kya cheezein pakdi hui hein?	nothing	9 12
+15 Badri seb chod aaya.
+16 Sita galiyarey mein chali gayi.
+17 Sita ne kya cheezein pakdi hui hein?	nothing	9 12
+1 Mohit daftar gaya.
+2 Mohit sayanakaksh gaya.
+3 Badri sayanakaksh gaya.
+4 Mohit daftar mein chala gaya.
+5 Badri bagichey mein gaya.
+6 Badri sayanakaksh mein chala gaya.
+7 Priya galiyarey mein gayi.
+8 Priya dhoodh le aayi.
+9 Priya ne kya cheezein pakdi hui hein?	dhoodh	8
+10 Priya dhoodh chod aayi.
+11 Sita gusalkhaney mein chali gayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	8 10
+13 Priya dhoodh le aayi.
+14 Mohit sayanakaksh mein gaya.
+15 Priya ne kya cheezein pakdi hui hein?	dhoodh	8 10 13
+16 Mohit gusalkhaney gaya.
+17 Sita sayanakaksh mein chali gayi.
+18 Priya ne kya cheezein pakdi hui hein?	dhoodh	8 10 13
+19 Mohit sayanakaksh mein chala gaya.
+20 Badri rasoi ghar mein chala gaya.
+21 Priya dhoodh rakh aayi.
+22 Sita gusalkhaney mein gayi.
+23 Priya ne kya cheezein pakdi hui hein?	nothing	8 10 13 21
+1 Badri dhoodh le aaya.
+2 Mohit galiyarey mein gaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Badri rasoi ghar mein gaya.
+5 Mohit bagichey mein gaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Mohit rasoi ghar gaya.
+8 Mohit galiyarey mein gaya.
+9 Badri gusalkhaney mein chala gaya.
+10 Sita galiyarey mein gayi.
+11 Badri rasoi ghar mein gaya.
+12 Badri seb le aaya.
+13 Badri ne kya cheezein pakdi hui hein?	dhoodh,seb	1 12
+14 Badri seb rakh aaya.
+15 Badri seb le kar aaya.
+16 Badri ne kya cheezein pakdi hui hein?	dhoodh,seb	1 12 14 15
+17 Sita rasoi ghar mein gayi.
+18 Sita gayend le aayi.
+19 Badri ne kya cheezein pakdi hui hein?	dhoodh,seb	1 12 14 15
+1 Mohit bagichey mein gaya.
+2 Priya gusalkhaney mein chali gayi.
+3 Priya dhoodh le aayi.
+4 Badri bagichey gaya.
+5 Priya ne kya cheezein pakdi hui hein?	dhoodh	3
+6 Priya daftar mein chali gayi.
+7 Priya dhoodh rakh aayi.
+8 Priya ne kya cheezein pakdi hui hein?	nothing	3 7
+9 Sita dhoodh le aayi.
+10 Mohit rasoi ghar mein gaya.
+11 Sita ne kya cheezein pakdi hui hein?	dhoodh	9
+12 Badri daftar gaya.
+13 Sita dhoodh chod aayi.
+14 Sita ne kya cheezein pakdi hui hein?	nothing	9 13
+15 Priya rasoi ghar mein gayi.
+16 Sita dhoodh le kar aayi.
+17 Sita ne kya cheezein pakdi hui hein?	dhoodh	9 13 16
+1 Sita galiyarey mein chali gayi.
+2 Priya bagichey mein gayi.
+3 Priya rasoi ghar mein chali gayi.
+4 Badri gayend le aaya.
+5 Badri ne kya cheezein pakdi hui hein?	gayend	4
+6 Priya galiyarey mein gayi.
+7 Badri sayanakaksh mein gaya.
+8 Badri ne kya cheezein pakdi hui hein?	gayend	4
+9 Badri gayend chod aaya.
+10 Badri gayend le aaya.
+11 Badri ne kya cheezein pakdi hui hein?	gayend	4 9 10
+12 Mohit bagichey mein gaya.
+13 Badri gayend rakh aaya.
+14 Badri ne kya cheezein pakdi hui hein?	nothing	4 9 10 13
+15 Badri gusalkhaney mein gaya.
+16 Badri daftar gaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	4 9 10 13
+1 Mohit rasoi ghar mein gaya.
+2 Sita seb le aayi.
+3 Sita ne kya cheezein pakdi hui hein?	seb	2
+4 Sita sayanakaksh gayi.
+5 Sita seb chod aayi.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Sita bagichey mein gayi.
+8 Sita rasoi ghar mein chali gayi.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Priya dhoodh le kar aayi.
+11 Sita bagichey gayi.
+12 Priya ne kya cheezein pakdi hui hein?	dhoodh	10
+13 Priya dhoodh rakh aayi.
+14 Mohit gusalkhaney gaya.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	10 13
+1 Priya gusalkhaney mein gayi.
+2 Priya gayend le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	2
+4 Badri galiyarey mein chala gaya.
+5 Priya gayend rakh aayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Badri seb le kar aaya.
+8 Priya gayend le kar aayi.
+9 Priya ne kya cheezein pakdi hui hein?	gayend	2 5 8
+10 Priya daftar gayi.
+11 Priya bagichey gayi.
+12 Priya ne kya cheezein pakdi hui hein?	gayend	2 5 8
+13 Sita gusalkhaney gayi.
+14 Sita sayanakaksh mein gayi.
+15 Priya ne kya cheezein pakdi hui hein?	gayend	2 5 8
+1 Priya gayend le kar aayi.
+2 Priya gayend chod aayi.
+3 Priya ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Mohit gayend le aaya.
+5 Sita rasoi ghar gayi.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Mohit gayend chod aaya.
+8 Sita gayend le aayi.
+9 Sita ne kya cheezein pakdi hui hein?	gayend	8
+10 Mohit gusalkhaney mein chala gaya.
+11 Sita gayend chod aayi.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	8 11
+13 Priya sayanakaksh mein gayi.
+14 Priya galiyarey mein gayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	8 11
+1 Priya galiyarey mein gayi.
+2 Badri dhoodh le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita galiyarey gayi.
+5 Mohit bagichey mein chala gaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Sita gayend le aayi.
+8 Sita bagichey gayi.
+9 Sita ne kya cheezein pakdi hui hein?	gayend	7
+10 Sita galiyarey mein chali gayi.
+11 Sita gayend chod aayi.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	7 11
+13 Priya gayend le kar aayi.
+14 Priya daftar gayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	7 11
+1 Sita daftar gayi.
+2 Sita gayend le kar aayi.
+3 Sita ne kya cheezein pakdi hui hein?	gayend	2
+4 Sita dhoodh le kar aayi.
+5 Priya galiyarey mein chali gayi.
+6 Sita ne kya cheezein pakdi hui hein?	gayend,dhoodh	2 4
+7 Mohit daftar mein gaya.
+8 Mohit gusalkhaney mein gaya.
+9 Sita ne kya cheezein pakdi hui hein?	gayend,dhoodh	2 4
+10 Badri rasoi ghar gaya.
+11 Sita gayend rakh aayi.
+12 Sita ne kya cheezein pakdi hui hein?	dhoodh	2 11 4
+13 Sita galiyarey gayi.
+14 Badri gusalkhaney gaya.
+15 Sita ne kya cheezein pakdi hui hein?	dhoodh	2 11 4
+1 Mohit gayend le aaya.
+2 Mohit gayend chod aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Priya rasoi ghar mein gayi.
+5 Mohit bagichey mein gaya.
+6 Mohit ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Mohit sayanakaksh gaya.
+8 Badri daftar gaya.
+9 Mohit ne kya cheezein pakdi hui hein?	nothing	1 2
+10 Sita daftar mein gayi.
+11 Priya bagichey gayi.
+12 Badri galiyarey mein chala gaya.
+13 Badri gayend le kar aaya.
+14 Badri ne kya cheezein pakdi hui hein?	gayend	13
+15 Badri gusalkhaney gaya.
+16 Priya sayanakaksh mein chali gayi.
+17 Badri ne kya cheezein pakdi hui hein?	gayend	13
+1 Mohit galiyarey gaya.
+2 Priya daftar mein chali gayi.
+3 Badri galiyarey mein gaya.
+4 Sita gayend le kar aayi.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	4
+6 Sita rasoi ghar mein chali gayi.
+7 Mohit seb le aaya.
+8 Mohit ne kya cheezein pakdi hui hein?	seb	7
+9 Sita galiyarey gayi.
+10 Priya sayanakaksh gayi.
+11 Mohit ne kya cheezein pakdi hui hein?	seb	7
+12 Priya galiyarey mein chali gayi.
+13 Priya sayanakaksh mein gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	seb	7
+15 Mohit seb rakh aaya.
+16 Badri seb le kar aaya.
+17 Badri ne kya cheezein pakdi hui hein?	seb	16
+1 Priya gayend le aayi.
+2 Priya gayend rakh aayi.
+3 Priya ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Mohit sayanakaksh mein gaya.
+5 Mohit dhoodh le kar aaya.
+6 Priya ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Sita daftar mein gayi.
+8 Mohit gusalkhaney mein gaya.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	1 2
+10 Mohit rasoi ghar mein gaya.
+11 Badri gayend le kar aaya.
+12 Mohit ne kya cheezein pakdi hui hein?	dhoodh	5
+13 Badri bagichey mein gaya.
+14 Badri gayend rakh aaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	11 14
+1 Badri gusalkhaney gaya.
+2 Mohit seb le aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	seb	2
+4 Sita daftar gayi.
+5 Priya daftar gayi.
+6 Mohit ne kya cheezein pakdi hui hein?	seb	2
+7 Badri sayanakaksh mein gaya.
+8 Priya sayanakaksh mein chali gayi.
+9 Mohit ne kya cheezein pakdi hui hein?	seb	2
+10 Sita sayanakaksh gayi.
+11 Mohit bagichey mein gaya.
+12 Sita gusalkhaney gayi.
+13 Badri gayend le aaya.
+14 Badri ne kya cheezein pakdi hui hein?	gayend	13
+15 Mohit seb rakh aaya.
+16 Sita dhoodh le kar aayi.
+17 Badri ne kya cheezein pakdi hui hein?	gayend	13
+1 Badri rasoi ghar mein gaya.
+2 Mohit rasoi ghar mein chala gaya.
+3 Badri gusalkhaney gaya.
+4 Priya sayanakaksh mein chali gayi.
+5 Sita dhoodh le aayi.
+6 Sita dhoodh rakh aayi.
+7 Sita ne kya cheezein pakdi hui hein?	nothing	5 6
+8 Badri bagichey mein gaya.
+9 Badri dhoodh le aaya.
+10 Sita ne kya cheezein pakdi hui hein?	nothing	5 6
+11 Priya rasoi ghar gayi.
+12 Badri gusalkhaney mein chala gaya.
+13 Badri ne kya cheezein pakdi hui hein?	dhoodh	9
+14 Badri dhoodh chod aaya.
+15 Badri dhoodh le kar aaya.
+16 Badri ne kya cheezein pakdi hui hein?	dhoodh	9 14 15
+17 Priya bagichey mein chali gayi.
+18 Priya galiyarey mein chali gayi.
+19 Badri ne kya cheezein pakdi hui hein?	dhoodh	9 14 15
+1 Mohit gayend le aaya.
+2 Mohit gayend rakh aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Mohit gayend le aaya.
+5 Sita gusalkhaney mein chali gayi.
+6 Mohit ne kya cheezein pakdi hui hein?	gayend	1 2 4
+7 Sita bagichey mein gayi.
+8 Sita sayanakaksh gayi.
+9 Mohit ne kya cheezein pakdi hui hein?	gayend	1 2 4
+10 Badri dhoodh le kar aaya.
+11 Sita galiyarey mein chali gayi.
+12 Badri ne kya cheezein pakdi hui hein?	dhoodh	10
+13 Badri dhoodh chod aaya.
+14 Mohit gayend chod aaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	10 13
+1 Badri rasoi ghar mein chala gaya.
+2 Priya bagichey mein gayi.
+3 Mohit sayanakaksh gaya.
+4 Mohit gusalkhaney gaya.
+5 Mohit seb le kar aaya.
+6 Mohit seb rakh aaya.
+7 Mohit ne kya cheezein pakdi hui hein?	nothing	5 6
+8 Sita gusalkhaney gayi.
+9 Mohit seb le aaya.
+10 Mohit ne kya cheezein pakdi hui hein?	seb	5 6 9
+11 Badri gusalkhaney mein chala gaya.
+12 Priya sayanakaksh mein gayi.
+13 Mohit ne kya cheezein pakdi hui hein?	seb	5 6 9
+14 Mohit bagichey mein chala gaya.
+15 Sita bagichey mein chali gayi.
+16 Mohit ne kya cheezein pakdi hui hein?	seb	5 6 9
+17 Mohit gusalkhaney mein chala gaya.
+18 Sita rasoi ghar mein gayi.
+19 Priya daftar mein gayi.
+20 Priya sayanakaksh mein gayi.
+21 Sita sayanakaksh gayi.
+22 Priya daftar gayi.
+23 Badri bagichey mein chala gaya.
+24 Mohit sayanakaksh mein gaya.
+25 Mohit gusalkhaney gaya.
+26 Mohit seb chod aaya.
+27 Mohit ne kya cheezein pakdi hui hein?	nothing	5 6 9 26
+1 Priya rasoi ghar mein chali gayi.
+2 Mohit gusalkhaney mein chala gaya.
+3 Mohit sayanakaksh gaya.
+4 Mohit gayend le aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	gayend	4
+6 Sita daftar mein gayi.
+7 Mohit gusalkhaney mein chala gaya.
+8 Mohit ne kya cheezein pakdi hui hein?	gayend	4
+9 Priya galiyarey gayi.
+10 Mohit gayend chod aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	nothing	4 10
+12 Mohit galiyarey mein chala gaya.
+13 Priya gusalkhaney mein gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	nothing	4 10
+15 Mohit daftar mein gaya.
+16 Mohit sayanakaksh mein gaya.
+17 Mohit ne kya cheezein pakdi hui hein?	nothing	4 10
+1 Priya dhoodh le aayi.
+2 Sita gayend le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Mohit daftar mein chala gaya.
+5 Priya gusalkhaney mein gayi.
+6 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Badri daftar mein gaya.
+8 Priya dhoodh rakh aayi.
+9 Sita ne kya cheezein pakdi hui hein?	gayend	2
+10 Priya seb le aayi.
+11 Priya seb chod aayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	1 8 10 11
+13 Priya sayanakaksh gayi.
+14 Priya galiyarey gayi.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	1 8 10 11
+1 Sita sayanakaksh mein chali gayi.
+2 Sita rasoi ghar mein chali gayi.
+3 Badri gusalkhaney mein gaya.
+4 Mohit rasoi ghar mein chala gaya.
+5 Mohit gayend le kar aaya.
+6 Priya galiyarey mein gayi.
+7 Mohit ne kya cheezein pakdi hui hein?	gayend	5
+8 Mohit daftar mein chala gaya.
+9 Mohit gayend chod aaya.
+10 Mohit ne kya cheezein pakdi hui hein?	nothing	5 9
+11 Mohit gayend le aaya.
+12 Priya rasoi ghar mein chali gayi.
+13 Mohit ne kya cheezein pakdi hui hein?	gayend	5 9 11
+14 Badri galiyarey mein gaya.
+15 Priya daftar gayi.
+16 Mohit ne kya cheezein pakdi hui hein?	gayend	5 9 11
+17 Priya sayanakaksh mein gayi.
+18 Badri dhoodh le kar aaya.
+19 Badri ne kya cheezein pakdi hui hein?	dhoodh	18
+1 Priya rasoi ghar mein gayi.
+2 Badri sayanakaksh gaya.
+3 Priya gusalkhaney mein gayi.
+4 Sita daftar mein chali gayi.
+5 Sita gayend le aayi.
+6 Priya dhoodh le kar aayi.
+7 Sita ne kya cheezein pakdi hui hein?	gayend	5
+8 Sita galiyarey mein gayi.
+9 Priya seb le aayi.
+10 Priya ne kya cheezein pakdi hui hein?	dhoodh,seb	6 9
+11 Sita gayend chod aayi.
+12 Badri daftar mein gaya.
+13 Priya ne kya cheezein pakdi hui hein?	dhoodh,seb	6 9
+14 Mohit gusalkhaney mein chala gaya.
+15 Priya seb chod aayi.
+16 Priya ne kya cheezein pakdi hui hein?	dhoodh	6 9 15
+17 Priya sayanakaksh mein chali gayi.
+18 Sita gusalkhaney mein gayi.
+19 Priya ne kya cheezein pakdi hui hein?	dhoodh	6 9 15
+1 Badri sayanakaksh mein gaya.
+2 Badri gusalkhaney mein gaya.
+3 Priya rasoi ghar mein gayi.
+4 Mohit rasoi ghar mein chala gaya.
+5 Mohit bagichey mein gaya.
+6 Sita galiyarey mein gayi.
+7 Sita gusalkhaney mein gayi.
+8 Badri rasoi ghar mein gaya.
+9 Badri galiyarey gaya.
+10 Badri rasoi ghar mein chala gaya.
+11 Badri bagichey mein gaya.
+12 Sita sayanakaksh mein chali gayi.
+13 Badri gusalkhaney gaya.
+14 Priya sayanakaksh mein chali gayi.
+15 Mohit galiyarey mein chala gaya.
+16 Priya dhoodh le aayi.
+17 Priya ne kya cheezein pakdi hui hein?	dhoodh	16
+18 Mohit seb le kar aaya.
+19 Sita rasoi ghar mein chali gayi.
+20 Priya ne kya cheezein pakdi hui hein?	dhoodh	16
+21 Badri galiyarey gaya.
+22 Mohit seb chod aaya.
+23 Mohit ne kya cheezein pakdi hui hein?	nothing	18 22
+24 Mohit bagichey mein gaya.
+25 Sita bagichey mein chali gayi.
+26 Mohit ne kya cheezein pakdi hui hein?	nothing	18 22
+27 Priya bagichey mein gayi.
+28 Priya dhoodh chod aayi.
+29 Mohit ne kya cheezein pakdi hui hein?	nothing	18 22
+1 Badri gusalkhaney mein chala gaya.
+2 Priya galiyarey mein chali gayi.
+3 Priya daftar mein chali gayi.
+4 Mohit seb le kar aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	seb	4
+6 Mohit sayanakaksh mein gaya.
+7 Mohit gayend le aaya.
+8 Mohit ne kya cheezein pakdi hui hein?	seb,gayend	4 7
+9 Sita galiyarey mein chali gayi.
+10 Badri dhoodh le kar aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	seb,gayend	4 7
+12 Badri sayanakaksh mein gaya.
+13 Badri bagichey mein chala gaya.
+14 Badri ne kya cheezein pakdi hui hein?	dhoodh	10
+15 Priya gusalkhaney mein chali gayi.
+16 Badri daftar gaya.
+17 Badri ne kya cheezein pakdi hui hein?	dhoodh	10
+1 Mohit rasoi ghar mein chala gaya.
+2 Badri seb le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	seb	2
+4 Mohit bagichey mein gaya.
+5 Mohit sayanakaksh mein chala gaya.
+6 Badri ne kya cheezein pakdi hui hein?	seb	2
+7 Badri gusalkhaney mein gaya.
+8 Badri seb chod aaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	2 8
+10 Mohit galiyarey gaya.
+11 Badri dhoodh le aaya.
+12 Badri ne kya cheezein pakdi hui hein?	dhoodh	2 8 11
+13 Badri bagichey mein chala gaya.
+14 Sita sayanakaksh mein chali gayi.
+15 Badri ne kya cheezein pakdi hui hein?	dhoodh	2 8 11
+1 Sita gayend le kar aayi.
+2 Badri rasoi ghar gaya.
+3 Sita ne kya cheezein pakdi hui hein?	gayend	1
+4 Sita bagichey gayi.
+5 Badri dhoodh le aaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	5
+7 Sita gayend rakh aayi.
+8 Mohit gayend le kar aaya.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	1 7
+10 Priya galiyarey gayi.
+11 Badri dhoodh rakh aaya.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	5 11
+13 Mohit galiyarey mein gaya.
+14 Badri dhoodh le aaya.
+15 Mohit ne kya cheezein pakdi hui hein?	gayend	8
+1 Badri bagichey mein chala gaya.
+2 Mohit dhoodh le kar aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Badri daftar mein chala gaya.
+5 Mohit dhoodh chod aaya.
+6 Mohit ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Sita gusalkhaney mein chali gayi.
+8 Sita sayanakaksh gayi.
+9 Mohit ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Mohit dhoodh le aaya.
+11 Priya gusalkhaney mein gayi.
+12 Mohit ne kya cheezein pakdi hui hein?	dhoodh	2 5 10
+13 Priya seb le aayi.
+14 Mohit dhoodh chod aaya.
+15 Mohit ne kya cheezein pakdi hui hein?	nothing	2 5 10 14
+1 Mohit gayend le kar aaya.
+2 Mohit gusalkhaney gaya.
+3 Mohit ne kya cheezein pakdi hui hein?	gayend	1
+4 Mohit seb le aaya.
+5 Priya bagichey mein gayi.
+6 Mohit ne kya cheezein pakdi hui hein?	gayend,seb	1 4
+7 Sita bagichey mein gayi.
+8 Priya gusalkhaney mein gayi.
+9 Mohit ne kya cheezein pakdi hui hein?	gayend,seb	1 4
+10 Priya galiyarey gayi.
+11 Badri gusalkhaney mein gaya.
+12 Mohit sayanakaksh mein chala gaya.
+13 Priya daftar mein gayi.
+14 Sita gusalkhaney mein gayi.
+15 Mohit seb rakh aaya.
+16 Mohit ne kya cheezein pakdi hui hein?	gayend	1 4 15
+17 Badri rasoi ghar gaya.
+18 Badri galiyarey gaya.
+19 Mohit ne kya cheezein pakdi hui hein?	gayend	1 4 15
+1 Sita rasoi ghar gayi.
+2 Sita daftar mein gayi.
+3 Sita gayend le kar aayi.
+4 Sita sayanakaksh mein chali gayi.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	3
+6 Mohit bagichey mein chala gaya.
+7 Mohit gusalkhaney gaya.
+8 Sita ne kya cheezein pakdi hui hein?	gayend	3
+9 Sita rasoi ghar mein gayi.
+10 Mohit bagichey gaya.
+11 Badri rasoi ghar mein chala gaya.
+12 Priya gusalkhaney mein gayi.
+13 Mohit seb le kar aaya.
+14 Mohit dhoodh le aaya.
+15 Mohit ne kya cheezein pakdi hui hein?	seb,dhoodh	13 14
+16 Priya sayanakaksh mein gayi.
+17 Sita galiyarey mein gayi.
+18 Mohit ne kya cheezein pakdi hui hein?	seb,dhoodh	13 14
+19 Sita daftar mein gayi.
+20 Mohit seb rakh aaya.
+21 Mohit ne kya cheezein pakdi hui hein?	dhoodh	13 20 14
+1 Sita sayanakaksh gayi.
+2 Badri sayanakaksh gaya.
+3 Sita gayend le aayi.
+4 Mohit bagichey mein chala gaya.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	3
+6 Badri bagichey gaya.
+7 Mohit dhoodh le kar aaya.
+8 Mohit ne kya cheezein pakdi hui hein?	dhoodh	7
+9 Sita gayend rakh aayi.
+10 Mohit dhoodh chod aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	nothing	7 10
+12 Priya bagichey gayi.
+13 Priya gusalkhaney gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	nothing	7 10
+15 Badri rasoi ghar mein chala gaya.
+16 Priya sayanakaksh mein gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	nothing	7 10
+1 Mohit dhoodh le kar aaya.
+2 Priya rasoi ghar gayi.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Mohit dhoodh rakh aaya.
+5 Badri dhoodh le aaya.
+6 Mohit ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Badri rasoi ghar mein gaya.
+8 Badri daftar mein gaya.
+9 Mohit ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Badri dhoodh chod aaya.
+11 Mohit bagichey mein gaya.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	5 10
+13 Badri sayanakaksh gaya.
+14 Mohit rasoi ghar gaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	5 10
+1 Priya gusalkhaney mein gayi.
+2 Badri sayanakaksh mein gaya.
+3 Priya gayend le kar aayi.
+4 Mohit galiyarey mein gaya.
+5 Priya ne kya cheezein pakdi hui hein?	gayend	3
+6 Mohit gusalkhaney mein chala gaya.
+7 Priya gayend chod aayi.
+8 Priya ne kya cheezein pakdi hui hein?	nothing	3 7
+9 Sita bagichey mein chali gayi.
+10 Badri galiyarey mein chala gaya.
+11 Priya ne kya cheezein pakdi hui hein?	nothing	3 7
+12 Sita seb le kar aayi.
+13 Badri sayanakaksh gaya.
+14 Priya ne kya cheezein pakdi hui hein?	nothing	3 7
+15 Mohit rasoi ghar mein chala gaya.
+16 Sita seb chod aayi.
+17 Sita ne kya cheezein pakdi hui hein?	nothing	12 16
+1 Badri gusalkhaney gaya.
+2 Priya rasoi ghar mein chali gayi.
+3 Priya daftar mein chali gayi.
+4 Badri sayanakaksh gaya.
+5 Badri rasoi ghar mein gaya.
+6 Sita rasoi ghar mein chali gayi.
+7 Badri gayend le aaya.
+8 Sita dhoodh le aayi.
+9 Badri ne kya cheezein pakdi hui hein?	gayend	7
+10 Badri gayend rakh aaya.
+11 Priya gusalkhaney gayi.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	7 10
+13 Sita gayend le kar aayi.
+14 Sita dhoodh rakh aayi.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	7 10
+16 Sita dhoodh le aayi.
+17 Sita bagichey gayi.
+18 Sita ne kya cheezein pakdi hui hein?	dhoodh,gayend	8 14 16 13
+19 Sita gayend chod aayi.
+20 Badri gusalkhaney gaya.
+21 Sita ne kya cheezein pakdi hui hein?	dhoodh	8 14 16 13 19
+1 Mohit gusalkhaney mein chala gaya.
+2 Priya dhoodh le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita bagichey gayi.
+5 Mohit seb le aaya.
+6 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Mohit galiyarey mein gaya.
+8 Badri gusalkhaney mein chala gaya.
+9 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+10 Priya rasoi ghar gayi.
+11 Mohit rasoi ghar mein gaya.
+12 Mohit ne kya cheezein pakdi hui hein?	seb	5
+13 Sita galiyarey mein gayi.
+14 Mohit seb chod aaya.
+15 Mohit ne kya cheezein pakdi hui hein?	nothing	5 14
+1 Mohit sayanakaksh mein gaya.
+2 Mohit rasoi ghar mein gaya.
+3 Priya gayend le aayi.
+4 Priya gayend chod aayi.
+5 Priya ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Priya gayend le aayi.
+7 Priya sayanakaksh mein gayi.
+8 Priya ne kya cheezein pakdi hui hein?	gayend	3 4 6
+9 Sita gusalkhaney mein gayi.
+10 Sita daftar gayi.
+11 Priya ne kya cheezein pakdi hui hein?	gayend	3 4 6
+12 Sita seb le kar aayi.
+13 Sita sayanakaksh mein chali gayi.
+14 Sita ne kya cheezein pakdi hui hein?	seb	12
+15 Sita seb rakh aayi.
+16 Sita bagichey mein gayi.
+17 Sita ne kya cheezein pakdi hui hein?	nothing	12 15
+1 Badri rasoi ghar gaya.
+2 Priya daftar mein gayi.
+3 Badri dhoodh le kar aaya.
+4 Sita rasoi ghar mein chali gayi.
+5 Badri ne kya cheezein pakdi hui hein?	dhoodh	3
+6 Priya galiyarey gayi.
+7 Badri daftar gaya.
+8 Badri ne kya cheezein pakdi hui hein?	dhoodh	3
+9 Badri dhoodh rakh aaya.
+10 Badri dhoodh le aaya.
+11 Badri ne kya cheezein pakdi hui hein?	dhoodh	3 9 10
+12 Badri dhoodh chod aaya.
+13 Mohit gusalkhaney gaya.
+14 Badri ne kya cheezein pakdi hui hein?	nothing	3 9 10 12
+15 Badri dhoodh le kar aaya.
+16 Mohit rasoi ghar gaya.
+17 Badri ne kya cheezein pakdi hui hein?	dhoodh	3 9 10 12 15
+1 Badri gusalkhaney mein chala gaya.
+2 Priya rasoi ghar mein chali gayi.
+3 Priya galiyarey mein gayi.
+4 Sita dhoodh le kar aayi.
+5 Sita ne kya cheezein pakdi hui hein?	dhoodh	4
+6 Badri daftar gaya.
+7 Priya gayend le aayi.
+8 Sita ne kya cheezein pakdi hui hein?	dhoodh	4
+9 Mohit sayanakaksh mein chala gaya.
+10 Priya gayend chod aayi.
+11 Priya ne kya cheezein pakdi hui hein?	nothing	7 10
+12 Sita daftar mein chali gayi.
+13 Mohit rasoi ghar mein gaya.
+14 Priya ne kya cheezein pakdi hui hein?	nothing	7 10
+15 Priya gayend le aayi.
+16 Priya gayend rakh aayi.
+17 Priya ne kya cheezein pakdi hui hein?	nothing	7 10 15 16
+1 Sita sayanakaksh mein chali gayi.
+2 Badri bagichey mein chala gaya.
+3 Priya gayend le aayi.
+4 Sita daftar gayi.
+5 Priya ne kya cheezein pakdi hui hein?	gayend	3
+6 Mohit galiyarey mein gaya.
+7 Sita sayanakaksh mein gayi.
+8 Priya ne kya cheezein pakdi hui hein?	gayend	3
+9 Sita gusalkhaney gayi.
+10 Priya gayend chod aayi.
+11 Priya ne kya cheezein pakdi hui hein?	nothing	3 10
+12 Sita dhoodh le aayi.
+13 Priya gayend le kar aayi.
+14 Priya ne kya cheezein pakdi hui hein?	gayend	3 10 13
+15 Priya gayend chod aayi.
+16 Priya rasoi ghar gayi.
+17 Priya ne kya cheezein pakdi hui hein?	nothing	3 10 13 15
+1 Sita gusalkhaney gayi.
+2 Priya bagichey mein gayi.
+3 Priya dhoodh le kar aayi.
+4 Sita gayend le kar aayi.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	4
+6 Priya sayanakaksh mein chali gayi.
+7 Badri gusalkhaney gaya.
+8 Priya ne kya cheezein pakdi hui hein?	dhoodh	3
+9 Badri rasoi ghar mein chala gaya.
+10 Priya bagichey mein chali gayi.
+11 Sita ne kya cheezein pakdi hui hein?	gayend	4
+12 Mohit daftar mein gaya.
+13 Priya dhoodh rakh aayi.
+14 Priya ne kya cheezein pakdi hui hein?	nothing	3 13
+15 Priya dhoodh le kar aayi.
+16 Mohit seb le kar aaya.
+17 Priya ne kya cheezein pakdi hui hein?	dhoodh	3 13 15
+1 Priya daftar mein gayi.
+2 Sita rasoi ghar mein gayi.
+3 Mohit sayanakaksh mein chala gaya.
+4 Sita seb le aayi.
+5 Sita ne kya cheezein pakdi hui hein?	seb	4
+6 Priya sayanakaksh mein gayi.
+7 Mohit bagichey mein chala gaya.
+8 Sita ne kya cheezein pakdi hui hein?	seb	4
+9 Sita seb chod aayi.
+10 Mohit dhoodh le kar aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	dhoodh	10
+12 Sita daftar mein chali gayi.
+13 Priya gusalkhaney gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	dhoodh	10
+15 Priya galiyarey gayi.
+16 Badri gusalkhaney mein gaya.
+17 Mohit ne kya cheezein pakdi hui hein?	dhoodh	10
+1 Priya daftar gayi.
+2 Badri galiyarey mein gaya.
+3 Priya gayend le aayi.
+4 Priya seb le aayi.
+5 Priya ne kya cheezein pakdi hui hein?	gayend,seb	3 4
+6 Priya seb rakh aayi.
+7 Priya seb le kar aayi.
+8 Priya ne kya cheezein pakdi hui hein?	gayend,seb	3 4 6 7
+9 Priya sayanakaksh mein chali gayi.
+10 Sita rasoi ghar gayi.
+11 Priya ne kya cheezein pakdi hui hein?	gayend,seb	3 4 6 7
+12 Priya seb rakh aayi.
+13 Mohit sayanakaksh mein gaya.
+14 Priya ne kya cheezein pakdi hui hein?	gayend	3 4 6 7 12
+15 Mohit seb le aaya.
+16 Priya daftar mein chali gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	seb	15
+1 Badri galiyarey mein gaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Sita rasoi ghar gayi.
+4 Mohit seb le aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	seb	4
+6 Priya daftar mein chali gayi.
+7 Mohit dhoodh le kar aaya.
+8 Mohit ne kya cheezein pakdi hui hein?	seb,dhoodh	4 7
+9 Sita bagichey gayi.
+10 Mohit dhoodh rakh aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	seb	4 7 10
+12 Mohit seb chod aaya.
+13 Mohit galiyarey mein gaya.
+14 Mohit ne kya cheezein pakdi hui hein?	nothing	4 12 7 10
+15 Mohit daftar gaya.
+16 Badri galiyarey mein chala gaya.
+17 Mohit ne kya cheezein pakdi hui hein?	nothing	4 12 7 10
+1 Sita gayend le kar aayi.
+2 Badri gusalkhaney mein chala gaya.
+3 Sita ne kya cheezein pakdi hui hein?	gayend	1
+4 Sita gayend rakh aayi.
+5 Mohit daftar gaya.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	1 4
+7 Badri rasoi ghar mein gaya.
+8 Mohit gusalkhaney gaya.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	1 4
+10 Badri sayanakaksh mein gaya.
+11 Badri seb le kar aaya.
+12 Badri ne kya cheezein pakdi hui hein?	seb	11
+13 Sita gayend le kar aayi.
+14 Badri rasoi ghar mein chala gaya.
+15 Sita ne kya cheezein pakdi hui hein?	gayend	1 4 13
+1 Priya bagichey mein gayi.
+2 Badri galiyarey mein gaya.
+3 Badri daftar mein chala gaya.
+4 Badri seb le aaya.
+5 Badri ne kya cheezein pakdi hui hein?	seb	4
+6 Badri seb rakh aaya.
+7 Priya rasoi ghar gayi.
+8 Badri ne kya cheezein pakdi hui hein?	nothing	4 6
+9 Sita rasoi ghar mein gayi.
+10 Badri galiyarey mein gaya.
+11 Badri ne kya cheezein pakdi hui hein?	nothing	4 6
+12 Badri dhoodh le aaya.
+13 Sita gusalkhaney mein gayi.
+14 Badri ne kya cheezein pakdi hui hein?	dhoodh	4 6 12
+15 Badri gayend le aaya.
+16 Sita rasoi ghar mein chali gayi.
+17 Badri ne kya cheezein pakdi hui hein?	dhoodh,gayend	4 6 12 15
+1 Badri dhoodh le kar aaya.
+2 Mohit galiyarey mein gaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Mohit gayend le kar aaya.
+5 Badri dhoodh rakh aaya.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	1 5
+7 Sita sayanakaksh gayi.
+8 Mohit gusalkhaney mein chala gaya.
+9 Mohit ne kya cheezein pakdi hui hein?	gayend	4
+10 Mohit gayend chod aaya.
+11 Badri rasoi ghar mein chala gaya.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	1 5
+13 Badri sayanakaksh mein gaya.
+14 Mohit daftar gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	nothing	4 10
+1 Sita dhoodh le kar aayi.
+2 Sita dhoodh rakh aayi.
+3 Sita ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Priya rasoi ghar gayi.
+5 Badri gayend le aaya.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	1 2
+7 Sita galiyarey gayi.
+8 Badri gayend rakh aaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	5 8
+10 Mohit gusalkhaney mein gaya.
+11 Mohit dhoodh le aaya.
+12 Mohit ne kya cheezein pakdi hui hein?	dhoodh	11
+13 Priya sayanakaksh gayi.
+14 Badri rasoi ghar mein gaya.
+15 Mohit ne kya cheezein pakdi hui hein?	dhoodh	11
+1 Badri seb le aaya.
+2 Mohit dhoodh le aaya.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita rasoi ghar gayi.
+5 Priya sayanakaksh mein gayi.
+6 Badri ne kya cheezein pakdi hui hein?	seb	1
+7 Badri galiyarey gaya.
+8 Priya daftar mein gayi.
+9 Mohit ne kya cheezein pakdi hui hein?	dhoodh	2
+10 Mohit sayanakaksh gaya.
+11 Badri gusalkhaney gaya.
+12 Badri daftar mein chala gaya.
+13 Mohit daftar gaya.
+14 Priya sayanakaksh mein gayi.
+15 Badri seb chod aaya.
+16 Badri ne kya cheezein pakdi hui hein?	nothing	1 15
+17 Priya gusalkhaney mein gayi.
+18 Mohit dhoodh chod aaya.
+19 Mohit ne kya cheezein pakdi hui hein?	nothing	2 18
+1 Priya galiyarey mein gayi.
+2 Sita sayanakaksh mein gayi.
+3 Sita rasoi ghar gayi.
+4 Sita gayend le aayi.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	4
+6 Sita sayanakaksh mein gayi.
+7 Sita gayend rakh aayi.
+8 Sita ne kya cheezein pakdi hui hein?	nothing	4 7
+9 Sita galiyarey gayi.
+10 Priya seb le kar aayi.
+11 Sita ne kya cheezein pakdi hui hein?	nothing	4 7
+12 Priya rasoi ghar mein gayi.
+13 Sita sayanakaksh mein chali gayi.
+14 Priya ne kya cheezein pakdi hui hein?	seb	10
+15 Badri dhoodh le aaya.
+16 Priya seb chod aayi.
+17 Badri ne kya cheezein pakdi hui hein?	dhoodh	15
+1 Priya dhoodh le aayi.
+2 Sita bagichey mein gayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Mohit daftar gaya.
+5 Priya daftar mein gayi.
+6 Priya ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Sita rasoi ghar mein chali gayi.
+8 Badri gusalkhaney mein gaya.
+9 Priya gusalkhaney mein gayi.
+10 Mohit gayend le aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	gayend	10
+12 Mohit bagichey gaya.
+13 Priya dhoodh chod aayi.
+14 Priya ne kya cheezein pakdi hui hein?	nothing	1 13
+15 Badri daftar mein gaya.
+16 Priya dhoodh le aayi.
+17 Priya ne kya cheezein pakdi hui hein?	dhoodh	1 13 16
+1 Priya gusalkhaney mein chali gayi.
+2 Badri dhoodh le kar aaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Priya daftar mein chali gayi.
+5 Badri gayend le aaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh,gayend	2 5
+7 Mohit galiyarey mein gaya.
+8 Priya sayanakaksh mein chali gayi.
+9 Badri ne kya cheezein pakdi hui hein?	dhoodh,gayend	2 5
+10 Badri gayend rakh aaya.
+11 Sita bagichey mein chali gayi.
+12 Badri ne kya cheezein pakdi hui hein?	dhoodh	2 5 10
+13 Badri rasoi ghar mein gaya.
+14 Badri dhoodh chod aaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	2 14 5 10
+1 Badri bagichey mein chala gaya.
+2 Sita daftar gayi.
+3 Mohit gayend le aaya.
+4 Mohit gayend chod aaya.
+5 Mohit ne kya cheezein pakdi hui hein?	nothing	3 4
+6 Sita galiyarey mein chali gayi.
+7 Sita daftar mein chali gayi.
+8 Mohit ne kya cheezein pakdi hui hein?	nothing	3 4
+9 Sita sayanakaksh mein gayi.
+10 Mohit rasoi ghar mein gaya.
+11 Mohit ne kya cheezein pakdi hui hein?	nothing	3 4
+12 Sita gayend le aayi.
+13 Mohit sayanakaksh mein gaya.
+14 Sita ne kya cheezein pakdi hui hein?	gayend	12
+15 Priya gusalkhaney mein gayi.
+16 Mohit dhoodh le aaya.
+17 Mohit ne kya cheezein pakdi hui hein?	dhoodh	3 4 16
+1 Sita rasoi ghar gayi.
+2 Sita daftar mein chali gayi.
+3 Priya daftar mein chali gayi.
+4 Mohit rasoi ghar gaya.
+5 Sita rasoi ghar gayi.
+6 Sita gusalkhaney gayi.
+7 Sita sayanakaksh mein gayi.
+8 Sita dhoodh le aayi.
+9 Sita ne kya cheezein pakdi hui hein?	dhoodh	8
+10 Sita dhoodh rakh aayi.
+11 Sita dhoodh le kar aayi.
+12 Sita ne kya cheezein pakdi hui hein?	dhoodh	8 10 11
+13 Sita dhoodh chod aayi.
+14 Sita dhoodh le aayi.
+15 Sita ne kya cheezein pakdi hui hein?	dhoodh	8 10 11 13 14
+16 Priya galiyarey gayi.
+17 Mohit bagichey mein gaya.
+18 Sita ne kya cheezein pakdi hui hein?	dhoodh	8 10 11 13 14
+19 Mohit gusalkhaney mein chala gaya.
+20 Mohit rasoi ghar gaya.
+21 Sita ne kya cheezein pakdi hui hein?	dhoodh	8 10 11 13 14
+1 Sita rasoi ghar mein chali gayi.
+2 Badri gayend le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	2
+4 Badri sayanakaksh mein gaya.
+5 Badri gayend rakh aaya.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Mohit bagichey gaya.
+8 Badri gayend le aaya.
+9 Badri ne kya cheezein pakdi hui hein?	gayend	2 5 8
+10 Sita daftar gayi.
+11 Priya rasoi ghar mein gayi.
+12 Badri ne kya cheezein pakdi hui hein?	gayend	2 5 8
+13 Sita dhoodh le aayi.
+14 Priya sayanakaksh gayi.
+15 Badri ne kya cheezein pakdi hui hein?	gayend	2 5 8
+1 Sita galiyarey mein chali gayi.
+2 Priya galiyarey gayi.
+3 Mohit bagichey mein chala gaya.
+4 Sita bagichey mein gayi.
+5 Mohit rasoi ghar mein chala gaya.
+6 Mohit sayanakaksh mein gaya.
+7 Mohit rasoi ghar mein gaya.
+8 Sita rasoi ghar mein chali gayi.
+9 Badri gusalkhaney mein chala gaya.
+10 Priya gayend le kar aayi.
+11 Priya ne kya cheezein pakdi hui hein?	gayend	10
+12 Sita bagichey mein gayi.
+13 Priya gusalkhaney gayi.
+14 Priya ne kya cheezein pakdi hui hein?	gayend	10
+15 Badri bagichey gaya.
+16 Priya daftar mein gayi.
+17 Priya ne kya cheezein pakdi hui hein?	gayend	10
+18 Priya galiyarey mein chali gayi.
+19 Priya gayend rakh aayi.
+20 Priya ne kya cheezein pakdi hui hein?	nothing	10 19
+21 Mohit gusalkhaney mein gaya.
+22 Mohit galiyarey gaya.
+23 Priya ne kya cheezein pakdi hui hein?	nothing	10 19
+1 Sita sayanakaksh gayi.
+2 Mohit gusalkhaney mein chala gaya.
+3 Mohit bagichey mein chala gaya.
+4 Sita bagichey mein gayi.
+5 Sita dhoodh le aayi.
+6 Mohit gayend le kar aaya.
+7 Mohit ne kya cheezein pakdi hui hein?	gayend	6
+8 Priya galiyarey mein chali gayi.
+9 Sita dhoodh chod aayi.
+10 Sita ne kya cheezein pakdi hui hein?	nothing	5 9
+11 Mohit sayanakaksh mein chala gaya.
+12 Sita galiyarey gayi.
+13 Sita ne kya cheezein pakdi hui hein?	nothing	5 9
+14 Badri gusalkhaney mein chala gaya.
+15 Badri seb le aaya.
+16 Badri ne kya cheezein pakdi hui hein?	seb	15
+17 Mohit rasoi ghar gaya.
+18 Mohit gayend rakh aaya.
+19 Mohit ne kya cheezein pakdi hui hein?	nothing	6 18
+1 Mohit dhoodh le kar aaya.
+2 Sita rasoi ghar gayi.
+3 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Sita daftar gayi.
+5 Priya gusalkhaney gayi.
+6 Mohit ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Priya seb le kar aayi.
+8 Mohit daftar mein chala gaya.
+9 Priya ne kya cheezein pakdi hui hein?	seb	7
+10 Badri galiyarey gaya.
+11 Mohit rasoi ghar mein gaya.
+12 Priya ne kya cheezein pakdi hui hein?	seb	7
+13 Priya seb rakh aayi.
+14 Mohit gayend le kar aaya.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	7 13
+1 Mohit galiyarey gaya.
+2 Priya daftar mein chali gayi.
+3 Sita seb le aayi.
+4 Priya galiyarey mein chali gayi.
+5 Sita ne kya cheezein pakdi hui hein?	seb	3
+6 Sita seb chod aayi.
+7 Sita seb le aayi.
+8 Sita ne kya cheezein pakdi hui hein?	seb	3 6 7
+9 Sita seb chod aayi.
+10 Priya daftar mein chali gayi.
+11 Sita ne kya cheezein pakdi hui hein?	nothing	3 6 7 9
+12 Badri daftar mein chala gaya.
+13 Mohit bagichey mein gaya.
+14 Sita ne kya cheezein pakdi hui hein?	nothing	3 6 7 9
+15 Mohit gusalkhaney mein gaya.
+16 Mohit bagichey mein gaya.
+17 Priya bagichey gayi.
+18 Badri galiyarey gaya.
+19 Sita bagichey mein gayi.
+20 Sita galiyarey mein chali gayi.
+21 Badri daftar mein gaya.
+22 Badri sayanakaksh gaya.
+23 Mohit galiyarey gaya.
+24 Priya galiyarey gayi.
+25 Badri gusalkhaney mein chala gaya.
+26 Mohit gusalkhaney gaya.
+27 Badri galiyarey mein gaya.
+28 Mohit galiyarey gaya.
+29 Badri daftar gaya.
+30 Priya gusalkhaney mein chali gayi.
+31 Priya rasoi ghar mein gayi.
+32 Mohit sayanakaksh gaya.
+33 Mohit gayend le aaya.
+34 Priya sayanakaksh gayi.
+35 Mohit ne kya cheezein pakdi hui hein?	gayend	33
+1 Badri daftar mein gaya.
+2 Sita seb le aayi.
+3 Sita ne kya cheezein pakdi hui hein?	seb	2
+4 Badri galiyarey gaya.
+5 Sita seb rakh aayi.
+6 Sita ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Sita bagichey mein chali gayi.
+8 Sita galiyarey mein gayi.
+9 Sita ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Mohit gusalkhaney mein chala gaya.
+11 Mohit bagichey gaya.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	2 5
+13 Priya rasoi ghar mein chali gayi.
+14 Priya gayend le aayi.
+15 Priya ne kya cheezein pakdi hui hein?	gayend	14
+1 Badri gayend le aaya.
+2 Mohit sayanakaksh mein gaya.
+3 Badri ne kya cheezein pakdi hui hein?	gayend	1
+4 Priya daftar gayi.
+5 Badri seb le aaya.
+6 Badri ne kya cheezein pakdi hui hein?	gayend,seb	1 5
+7 Badri gayend chod aaya.
+8 Badri seb chod aaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	1 7 5 8
+10 Priya rasoi ghar mein chali gayi.
+11 Badri gusalkhaney mein chala gaya.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	1 7 5 8
+13 Priya bagichey mein chali gayi.
+14 Sita seb le kar aayi.
+15 Sita ne kya cheezein pakdi hui hein?	seb	14
+1 Priya bagichey gayi.
+2 Badri dhoodh le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita galiyarey mein gayi.
+5 Badri galiyarey mein gaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Badri rasoi ghar mein chala gaya.
+8 Badri sayanakaksh mein gaya.
+9 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+10 Badri rasoi ghar mein gaya.
+11 Badri dhoodh rakh aaya.
+12 Badri ne kya cheezein pakdi hui hein?	nothing	2 11
+13 Sita gayend le kar aayi.
+14 Priya daftar mein gayi.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	2 11
+1 Mohit daftar gaya.
+2 Mohit rasoi ghar mein gaya.
+3 Badri sayanakaksh mein gaya.
+4 Sita gayend le kar aayi.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	4
+6 Sita seb le aayi.
+7 Sita seb chod aayi.
+8 Sita ne kya cheezein pakdi hui hein?	gayend	4 6 7
+9 Mohit bagichey mein gaya.
+10 Priya rasoi ghar mein gayi.
+11 Sita ne kya cheezein pakdi hui hein?	gayend	4 6 7
+12 Sita gusalkhaney mein chali gayi.
+13 Priya gusalkhaney mein gayi.
+14 Sita ne kya cheezein pakdi hui hein?	gayend	4 6 7
+15 Sita gayend rakh aayi.
+16 Badri galiyarey gaya.
+17 Sita ne kya cheezein pakdi hui hein?	nothing	4 15 6 7
+1 Sita galiyarey gayi.
+2 Priya gayend le kar aayi.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	2
+4 Sita gusalkhaney mein chali gayi.
+5 Sita bagichey mein chali gayi.
+6 Priya ne kya cheezein pakdi hui hein?	gayend	2
+7 Mohit bagichey gaya.
+8 Priya gayend rakh aayi.
+9 Priya ne kya cheezein pakdi hui hein?	nothing	2 8
+10 Badri sayanakaksh mein gaya.
+11 Priya gayend le kar aayi.
+12 Priya ne kya cheezein pakdi hui hein?	gayend	2 8 11
+13 Mohit gusalkhaney gaya.
+14 Priya bagichey gayi.
+15 Priya ne kya cheezein pakdi hui hein?	gayend	2 8 11
+1 Sita gayend le kar aayi.
+2 Mohit gusalkhaney gaya.
+3 Sita ne kya cheezein pakdi hui hein?	gayend	1
+4 Badri sayanakaksh mein gaya.
+5 Sita dhoodh le aayi.
+6 Sita ne kya cheezein pakdi hui hein?	gayend,dhoodh	1 5
+7 Sita dhoodh rakh aayi.
+8 Priya daftar mein gayi.
+9 Sita ne kya cheezein pakdi hui hein?	gayend	1 5 7
+10 Priya sayanakaksh mein chali gayi.
+11 Priya gusalkhaney mein gayi.
+12 Sita ne kya cheezein pakdi hui hein?	gayend	1 5 7
+13 Sita dhoodh le aayi.
+14 Priya sayanakaksh mein chali gayi.
+15 Sita ne kya cheezein pakdi hui hein?	gayend,dhoodh	1 5 7 13
+1 Sita galiyarey gayi.
+2 Priya dhoodh le aayi.
+3 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Sita seb le kar aayi.
+5 Priya gusalkhaney mein gayi.
+6 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+7 Mohit galiyarey mein chala gaya.
+8 Sita bagichey gayi.
+9 Priya ne kya cheezein pakdi hui hein?	dhoodh	2
+10 Priya dhoodh chod aayi.
+11 Sita galiyarey mein gayi.
+12 Priya ne kya cheezein pakdi hui hein?	nothing	2 10
+13 Badri gusalkhaney mein gaya.
+14 Sita seb rakh aayi.
+15 Priya ne kya cheezein pakdi hui hein?	nothing	2 10
+1 Mohit sayanakaksh gaya.
+2 Badri seb le kar aaya.
+3 Badri ne kya cheezein pakdi hui hein?	seb	2
+4 Badri daftar mein chala gaya.
+5 Badri gusalkhaney mein gaya.
+6 Badri ne kya cheezein pakdi hui hein?	seb	2
+7 Priya rasoi ghar mein gayi.
+8 Badri seb chod aaya.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	2 8
+10 Sita rasoi ghar mein chali gayi.
+11 Badri seb le aaya.
+12 Badri ne kya cheezein pakdi hui hein?	seb	2 8 11
+13 Badri galiyarey mein gaya.
+14 Priya gusalkhaney gayi.
+15 Badri ne kya cheezein pakdi hui hein?	seb	2 8 11
+1 Priya galiyarey gayi.
+2 Mohit rasoi ghar mein chala gaya.
+3 Sita bagichey gayi.
+4 Badri rasoi ghar gaya.
+5 Sita seb le kar aayi.
+6 Badri sayanakaksh mein chala gaya.
+7 Sita ne kya cheezein pakdi hui hein?	seb	5
+8 Mohit galiyarey mein gaya.
+9 Sita seb chod aayi.
+10 Sita ne kya cheezein pakdi hui hein?	nothing	5 9
+11 Mohit sayanakaksh gaya.
+12 Badri gusalkhaney mein gaya.
+13 Sita ne kya cheezein pakdi hui hein?	nothing	5 9
+14 Priya rasoi ghar mein chali gayi.
+15 Mohit galiyarey mein gaya.
+16 Sita ne kya cheezein pakdi hui hein?	nothing	5 9
+17 Sita seb le kar aayi.
+18 Sita rasoi ghar gayi.
+19 Sita ne kya cheezein pakdi hui hein?	seb	5 9 17
+1 Priya galiyarey mein chali gayi.
+2 Badri seb le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	seb	2
+4 Badri seb chod aaya.
+5 Mohit galiyarey mein chala gaya.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	2 4
+7 Sita gayend le kar aayi.
+8 Sita daftar gayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	2 4
+10 Sita gayend chod aayi.
+11 Badri seb le aaya.
+12 Sita ne kya cheezein pakdi hui hein?	nothing	7 10
+13 Priya bagichey gayi.
+14 Badri seb chod aaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	2 4 11 14
+1 Sita dhoodh le aayi.
+2 Mohit gusalkhaney gaya.
+3 Sita ne kya cheezein pakdi hui hein?	dhoodh	1
+4 Sita gusalkhaney mein chali gayi.
+5 Mohit galiyarey mein chala gaya.
+6 Sita ne kya cheezein pakdi hui hein?	dhoodh	1
+7 Mohit sayanakaksh mein gaya.
+8 Badri gayend le aaya.
+9 Badri ne kya cheezein pakdi hui hein?	gayend	8
+10 Sita bagichey mein chali gayi.
+11 Priya seb le kar aayi.
+12 Badri ne kya cheezein pakdi hui hein?	gayend	8
+13 Badri gayend rakh aaya.
+14 Mohit bagichey gaya.
+15 Priya ne kya cheezein pakdi hui hein?	seb	11
+1 Sita sayanakaksh gayi.
+2 Badri seb le kar aaya.
+3 Badri ne kya cheezein pakdi hui hein?	seb	2
+4 Mohit bagichey mein gaya.
+5 Priya rasoi ghar mein gayi.
+6 Badri ne kya cheezein pakdi hui hein?	seb	2
+7 Badri bagichey mein chala gaya.
+8 Sita dhoodh le aayi.
+9 Sita ne kya cheezein pakdi hui hein?	dhoodh	8
+10 Sita gusalkhaney gayi.
+11 Sita daftar gayi.
+12 Sita ne kya cheezein pakdi hui hein?	dhoodh	8
+13 Mohit galiyarey gaya.
+14 Sita dhoodh chod aayi.
+15 Sita ne kya cheezein pakdi hui hein?	nothing	8 14
+1 Badri daftar mein chala gaya.
+2 Priya rasoi ghar mein gayi.
+3 Sita rasoi ghar mein gayi.
+4 Badri dhoodh le kar aaya.
+5 Badri ne kya cheezein pakdi hui hein?	dhoodh	4
+6 Badri dhoodh chod aaya.
+7 Badri rasoi ghar gaya.
+8 Badri ne kya cheezein pakdi hui hein?	nothing	4 6
+9 Sita daftar gayi.
+10 Mohit gayend le aaya.
+11 Mohit ne kya cheezein pakdi hui hein?	gayend	10
+12 Badri gusalkhaney mein chala gaya.
+13 Priya sayanakaksh mein gayi.
+14 Mohit ne kya cheezein pakdi hui hein?	gayend	10
+15 Mohit gayend rakh aaya.
+16 Priya galiyarey gayi.
+17 Mohit ne kya cheezein pakdi hui hein?	nothing	10 15
+1 Priya gayend le aayi.
+2 Mohit gusalkhaney mein gaya.
+3 Priya ne kya cheezein pakdi hui hein?	gayend	1
+4 Badri daftar mein gaya.
+5 Priya seb le kar aayi.
+6 Priya ne kya cheezein pakdi hui hein?	gayend,seb	1 5
+7 Priya galiyarey mein chali gayi.
+8 Mohit daftar mein gaya.
+9 Priya ne kya cheezein pakdi hui hein?	gayend,seb	1 5
+10 Priya rasoi ghar mein chali gayi.
+11 Badri sayanakaksh gaya.
+12 Priya ne kya cheezein pakdi hui hein?	gayend,seb	1 5
+13 Mohit sayanakaksh gaya.
+14 Mohit gusalkhaney mein chala gaya.
+15 Mohit sayanakaksh gaya.
+16 Priya gayend rakh aayi.
+17 Priya ne kya cheezein pakdi hui hein?	seb	1 16 5
+1 Badri galiyarey mein chala gaya.
+2 Sita galiyarey mein chali gayi.
+3 Sita rasoi ghar mein chali gayi.
+4 Sita gayend le kar aayi.
+5 Sita ne kya cheezein pakdi hui hein?	gayend	4
+6 Sita gayend rakh aayi.
+7 Badri rasoi ghar mein chala gaya.
+8 Sita ne kya cheezein pakdi hui hein?	nothing	4 6
+9 Priya galiyarey gayi.
+10 Badri gayend le aaya.
+11 Badri ne kya cheezein pakdi hui hein?	gayend	10
+12 Mohit bagichey mein chala gaya.
+13 Sita galiyarey mein chali gayi.
+14 Badri ne kya cheezein pakdi hui hein?	gayend	10
+15 Mohit galiyarey mein chala gaya.
+16 Badri gayend rakh aaya.
+17 Badri ne kya cheezein pakdi hui hein?	nothing	10 16
+1 Badri dhoodh le aaya.
+2 Badri dhoodh rakh aaya.
+3 Badri ne kya cheezein pakdi hui hein?	nothing	1 2
+4 Priya daftar mein gayi.
+5 Badri dhoodh le aaya.
+6 Badri ne kya cheezein pakdi hui hein?	dhoodh	1 2 5
+7 Priya seb le aayi.
+8 Badri dhoodh chod aaya.
+9 Priya ne kya cheezein pakdi hui hein?	seb	7
+10 Badri dhoodh le aaya.
+11 Badri sayanakaksh mein chala gaya.
+12 Priya ne kya cheezein pakdi hui hein?	seb	7
+13 Sita gusalkhaney gayi.
+14 Badri dhoodh chod aaya.
+15 Badri ne kya cheezein pakdi hui hein?	nothing	1 2 5 8 10 14
+1 Badri sayanakaksh gaya.
+2 Badri dhoodh le aaya.
+3 Badri ne kya cheezein pakdi hui hein?	dhoodh	2
+4 Priya galiyarey mein gayi.
+5 Badri dhoodh rakh aaya.
+6 Badri ne kya cheezein pakdi hui hein?	nothing	2 5
+7 Badri galiyarey mein gaya.
+8 Sita galiyarey mein chali gayi.
+9 Badri ne kya cheezein pakdi hui hein?	nothing	2 5
+10 Priya rasoi ghar gayi.
+11 Mohit gayend le kar aaya.
+12 Mohit ne kya cheezein pakdi hui hein?	gayend	11
+13 Priya gusalkhaney mein gayi.
+14 Sita bagichey mein gayi.
+15 Mohit ne kya cheezein pakdi hui hein?	gayend	11

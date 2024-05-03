@@ -1,0 +1,3080 @@
+1 Sita dhoodh le kar aayi.
+2 Mohit sayanakaksh gaya.
+3 Kya mohit galiyare mein hai?	galat	2
+4 Mohit bagichey mein chala gaya.
+5 Badri gusalkhane gaya.
+6 Kya badri gusalkhane mein hai?	sahi	5
+7 Priya sayanakaksh mein chali gayi.
+8 Sita gendh le aayi.
+9 Kya badri bagichey mein hai?	galat	5
+10 Sita dhoodh rakh aayi.
+11 Priya seb le aayi.
+12 Kya priya sayanakaksh mein hai?	sahi	7
+13 Badri rasoi ghar mein chala gaya.
+14 Badri bagichey mein gaya.
+15 Kya badri bagichey mein hai?	sahi	14
+1 Badri seb le aaya.
+2 Mohit rasoi ghar gaya.
+3 Kya mohit rasoi ghar mein hai?	sahi	2
+4 Mohit daftar gaya.
+5 Badri rasoi ghar gaya.
+6 Kya mohit daftar mein hai?	sahi	4
+7 Sita gusalkhane gayi.
+8 Mohit sayanakaksh mein chala gaya.
+9 Kya mohit rasoi ghar mein hai?	galat	8
+10 Mohit bagichey mein chala gaya.
+11 Mohit galiyare gaya.
+12 Kya mohit gusalkhane mein hai?	galat	11
+13 Badri galiyare mein gaya.
+14 Mohit daftar mein chala gaya.
+15 Kya mohit daftar mein hai?	sahi	14
+1 Mohit rasoi ghar mein gaya.
+2 Priya rasoi ghar gayi.
+3 Kya priya bagichey mein hai?	galat	2
+4 Sita sayanakaksh mein gayi.
+5 Sita seb le aayi.
+6 Kya mohit gusalkhane mein hai?	galat	1
+7 Badri sayanakaksh gaya.
+8 Badri gusalkhane mein chala gaya.
+9 Kya badri bagichey mein hai?	galat	8
+10 Badri daftar mein gaya.
+11 Priya bagichey mein gayi.
+12 Kya priya sayanakaksh mein hai?	galat	11
+13 Sita gusalkhane mein chali gayi.
+14 Mohit daftar gaya.
+15 Kya mohit daftar mein hai?	sahi	14
+1 Sita seb le aayi.
+2 Sita gendh le aayi.
+3 Sita galiyare mein gayi.
+4 Priya dhoodh le kar aayi.
+5 Kya sita sayanakaksh mein hai?	galat	3
+6 Sita seb rakh aayi.
+7 Sita bagichey mein gayi.
+8 Kya sita galiyare mein hai?	galat	7
+9 Mohit seb le aaya.
+10 Mohit bagichey mein chala gaya.
+11 Kya mohit bagichey mein hai?	sahi	10
+12 Mohit daftar mein chala gaya.
+13 Badri sayanakaksh mein gaya.
+14 Kya sita bagichey mein hai?	sahi	7
+15 Sita rasoi ghar mein chali gayi.
+16 Sita gendh rakh aayi.
+17 Kya sita rasoi ghar mein hai?	sahi	15
+1 Priya rasoi ghar mein gayi.
+2 Badri dhoodh le kar aaya.
+3 Kya priya rasoi ghar mein hai?	sahi	1
+4 Badri dhoodh rakh aaya.
+5 Sita daftar mein gayi.
+6 Kya sita daftar mein hai?	sahi	5
+7 Priya galiyare mein chali gayi.
+8 Priya daftar mein chali gayi.
+9 Kya priya gusalkhane mein hai?	galat	8
+10 Priya sayanakaksh mein chali gayi.
+11 Priya daftar mein chali gayi.
+12 Kya priya galiyare mein hai?	galat	11
+13 Priya bagichey gayi.
+14 Badri dhoodh le aaya.
+15 Kya priya rasoi ghar mein hai?	galat	13
+1 Mohit rasoi ghar gaya.
+2 Sita daftar mein gayi.
+3 Kya mohit galiyare mein hai?	galat	1
+4 Sita bagichey gayi.
+5 Mohit bagichey gaya.
+6 Kya sita bagichey mein hai?	sahi	4
+7 Badri galiyare mein chala gaya.
+8 Priya seb le kar aayi.
+9 Kya sita bagichey mein hai?	sahi	4
+10 Priya seb chod aayi.
+11 Priya seb le aayi.
+12 Kya mohit rasoi ghar mein hai?	galat	5
+13 Priya seb chod aayi.
+14 Mohit daftar gaya.
+15 Kya mohit daftar mein hai?	sahi	14
+1 Badri seb le aaya.
+2 Badri gusalkhane gaya.
+3 Kya badri bagichey mein hai?	galat	2
+4 Priya rasoi ghar mein gayi.
+5 Priya sayanakaksh mein gayi.
+6 Kya priya sayanakaksh mein hai?	sahi	5
+7 Badri rasoi ghar mein chala gaya.
+8 Mohit daftar mein chala gaya.
+9 Kya priya bagichey mein hai?	galat	5
+10 Badri seb chod aaya.
+11 Priya gusalkhane gayi.
+12 Kya mohit galiyare mein hai?	galat	8
+13 Sita seb le kar aayi.
+14 Sita seb rakh aayi.
+15 Kya priya rasoi ghar mein hai?	galat	11
+1 Priya bagichey gayi.
+2 Sita sayanakaksh mein gayi.
+3 Kya sita daftar mein hai?	galat	2
+4 Sita bagichey gayi.
+5 Priya galiyare gayi.
+6 Kya priya galiyare mein hai?	sahi	5
+7 Priya sayanakaksh mein gayi.
+8 Sita gusalkhane gayi.
+9 Kya sita gusalkhane mein hai?	sahi	8
+10 Priya bagichey gayi.
+11 Sita dhoodh le aayi.
+12 Kya priya sayanakaksh mein hai?	galat	10
+13 Priya daftar gayi.
+14 Mohit daftar mein chala gaya.
+15 Kya priya daftar mein hai?	sahi	13
+1 Priya gendh le kar aayi.
+2 Badri bagichey gaya.
+3 Kya badri bagichey mein hai?	sahi	2
+4 Priya daftar mein chali gayi.
+5 Priya bagichey mein chali gayi.
+6 Kya priya bagichey mein hai?	sahi	5
+7 Badri gusalkhane gaya.
+8 Sita rasoi ghar mein gayi.
+9 Kya priya galiyare mein hai?	galat	5
+10 Priya sayanakaksh mein chali gayi.
+11 Mohit sayanakaksh mein chala gaya.
+12 Kya sita bagichey mein hai?	galat	8
+13 Priya gusalkhane mein chali gayi.
+14 Priya bagichey gayi.
+15 Kya priya bagichey mein hai?	sahi	14
+1 Mohit dhoodh le aaya.
+2 Mohit dhoodh rakh aaya.
+3 Sita dhoodh le kar aayi.
+4 Priya gendh le kar aayi.
+5 Badri bagichey mein gaya.
+6 Badri daftar mein gaya.
+7 Kya badri daftar mein hai?	sahi	6
+8 Sita dhoodh rakh aayi.
+9 Priya sayanakaksh gayi.
+10 Kya priya sayanakaksh mein hai?	sahi	9
+11 Sita bagichey mein chali gayi.
+12 Sita daftar mein chali gayi.
+13 Kya sita daftar mein hai?	sahi	12
+14 Sita seb le aayi.
+15 Sita galiyare gayi.
+16 Kya priya galiyare mein hai?	galat	9
+17 Sita dhoodh le aayi.
+18 Priya bagichey mein gayi.
+19 Kya sita galiyare mein hai?	sahi	15
+1 Badri rasoi ghar mein chala gaya.
+2 Mohit galiyare gaya.
+3 Kya mohit galiyare mein hai?	sahi	2
+4 Priya bagichey mein gayi.
+5 Mohit sayanakaksh mein chala gaya.
+6 Kya priya galiyare mein hai?	galat	4
+7 Mohit gendh le kar aaya.
+8 Priya galiyare gayi.
+9 Kya mohit gusalkhane mein hai?	galat	5
+10 Mohit gendh chod aaya.
+11 Priya sayanakaksh gayi.
+12 Kya mohit sayanakaksh mein hai?	sahi	5
+13 Sita gusalkhane mein chali gayi.
+14 Mohit gendh le kar aaya.
+15 Kya sita gusalkhane mein hai?	sahi	13
+1 Mohit daftar gaya.
+2 Sita bagichey gayi.
+3 Kya mohit daftar mein hai?	sahi	1
+4 Sita gendh le kar aayi.
+5 Mohit rasoi ghar gaya.
+6 Kya mohit sayanakaksh mein hai?	galat	5
+7 Sita sayanakaksh mein chali gayi.
+8 Mohit galiyare mein gaya.
+9 Kya mohit galiyare mein hai?	sahi	8
+10 Sita bagichey gayi.
+11 Badri seb le kar aaya.
+12 Kya sita bagichey mein hai?	sahi	10
+13 Badri seb rakh aaya.
+14 Sita gendh chod aayi.
+15 Kya mohit rasoi ghar mein hai?	galat	8
+1 Mohit gendh le kar aaya.
+2 Mohit daftar gaya.
+3 Kya mohit gusalkhane mein hai?	galat	2
+4 Sita dhoodh le aayi.
+5 Sita gusalkhane gayi.
+6 Kya mohit sayanakaksh mein hai?	galat	2
+7 Mohit gendh rakh aaya.
+8 Badri daftar mein gaya.
+9 Kya badri daftar mein hai?	sahi	8
+10 Sita sayanakaksh mein gayi.
+11 Mohit bagichey mein chala gaya.
+12 Kya badri daftar mein hai?	sahi	8
+13 Badri bagichey mein gaya.
+14 Priya gusalkhane gayi.
+15 Kya badri bagichey mein hai?	sahi	13
+1 Priya bagichey mein chali gayi.
+2 Badri rasoi ghar mein gaya.
+3 Kya badri gusalkhane mein hai?	galat	2
+4 Sita rasoi ghar mein gayi.
+5 Mohit galiyare mein gaya.
+6 Kya badri rasoi ghar mein hai?	sahi	2
+7 Badri gusalkhane mein gaya.
+8 Badri bagichey mein gaya.
+9 Kya badri galiyare mein hai?	galat	8
+10 Mohit gusalkhane gaya.
+11 Sita gusalkhane mein gayi.
+12 Kya badri bagichey mein hai?	sahi	8
+13 Priya gusalkhane mein chali gayi.
+14 Priya dhoodh le aayi.
+15 Kya mohit gusalkhane mein hai?	sahi	10
+1 Badri gusalkhane mein gaya.
+2 Priya sayanakaksh gayi.
+3 Kya priya galiyare mein hai?	galat	2
+4 Sita daftar mein chali gayi.
+5 Sita bagichey gayi.
+6 Kya sita bagichey mein hai?	sahi	5
+7 Sita rasoi ghar mein gayi.
+8 Sita galiyare mein chali gayi.
+9 Kya sita galiyare mein hai?	sahi	8
+10 Badri sayanakaksh mein gaya.
+11 Priya gendh le kar aayi.
+12 Kya sita galiyare mein hai?	sahi	8
+13 Priya gendh chod aayi.
+14 Priya gendh le kar aayi.
+15 Kya badri gusalkhane mein hai?	galat	10
+1 Badri gendh le aaya.
+2 Badri bagichey mein chala gaya.
+3 Kya badri bagichey mein hai?	sahi	2
+4 Badri gendh rakh aaya.
+5 Badri gusalkhane gaya.
+6 Kya badri gusalkhane mein hai?	sahi	5
+7 Mohit daftar gaya.
+8 Mohit bagichey mein chala gaya.
+9 Kya mohit bagichey mein hai?	sahi	8
+10 Sita sayanakaksh mein gayi.
+11 Priya gendh le kar aayi.
+12 Kya sita sayanakaksh mein hai?	sahi	10
+13 Badri rasoi ghar gaya.
+14 Mohit gusalkhane gaya.
+15 Kya mohit galiyare mein hai?	galat	14
+1 Priya gendh le aayi.
+2 Badri seb le kar aaya.
+3 Badri bagichey gaya.
+4 Mohit gusalkhane mein gaya.
+5 Kya badri galiyare mein hai?	galat	3
+6 Priya daftar gayi.
+7 Priya gendh rakh aayi.
+8 Kya badri bagichey mein hai?	sahi	3
+9 Mohit daftar mein chala gaya.
+10 Mohit gendh le aaya.
+11 Kya mohit daftar mein hai?	sahi	9
+12 Mohit gendh chod aaya.
+13 Mohit galiyare mein chala gaya.
+14 Kya mohit galiyare mein hai?	sahi	13
+15 Priya rasoi ghar mein gayi.
+16 Badri seb chod aaya.
+17 Kya mohit rasoi ghar mein hai?	galat	13
+1 Priya gusalkhane mein chali gayi.
+2 Badri gusalkhane gaya.
+3 Kya badri gusalkhane mein hai?	sahi	2
+4 Priya rasoi ghar mein gayi.
+5 Mohit daftar gaya.
+6 Kya mohit galiyare mein hai?	galat	5
+7 Mohit rasoi ghar mein gaya.
+8 Sita bagichey mein chali gayi.
+9 Kya badri galiyare mein hai?	galat	2
+10 Badri gendh le aaya.
+11 Sita dhoodh le aayi.
+12 Kya mohit gusalkhane mein hai?	galat	7
+13 Mohit gusalkhane mein chala gaya.
+14 Sita dhoodh rakh aayi.
+15 Kya mohit rasoi ghar mein hai?	galat	13
+1 Priya galiyare gayi.
+2 Mohit gendh le kar aaya.
+3 Kya priya galiyare mein hai?	sahi	1
+4 Sita gusalkhane mein chali gayi.
+5 Badri rasoi ghar mein chala gaya.
+6 Kya badri rasoi ghar mein hai?	sahi	5
+7 Mohit dhoodh le kar aaya.
+8 Priya daftar mein gayi.
+9 Kya sita gusalkhane mein hai?	sahi	4
+10 Mohit seb le aaya.
+11 Badri bagichey gaya.
+12 Kya priya bagichey mein hai?	galat	8
+13 Priya sayanakaksh gayi.
+14 Mohit dhoodh rakh aaya.
+15 Kya priya rasoi ghar mein hai?	galat	13
+1 Badri daftar mein chala gaya.
+2 Priya seb le aayi.
+3 Kya badri rasoi ghar mein hai?	galat	1
+4 Priya seb rakh aayi.
+5 Mohit rasoi ghar mein chala gaya.
+6 Kya badri gusalkhane mein hai?	galat	1
+7 Priya seb le kar aayi.
+8 Mohit sayanakaksh gaya.
+9 Kya mohit bagichey mein hai?	galat	8
+10 Priya gusalkhane mein gayi.
+11 Mohit bagichey mein gaya.
+12 Kya priya gusalkhane mein hai?	sahi	10
+13 Badri rasoi ghar mein gaya.
+14 Priya seb rakh aayi.
+15 Kya badri rasoi ghar mein hai?	sahi	13
+1 Mohit rasoi ghar mein chala gaya.
+2 Badri bagichey mein chala gaya.
+3 Kya mohit rasoi ghar mein hai?	sahi	1
+4 Sita bagichey mein chali gayi.
+5 Sita galiyare mein chali gayi.
+6 Kya sita bagichey mein hai?	galat	5
+7 Sita rasoi ghar mein chali gayi.
+8 Sita sayanakaksh mein gayi.
+9 Kya badri sayanakaksh mein hai?	galat	2
+10 Mohit daftar gaya.
+11 Priya bagichey gayi.
+12 Kya priya sayanakaksh mein hai?	galat	11
+13 Badri gusalkhane mein gaya.
+14 Sita gusalkhane mein chali gayi.
+15 Kya sita gusalkhane mein hai?	sahi	14
+1 Sita rasoi ghar mein chali gayi.
+2 Mohit dhoodh le kar aaya.
+3 Kya sita bagichey mein hai?	galat	1
+4 Sita seb le kar aayi.
+5 Mohit rasoi ghar gaya.
+6 Kya mohit daftar mein hai?	galat	5
+7 Sita bagichey gayi.
+8 Mohit bagichey mein gaya.
+9 Kya mohit bagichey mein hai?	sahi	8
+10 Sita gendh le kar aayi.
+11 Mohit daftar mein gaya.
+12 Kya mohit galiyare mein hai?	galat	11
+13 Badri daftar mein gaya.
+14 Priya gusalkhane gayi.
+15 Kya mohit gusalkhane mein hai?	galat	11
+1 Mohit daftar gaya.
+2 Priya rasoi ghar mein chali gayi.
+3 Kya priya rasoi ghar mein hai?	sahi	2
+4 Sita rasoi ghar mein chali gayi.
+5 Mohit gusalkhane gaya.
+6 Kya priya bagichey mein hai?	galat	2
+7 Mohit dhoodh le aaya.
+8 Badri sayanakaksh mein gaya.
+9 Kya sita rasoi ghar mein hai?	sahi	4
+10 Mohit dhoodh chod aaya.
+11 Mohit rasoi ghar mein gaya.
+12 Kya badri sayanakaksh mein hai?	sahi	8
+13 Sita galiyare gayi.
+14 Badri gusalkhane mein gaya.
+15 Kya sita sayanakaksh mein hai?	galat	13
+1 Sita sayanakaksh mein chali gayi.
+2 Priya galiyare mein chali gayi.
+3 Kya sita gusalkhane mein hai?	galat	1
+4 Mohit dhoodh le aaya.
+5 Badri bagichey mein chala gaya.
+6 Kya sita sayanakaksh mein hai?	sahi	1
+7 Mohit dhoodh rakh aaya.
+8 Priya daftar gayi.
+9 Kya badri bagichey mein hai?	sahi	5
+10 Sita bagichey gayi.
+11 Sita dhoodh le kar aayi.
+12 Kya priya gusalkhane mein hai?	galat	8
+13 Mohit daftar gaya.
+14 Priya bagichey gayi.
+15 Kya sita bagichey mein hai?	sahi	10
+1 Badri daftar mein chala gaya.
+2 Mohit bagichey gaya.
+3 Kya badri rasoi ghar mein hai?	galat	1
+4 Badri gusalkhane mein gaya.
+5 Sita galiyare mein chali gayi.
+6 Kya badri gusalkhane mein hai?	sahi	4
+7 Sita sayanakaksh gayi.
+8 Mohit gendh le aaya.
+9 Kya mohit rasoi ghar mein hai?	galat	2
+10 Sita rasoi ghar mein chali gayi.
+11 Sita dhoodh le aayi.
+12 Kya sita galiyare mein hai?	galat	10
+13 Sita bagichey mein gayi.
+14 Priya rasoi ghar mein chali gayi.
+15 Kya priya rasoi ghar mein hai?	sahi	14
+1 Sita dhoodh le aayi.
+2 Priya gendh le kar aayi.
+3 Priya rasoi ghar mein chali gayi.
+4 Priya sayanakaksh mein gayi.
+5 Kya priya sayanakaksh mein hai?	sahi	4
+6 Sita dhoodh rakh aayi.
+7 Badri bagichey mein gaya.
+8 Kya priya sayanakaksh mein hai?	sahi	4
+9 Sita dhoodh le kar aayi.
+10 Sita dhoodh chod aayi.
+11 Kya badri gusalkhane mein hai?	galat	7
+12 Priya rasoi ghar mein chali gayi.
+13 Badri daftar mein chala gaya.
+14 Kya priya rasoi ghar mein hai?	sahi	12
+15 Badri sayanakaksh mein gaya.
+16 Mohit sayanakaksh mein gaya.
+17 Kya mohit sayanakaksh mein hai?	sahi	16
+1 Badri gusalkhane mein chala gaya.
+2 Priya gendh le kar aayi.
+3 Kya badri gusalkhane mein hai?	sahi	1
+4 Priya gendh chod aayi.
+5 Priya sayanakaksh mein chali gayi.
+6 Kya priya sayanakaksh mein hai?	sahi	5
+7 Priya seb le aayi.
+8 Priya seb chod aayi.
+9 Kya priya sayanakaksh mein hai?	sahi	5
+10 Priya seb le aayi.
+11 Priya seb rakh aayi.
+12 Kya priya sayanakaksh mein hai?	sahi	5
+13 Priya rasoi ghar gayi.
+14 Sita rasoi ghar gayi.
+15 Kya sita galiyare mein hai?	galat	14
+1 Sita gusalkhane mein gayi.
+2 Sita sayanakaksh gayi.
+3 Kya sita sayanakaksh mein hai?	sahi	2
+4 Priya galiyare mein gayi.
+5 Badri gendh le aaya.
+6 Kya sita bagichey mein hai?	galat	2
+7 Sita daftar gayi.
+8 Badri gendh rakh aaya.
+9 Kya sita galiyare mein hai?	galat	7
+10 Priya rasoi ghar gayi.
+11 Mohit daftar mein chala gaya.
+12 Kya sita daftar mein hai?	sahi	7
+13 Mohit dhoodh le kar aaya.
+14 Mohit dhoodh chod aaya.
+15 Kya mohit rasoi ghar mein hai?	galat	11
+1 Priya daftar mein gayi.
+2 Priya galiyare mein gayi.
+3 Kya priya bagichey mein hai?	galat	2
+4 Badri bagichey gaya.
+5 Sita seb le kar aayi.
+6 Kya badri daftar mein hai?	galat	4
+7 Sita galiyare mein gayi.
+8 Badri sayanakaksh mein chala gaya.
+9 Kya sita galiyare mein hai?	sahi	7
+10 Mohit rasoi ghar mein gaya.
+11 Badri dhoodh le aaya.
+12 Kya sita rasoi ghar mein hai?	galat	7
+13 Sita seb chod aayi.
+14 Badri galiyare mein gaya.
+15 Kya mohit sayanakaksh mein hai?	galat	10
+1 Mohit seb le aaya.
+2 Badri rasoi ghar mein gaya.
+3 Kya badri bagichey mein hai?	galat	2
+4 Priya sayanakaksh mein chali gayi.
+5 Sita daftar mein chali gayi.
+6 Kya priya galiyare mein hai?	galat	4
+7 Mohit seb rakh aaya.
+8 Sita sayanakaksh mein chali gayi.
+9 Kya badri rasoi ghar mein hai?	sahi	2
+10 Mohit seb le kar aaya.
+11 Mohit seb rakh aaya.
+12 Kya sita bagichey mein hai?	galat	8
+13 Priya gusalkhane mein gayi.
+14 Mohit gusalkhane mein gaya.
+15 Kya mohit sayanakaksh mein hai?	galat	14
+1 Mohit gendh le kar aaya.
+2 Priya galiyare mein chali gayi.
+3 Kya priya gusalkhane mein hai?	galat	2
+4 Priya rasoi ghar mein chali gayi.
+5 Badri sayanakaksh gaya.
+6 Kya priya galiyare mein hai?	galat	4
+7 Mohit gendh rakh aaya.
+8 Priya galiyare gayi.
+9 Kya priya galiyare mein hai?	sahi	8
+10 Priya gusalkhane mein gayi.
+11 Priya gendh le aayi.
+12 Kya badri sayanakaksh mein hai?	sahi	5
+13 Badri bagichey mein gaya.
+14 Sita daftar mein gayi.
+15 Kya priya daftar mein hai?	galat	10
+1 Mohit rasoi ghar gaya.
+2 Priya gendh le aayi.
+3 Kya mohit rasoi ghar mein hai?	sahi	1
+4 Mohit sayanakaksh mein chala gaya.
+5 Badri galiyare gaya.
+6 Kya mohit sayanakaksh mein hai?	sahi	4
+7 Priya gendh rakh aayi.
+8 Sita gusalkhane mein chali gayi.
+9 Kya badri sayanakaksh mein hai?	galat	5
+10 Mohit galiyare mein gaya.
+11 Sita sayanakaksh gayi.
+12 Kya badri bagichey mein hai?	galat	5
+13 Sita galiyare mein gayi.
+14 Badri gusalkhane mein chala gaya.
+15 Kya sita gusalkhane mein hai?	galat	13
+1 Sita seb le kar aayi.
+2 Badri gusalkhane mein chala gaya.
+3 Kya badri galiyare mein hai?	galat	2
+4 Sita seb chod aayi.
+5 Mohit bagichey mein chala gaya.
+6 Kya badri sayanakaksh mein hai?	galat	2
+7 Badri daftar mein chala gaya.
+8 Sita gusalkhane mein chali gayi.
+9 Kya sita daftar mein hai?	galat	8
+10 Sita bagichey gayi.
+11 Badri bagichey mein chala gaya.
+12 Kya sita daftar mein hai?	galat	10
+13 Mohit daftar mein gaya.
+14 Mohit galiyare mein chala gaya.
+15 Kya sita sayanakaksh mein hai?	galat	10
+1 Badri dhoodh le aaya.
+2 Mohit seb le aaya.
+3 Priya gusalkhane mein gayi.
+4 Mohit seb rakh aaya.
+5 Kya priya daftar mein hai?	galat	3
+6 Mohit seb le kar aaya.
+7 Mohit seb chod aaya.
+8 Kya priya gusalkhane mein hai?	sahi	3
+9 Priya sayanakaksh mein gayi.
+10 Priya rasoi ghar mein gayi.
+11 Kya priya rasoi ghar mein hai?	sahi	10
+12 Sita gusalkhane mein chali gayi.
+13 Badri daftar gaya.
+14 Kya badri daftar mein hai?	sahi	13
+15 Badri gusalkhane gaya.
+16 Mohit seb le kar aaya.
+17 Kya priya rasoi ghar mein hai?	sahi	10
+1 Mohit seb le kar aaya.
+2 Mohit seb chod aaya.
+3 Mohit rasoi ghar mein gaya.
+4 Sita sayanakaksh mein chali gayi.
+5 Kya sita galiyare mein hai?	galat	4
+6 Sita rasoi ghar mein gayi.
+7 Priya bagichey mein gayi.
+8 Kya mohit sayanakaksh mein hai?	galat	3
+9 Priya gendh le aayi.
+10 Priya seb le kar aayi.
+11 Kya sita bagichey mein hai?	galat	6
+12 Priya seb rakh aayi.
+13 Priya gendh chod aayi.
+14 Kya priya bagichey mein hai?	sahi	7
+15 Sita galiyare mein gayi.
+16 Mohit sayanakaksh gaya.
+17 Kya mohit daftar mein hai?	galat	16
+1 Mohit bagichey mein chala gaya.
+2 Mohit galiyare mein chala gaya.
+3 Kya mohit galiyare mein hai?	sahi	2
+4 Sita gusalkhane mein gayi.
+5 Mohit sayanakaksh gaya.
+6 Kya mohit sayanakaksh mein hai?	sahi	5
+7 Sita daftar mein chali gayi.
+8 Sita gusalkhane gayi.
+9 Kya sita daftar mein hai?	galat	8
+10 Mohit gusalkhane gaya.
+11 Mohit daftar mein gaya.
+12 Kya mohit bagichey mein hai?	galat	11
+13 Priya seb le kar aayi.
+14 Priya gendh le aayi.
+15 Kya sita rasoi ghar mein hai?	galat	8
+1 Mohit rasoi ghar mein chala gaya.
+2 Badri gusalkhane mein gaya.
+3 Kya mohit galiyare mein hai?	galat	1
+4 Mohit bagichey mein gaya.
+5 Badri bagichey mein chala gaya.
+6 Kya mohit bagichey mein hai?	sahi	4
+7 Priya daftar gayi.
+8 Badri galiyare mein chala gaya.
+9 Kya badri gusalkhane mein hai?	galat	8
+10 Mohit sayanakaksh mein chala gaya.
+11 Priya gusalkhane gayi.
+12 Kya badri galiyare mein hai?	sahi	8
+13 Sita sayanakaksh gayi.
+14 Badri daftar mein chala gaya.
+15 Kya badri galiyare mein hai?	galat	14
+1 Sita daftar mein gayi.
+2 Badri seb le kar aaya.
+3 Kya sita bagichey mein hai?	galat	1
+4 Badri seb rakh aaya.
+5 Priya galiyare mein gayi.
+6 Kya sita galiyare mein hai?	galat	1
+7 Badri seb le kar aaya.
+8 Mohit gusalkhane mein chala gaya.
+9 Kya priya galiyare mein hai?	sahi	5
+10 Priya gusalkhane mein gayi.
+11 Badri seb chod aaya.
+12 Kya priya gusalkhane mein hai?	sahi	10
+13 Badri galiyare gaya.
+14 Sita bagichey gayi.
+15 Kya priya sayanakaksh mein hai?	galat	10
+1 Sita seb le kar aayi.
+2 Mohit gusalkhane mein gaya.
+3 Kya mohit gusalkhane mein hai?	sahi	2
+4 Mohit gendh le kar aaya.
+5 Sita seb rakh aayi.
+6 Kya mohit daftar mein hai?	galat	2
+7 Mohit sayanakaksh mein gaya.
+8 Mohit gendh rakh aaya.
+9 Kya mohit daftar mein hai?	galat	7
+10 Mohit bagichey mein chala gaya.
+11 Priya galiyare mein gayi.
+12 Kya priya galiyare mein hai?	sahi	11
+13 Badri gusalkhane gaya.
+14 Badri bagichey gaya.
+15 Kya badri daftar mein hai?	galat	14
+1 Badri bagichey gaya.
+2 Priya gusalkhane mein chali gayi.
+3 Kya badri daftar mein hai?	galat	1
+4 Priya gendh le kar aayi.
+5 Mohit seb le kar aaya.
+6 Kya badri bagichey mein hai?	sahi	1
+7 Badri daftar mein gaya.
+8 Mohit rasoi ghar gaya.
+9 Kya mohit rasoi ghar mein hai?	sahi	8
+10 Badri gusalkhane mein chala gaya.
+11 Mohit seb rakh aaya.
+12 Kya badri gusalkhane mein hai?	sahi	10
+13 Mohit seb le kar aaya.
+14 Priya daftar gayi.
+15 Kya mohit rasoi ghar mein hai?	sahi	8
+1 Mohit daftar mein gaya.
+2 Mohit rasoi ghar gaya.
+3 Kya mohit galiyare mein hai?	galat	2
+4 Priya daftar gayi.
+5 Badri rasoi ghar mein chala gaya.
+6 Kya mohit gusalkhane mein hai?	galat	2
+7 Priya rasoi ghar mein gayi.
+8 Badri galiyare mein chala gaya.
+9 Kya badri galiyare mein hai?	sahi	8
+10 Sita galiyare mein gayi.
+11 Badri bagichey gaya.
+12 Kya priya daftar mein hai?	galat	7
+13 Badri sayanakaksh mein gaya.
+14 Badri rasoi ghar mein gaya.
+15 Kya sita bagichey mein hai?	galat	10
+1 Mohit dhoodh le kar aaya.
+2 Mohit rasoi ghar mein gaya.
+3 Kya mohit rasoi ghar mein hai?	sahi	2
+4 Badri seb le aaya.
+5 Sita daftar gayi.
+6 Kya mohit rasoi ghar mein hai?	sahi	2
+7 Mohit dhoodh rakh aaya.
+8 Mohit dhoodh le kar aaya.
+9 Kya mohit sayanakaksh mein hai?	galat	2
+10 Sita sayanakaksh gayi.
+11 Mohit dhoodh chod aaya.
+12 Kya sita gusalkhane mein hai?	galat	10
+13 Badri rasoi ghar mein chala gaya.
+14 Badri dhoodh le aaya.
+15 Kya sita sayanakaksh mein hai?	sahi	10
+1 Badri bagichey mein chala gaya.
+2 Priya dhoodh le kar aayi.
+3 Kya badri sayanakaksh mein hai?	galat	1
+4 Sita sayanakaksh gayi.
+5 Mohit sayanakaksh gaya.
+6 Kya sita rasoi ghar mein hai?	galat	4
+7 Priya gusalkhane mein gayi.
+8 Badri galiyare mein gaya.
+9 Kya mohit bagichey mein hai?	galat	5
+10 Badri gendh le aaya.
+11 Priya dhoodh rakh aayi.
+12 Kya priya galiyare mein hai?	galat	7
+13 Sita seb le kar aayi.
+14 Sita gusalkhane gayi.
+15 Kya badri galiyare mein hai?	sahi	8
+1 Priya galiyare gayi.
+2 Priya daftar mein gayi.
+3 Kya priya rasoi ghar mein hai?	galat	2
+4 Badri sayanakaksh mein gaya.
+5 Mohit dhoodh le kar aaya.
+6 Kya priya sayanakaksh mein hai?	galat	2
+7 Mohit sayanakaksh mein chala gaya.
+8 Mohit daftar mein chala gaya.
+9 Kya badri sayanakaksh mein hai?	sahi	4
+10 Mohit dhoodh rakh aaya.
+11 Priya dhoodh le aayi.
+12 Kya mohit sayanakaksh mein hai?	galat	8
+13 Sita galiyare mein chali gayi.
+14 Sita gendh le kar aayi.
+15 Kya mohit bagichey mein hai?	galat	8
+1 Mohit dhoodh le kar aaya.
+2 Mohit dhoodh chod aaya.
+3 Sita rasoi ghar mein gayi.
+4 Badri galiyare mein gaya.
+5 Kya badri galiyare mein hai?	sahi	4
+6 Priya rasoi ghar mein chali gayi.
+7 Badri gusalkhane mein chala gaya.
+8 Kya badri rasoi ghar mein hai?	galat	7
+9 Badri rasoi ghar mein gaya.
+10 Sita sayanakaksh mein gayi.
+11 Kya priya galiyare mein hai?	galat	6
+12 Priya sayanakaksh mein gayi.
+13 Badri bagichey gaya.
+14 Kya badri gusalkhane mein hai?	galat	13
+15 Mohit dhoodh le kar aaya.
+16 Mohit dhoodh chod aaya.
+17 Kya badri daftar mein hai?	galat	13
+1 Priya daftar mein chali gayi.
+2 Mohit dhoodh le kar aaya.
+3 Kya priya gusalkhane mein hai?	galat	1
+4 Mohit bagichey mein gaya.
+5 Mohit galiyare mein chala gaya.
+6 Kya mohit daftar mein hai?	galat	5
+7 Badri daftar mein chala gaya.
+8 Mohit dhoodh rakh aaya.
+9 Kya mohit galiyare mein hai?	sahi	5
+10 Mohit bagichey gaya.
+11 Sita daftar gayi.
+12 Kya mohit bagichey mein hai?	sahi	10
+13 Mohit daftar mein chala gaya.
+14 Sita bagichey gayi.
+15 Kya sita sayanakaksh mein hai?	galat	14
+1 Priya daftar mein gayi.
+2 Badri gusalkhane mein gaya.
+3 Kya badri gusalkhane mein hai?	sahi	2
+4 Badri daftar gaya.
+5 Badri galiyare gaya.
+6 Kya priya daftar mein hai?	sahi	1
+7 Badri dhoodh le kar aaya.
+8 Badri dhoodh chod aaya.
+9 Kya badri galiyare mein hai?	sahi	5
+10 Badri daftar mein chala gaya.
+11 Sita rasoi ghar mein chali gayi.
+12 Kya badri daftar mein hai?	sahi	10
+13 Sita daftar mein gayi.
+14 Sita rasoi ghar mein gayi.
+15 Kya sita rasoi ghar mein hai?	sahi	14
+1 Sita gendh le kar aayi.
+2 Mohit rasoi ghar gaya.
+3 Kya mohit gusalkhane mein hai?	galat	2
+4 Sita gusalkhane gayi.
+5 Mohit galiyare gaya.
+6 Kya sita gusalkhane mein hai?	sahi	4
+7 Sita gendh chod aayi.
+8 Priya daftar gayi.
+9 Kya mohit sayanakaksh mein hai?	galat	5
+10 Sita sayanakaksh mein gayi.
+11 Priya sayanakaksh mein chali gayi.
+12 Kya priya sayanakaksh mein hai?	sahi	11
+13 Priya bagichey mein gayi.
+14 Mohit rasoi ghar mein gaya.
+15 Kya sita rasoi ghar mein hai?	galat	10
+1 Sita gusalkhane mein gayi.
+2 Badri rasoi ghar mein chala gaya.
+3 Kya sita daftar mein hai?	galat	1
+4 Sita rasoi ghar gayi.
+5 Mohit sayanakaksh mein chala gaya.
+6 Kya mohit sayanakaksh mein hai?	sahi	5
+7 Mohit galiyare gaya.
+8 Badri gusalkhane mein gaya.
+9 Kya badri bagichey mein hai?	galat	8
+10 Sita gendh le kar aayi.
+11 Mohit dhoodh le aaya.
+12 Kya mohit galiyare mein hai?	sahi	7
+13 Badri daftar mein chala gaya.
+14 Sita sayanakaksh gayi.
+15 Kya badri bagichey mein hai?	galat	13
+1 Mohit daftar gaya.
+2 Sita daftar gayi.
+3 Kya mohit daftar mein hai?	sahi	1
+4 Sita rasoi ghar mein gayi.
+5 Badri galiyare mein gaya.
+6 Kya badri galiyare mein hai?	sahi	5
+7 Sita sayanakaksh mein chali gayi.
+8 Badri rasoi ghar mein gaya.
+9 Kya badri rasoi ghar mein hai?	sahi	8
+10 Mohit gusalkhane mein chala gaya.
+11 Mohit gendh le aaya.
+12 Kya badri galiyare mein hai?	galat	8
+13 Sita gusalkhane gayi.
+14 Priya galiyare gayi.
+15 Kya mohit sayanakaksh mein hai?	galat	10
+1 Sita gusalkhane mein chali gayi.
+2 Priya gendh le aayi.
+3 Kya sita galiyare mein hai?	galat	1
+4 Sita galiyare mein chali gayi.
+5 Priya rasoi ghar gayi.
+6 Kya sita galiyare mein hai?	sahi	4
+7 Mohit daftar mein chala gaya.
+8 Priya sayanakaksh gayi.
+9 Kya sita daftar mein hai?	galat	4
+10 Priya gendh chod aayi.
+11 Priya rasoi ghar gayi.
+12 Kya priya daftar mein hai?	galat	11
+13 Priya gusalkhane gayi.
+14 Badri dhoodh le kar aaya.
+15 Kya priya gusalkhane mein hai?	sahi	13
+1 Priya dhoodh le aayi.
+2 Priya dhoodh chod aayi.
+3 Mohit rasoi ghar gaya.
+4 Sita gusalkhane gayi.
+5 Kya sita gusalkhane mein hai?	sahi	4
+6 Priya bagichey gayi.
+7 Priya daftar gayi.
+8 Kya sita galiyare mein hai?	galat	4
+9 Mohit gusalkhane gaya.
+10 Sita seb le kar aayi.
+11 Kya priya sayanakaksh mein hai?	galat	7
+12 Sita rasoi ghar gayi.
+13 Mohit gendh le aaya.
+14 Kya priya daftar mein hai?	sahi	7
+15 Mohit gendh rakh aaya.
+16 Sita bagichey mein chali gayi.
+17 Kya sita bagichey mein hai?	sahi	16
+1 Priya daftar mein gayi.
+2 Badri gusalkhane mein chala gaya.
+3 Kya priya gusalkhane mein hai?	galat	1
+4 Badri seb le kar aaya.
+5 Sita galiyare mein gayi.
+6 Kya sita gusalkhane mein hai?	galat	5
+7 Sita rasoi ghar mein gayi.
+8 Priya rasoi ghar mein chali gayi.
+9 Kya sita rasoi ghar mein hai?	sahi	7
+10 Sita galiyare gayi.
+11 Priya gusalkhane mein gayi.
+12 Kya sita galiyare mein hai?	sahi	10
+13 Badri rasoi ghar mein gaya.
+14 Badri seb chod aaya.
+15 Kya sita bagichey mein hai?	galat	10
+1 Sita gusalkhane mein gayi.
+2 Sita gendh le kar aayi.
+3 Kya sita gusalkhane mein hai?	sahi	1
+4 Priya sayanakaksh mein chali gayi.
+5 Badri seb le kar aaya.
+6 Kya sita sayanakaksh mein hai?	galat	1
+7 Badri seb chod aaya.
+8 Priya galiyare mein chali gayi.
+9 Kya priya galiyare mein hai?	sahi	8
+10 Badri bagichey mein gaya.
+11 Sita galiyare gayi.
+12 Kya badri gusalkhane mein hai?	galat	10
+13 Badri daftar mein gaya.
+14 Mohit rasoi ghar gaya.
+15 Kya badri daftar mein hai?	sahi	13
+1 Mohit sayanakaksh mein chala gaya.
+2 Badri dhoodh le kar aaya.
+3 Kya mohit sayanakaksh mein hai?	sahi	1
+4 Priya daftar gayi.
+5 Mohit daftar mein gaya.
+6 Kya mohit daftar mein hai?	sahi	5
+7 Badri daftar gaya.
+8 Sita daftar mein gayi.
+9 Kya sita daftar mein hai?	sahi	8
+10 Sita rasoi ghar gayi.
+11 Badri galiyare gaya.
+12 Kya badri gusalkhane mein hai?	galat	11
+13 Badri bagichey mein chala gaya.
+14 Badri dhoodh rakh aaya.
+15 Kya badri bagichey mein hai?	sahi	13
+1 Sita rasoi ghar gayi.
+2 Badri daftar gaya.
+3 Kya sita daftar mein hai?	galat	1
+4 Badri rasoi ghar gaya.
+5 Badri gendh le aaya.
+6 Kya sita rasoi ghar mein hai?	sahi	1
+7 Badri gendh rakh aaya.
+8 Mohit gendh le kar aaya.
+9 Kya badri sayanakaksh mein hai?	galat	4
+10 Priya sayanakaksh mein chali gayi.
+11 Mohit galiyare gaya.
+12 Kya priya sayanakaksh mein hai?	sahi	10
+13 Sita galiyare gayi.
+14 Badri sayanakaksh gaya.
+15 Kya badri rasoi ghar mein hai?	galat	14
+1 Badri bagichey mein chala gaya.
+2 Sita sayanakaksh mein chali gayi.
+3 Kya sita gusalkhane mein hai?	galat	2
+4 Mohit bagichey gaya.
+5 Mohit rasoi ghar gaya.
+6 Kya mohit rasoi ghar mein hai?	sahi	5
+7 Badri rasoi ghar gaya.
+8 Priya seb le kar aayi.
+9 Kya sita sayanakaksh mein hai?	sahi	2
+10 Priya bagichey mein gayi.
+11 Priya gendh le kar aayi.
+12 Kya mohit gusalkhane mein hai?	galat	5
+13 Badri sayanakaksh gaya.
+14 Priya dhoodh le kar aayi.
+15 Kya priya galiyare mein hai?	galat	10
+1 Sita rasoi ghar mein chali gayi.
+2 Sita seb le kar aayi.
+3 Kya sita sayanakaksh mein hai?	galat	1
+4 Priya sayanakaksh gayi.
+5 Sita galiyare gayi.
+6 Kya priya sayanakaksh mein hai?	sahi	4
+7 Sita gusalkhane mein chali gayi.
+8 Badri gusalkhane mein gaya.
+9 Kya priya sayanakaksh mein hai?	sahi	4
+10 Priya daftar gayi.
+11 Sita seb rakh aayi.
+12 Kya sita gusalkhane mein hai?	sahi	7
+13 Priya gendh le aayi.
+14 Sita seb le aayi.
+15 Kya badri galiyare mein hai?	galat	8
+1 Mohit bagichey gaya.
+2 Priya bagichey mein gayi.
+3 Kya priya gusalkhane mein hai?	galat	2
+4 Mohit gusalkhane mein gaya.
+5 Sita bagichey mein chali gayi.
+6 Kya sita sayanakaksh mein hai?	galat	5
+7 Sita gusalkhane gayi.
+8 Badri gendh le kar aaya.
+9 Kya mohit gusalkhane mein hai?	sahi	4
+10 Priya daftar mein gayi.
+11 Badri bagichey mein gaya.
+12 Kya sita gusalkhane mein hai?	sahi	7
+13 Mohit galiyare mein chala gaya.
+14 Mohit sayanakaksh gaya.
+15 Kya badri bagichey mein hai?	sahi	11
+1 Sita bagichey gayi.
+2 Priya gusalkhane gayi.
+3 Kya sita daftar mein hai?	galat	1
+4 Priya sayanakaksh mein chali gayi.
+5 Mohit bagichey mein gaya.
+6 Kya sita bagichey mein hai?	sahi	1
+7 Badri gusalkhane mein gaya.
+8 Badri sayanakaksh gaya.
+9 Kya priya daftar mein hai?	galat	4
+10 Badri rasoi ghar gaya.
+11 Priya daftar mein chali gayi.
+12 Kya mohit bagichey mein hai?	sahi	5
+13 Badri gusalkhane mein chala gaya.
+14 Mohit galiyare mein gaya.
+15 Kya mohit galiyare mein hai?	sahi	14
+1 Sita galiyare mein chali gayi.
+2 Badri galiyare mein gaya.
+3 Kya badri galiyare mein hai?	sahi	2
+4 Priya galiyare gayi.
+5 Mohit gusalkhane mein chala gaya.
+6 Kya sita galiyare mein hai?	sahi	1
+7 Mohit daftar mein gaya.
+8 Mohit galiyare mein chala gaya.
+9 Kya mohit gusalkhane mein hai?	galat	8
+10 Priya daftar gayi.
+11 Sita gusalkhane mein gayi.
+12 Kya mohit galiyare mein hai?	sahi	8
+13 Sita gendh le kar aayi.
+14 Badri daftar mein chala gaya.
+15 Kya priya sayanakaksh mein hai?	galat	10
+1 Priya daftar gayi.
+2 Sita sayanakaksh mein chali gayi.
+3 Kya priya rasoi ghar mein hai?	galat	1
+4 Priya dhoodh le kar aayi.
+5 Priya dhoodh rakh aayi.
+6 Kya sita sayanakaksh mein hai?	sahi	2
+7 Badri bagichey mein chala gaya.
+8 Priya dhoodh le kar aayi.
+9 Kya badri sayanakaksh mein hai?	galat	7
+10 Priya galiyare mein gayi.
+11 Priya dhoodh rakh aayi.
+12 Kya badri bagichey mein hai?	sahi	7
+13 Mohit daftar mein chala gaya.
+14 Sita rasoi ghar gayi.
+15 Kya sita bagichey mein hai?	galat	14
+1 Badri seb le kar aaya.
+2 Badri seb chod aaya.
+3 Badri sayanakaksh mein gaya.
+4 Mohit bagichey mein gaya.
+5 Kya badri sayanakaksh mein hai?	sahi	3
+6 Mohit rasoi ghar gaya.
+7 Badri gusalkhane mein chala gaya.
+8 Kya badri bagichey mein hai?	galat	7
+9 Sita rasoi ghar gayi.
+10 Priya sayanakaksh mein gayi.
+11 Kya mohit rasoi ghar mein hai?	sahi	6
+12 Badri seb le kar aaya.
+13 Mohit daftar gaya.
+14 Kya priya gusalkhane mein hai?	galat	10
+15 Mohit bagichey mein gaya.
+16 Badri seb rakh aaya.
+17 Kya mohit bagichey mein hai?	sahi	15
+1 Sita sayanakaksh mein chali gayi.
+2 Badri bagichey mein chala gaya.
+3 Kya badri gusalkhane mein hai?	galat	2
+4 Priya bagichey mein gayi.
+5 Sita rasoi ghar mein chali gayi.
+6 Kya badri gusalkhane mein hai?	galat	2
+7 Priya galiyare mein chali gayi.
+8 Sita sayanakaksh mein chali gayi.
+9 Kya priya rasoi ghar mein hai?	galat	7
+10 Badri sayanakaksh gaya.
+11 Mohit gusalkhane mein gaya.
+12 Kya mohit gusalkhane mein hai?	sahi	11
+13 Badri rasoi ghar gaya.
+14 Badri seb le aaya.
+15 Kya badri galiyare mein hai?	galat	13
+1 Mohit gusalkhane mein gaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Kya mohit galiyare mein hai?	galat	1
+4 Sita seb le aayi.
+5 Badri gendh le kar aaya.
+6 Kya mohit galiyare mein hai?	galat	1
+7 Sita seb chod aayi.
+8 Badri sayanakaksh mein chala gaya.
+9 Kya badri sayanakaksh mein hai?	sahi	8
+10 Priya gusalkhane gayi.
+11 Badri gusalkhane mein gaya.
+12 Kya badri gusalkhane mein hai?	sahi	11
+13 Badri gendh chod aaya.
+14 Sita seb le kar aayi.
+15 Kya badri gusalkhane mein hai?	sahi	11
+1 Badri rasoi ghar mein gaya.
+2 Badri seb le kar aaya.
+3 Kya badri rasoi ghar mein hai?	sahi	1
+4 Mohit bagichey gaya.
+5 Sita gendh le kar aayi.
+6 Kya badri sayanakaksh mein hai?	galat	1
+7 Sita gusalkhane mein gayi.
+8 Sita galiyare mein gayi.
+9 Kya mohit bagichey mein hai?	sahi	4
+10 Priya rasoi ghar gayi.
+11 Priya bagichey mein chali gayi.
+12 Kya priya bagichey mein hai?	sahi	11
+13 Badri seb rakh aaya.
+14 Mohit sayanakaksh gaya.
+15 Kya mohit sayanakaksh mein hai?	sahi	14
+1 Priya galiyare mein chali gayi.
+2 Sita daftar mein chali gayi.
+3 Kya priya galiyare mein hai?	sahi	1
+4 Badri bagichey gaya.
+5 Badri rasoi ghar mein gaya.
+6 Kya sita daftar mein hai?	sahi	2
+7 Priya gendh le kar aayi.
+8 Mohit seb le aaya.
+9 Kya badri rasoi ghar mein hai?	sahi	5
+10 Priya bagichey gayi.
+11 Mohit galiyare mein chala gaya.
+12 Kya priya bagichey mein hai?	sahi	10
+13 Sita rasoi ghar gayi.
+14 Badri daftar gaya.
+15 Kya mohit daftar mein hai?	galat	11
+1 Sita gusalkhane mein chali gayi.
+2 Mohit dhoodh le aaya.
+3 Kya sita rasoi ghar mein hai?	galat	1
+4 Sita sayanakaksh gayi.
+5 Mohit dhoodh rakh aaya.
+6 Kya sita sayanakaksh mein hai?	sahi	4
+7 Mohit gusalkhane gaya.
+8 Priya bagichey gayi.
+9 Kya sita sayanakaksh mein hai?	sahi	4
+10 Sita daftar mein gayi.
+11 Priya dhoodh le aayi.
+12 Kya mohit gusalkhane mein hai?	sahi	7
+13 Badri gusalkhane mein gaya.
+14 Mohit daftar mein gaya.
+15 Kya sita daftar mein hai?	sahi	10
+1 Sita galiyare gayi.
+2 Badri rasoi ghar gaya.
+3 Kya badri rasoi ghar mein hai?	sahi	2
+4 Badri gendh le aaya.
+5 Badri galiyare mein gaya.
+6 Kya badri galiyare mein hai?	sahi	5
+7 Badri sayanakaksh mein gaya.
+8 Mohit sayanakaksh gaya.
+9 Kya badri rasoi ghar mein hai?	galat	7
+10 Badri daftar gaya.
+11 Sita rasoi ghar mein chali gayi.
+12 Kya badri galiyare mein hai?	galat	10
+13 Sita daftar mein gayi.
+14 Mohit galiyare gaya.
+15 Kya badri daftar mein hai?	sahi	10
+1 Priya daftar mein gayi.
+2 Priya seb le kar aayi.
+3 Kya priya galiyare mein hai?	galat	1
+4 Sita sayanakaksh mein chali gayi.
+5 Mohit daftar mein gaya.
+6 Kya sita sayanakaksh mein hai?	sahi	4
+7 Mohit bagichey mein gaya.
+8 Priya bagichey gayi.
+9 Kya sita bagichey mein hai?	galat	4
+10 Priya seb rakh aayi.
+11 Priya seb le aayi.
+12 Kya priya bagichey mein hai?	sahi	8
+13 Sita gusalkhane mein gayi.
+14 Mohit sayanakaksh mein gaya.
+15 Kya sita galiyare mein hai?	galat	13
+1 Priya gusalkhane gayi.
+2 Priya daftar mein gayi.
+3 Kya priya daftar mein hai?	sahi	2
+4 Mohit sayanakaksh gaya.
+5 Priya gendh le kar aayi.
+6 Kya mohit bagichey mein hai?	galat	4
+7 Priya gendh rakh aayi.
+8 Priya bagichey mein chali gayi.
+9 Kya mohit sayanakaksh mein hai?	sahi	4
+10 Priya dhoodh le kar aayi.
+11 Priya sayanakaksh mein gayi.
+12 Kya priya bagichey mein hai?	galat	11
+13 Priya galiyare mein gayi.
+14 Priya rasoi ghar mein gayi.
+15 Kya priya bagichey mein hai?	galat	14
+1 Badri seb le kar aaya.
+2 Priya sayanakaksh gayi.
+3 Kya priya sayanakaksh mein hai?	sahi	2
+4 Sita galiyare mein chali gayi.
+5 Badri seb rakh aaya.
+6 Kya sita galiyare mein hai?	sahi	4
+7 Sita bagichey mein gayi.
+8 Priya gusalkhane mein gayi.
+9 Kya priya galiyare mein hai?	galat	8
+10 Mohit sayanakaksh mein gaya.
+11 Badri seb le aaya.
+12 Kya priya rasoi ghar mein hai?	galat	8
+13 Priya bagichey gayi.
+14 Badri seb chod aaya.
+15 Kya priya bagichey mein hai?	sahi	13
+1 Priya dhoodh le aayi.
+2 Sita gendh le aayi.
+3 Priya rasoi ghar mein gayi.
+4 Priya dhoodh rakh aayi.
+5 Kya priya rasoi ghar mein hai?	sahi	3
+6 Priya galiyare gayi.
+7 Priya gusalkhane mein chali gayi.
+8 Kya priya gusalkhane mein hai?	sahi	7
+9 Mohit rasoi ghar gaya.
+10 Sita gusalkhane mein gayi.
+11 Kya priya gusalkhane mein hai?	sahi	7
+12 Sita gendh rakh aayi.
+13 Badri daftar mein chala gaya.
+14 Kya sita gusalkhane mein hai?	sahi	10
+15 Priya gendh le kar aayi.
+16 Priya gendh rakh aayi.
+17 Kya badri daftar mein hai?	sahi	13
+1 Priya gendh le aayi.
+2 Sita seb le aayi.
+3 Mohit sayanakaksh mein chala gaya.
+4 Sita gusalkhane mein gayi.
+5 Kya sita bagichey mein hai?	galat	4
+6 Priya bagichey gayi.
+7 Priya gendh rakh aayi.
+8 Kya priya bagichey mein hai?	sahi	6
+9 Priya daftar mein chali gayi.
+10 Sita seb rakh aayi.
+11 Kya sita gusalkhane mein hai?	sahi	4
+12 Priya sayanakaksh mein gayi.
+13 Badri sayanakaksh mein chala gaya.
+14 Kya badri sayanakaksh mein hai?	sahi	13
+15 Badri daftar gaya.
+16 Mohit gusalkhane gaya.
+17 Kya badri gusalkhane mein hai?	galat	15
+1 Priya sayanakaksh gayi.
+2 Badri bagichey gaya.
+3 Kya priya bagichey mein hai?	galat	1
+4 Priya galiyare mein gayi.
+5 Badri gendh le kar aaya.
+6 Kya priya bagichey mein hai?	galat	4
+7 Badri gendh chod aaya.
+8 Badri gendh le kar aaya.
+9 Kya badri bagichey mein hai?	sahi	2
+10 Badri gendh chod aaya.
+11 Badri sayanakaksh mein gaya.
+12 Kya badri galiyare mein hai?	galat	11
+13 Sita gusalkhane mein gayi.
+14 Mohit rasoi ghar mein chala gaya.
+15 Kya mohit sayanakaksh mein hai?	galat	14
+1 Mohit dhoodh le kar aaya.
+2 Priya sayanakaksh gayi.
+3 Kya priya galiyare mein hai?	galat	2
+4 Mohit bagichey mein chala gaya.
+5 Priya gendh le kar aayi.
+6 Kya priya sayanakaksh mein hai?	sahi	2
+7 Priya galiyare gayi.
+8 Badri gusalkhane gaya.
+9 Kya mohit bagichey mein hai?	sahi	4
+10 Priya gendh rakh aayi.
+11 Sita gusalkhane mein gayi.
+12 Kya priya galiyare mein hai?	sahi	7
+13 Mohit sayanakaksh mein chala gaya.
+14 Mohit rasoi ghar mein gaya.
+15 Kya badri gusalkhane mein hai?	sahi	8
+1 Sita dhoodh le kar aayi.
+2 Badri daftar mein gaya.
+3 Kya badri sayanakaksh mein hai?	galat	2
+4 Sita bagichey mein chali gayi.
+5 Sita seb le kar aayi.
+6 Kya sita bagichey mein hai?	sahi	4
+7 Mohit bagichey mein gaya.
+8 Badri sayanakaksh gaya.
+9 Kya sita bagichey mein hai?	sahi	4
+10 Priya bagichey gayi.
+11 Sita seb rakh aayi.
+12 Kya mohit galiyare mein hai?	galat	7
+13 Mohit gusalkhane mein chala gaya.
+14 Sita galiyare gayi.
+15 Kya mohit daftar mein hai?	galat	13
+1 Mohit bagichey mein gaya.
+2 Sita sayanakaksh gayi.
+3 Kya sita sayanakaksh mein hai?	sahi	2
+4 Sita galiyare mein gayi.
+5 Badri gusalkhane gaya.
+6 Kya mohit bagichey mein hai?	sahi	1
+7 Mohit sayanakaksh mein gaya.
+8 Priya bagichey mein gayi.
+9 Kya badri rasoi ghar mein hai?	galat	5
+10 Badri rasoi ghar gaya.
+11 Priya galiyare gayi.
+12 Kya priya galiyare mein hai?	sahi	11
+13 Priya sayanakaksh gayi.
+14 Badri gendh le kar aaya.
+15 Kya badri gusalkhane mein hai?	galat	10
+1 Sita galiyare mein chali gayi.
+2 Priya daftar mein chali gayi.
+3 Kya sita galiyare mein hai?	sahi	1
+4 Sita daftar gayi.
+5 Mohit gusalkhane gaya.
+6 Kya sita daftar mein hai?	sahi	4
+7 Mohit rasoi ghar mein gaya.
+8 Priya gusalkhane gayi.
+9 Kya priya gusalkhane mein hai?	sahi	8
+10 Mohit galiyare mein gaya.
+11 Mohit gusalkhane mein gaya.
+12 Kya mohit gusalkhane mein hai?	sahi	11
+13 Sita galiyare mein gayi.
+14 Mohit galiyare mein gaya.
+15 Kya mohit rasoi ghar mein hai?	galat	14
+1 Mohit seb le kar aaya.
+2 Badri galiyare gaya.
+3 Kya badri galiyare mein hai?	sahi	2
+4 Badri daftar mein gaya.
+5 Sita rasoi ghar gayi.
+6 Kya sita rasoi ghar mein hai?	sahi	5
+7 Mohit galiyare mein chala gaya.
+8 Sita daftar mein gayi.
+9 Kya sita daftar mein hai?	sahi	8
+10 Badri bagichey gaya.
+11 Mohit seb rakh aaya.
+12 Kya sita galiyare mein hai?	galat	8
+13 Mohit seb le aaya.
+14 Badri daftar mein gaya.
+15 Kya badri rasoi ghar mein hai?	galat	14
+1 Sita gusalkhane gayi.
+2 Sita gendh le aayi.
+3 Kya sita daftar mein hai?	galat	1
+4 Badri rasoi ghar mein chala gaya.
+5 Badri gusalkhane gaya.
+6 Kya badri gusalkhane mein hai?	sahi	5
+7 Priya gusalkhane mein chali gayi.
+8 Priya dhoodh le aayi.
+9 Kya priya bagichey mein hai?	galat	7
+10 Mohit gusalkhane mein chala gaya.
+11 Priya rasoi ghar mein gayi.
+12 Kya priya bagichey mein hai?	galat	11
+13 Priya dhoodh rakh aayi.
+14 Sita gendh chod aayi.
+15 Kya priya sayanakaksh mein hai?	galat	11
+1 Badri dhoodh le aaya.
+2 Sita daftar mein chali gayi.
+3 Kya sita galiyare mein hai?	galat	2
+4 Sita rasoi ghar mein gayi.
+5 Badri dhoodh rakh aaya.
+6 Kya sita rasoi ghar mein hai?	sahi	4
+7 Priya bagichey mein gayi.
+8 Mohit dhoodh le kar aaya.
+9 Kya sita rasoi ghar mein hai?	sahi	4
+10 Mohit sayanakaksh mein chala gaya.
+11 Sita galiyare mein gayi.
+12 Kya mohit sayanakaksh mein hai?	sahi	10
+13 Sita gendh le aayi.
+14 Priya sayanakaksh mein chali gayi.
+15 Kya mohit sayanakaksh mein hai?	sahi	10
+1 Priya gusalkhane mein gayi.
+2 Mohit galiyare mein gaya.
+3 Kya priya sayanakaksh mein hai?	galat	1
+4 Badri seb le kar aaya.
+5 Badri seb chod aaya.
+6 Kya mohit galiyare mein hai?	sahi	2
+7 Priya seb le aayi.
+8 Badri sayanakaksh mein gaya.
+9 Kya badri sayanakaksh mein hai?	sahi	8
+10 Priya rasoi ghar mein gayi.
+11 Badri bagichey mein chala gaya.
+12 Kya badri bagichey mein hai?	sahi	11
+13 Mohit rasoi ghar gaya.
+14 Badri rasoi ghar gaya.
+15 Kya badri galiyare mein hai?	galat	14
+1 Priya rasoi ghar gayi.
+2 Mohit dhoodh le kar aaya.
+3 Kya priya galiyare mein hai?	galat	1
+4 Priya bagichey gayi.
+5 Mohit dhoodh chod aaya.
+6 Kya priya bagichey mein hai?	sahi	4
+7 Priya rasoi ghar gayi.
+8 Sita galiyare mein chali gayi.
+9 Kya priya rasoi ghar mein hai?	sahi	7
+10 Badri daftar mein chala gaya.
+11 Mohit gusalkhane mein gaya.
+12 Kya mohit galiyare mein hai?	galat	11
+13 Sita rasoi ghar mein chali gayi.
+14 Badri seb le kar aaya.
+15 Kya sita rasoi ghar mein hai?	sahi	13
+1 Sita bagichey mein gayi.
+2 Badri dhoodh le aaya.
+3 Kya sita daftar mein hai?	galat	1
+4 Badri gusalkhane gaya.
+5 Badri dhoodh rakh aaya.
+6 Kya sita daftar mein hai?	galat	1
+7 Priya rasoi ghar mein chali gayi.
+8 Sita gusalkhane gayi.
+9 Kya badri gusalkhane mein hai?	sahi	4
+10 Sita sayanakaksh mein chali gayi.
+11 Badri bagichey mein gaya.
+12 Kya badri bagichey mein hai?	sahi	11
+13 Mohit daftar gaya.
+14 Priya gendh le kar aayi.
+15 Kya sita galiyare mein hai?	galat	10
+1 Sita gusalkhane mein chali gayi.
+2 Sita daftar gayi.
+3 Kya sita daftar mein hai?	sahi	2
+4 Badri bagichey gaya.
+5 Priya galiyare mein chali gayi.
+6 Kya badri daftar mein hai?	galat	4
+7 Priya daftar mein gayi.
+8 Sita bagichey mein gayi.
+9 Kya priya daftar mein hai?	sahi	7
+10 Badri gusalkhane mein gaya.
+11 Badri daftar mein gaya.
+12 Kya badri daftar mein hai?	sahi	11
+13 Priya galiyare mein gayi.
+14 Priya gusalkhane mein gayi.
+15 Kya badri rasoi ghar mein hai?	galat	11
+1 Mohit dhoodh le kar aaya.
+2 Sita seb le aayi.
+3 Priya daftar gayi.
+4 Mohit gusalkhane mein chala gaya.
+5 Kya priya bagichey mein hai?	galat	3
+6 Priya sayanakaksh mein gayi.
+7 Mohit dhoodh chod aaya.
+8 Kya mohit gusalkhane mein hai?	sahi	4
+9 Mohit bagichey gaya.
+10 Sita bagichey mein gayi.
+11 Kya mohit gusalkhane mein hai?	galat	9
+12 Sita gusalkhane mein gayi.
+13 Sita seb chod aayi.
+14 Kya mohit bagichey mein hai?	sahi	9
+15 Priya gusalkhane gayi.
+16 Mohit gusalkhane mein gaya.
+17 Kya mohit bagichey mein hai?	galat	16
+1 Sita seb le kar aayi.
+2 Sita bagichey gayi.
+3 Kya sita rasoi ghar mein hai?	galat	2
+4 Sita seb chod aayi.
+5 Sita galiyare mein chali gayi.
+6 Kya sita galiyare mein hai?	sahi	5
+7 Badri daftar mein chala gaya.
+8 Badri sayanakaksh mein chala gaya.
+9 Kya sita galiyare mein hai?	sahi	5
+10 Priya bagichey mein gayi.
+11 Sita sayanakaksh mein chali gayi.
+12 Kya sita sayanakaksh mein hai?	sahi	11
+13 Sita dhoodh le kar aayi.
+14 Priya seb le kar aayi.
+15 Kya sita sayanakaksh mein hai?	sahi	11
+1 Priya gendh le aayi.
+2 Priya dhoodh le aayi.
+3 Sita seb le kar aayi.
+4 Badri gusalkhane mein chala gaya.
+5 Kya badri rasoi ghar mein hai?	galat	4
+6 Badri daftar gaya.
+7 Priya rasoi ghar gayi.
+8 Kya badri daftar mein hai?	sahi	6
+9 Priya gendh rakh aayi.
+10 Sita rasoi ghar mein chali gayi.
+11 Kya priya sayanakaksh mein hai?	galat	7
+12 Priya galiyare gayi.
+13 Badri rasoi ghar mein chala gaya.
+14 Kya sita bagichey mein hai?	galat	10
+15 Priya dhoodh rakh aayi.
+16 Sita seb rakh aayi.
+17 Kya badri rasoi ghar mein hai?	sahi	13
+1 Badri gendh le aaya.
+2 Badri gendh rakh aaya.
+3 Sita gendh le aayi.
+4 Sita gendh rakh aayi.
+5 Sita gendh le aayi.
+6 Mohit bagichey gaya.
+7 Kya mohit daftar mein hai?	galat	6
+8 Sita gendh chod aayi.
+9 Sita gendh le aayi.
+10 Kya mohit bagichey mein hai?	sahi	6
+11 Mohit daftar mein chala gaya.
+12 Sita rasoi ghar mein chali gayi.
+13 Kya mohit daftar mein hai?	sahi	11
+14 Sita daftar mein gayi.
+15 Sita gendh rakh aayi.
+16 Kya mohit rasoi ghar mein hai?	galat	11
+17 Mohit gendh le kar aaya.
+18 Mohit sayanakaksh gaya.
+19 Kya sita daftar mein hai?	sahi	14
+1 Mohit rasoi ghar gaya.
+2 Mohit galiyare mein chala gaya.
+3 Kya mohit bagichey mein hai?	galat	2
+4 Priya sayanakaksh mein chali gayi.
+5 Mohit gendh le aaya.
+6 Kya priya bagichey mein hai?	galat	4
+7 Mohit sayanakaksh mein chala gaya.
+8 Sita sayanakaksh mein chali gayi.
+9 Kya priya galiyare mein hai?	galat	4
+10 Mohit dhoodh le kar aaya.
+11 Mohit dhoodh rakh aaya.
+12 Kya sita sayanakaksh mein hai?	sahi	8
+13 Mohit gendh chod aaya.
+14 Priya gendh le aayi.
+15 Kya sita rasoi ghar mein hai?	galat	8
+1 Sita galiyare gayi.
+2 Badri gusalkhane mein gaya.
+3 Kya badri daftar mein hai?	galat	2
+4 Badri rasoi ghar mein gaya.
+5 Priya galiyare mein gayi.
+6 Kya priya gusalkhane mein hai?	galat	5
+7 Badri gusalkhane gaya.
+8 Mohit dhoodh le kar aaya.
+9 Kya badri sayanakaksh mein hai?	galat	7
+10 Badri sayanakaksh gaya.
+11 Priya rasoi ghar mein chali gayi.
+12 Kya priya daftar mein hai?	galat	11
+13 Badri bagichey mein gaya.
+14 Priya galiyare mein gayi.
+15 Kya priya bagichey mein hai?	galat	14
+1 Sita sayanakaksh mein chali gayi.
+2 Priya rasoi ghar gayi.
+3 Kya sita sayanakaksh mein hai?	sahi	1
+4 Mohit seb le kar aaya.
+5 Mohit seb chod aaya.
+6 Kya priya daftar mein hai?	galat	2
+7 Badri bagichey mein gaya.
+8 Mohit daftar mein gaya.
+9 Kya badri bagichey mein hai?	sahi	7
+10 Badri gendh le aaya.
+11 Mohit galiyare gaya.
+12 Kya mohit galiyare mein hai?	sahi	11
+13 Badri dhoodh le kar aaya.
+14 Sita bagichey gayi.
+15 Kya mohit sayanakaksh mein hai?	galat	11
+1 Badri dhoodh le kar aaya.
+2 Sita bagichey gayi.
+3 Kya sita bagichey mein hai?	sahi	2
+4 Priya bagichey gayi.
+5 Badri galiyare gaya.
+6 Kya priya bagichey mein hai?	sahi	4
+7 Badri dhoodh chod aaya.
+8 Sita rasoi ghar mein chali gayi.
+9 Kya sita rasoi ghar mein hai?	sahi	8
+10 Mohit galiyare mein chala gaya.
+11 Badri gusalkhane mein gaya.
+12 Kya mohit galiyare mein hai?	sahi	10
+13 Badri daftar mein gaya.
+14 Mohit dhoodh le kar aaya.
+15 Kya badri daftar mein hai?	sahi	13
+1 Priya rasoi ghar gayi.
+2 Mohit sayanakaksh mein gaya.
+3 Kya mohit bagichey mein hai?	galat	2
+4 Mohit gendh le kar aaya.
+5 Priya gusalkhane mein chali gayi.
+6 Kya priya rasoi ghar mein hai?	galat	5
+7 Priya rasoi ghar mein chali gayi.
+8 Priya sayanakaksh mein chali gayi.
+9 Kya priya daftar mein hai?	galat	8
+10 Sita bagichey gayi.
+11 Badri galiyare mein chala gaya.
+12 Kya sita bagichey mein hai?	sahi	10
+13 Badri rasoi ghar mein gaya.
+14 Priya rasoi ghar mein chali gayi.
+15 Kya priya rasoi ghar mein hai?	sahi	14
+1 Mohit gusalkhane mein chala gaya.
+2 Mohit gendh le aaya.
+3 Kya mohit daftar mein hai?	galat	1
+4 Badri daftar mein chala gaya.
+5 Badri sayanakaksh mein chala gaya.
+6 Kya badri sayanakaksh mein hai?	sahi	5
+7 Priya bagichey mein gayi.
+8 Sita gusalkhane mein chali gayi.
+9 Kya badri gusalkhane mein hai?	galat	5
+10 Badri bagichey mein chala gaya.
+11 Mohit sayanakaksh mein chala gaya.
+12 Kya badri gusalkhane mein hai?	galat	10
+13 Badri daftar mein chala gaya.
+14 Priya sayanakaksh mein chali gayi.
+15 Kya mohit sayanakaksh mein hai?	sahi	11
+1 Priya gendh le aayi.
+2 Sita rasoi ghar gayi.
+3 Kya sita bagichey mein hai?	galat	2
+4 Priya sayanakaksh gayi.
+5 Mohit seb le kar aaya.
+6 Kya sita bagichey mein hai?	galat	2
+7 Priya gendh chod aayi.
+8 Mohit seb rakh aaya.
+9 Kya priya sayanakaksh mein hai?	sahi	4
+10 Sita seb le aayi.
+11 Priya gendh le aayi.
+12 Sita seb rakh aayi.
+13 Badri daftar gaya.
+14 Kya badri daftar mein hai?	sahi	13
+15 Priya gendh rakh aayi.
+16 Mohit sayanakaksh mein gaya.
+17 Kya badri daftar mein hai?	sahi	13
+1 Badri rasoi ghar mein gaya.
+2 Badri daftar mein gaya.
+3 Kya badri sayanakaksh mein hai?	galat	2
+4 Priya rasoi ghar gayi.
+5 Badri gusalkhane mein chala gaya.
+6 Kya badri bagichey mein hai?	galat	5
+7 Sita bagichey mein gayi.
+8 Badri dhoodh le kar aaya.
+9 Kya sita bagichey mein hai?	sahi	7
+10 Priya bagichey mein chali gayi.
+11 Priya rasoi ghar gayi.
+12 Kya sita bagichey mein hai?	sahi	7
+13 Priya gusalkhane mein gayi.
+14 Badri dhoodh chod aaya.
+15 Kya priya gusalkhane mein hai?	sahi	13
+1 Priya seb le aayi.
+2 Priya daftar mein gayi.
+3 Kya priya galiyare mein hai?	galat	2
+4 Badri gusalkhane mein gaya.
+5 Priya dhoodh le kar aayi.
+6 Kya priya daftar mein hai?	sahi	2
+7 Badri bagichey mein gaya.
+8 Sita rasoi ghar gayi.
+9 Kya sita rasoi ghar mein hai?	sahi	8
+10 Priya gendh le kar aayi.
+11 Sita sayanakaksh mein gayi.
+12 Kya badri rasoi ghar mein hai?	galat	7
+13 Badri sayanakaksh mein chala gaya.
+14 Sita galiyare gayi.
+15 Kya sita daftar mein hai?	galat	14
+1 Priya bagichey mein chali gayi.
+2 Sita bagichey mein chali gayi.
+3 Kya sita bagichey mein hai?	sahi	2
+4 Priya gusalkhane mein chali gayi.
+5 Sita seb le kar aayi.
+6 Kya priya gusalkhane mein hai?	sahi	4
+7 Sita seb chod aayi.
+8 Sita seb le aayi.
+9 Kya priya gusalkhane mein hai?	sahi	4
+10 Sita seb chod aayi.
+11 Sita galiyare gayi.
+12 Kya sita gusalkhane mein hai?	galat	11
+13 Mohit sayanakaksh mein chala gaya.
+14 Priya bagichey mein chali gayi.
+15 Kya mohit sayanakaksh mein hai?	sahi	13
+1 Priya gusalkhane mein chali gayi.
+2 Badri dhoodh le kar aaya.
+3 Kya priya bagichey mein hai?	galat	1
+4 Mohit bagichey gaya.
+5 Priya galiyare mein chali gayi.
+6 Kya mohit sayanakaksh mein hai?	galat	4
+7 Badri dhoodh rakh aaya.
+8 Sita galiyare mein chali gayi.
+9 Kya sita rasoi ghar mein hai?	galat	8
+10 Mohit rasoi ghar gaya.
+11 Mohit daftar gaya.
+12 Kya mohit sayanakaksh mein hai?	galat	11
+13 Mohit sayanakaksh gaya.
+14 Priya seb le kar aayi.
+15 Kya mohit galiyare mein hai?	galat	13
+1 Sita daftar mein gayi.
+2 Priya dhoodh le kar aayi.
+3 Kya sita daftar mein hai?	sahi	1
+4 Sita rasoi ghar mein gayi.
+5 Badri daftar mein gaya.
+6 Kya sita daftar mein hai?	galat	4
+7 Priya dhoodh chod aayi.
+8 Badri galiyare mein gaya.
+9 Kya sita rasoi ghar mein hai?	sahi	4
+10 Priya galiyare gayi.
+11 Priya daftar mein chali gayi.
+12 Kya badri sayanakaksh mein hai?	galat	8
+13 Priya rasoi ghar mein gayi.
+14 Sita sayanakaksh mein gayi.
+15 Kya priya gusalkhane mein hai?	galat	13
+1 Priya sayanakaksh mein gayi.
+2 Priya galiyare gayi.
+3 Kya priya bagichey mein hai?	galat	2
+4 Priya rasoi ghar mein gayi.
+5 Sita galiyare mein gayi.
+6 Kya priya rasoi ghar mein hai?	sahi	4
+7 Sita gendh le kar aayi.
+8 Mohit galiyare mein gaya.
+9 Kya mohit galiyare mein hai?	sahi	8
+10 Sita gendh chod aayi.
+11 Sita gendh le kar aayi.
+12 Kya mohit bagichey mein hai?	galat	8
+13 Sita gendh chod aayi.
+14 Badri galiyare mein gaya.
+15 Kya mohit rasoi ghar mein hai?	galat	8
+1 Priya gusalkhane mein gayi.
+2 Badri dhoodh le kar aaya.
+3 Kya priya rasoi ghar mein hai?	galat	1
+4 Mohit bagichey mein chala gaya.
+5 Badri bagichey mein chala gaya.
+6 Kya mohit bagichey mein hai?	sahi	4
+7 Mohit seb le kar aaya.
+8 Sita rasoi ghar mein gayi.
+9 Kya mohit bagichey mein hai?	sahi	4
+10 Priya galiyare gayi.
+11 Badri daftar mein chala gaya.
+12 Kya priya galiyare mein hai?	sahi	10
+13 Sita bagichey gayi.
+14 Mohit sayanakaksh gaya.
+15 Kya sita bagichey mein hai?	sahi	13
+1 Badri bagichey gaya.
+2 Sita galiyare mein gayi.
+3 Kya badri bagichey mein hai?	sahi	1
+4 Sita bagichey mein gayi.
+5 Priya gusalkhane gayi.
+6 Kya badri bagichey mein hai?	sahi	1
+7 Badri galiyare gaya.
+8 Priya seb le kar aayi.
+9 Kya badri galiyare mein hai?	sahi	7
+10 Priya seb chod aayi.
+11 Badri gendh le kar aaya.
+12 Kya priya gusalkhane mein hai?	sahi	5
+13 Badri gendh chod aaya.
+14 Badri gendh le aaya.
+15 Priya seb le kar aayi.
+16 Priya seb chod aayi.
+17 Badri gendh chod aaya.
+18 Priya sayanakaksh mein gayi.
+19 Kya priya galiyare mein hai?	galat	18
+1 Mohit sayanakaksh gaya.
+2 Priya gendh le kar aayi.
+3 Kya mohit sayanakaksh mein hai?	sahi	1
+4 Priya gendh rakh aayi.
+5 Mohit bagichey mein chala gaya.
+6 Kya mohit bagichey mein hai?	sahi	5
+7 Mohit gendh le kar aaya.
+8 Priya sayanakaksh gayi.
+9 Kya mohit bagichey mein hai?	sahi	5
+10 Badri daftar gaya.
+11 Mohit rasoi ghar mein gaya.
+12 Kya mohit rasoi ghar mein hai?	sahi	11
+13 Mohit bagichey mein chala gaya.
+14 Mohit gusalkhane mein gaya.
+15 Kya mohit sayanakaksh mein hai?	galat	14
+1 Badri galiyare mein gaya.
+2 Badri daftar mein gaya.
+3 Kya badri daftar mein hai?	sahi	2
+4 Badri dhoodh le aaya.
+5 Priya rasoi ghar gayi.
+6 Kya badri daftar mein hai?	sahi	2
+7 Badri bagichey mein gaya.
+8 Sita gendh le aayi.
+9 Kya priya bagichey mein hai?	galat	5
+10 Badri sayanakaksh gaya.
+11 Sita galiyare mein gayi.
+12 Kya sita bagichey mein hai?	galat	11
+13 Badri gusalkhane mein gaya.
+14 Sita gendh chod aayi.
+15 Kya badri gusalkhane mein hai?	sahi	13
+1 Priya bagichey gayi.
+2 Badri gusalkhane mein gaya.
+3 Kya priya bagichey mein hai?	sahi	1
+4 Sita gusalkhane mein chali gayi.
+5 Mohit gusalkhane mein chala gaya.
+6 Kya priya bagichey mein hai?	sahi	1
+7 Sita galiyare gayi.
+8 Badri galiyare mein chala gaya.
+9 Kya mohit rasoi ghar mein hai?	galat	5
+10 Mohit rasoi ghar mein gaya.
+11 Badri gusalkhane gaya.
+12 Kya badri gusalkhane mein hai?	sahi	11
+13 Priya sayanakaksh mein chali gayi.
+14 Mohit daftar mein gaya.
+15 Kya badri gusalkhane mein hai?	sahi	11
+1 Badri gendh le aaya.
+2 Sita seb le aayi.
+3 Sita seb chod aayi.
+4 Sita seb le kar aayi.
+5 Sita galiyare gayi.
+6 Priya daftar gayi.
+7 Kya priya gusalkhane mein hai?	galat	6
+8 Priya dhoodh le kar aayi.
+9 Badri daftar mein chala gaya.
+10 Kya badri gusalkhane mein hai?	galat	9
+11 Priya galiyare mein gayi.
+12 Badri gendh rakh aaya.
+13 Kya priya gusalkhane mein hai?	galat	11
+14 Sita seb rakh aayi.
+15 Badri rasoi ghar mein chala gaya.
+16 Kya priya rasoi ghar mein hai?	galat	11
+17 Badri galiyare mein gaya.
+18 Priya seb le aayi.
+19 Kya badri galiyare mein hai?	sahi	17
+1 Sita galiyare mein gayi.
+2 Sita rasoi ghar gayi.
+3 Kya sita rasoi ghar mein hai?	sahi	2
+4 Sita galiyare gayi.
+5 Priya galiyare gayi.
+6 Kya sita galiyare mein hai?	sahi	4
+7 Badri sayanakaksh mein chala gaya.
+8 Priya gusalkhane gayi.
+9 Kya sita gusalkhane mein hai?	galat	4
+10 Badri seb le kar aaya.
+11 Sita gusalkhane gayi.
+12 Kya priya gusalkhane mein hai?	sahi	8
+13 Mohit bagichey mein chala gaya.
+14 Sita daftar mein chali gayi.
+15 Kya priya gusalkhane mein hai?	sahi	8
+1 Mohit rasoi ghar mein chala gaya.
+2 Mohit sayanakaksh mein chala gaya.
+3 Kya mohit sayanakaksh mein hai?	sahi	2
+4 Priya seb le aayi.
+5 Badri dhoodh le aaya.
+6 Kya mohit sayanakaksh mein hai?	sahi	2
+7 Badri bagichey mein gaya.
+8 Badri dhoodh rakh aaya.
+9 Kya badri sayanakaksh mein hai?	galat	7
+10 Priya sayanakaksh mein gayi.
+11 Priya rasoi ghar gayi.
+12 Kya priya rasoi ghar mein hai?	sahi	11
+13 Mohit daftar mein chala gaya.
+14 Badri dhoodh le aaya.
+15 Kya mohit daftar mein hai?	sahi	13
+1 Badri sayanakaksh mein chala gaya.
+2 Sita galiyare mein gayi.
+3 Kya badri sayanakaksh mein hai?	sahi	1
+4 Priya daftar mein chali gayi.
+5 Priya sayanakaksh gayi.
+6 Kya priya sayanakaksh mein hai?	sahi	5
+7 Badri galiyare mein gaya.
+8 Sita seb le aayi.
+9 Kya priya sayanakaksh mein hai?	sahi	5
+10 Mohit rasoi ghar mein chala gaya.
+11 Sita seb rakh aayi.
+12 Kya priya daftar mein hai?	galat	5
+13 Mohit daftar mein gaya.
+14 Sita gendh le aayi.
+15 Kya mohit daftar mein hai?	sahi	13
+1 Mohit gusalkhane mein gaya.
+2 Sita bagichey mein gayi.
+3 Kya sita bagichey mein hai?	sahi	2
+4 Mohit galiyare mein gaya.
+5 Sita seb le aayi.
+6 Kya mohit sayanakaksh mein hai?	galat	4
+7 Sita sayanakaksh mein gayi.
+8 Badri sayanakaksh mein chala gaya.
+9 Kya badri gusalkhane mein hai?	galat	8
+10 Badri bagichey mein gaya.
+11 Badri gusalkhane mein chala gaya.
+12 Kya sita sayanakaksh mein hai?	sahi	7
+13 Mohit sayanakaksh gaya.
+14 Sita seb chod aayi.
+15 Kya badri galiyare mein hai?	galat	11
+1 Priya daftar mein chali gayi.
+2 Priya sayanakaksh gayi.
+3 Kya priya bagichey mein hai?	galat	2
+4 Sita sayanakaksh mein gayi.
+5 Sita gusalkhane gayi.
+6 Kya priya galiyare mein hai?	galat	2
+7 Badri dhoodh le aaya.
+8 Mohit daftar gaya.
+9 Kya sita gusalkhane mein hai?	sahi	5
+10 Sita daftar mein chali gayi.
+11 Priya daftar gayi.
+12 Kya sita bagichey mein hai?	galat	10
+13 Sita sayanakaksh gayi.
+14 Mohit rasoi ghar mein gaya.
+15 Kya mohit galiyare mein hai?	galat	14
+1 Priya dhoodh le kar aayi.
+2 Mohit sayanakaksh mein gaya.
+3 Kya mohit gusalkhane mein hai?	galat	2
+4 Badri daftar gaya.
+5 Sita gusalkhane mein chali gayi.
+6 Kya badri daftar mein hai?	sahi	4
+7 Badri galiyare mein chala gaya.
+8 Mohit rasoi ghar mein gaya.
+9 Kya mohit sayanakaksh mein hai?	galat	8
+10 Mohit bagichey gaya.
+11 Badri daftar gaya.
+12 Kya mohit bagichey mein hai?	sahi	10
+13 Badri gendh le aaya.
+14 Priya dhoodh rakh aayi.
+15 Kya mohit sayanakaksh mein hai?	galat	10
+1 Sita bagichey gayi.
+2 Priya daftar gayi.
+3 Kya sita bagichey mein hai?	sahi	1
+4 Mohit gusalkhane mein chala gaya.
+5 Sita seb le kar aayi.
+6 Kya priya rasoi ghar mein hai?	galat	2
+7 Mohit bagichey gaya.
+8 Sita gusalkhane gayi.
+9 Kya mohit bagichey mein hai?	sahi	7
+10 Badri sayanakaksh mein chala gaya.
+11 Priya bagichey gayi.
+12 Kya badri galiyare mein hai?	galat	10
+13 Priya dhoodh le aayi.
+14 Sita daftar mein chali gayi.
+15 Kya badri rasoi ghar mein hai?	galat	10
+1 Priya dhoodh le aayi.
+2 Mohit sayanakaksh gaya.
+3 Kya mohit sayanakaksh mein hai?	sahi	2
+4 Sita seb le kar aayi.
+5 Mohit rasoi ghar gaya.
+6 Kya mohit galiyare mein hai?	galat	5
+7 Mohit daftar mein gaya.
+8 Priya bagichey mein gayi.
+9 Kya mohit gusalkhane mein hai?	galat	7
+10 Priya sayanakaksh mein chali gayi.
+11 Priya rasoi ghar mein chali gayi.
+12 Kya priya bagichey mein hai?	galat	11
+13 Sita seb chod aayi.
+14 Badri gusalkhane mein chala gaya.
+15 Kya priya bagichey mein hai?	galat	11
+1 Priya seb le kar aayi.
+2 Priya seb chod aayi.
+3 Badri dhoodh le kar aaya.
+4 Sita seb le kar aayi.
+5 Badri gusalkhane mein chala gaya.
+6 Badri daftar gaya.
+7 Kya badri bagichey mein hai?	galat	6
+8 Sita sayanakaksh mein gayi.
+9 Priya galiyare gayi.
+10 Kya sita galiyare mein hai?	galat	8
+11 Badri dhoodh chod aaya.
+12 Sita seb rakh aayi.
+13 Kya priya bagichey mein hai?	galat	9
+14 Badri dhoodh le kar aaya.
+15 Sita seb le kar aayi.
+16 Kya priya bagichey mein hai?	galat	9
+17 Badri sayanakaksh mein gaya.
+18 Badri dhoodh chod aaya.
+19 Kya badri galiyare mein hai?	galat	17
+1 Mohit sayanakaksh gaya.
+2 Priya gendh le kar aayi.
+3 Kya mohit sayanakaksh mein hai?	sahi	1
+4 Sita sayanakaksh mein gayi.
+5 Priya gendh rakh aayi.
+6 Kya mohit sayanakaksh mein hai?	sahi	1
+7 Mohit gusalkhane gaya.
+8 Sita daftar mein gayi.
+9 Kya mohit gusalkhane mein hai?	sahi	7
+10 Badri galiyare mein chala gaya.
+11 Priya rasoi ghar gayi.
+12 Kya mohit bagichey mein hai?	galat	7
+13 Sita gendh le aayi.
+14 Sita gendh chod aayi.
+15 Kya priya galiyare mein hai?	galat	11
+1 Priya galiyare mein gayi.
+2 Priya sayanakaksh mein gayi.
+3 Kya priya rasoi ghar mein hai?	galat	2
+4 Badri daftar mein gaya.
+5 Sita gusalkhane mein gayi.
+6 Kya priya bagichey mein hai?	galat	2
+7 Badri dhoodh le kar aaya.
+8 Priya daftar gayi.
+9 Kya priya daftar mein hai?	sahi	8
+10 Sita daftar mein gayi.
+11 Sita galiyare mein chali gayi.
+12 Kya sita galiyare mein hai?	sahi	11
+13 Sita seb le aayi.
+14 Badri gusalkhane mein gaya.
+15 Kya sita galiyare mein hai?	sahi	11
+1 Mohit bagichey mein gaya.
+2 Priya seb le kar aayi.
+3 Kya mohit bagichey mein hai?	sahi	1
+4 Sita dhoodh le kar aayi.
+5 Sita sayanakaksh mein chali gayi.
+6 Kya sita galiyare mein hai?	galat	5
+7 Sita dhoodh rakh aayi.
+8 Sita bagichey gayi.
+9 Kya sita rasoi ghar mein hai?	galat	8
+10 Mohit sayanakaksh mein chala gaya.
+11 Badri galiyare mein chala gaya.
+12 Kya sita daftar mein hai?	galat	8
+13 Badri sayanakaksh mein chala gaya.
+14 Sita daftar mein chali gayi.
+15 Kya badri sayanakaksh mein hai?	sahi	13
+1 Priya rasoi ghar gayi.
+2 Sita sayanakaksh mein chali gayi.
+3 Kya priya sayanakaksh mein hai?	galat	1
+4 Sita bagichey mein chali gayi.
+5 Badri bagichey gaya.
+6 Kya badri bagichey mein hai?	sahi	5
+7 Badri galiyare mein gaya.
+8 Sita dhoodh le kar aayi.
+9 Kya sita bagichey mein hai?	sahi	4
+10 Mohit galiyare mein gaya.
+11 Badri sayanakaksh mein gaya.
+12 Kya badri sayanakaksh mein hai?	sahi	11
+13 Mohit bagichey mein gaya.
+14 Priya gusalkhane gayi.
+15 Kya mohit sayanakaksh mein hai?	galat	13
+1 Sita dhoodh le kar aayi.
+2 Sita sayanakaksh mein gayi.
+3 Kya sita sayanakaksh mein hai?	sahi	2
+4 Badri bagichey gaya.
+5 Badri galiyare mein chala gaya.
+6 Kya badri galiyare mein hai?	sahi	5
+7 Sita dhoodh rakh aayi.
+8 Mohit galiyare gaya.
+9 Kya badri rasoi ghar mein hai?	galat	5
+10 Sita daftar mein chali gayi.
+11 Priya galiyare mein gayi.
+12 Kya mohit galiyare mein hai?	sahi	8
+13 Mohit rasoi ghar gaya.
+14 Mohit galiyare mein gaya.
+15 Kya priya galiyare mein hai?	sahi	11
+1 Badri seb le kar aaya.
+2 Badri daftar gaya.
+3 Kya badri daftar mein hai?	sahi	2
+4 Badri rasoi ghar mein gaya.
+5 Priya sayanakaksh mein chali gayi.
+6 Kya priya daftar mein hai?	galat	5
+7 Badri sayanakaksh gaya.
+8 Badri rasoi ghar mein chala gaya.
+9 Kya badri bagichey mein hai?	galat	8
+10 Sita gusalkhane gayi.
+11 Badri galiyare mein chala gaya.
+12 Kya sita gusalkhane mein hai?	sahi	10
+13 Priya gusalkhane mein chali gayi.
+14 Sita sayanakaksh mein gayi.
+15 Kya sita daftar mein hai?	galat	14
+1 Sita seb le kar aayi.
+2 Sita seb rakh aayi.
+3 Badri bagichey gaya.
+4 Badri gendh le aaya.
+5 Kya badri daftar mein hai?	galat	3
+6 Badri sayanakaksh gaya.
+7 Sita rasoi ghar mein gayi.
+8 Kya badri sayanakaksh mein hai?	sahi	6
+9 Mohit seb le kar aaya.
+10 Badri bagichey mein gaya.
+11 Kya badri gusalkhane mein hai?	galat	10
+12 Mohit seb rakh aaya.
+13 Mohit sayanakaksh mein gaya.
+14 Kya badri gusalkhane mein hai?	galat	10
+15 Priya rasoi ghar mein gayi.
+16 Priya dhoodh le kar aayi.
+17 Kya mohit daftar mein hai?	galat	13
+1 Priya dhoodh le aayi.
+2 Sita seb le aayi.
+3 Mohit galiyare gaya.
+4 Badri bagichey mein gaya.
+5 Kya badri daftar mein hai?	galat	4
+6 Mohit gendh le aaya.
+7 Sita galiyare gayi.
+8 Kya badri bagichey mein hai?	sahi	4
+9 Priya dhoodh chod aayi.
+10 Sita seb chod aayi.
+11 Kya badri bagichey mein hai?	sahi	4
+12 Sita seb le aayi.
+13 Mohit daftar mein gaya.
+14 Kya sita sayanakaksh mein hai?	galat	7
+15 Sita sayanakaksh gayi.
+16 Mohit sayanakaksh mein chala gaya.
+17 Kya sita sayanakaksh mein hai?	sahi	15
+1 Badri gendh le kar aaya.
+2 Badri gendh chod aaya.
+3 Sita daftar mein chali gayi.
+4 Badri daftar gaya.
+5 Kya badri bagichey mein hai?	galat	4
+6 Mohit daftar gaya.
+7 Sita gusalkhane mein chali gayi.
+8 Kya sita gusalkhane mein hai?	sahi	7
+9 Sita rasoi ghar mein gayi.
+10 Sita bagichey mein chali gayi.
+11 Kya badri daftar mein hai?	sahi	4
+12 Mohit rasoi ghar mein chala gaya.
+13 Sita sayanakaksh mein chali gayi.
+14 Kya sita sayanakaksh mein hai?	sahi	13
+15 Sita galiyare mein gayi.
+16 Priya gusalkhane mein gayi.
+17 Kya priya gusalkhane mein hai?	sahi	16
+1 Badri seb le kar aaya.
+2 Mohit bagichey mein chala gaya.
+3 Kya mohit galiyare mein hai?	galat	2
+4 Mohit dhoodh le kar aaya.
+5 Badri daftar gaya.
+6 Kya mohit bagichey mein hai?	sahi	2
+7 Mohit daftar gaya.
+8 Badri seb chod aaya.
+9 Kya mohit daftar mein hai?	sahi	7
+10 Mohit gendh le aaya.
+11 Badri bagichey mein gaya.
+12 Kya badri bagichey mein hai?	sahi	11
+13 Mohit galiyare gaya.
+14 Badri rasoi ghar mein chala gaya.
+15 Kya badri sayanakaksh mein hai?	galat	14
+1 Sita daftar gayi.
+2 Priya daftar mein chali gayi.
+3 Kya sita sayanakaksh mein hai?	galat	1
+4 Priya gusalkhane mein chali gayi.
+5 Sita gusalkhane mein chali gayi.
+6 Kya priya gusalkhane mein hai?	sahi	4
+7 Sita gendh le aayi.
+8 Sita bagichey mein chali gayi.
+9 Kya sita galiyare mein hai?	galat	8
+10 Sita gendh rakh aayi.
+11 Mohit dhoodh le aaya.
+12 Kya sita daftar mein hai?	galat	8
+13 Priya galiyare mein gayi.
+14 Sita rasoi ghar mein gayi.
+15 Kya sita rasoi ghar mein hai?	sahi	14
+1 Sita dhoodh le kar aayi.
+2 Sita dhoodh chod aayi.
+3 Sita dhoodh le aayi.
+4 Mohit daftar mein chala gaya.
+5 Kya mohit rasoi ghar mein hai?	galat	4
+6 Mohit seb le kar aaya.
+7 Sita dhoodh rakh aayi.
+8 Kya mohit daftar mein hai?	sahi	4
+9 Sita gusalkhane mein gayi.
+10 Badri galiyare gaya.
+11 Kya badri galiyare mein hai?	sahi	10
+12 Priya galiyare mein chali gayi.
+13 Badri rasoi ghar mein gaya.
+14 Kya priya galiyare mein hai?	sahi	12
+15 Badri gendh le aaya.
+16 Sita rasoi ghar mein gayi.
+17 Kya priya galiyare mein hai?	sahi	12
+1 Badri bagichey gaya.
+2 Mohit sayanakaksh mein gaya.
+3 Kya mohit sayanakaksh mein hai?	sahi	2
+4 Sita seb le kar aayi.
+5 Priya daftar mein gayi.
+6 Kya priya sayanakaksh mein hai?	galat	5
+7 Sita seb chod aayi.
+8 Badri sayanakaksh mein chala gaya.
+9 Kya badri sayanakaksh mein hai?	sahi	8
+10 Sita seb le kar aayi.
+11 Priya rasoi ghar gayi.
+12 Kya priya rasoi ghar mein hai?	sahi	11
+13 Mohit dhoodh le aaya.
+14 Priya gendh le aayi.
+15 Kya priya rasoi ghar mein hai?	sahi	11
+1 Mohit galiyare mein chala gaya.
+2 Priya galiyare mein chali gayi.
+3 Kya priya gusalkhane mein hai?	galat	2
+4 Mohit rasoi ghar mein gaya.
+5 Badri sayanakaksh gaya.
+6 Kya mohit bagichey mein hai?	galat	4
+7 Priya rasoi ghar mein chali gayi.
+8 Badri gusalkhane gaya.
+9 Kya badri gusalkhane mein hai?	sahi	8
+10 Priya daftar gayi.
+11 Mohit galiyare mein chala gaya.
+12 Kya priya daftar mein hai?	sahi	10
+13 Priya bagichey gayi.
+14 Sita galiyare mein chali gayi.
+15 Kya priya daftar mein hai?	galat	13
+1 Sita bagichey mein chali gayi.
+2 Mohit seb le aaya.
+3 Kya sita gusalkhane mein hai?	galat	1
+4 Priya daftar gayi.
+5 Mohit seb rakh aaya.
+6 Kya priya daftar mein hai?	sahi	4
+7 Badri seb le kar aaya.
+8 Sita rasoi ghar mein chali gayi.
+9 Kya sita galiyare mein hai?	galat	8
+10 Badri seb rakh aaya.
+11 Badri seb le aaya.
+12 Kya sita galiyare mein hai?	galat	8
+13 Badri gusalkhane gaya.
+14 Badri seb rakh aaya.
+15 Kya sita sayanakaksh mein hai?	galat	8
+1 Mohit sayanakaksh gaya.
+2 Mohit bagichey mein gaya.
+3 Kya mohit bagichey mein hai?	sahi	2
+4 Priya bagichey mein chali gayi.
+5 Badri galiyare mein gaya.
+6 Kya badri galiyare mein hai?	sahi	5
+7 Priya daftar mein gayi.
+8 Sita bagichey gayi.
+9 Kya sita bagichey mein hai?	sahi	8
+10 Mohit sayanakaksh gaya.
+11 Priya rasoi ghar mein chali gayi.
+12 Kya sita bagichey mein hai?	sahi	8
+13 Priya sayanakaksh mein gayi.
+14 Mohit gusalkhane gaya.
+15 Kya mohit sayanakaksh mein hai?	galat	14
+1 Sita rasoi ghar gayi.
+2 Mohit daftar mein chala gaya.
+3 Kya mohit gusalkhane mein hai?	galat	2
+4 Sita daftar gayi.
+5 Sita sayanakaksh mein gayi.
+6 Kya mohit gusalkhane mein hai?	galat	2
+7 Sita galiyare mein chali gayi.
+8 Badri rasoi ghar mein chala gaya.
+9 Kya sita daftar mein hai?	galat	7
+10 Badri gusalkhane gaya.
+11 Priya sayanakaksh gayi.
+12 Kya sita rasoi ghar mein hai?	galat	7
+13 Badri sayanakaksh mein gaya.
+14 Priya gendh le aayi.
+15 Kya badri daftar mein hai?	galat	13
+1 Mohit dhoodh le kar aaya.
+2 Priya daftar mein gayi.
+3 Kya priya daftar mein hai?	sahi	2
+4 Priya galiyare mein chali gayi.
+5 Priya bagichey mein gayi.
+6 Kya priya gusalkhane mein hai?	galat	5
+7 Mohit dhoodh rakh aaya.
+8 Priya rasoi ghar mein gayi.
+9 Kya priya galiyare mein hai?	galat	8
+10 Mohit rasoi ghar mein chala gaya.
+11 Badri dhoodh le kar aaya.
+12 Kya priya rasoi ghar mein hai?	sahi	8
+13 Badri dhoodh rakh aaya.
+14 Badri dhoodh le kar aaya.
+15 Kya mohit rasoi ghar mein hai?	sahi	10
+1 Badri seb le kar aaya.
+2 Badri seb rakh aaya.
+3 Priya seb le kar aayi.
+4 Sita gendh le kar aayi.
+5 Priya seb rakh aayi.
+6 Priya bagichey mein chali gayi.
+7 Kya priya bagichey mein hai?	sahi	6
+8 Sita sayanakaksh gayi.
+9 Sita seb le aayi.
+10 Kya sita gusalkhane mein hai?	galat	8
+11 Sita gendh chod aayi.
+12 Mohit rasoi ghar mein gaya.
+13 Kya mohit galiyare mein hai?	galat	12
+14 Badri gendh le aaya.
+15 Sita seb chod aayi.
+16 Kya mohit galiyare mein hai?	galat	12
+17 Sita daftar mein chali gayi.
+18 Badri seb le aaya.
+19 Kya sita daftar mein hai?	sahi	17
+1 Mohit galiyare gaya.
+2 Badri dhoodh le kar aaya.
+3 Kya mohit galiyare mein hai?	sahi	1
+4 Badri daftar mein gaya.
+5 Priya rasoi ghar mein gayi.
+6 Kya priya daftar mein hai?	galat	5
+7 Badri gusalkhane mein chala gaya.
+8 Badri seb le kar aaya.
+9 Kya priya daftar mein hai?	galat	5
+10 Sita sayanakaksh gayi.
+11 Priya galiyare mein chali gayi.
+12 Kya sita sayanakaksh mein hai?	sahi	10
+13 Badri gendh le kar aaya.
+14 Sita galiyare gayi.
+15 Kya priya galiyare mein hai?	sahi	11
+1 Mohit bagichey mein gaya.
+2 Priya daftar mein chali gayi.
+3 Kya priya gusalkhane mein hai?	galat	2
+4 Sita sayanakaksh gayi.
+5 Sita gusalkhane mein chali gayi.
+6 Kya mohit galiyare mein hai?	galat	1
+7 Mohit dhoodh le kar aaya.
+8 Priya bagichey gayi.
+9 Kya priya bagichey mein hai?	sahi	8
+10 Priya daftar gayi.
+11 Mohit dhoodh chod aaya.
+12 Kya priya rasoi ghar mein hai?	galat	10
+13 Priya galiyare mein gayi.
+14 Mohit dhoodh le kar aaya.
+15 Kya priya galiyare mein hai?	sahi	13
+1 Badri daftar mein gaya.
+2 Mohit daftar mein gaya.
+3 Kya mohit daftar mein hai?	sahi	2
+4 Priya seb le kar aayi.
+5 Priya seb rakh aayi.
+6 Kya badri daftar mein hai?	sahi	1
+7 Priya sayanakaksh mein chali gayi.
+8 Sita bagichey gayi.
+9 Kya sita gusalkhane mein hai?	galat	8
+10 Sita rasoi ghar gayi.
+11 Sita daftar mein gayi.
+12 Kya priya sayanakaksh mein hai?	sahi	7
+13 Mohit galiyare mein gaya.
+14 Badri bagichey mein gaya.
+15 Kya badri rasoi ghar mein hai?	galat	14
+1 Sita bagichey mein chali gayi.
+2 Priya gendh le aayi.
+3 Kya sita galiyare mein hai?	galat	1
+4 Badri dhoodh le kar aaya.
+5 Priya gendh chod aayi.
+6 Kya sita rasoi ghar mein hai?	galat	1
+7 Mohit gusalkhane gaya.
+8 Mohit rasoi ghar gaya.
+9 Kya mohit rasoi ghar mein hai?	sahi	8
+10 Priya galiyare gayi.
+11 Badri gusalkhane mein chala gaya.
+12 Kya priya galiyare mein hai?	sahi	10
+13 Sita rasoi ghar mein chali gayi.
+14 Sita gusalkhane mein chali gayi.
+15 Kya sita daftar mein hai?	galat	14
+1 Sita seb le aayi.
+2 Mohit daftar mein gaya.
+3 Kya mohit gusalkhane mein hai?	galat	2
+4 Badri bagichey gaya.
+5 Priya bagichey mein chali gayi.
+6 Kya badri bagichey mein hai?	sahi	4
+7 Badri sayanakaksh mein chala gaya.
+8 Mohit dhoodh le aaya.
+9 Kya badri gusalkhane mein hai?	galat	7
+10 Mohit gusalkhane mein gaya.
+11 Mohit dhoodh rakh aaya.
+12 Kya mohit rasoi ghar mein hai?	galat	10
+13 Badri gusalkhane gaya.
+14 Badri dhoodh le kar aaya.
+15 Kya mohit bagichey mein hai?	galat	10
+1 Badri daftar gaya.
+2 Priya gusalkhane mein chali gayi.
+3 Kya priya gusalkhane mein hai?	sahi	2
+4 Badri galiyare gaya.
+5 Sita dhoodh le aayi.
+6 Kya badri gusalkhane mein hai?	galat	4
+7 Sita dhoodh chod aayi.
+8 Badri gendh le kar aaya.
+9 Kya priya bagichey mein hai?	galat	2
+10 Sita galiyare mein gayi.
+11 Mohit galiyare mein chala gaya.
+12 Kya sita galiyare mein hai?	sahi	10
+13 Badri bagichey mein chala gaya.
+14 Badri gendh rakh aaya.
+15 Kya mohit galiyare mein hai?	sahi	11
+1 Sita rasoi ghar mein chali gayi.
+2 Badri sayanakaksh gaya.
+3 Kya badri sayanakaksh mein hai?	sahi	2
+4 Sita seb le aayi.
+5 Badri galiyare mein gaya.
+6 Kya sita rasoi ghar mein hai?	sahi	1
+7 Sita seb chod aayi.
+8 Sita seb le aayi.
+9 Kya badri rasoi ghar mein hai?	galat	5
+10 Badri sayanakaksh mein gaya.
+11 Mohit sayanakaksh gaya.
+12 Kya badri daftar mein hai?	galat	10
+13 Badri bagichey mein gaya.
+14 Mohit daftar mein gaya.
+15 Kya badri rasoi ghar mein hai?	galat	13
+1 Sita seb le kar aayi.
+2 Mohit gendh le aaya.
+3 Badri galiyare mein gaya.
+4 Badri daftar gaya.
+5 Kya badri sayanakaksh mein hai?	galat	4
+6 Mohit gendh rakh aaya.
+7 Sita galiyare mein chali gayi.
+8 Kya badri galiyare mein hai?	galat	4
+9 Mohit gendh le aaya.
+10 Mohit daftar mein chala gaya.
+11 Kya sita galiyare mein hai?	sahi	7
+12 Mohit gendh rakh aaya.
+13 Sita seb chod aayi.
+14 Kya sita sayanakaksh mein hai?	galat	7
+15 Mohit gendh le aaya.
+16 Sita sayanakaksh gayi.
+17 Kya sita rasoi ghar mein hai?	galat	16
+1 Mohit gusalkhane mein gaya.
+2 Mohit gendh le aaya.
+3 Kya mohit daftar mein hai?	galat	1
+4 Sita daftar mein chali gayi.
+5 Mohit gendh chod aaya.
+6 Kya mohit gusalkhane mein hai?	sahi	1
+7 Badri rasoi ghar gaya.
+8 Mohit daftar gaya.
+9 Kya mohit daftar mein hai?	sahi	8
+10 Mohit sayanakaksh gaya.
+11 Sita rasoi ghar mein chali gayi.
+12 Kya sita galiyare mein hai?	galat	11
+13 Priya galiyare mein chali gayi.
+14 Badri daftar mein chala gaya.
+15 Kya mohit sayanakaksh mein hai?	sahi	10
+1 Badri bagichey mein chala gaya.
+2 Badri rasoi ghar mein gaya.
+3 Kya badri bagichey mein hai?	galat	2
+4 Mohit bagichey mein chala gaya.
+5 Priya galiyare mein gayi.
+6 Kya mohit bagichey mein hai?	sahi	4
+7 Sita rasoi ghar mein gayi.
+8 Badri bagichey mein chala gaya.
+9 Kya badri bagichey mein hai?	sahi	8
+10 Mohit gusalkhane mein chala gaya.
+11 Badri rasoi ghar mein gaya.
+12 Kya badri rasoi ghar mein hai?	sahi	11
+13 Sita sayanakaksh gayi.
+14 Badri galiyare gaya.
+15 Kya mohit bagichey mein hai?	galat	10
+1 Badri bagichey mein gaya.
+2 Sita gendh le aayi.
+3 Kya badri bagichey mein hai?	sahi	1
+4 Mohit seb le kar aaya.
+5 Badri rasoi ghar mein gaya.
+6 Kya badri rasoi ghar mein hai?	sahi	5
+7 Sita gendh rakh aayi.
+8 Badri gusalkhane mein gaya.
+9 Kya badri gusalkhane mein hai?	sahi	8
+10 Mohit galiyare mein chala gaya.
+11 Badri daftar mein gaya.
+12 Kya mohit galiyare mein hai?	sahi	10
+13 Sita gendh le kar aayi.
+14 Badri bagichey mein gaya.
+15 Kya badri bagichey mein hai?	sahi	14
+1 Priya galiyare gayi.
+2 Sita seb le kar aayi.
+3 Kya priya gusalkhane mein hai?	galat	1
+4 Sita seb rakh aayi.
+5 Sita gusalkhane gayi.
+6 Kya priya rasoi ghar mein hai?	galat	1
+7 Priya daftar mein gayi.
+8 Badri galiyare mein gaya.
+9 Kya sita daftar mein hai?	galat	5
+10 Mohit dhoodh le aaya.
+11 Priya gendh le kar aayi.
+12 Kya priya daftar mein hai?	sahi	7
+13 Badri rasoi ghar gaya.
+14 Badri gusalkhane gaya.
+15 Kya badri gusalkhane mein hai?	sahi	14
+1 Sita dhoodh le kar aayi.
+2 Mohit seb le aaya.
+3 Sita dhoodh rakh aayi.
+4 Mohit seb rakh aaya.
+5 Sita bagichey gayi.
+6 Badri gendh le aaya.
+7 Kya sita bagichey mein hai?	sahi	5
+8 Priya sayanakaksh gayi.
+9 Sita rasoi ghar mein chali gayi.
+10 Kya sita rasoi ghar mein hai?	sahi	9
+11 Mohit seb le kar aaya.
+12 Priya galiyare gayi.
+13 Kya priya galiyare mein hai?	sahi	12
+14 Badri rasoi ghar mein chala gaya.
+15 Badri gusalkhane mein gaya.
+16 Kya badri gusalkhane mein hai?	sahi	15
+17 Priya gusalkhane gayi.
+18 Mohit gusalkhane mein gaya.
+19 Kya priya gusalkhane mein hai?	sahi	17
+1 Sita seb le kar aayi.
+2 Badri gendh le kar aaya.
+3 Sita sayanakaksh mein chali gayi.
+4 Badri dhoodh le kar aaya.
+5 Kya sita rasoi ghar mein hai?	galat	3
+6 Mohit gusalkhane mein gaya.
+7 Sita seb chod aayi.
+8 Kya mohit daftar mein hai?	galat	6
+9 Badri seb le kar aaya.
+10 Badri gusalkhane mein gaya.
+11 Kya mohit gusalkhane mein hai?	sahi	6
+12 Sita bagichey gayi.
+13 Mohit bagichey mein chala gaya.
+14 Kya badri gusalkhane mein hai?	sahi	10
+15 Mohit sayanakaksh mein chala gaya.
+16 Priya bagichey gayi.
+17 Kya priya bagichey mein hai?	sahi	16
+1 Priya dhoodh le aayi.
+2 Mohit sayanakaksh mein gaya.
+3 Kya mohit rasoi ghar mein hai?	galat	2
+4 Priya bagichey mein chali gayi.
+5 Priya dhoodh rakh aayi.
+6 Kya mohit bagichey mein hai?	galat	2
+7 Mohit daftar mein chala gaya.
+8 Sita seb le kar aayi.
+9 Kya mohit daftar mein hai?	sahi	7
+10 Priya gendh le aayi.
+11 Sita seb chod aayi.
+12 Kya mohit daftar mein hai?	sahi	7
+13 Priya daftar mein gayi.
+14 Sita seb le kar aayi.
+15 Kya priya bagichey mein hai?	galat	13
+1 Sita seb le aayi.
+2 Badri gusalkhane gaya.
+3 Kya badri gusalkhane mein hai?	sahi	2
+4 Sita gendh le kar aayi.
+5 Badri daftar mein chala gaya.
+6 Kya badri gusalkhane mein hai?	galat	5
+7 Sita gendh chod aayi.
+8 Mohit galiyare gaya.
+9 Kya badri daftar mein hai?	sahi	5
+10 Mohit rasoi ghar mein gaya.
+11 Mohit sayanakaksh mein chala gaya.
+12 Kya mohit gusalkhane mein hai?	galat	11
+13 Mohit galiyare mein gaya.
+14 Sita gendh le kar aayi.
+15 Kya mohit galiyare mein hai?	sahi	13
+1 Sita rasoi ghar mein gayi.
+2 Priya bagichey mein chali gayi.
+3 Kya sita rasoi ghar mein hai?	sahi	1
+4 Sita gusalkhane gayi.
+5 Sita dhoodh le kar aayi.
+6 Kya sita bagichey mein hai?	galat	4
+7 Sita dhoodh chod aayi.
+8 Mohit gendh le kar aaya.
+9 Kya sita bagichey mein hai?	galat	4
+10 Badri bagichey gaya.
+11 Badri gusalkhane mein gaya.
+12 Kya badri galiyare mein hai?	galat	11
+13 Mohit gendh rakh aaya.
+14 Badri dhoodh le kar aaya.
+15 Kya badri rasoi ghar mein hai?	galat	11
+1 Badri seb le aaya.
+2 Mohit gendh le kar aaya.
+3 Badri seb chod aaya.
+4 Mohit daftar gaya.
+5 Kya mohit daftar mein hai?	sahi	4
+6 Badri seb le kar aaya.
+7 Mohit gendh chod aaya.
+8 Kya mohit daftar mein hai?	sahi	4
+9 Priya rasoi ghar mein gayi.
+10 Mohit gendh le kar aaya.
+11 Kya priya rasoi ghar mein hai?	sahi	9
+12 Badri daftar mein chala gaya.
+13 Mohit gendh rakh aaya.
+14 Kya priya sayanakaksh mein hai?	galat	9
+15 Mohit bagichey mein gaya.
+16 Priya bagichey mein gayi.
+17 Kya priya bagichey mein hai?	sahi	16
+1 Badri seb le aaya.
+2 Priya bagichey mein chali gayi.
+3 Kya priya bagichey mein hai?	sahi	2
+4 Mohit gusalkhane mein chala gaya.
+5 Mohit dhoodh le kar aaya.
+6 Kya mohit gusalkhane mein hai?	sahi	4
+7 Badri seb rakh aaya.
+8 Badri daftar mein gaya.
+9 Kya mohit bagichey mein hai?	galat	4
+10 Priya galiyare mein gayi.
+11 Sita gusalkhane mein chali gayi.
+12 Kya sita gusalkhane mein hai?	sahi	11
+13 Mohit dhoodh chod aaya.
+14 Sita dhoodh le aayi.
+15 Kya sita galiyare mein hai?	galat	11
+1 Sita daftar gayi.
+2 Badri galiyare mein gaya.
+3 Kya sita bagichey mein hai?	galat	1
+4 Mohit seb le aaya.
+5 Priya bagichey mein chali gayi.
+6 Kya sita daftar mein hai?	sahi	1
+7 Mohit galiyare mein gaya.
+8 Badri sayanakaksh mein gaya.
+9 Kya badri daftar mein hai?	galat	8
+10 Sita gusalkhane mein gayi.
+11 Priya sayanakaksh mein gayi.
+12 Kya badri sayanakaksh mein hai?	sahi	8
+13 Mohit daftar mein gaya.
+14 Mohit galiyare gaya.
+15 Kya sita daftar mein hai?	galat	10
+1 Mohit sayanakaksh mein gaya.
+2 Priya rasoi ghar gayi.
+3 Kya mohit sayanakaksh mein hai?	sahi	1
+4 Mohit rasoi ghar gaya.
+5 Sita sayanakaksh mein chali gayi.
+6 Kya priya gusalkhane mein hai?	galat	2
+7 Priya gusalkhane gayi.
+8 Priya bagichey mein chali gayi.
+9 Kya priya bagichey mein hai?	sahi	8
+10 Sita dhoodh le aayi.
+11 Sita seb le aayi.
+12 Kya priya galiyare mein hai?	galat	8
+13 Priya rasoi ghar gayi.
+14 Sita seb rakh aayi.
+15 Kya priya rasoi ghar mein hai?	sahi	13
+1 Mohit gendh le kar aaya.
+2 Mohit gendh chod aaya.
+3 Mohit gendh le kar aaya.
+4 Mohit gendh chod aaya.
+5 Sita sayanakaksh mein gayi.
+6 Mohit daftar gaya.
+7 Kya mohit daftar mein hai?	sahi	6
+8 Priya bagichey mein chali gayi.
+9 Mohit gusalkhane mein gaya.
+10 Kya priya rasoi ghar mein hai?	galat	8
+11 Priya galiyare gayi.
+12 Mohit sayanakaksh gaya.
+13 Kya mohit gusalkhane mein hai?	galat	12
+14 Priya dhoodh le aayi.
+15 Sita daftar gayi.
+16 Kya sita galiyare mein hai?	galat	15
+17 Priya daftar mein gayi.
+18 Priya rasoi ghar mein gayi.
+19 Kya sita daftar mein hai?	sahi	15
+1 Badri rasoi ghar gaya.
+2 Badri seb le kar aaya.
+3 Kya badri rasoi ghar mein hai?	sahi	1
+4 Priya sayanakaksh mein chali gayi.
+5 Badri daftar mein gaya.
+6 Kya badri gusalkhane mein hai?	galat	5
+7 Sita sayanakaksh gayi.
+8 Sita bagichey gayi.
+9 Kya priya galiyare mein hai?	galat	4
+10 Badri galiyare mein gaya.
+11 Badri gendh le kar aaya.
+12 Kya sita rasoi ghar mein hai?	galat	8
+13 Badri gendh chod aaya.
+14 Mohit daftar mein chala gaya.
+15 Kya badri galiyare mein hai?	sahi	10
+1 Sita seb le aayi.
+2 Mohit sayanakaksh mein gaya.
+3 Kya mohit daftar mein hai?	galat	2
+4 Sita daftar mein gayi.
+5 Sita sayanakaksh mein gayi.
+6 Kya sita gusalkhane mein hai?	galat	5
+7 Mohit gusalkhane gaya.
+8 Sita seb rakh aayi.
+9 Kya mohit gusalkhane mein hai?	sahi	7
+10 Mohit daftar mein gaya.
+11 Sita seb le kar aayi.
+12 Kya sita bagichey mein hai?	galat	5
+13 Mohit gusalkhane gaya.
+14 Sita gusalkhane gayi.
+15 Kya mohit galiyare mein hai?	galat	13
+1 Mohit rasoi ghar mein gaya.
+2 Mohit seb le kar aaya.
+3 Kya mohit rasoi ghar mein hai?	sahi	1
+4 Priya sayanakaksh mein chali gayi.
+5 Badri gusalkhane gaya.
+6 Kya badri sayanakaksh mein hai?	galat	5
+7 Sita gusalkhane gayi.
+8 Priya galiyare mein gayi.
+9 Kya badri gusalkhane mein hai?	sahi	5
+10 Mohit seb chod aaya.
+11 Sita bagichey mein chali gayi.
+12 Kya priya gusalkhane mein hai?	galat	8
+13 Badri daftar mein gaya.
+14 Badri bagichey gaya.
+15 Kya badri galiyare mein hai?	galat	14
+1 Badri rasoi ghar mein gaya.
+2 Badri sayanakaksh mein gaya.
+3 Kya badri sayanakaksh mein hai?	sahi	2
+4 Sita seb le kar aayi.
+5 Badri dhoodh le kar aaya.
+6 Kya badri bagichey mein hai?	galat	2
+7 Badri dhoodh rakh aaya.
+8 Mohit sayanakaksh mein gaya.
+9 Kya mohit daftar mein hai?	galat	8
+10 Sita seb rakh aayi.
+11 Badri rasoi ghar mein gaya.
+12 Kya mohit daftar mein hai?	galat	8
+13 Sita seb le aayi.
+14 Badri daftar gaya.
+15 Kya mohit sayanakaksh mein hai?	sahi	8
+1 Mohit bagichey mein gaya.
+2 Mohit galiyare gaya.
+3 Kya mohit galiyare mein hai?	sahi	2
+4 Mohit bagichey mein chala gaya.
+5 Sita galiyare mein chali gayi.
+6 Kya mohit gusalkhane mein hai?	galat	4
+7 Mohit rasoi ghar mein gaya.
+8 Priya rasoi ghar mein gayi.
+9 Kya mohit bagichey mein hai?	galat	7
+10 Priya gusalkhane mein chali gayi.
+11 Priya sayanakaksh gayi.
+12 Kya priya galiyare mein hai?	galat	11
+13 Mohit sayanakaksh gaya.
+14 Badri daftar mein gaya.
+15 Kya priya rasoi ghar mein hai?	galat	11
+1 Mohit seb le kar aaya.
+2 Badri daftar gaya.
+3 Kya badri daftar mein hai?	sahi	2
+4 Sita galiyare mein gayi.
+5 Mohit rasoi ghar mein gaya.
+6 Kya sita rasoi ghar mein hai?	galat	4
+7 Badri bagichey mein gaya.
+8 Mohit seb rakh aaya.
+9 Kya sita gusalkhane mein hai?	galat	4
+10 Mohit galiyare mein chala gaya.
+11 Sita daftar mein gayi.
+12 Kya mohit galiyare mein hai?	sahi	10
+13 Mohit sayanakaksh mein chala gaya.
+14 Mohit bagichey mein chala gaya.
+15 Kya mohit rasoi ghar mein hai?	galat	14
+1 Priya daftar mein gayi.
+2 Sita galiyare mein chali gayi.
+3 Kya sita galiyare mein hai?	sahi	2
+4 Mohit bagichey gaya.
+5 Sita sayanakaksh gayi.
+6 Kya sita sayanakaksh mein hai?	sahi	5
+7 Badri galiyare gaya.
+8 Mohit dhoodh le aaya.
+9 Kya sita bagichey mein hai?	galat	5
+10 Priya gusalkhane mein gayi.
+11 Mohit sayanakaksh gaya.
+12 Kya priya gusalkhane mein hai?	sahi	10
+13 Priya galiyare mein gayi.
+14 Badri bagichey mein gaya.
+15 Kya priya gusalkhane mein hai?	galat	13
+1 Sita bagichey mein chali gayi.
+2 Mohit dhoodh le kar aaya.
+3 Kya sita rasoi ghar mein hai?	galat	1
+4 Mohit gusalkhane mein chala gaya.
+5 Priya seb le aayi.
+6 Kya mohit rasoi ghar mein hai?	galat	4
+7 Sita daftar gayi.
+8 Badri bagichey mein gaya.
+9 Kya sita rasoi ghar mein hai?	galat	7
+10 Mohit dhoodh chod aaya.
+11 Priya seb rakh aayi.
+12 Kya badri bagichey mein hai?	sahi	8
+13 Priya gusalkhane mein gayi.
+14 Priya sayanakaksh mein gayi.
+15 Kya priya daftar mein hai?	galat	14
+1 Mohit rasoi ghar mein gaya.
+2 Badri dhoodh le aaya.
+3 Kya mohit bagichey mein hai?	galat	1
+4 Sita rasoi ghar mein gayi.
+5 Sita galiyare mein gayi.
+6 Kya sita sayanakaksh mein hai?	galat	5
+7 Priya rasoi ghar gayi.
+8 Badri bagichey mein chala gaya.
+9 Kya sita sayanakaksh mein hai?	galat	5
+10 Sita daftar mein chali gayi.
+11 Mohit bagichey gaya.
+12 Kya badri rasoi ghar mein hai?	galat	8
+13 Priya bagichey mein chali gayi.
+14 Sita gusalkhane mein chali gayi.
+15 Kya sita galiyare mein hai?	galat	14
+1 Mohit gusalkhane mein gaya.
+2 Sita gusalkhane gayi.
+3 Kya mohit sayanakaksh mein hai?	galat	1
+4 Mohit sayanakaksh gaya.
+5 Sita seb le aayi.
+6 Kya mohit sayanakaksh mein hai?	sahi	4
+7 Mohit dhoodh le kar aaya.
+8 Priya rasoi ghar mein gayi.
+9 Kya sita gusalkhane mein hai?	sahi	2
+10 Mohit dhoodh rakh aaya.
+11 Sita seb chod aayi.
+12 Kya priya rasoi ghar mein hai?	sahi	8
+13 Mohit galiyare mein gaya.
+14 Sita seb le kar aayi.
+15 Kya priya bagichey mein hai?	galat	8
+1 Mohit dhoodh le aaya.
+2 Priya gendh le kar aayi.
+3 Mohit dhoodh chod aaya.
+4 Priya bagichey mein gayi.
+5 Kya priya bagichey mein hai?	sahi	4
+6 Mohit galiyare mein chala gaya.
+7 Priya gendh chod aayi.
+8 Kya mohit galiyare mein hai?	sahi	6
+9 Priya gusalkhane mein chali gayi.
+10 Mohit bagichey gaya.
+11 Kya mohit rasoi ghar mein hai?	galat	10
+12 Mohit gendh le aaya.
+13 Mohit daftar gaya.
+14 Kya priya sayanakaksh mein hai?	galat	9
+15 Badri bagichey mein chala gaya.
+16 Mohit gendh chod aaya.
+17 Kya mohit daftar mein hai?	sahi	13
+1 Priya rasoi ghar mein chali gayi.
+2 Sita dhoodh le kar aayi.
+3 Kya priya galiyare mein hai?	galat	1
+4 Sita dhoodh chod aayi.
+5 Sita gendh le aayi.
+6 Kya priya rasoi ghar mein hai?	sahi	1
+7 Sita rasoi ghar mein chali gayi.
+8 Sita gendh chod aayi.
+9 Kya sita rasoi ghar mein hai?	sahi	7
+10 Priya bagichey mein gayi.
+11 Badri rasoi ghar mein gaya.
+12 Kya badri daftar mein hai?	galat	11
+13 Priya seb le kar aayi.
+14 Priya seb chod aayi.
+15 Kya priya bagichey mein hai?	sahi	10
+1 Mohit gendh le kar aaya.
+2 Sita daftar mein gayi.
+3 Kya sita daftar mein hai?	sahi	2
+4 Badri rasoi ghar mein chala gaya.
+5 Badri gusalkhane mein gaya.
+6 Kya sita sayanakaksh mein hai?	galat	2
+7 Sita gusalkhane mein chali gayi.
+8 Priya bagichey mein gayi.
+9 Kya priya bagichey mein hai?	sahi	8
+10 Mohit galiyare mein chala gaya.
+11 Sita rasoi ghar gayi.
+12 Kya badri gusalkhane mein hai?	sahi	5
+13 Badri galiyare gaya.
+14 Priya seb le aayi.
+15 Kya sita rasoi ghar mein hai?	sahi	11
+1 Badri dhoodh le kar aaya.
+2 Sita sayanakaksh mein chali gayi.
+3 Kya sita sayanakaksh mein hai?	sahi	2
+4 Mohit daftar mein chala gaya.
+5 Badri rasoi ghar gaya.
+6 Kya mohit daftar mein hai?	sahi	4
+7 Badri dhoodh chod aaya.
+8 Priya seb le kar aayi.
+9 Kya sita sayanakaksh mein hai?	sahi	2
+10 Mohit sayanakaksh mein chala gaya.
+11 Badri daftar gaya.
+12 Kya badri daftar mein hai?	sahi	11
+13 Sita rasoi ghar mein chali gayi.
+14 Priya gendh le kar aayi.
+15 Kya sita rasoi ghar mein hai?	sahi	13
+1 Mohit sayanakaksh mein gaya.
+2 Sita dhoodh le aayi.
+3 Kya mohit sayanakaksh mein hai?	sahi	1
+4 Sita daftar gayi.
+5 Priya daftar gayi.
+6 Kya sita sayanakaksh mein hai?	galat	4
+7 Sita rasoi ghar mein gayi.
+8 Sita gusalkhane mein gayi.
+9 Kya sita bagichey mein hai?	galat	8
+10 Mohit bagichey mein chala gaya.
+11 Mohit seb le aaya.
+12 Kya mohit gusalkhane mein hai?	galat	10
+13 Mohit rasoi ghar mein chala gaya.
+14 Mohit gusalkhane mein gaya.
+15 Kya sita rasoi ghar mein hai?	galat	8
+1 Priya dhoodh le kar aayi.
+2 Mohit daftar gaya.
+3 Kya mohit bagichey mein hai?	galat	2
+4 Priya daftar mein chali gayi.
+5 Priya rasoi ghar gayi.
+6 Kya priya bagichey mein hai?	galat	5
+7 Sita galiyare mein gayi.
+8 Priya galiyare mein gayi.
+9 Kya priya galiyare mein hai?	sahi	8
+10 Badri daftar mein gaya.
+11 Badri sayanakaksh gaya.
+12 Kya badri sayanakaksh mein hai?	sahi	11
+13 Badri bagichey gaya.
+14 Badri gusalkhane gaya.
+15 Kya badri daftar mein hai?	galat	14
+1 Priya bagichey mein gayi.
+2 Badri galiyare mein chala gaya.
+3 Kya badri sayanakaksh mein hai?	galat	2
+4 Priya galiyare mein chali gayi.
+5 Sita rasoi ghar gayi.
+6 Kya sita sayanakaksh mein hai?	galat	5
+7 Mohit sayanakaksh gaya.
+8 Badri rasoi ghar mein chala gaya.
+9 Kya badri rasoi ghar mein hai?	sahi	8
+10 Sita seb le kar aayi.
+11 Sita seb chod aayi.
+12 Kya badri gusalkhane mein hai?	galat	8
+13 Mohit rasoi ghar mein chala gaya.
+14 Badri bagichey mein chala gaya.
+15 Kya badri bagichey mein hai?	sahi	14
+1 Priya seb le kar aayi.
+2 Mohit daftar mein gaya.
+3 Kya mohit daftar mein hai?	sahi	2
+4 Badri sayanakaksh mein gaya.
+5 Priya seb rakh aayi.
+6 Kya mohit daftar mein hai?	sahi	2
+7 Mohit bagichey gaya.
+8 Sita daftar mein gayi.
+9 Kya sita daftar mein hai?	sahi	8
+10 Badri galiyare gaya.
+11 Mohit sayanakaksh mein gaya.
+12 Kya mohit bagichey mein hai?	galat	11
+13 Priya seb le kar aayi.
+14 Priya seb chod aayi.
+15 Kya sita bagichey mein hai?	galat	8
+1 Sita gusalkhane gayi.
+2 Badri sayanakaksh mein gaya.
+3 Kya sita rasoi ghar mein hai?	galat	1
+4 Badri bagichey mein chala gaya.
+5 Mohit bagichey mein chala gaya.
+6 Kya badri bagichey mein hai?	sahi	4
+7 Mohit daftar mein gaya.
+8 Sita bagichey mein gayi.
+9 Kya mohit daftar mein hai?	sahi	7
+10 Badri sayanakaksh mein chala gaya.
+11 Mohit rasoi ghar mein gaya.
+12 Kya badri galiyare mein hai?	galat	10
+13 Sita sayanakaksh gayi.
+14 Priya sayanakaksh mein gayi.
+15 Kya sita rasoi ghar mein hai?	galat	13
+1 Mohit rasoi ghar mein chala gaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Kya mohit sayanakaksh mein hai?	galat	1
+4 Badri sayanakaksh mein gaya.
+5 Badri galiyare mein gaya.
+6 Kya mohit rasoi ghar mein hai?	sahi	1
+7 Mohit daftar gaya.
+8 Badri sayanakaksh mein chala gaya.
+9 Kya badri daftar mein hai?	galat	8
+10 Mohit sayanakaksh mein chala gaya.
+11 Badri rasoi ghar mein gaya.
+12 Kya badri sayanakaksh mein hai?	galat	11
+13 Sita rasoi ghar mein chali gayi.
+14 Badri galiyare mein chala gaya.
+15 Kya mohit rasoi ghar mein hai?	galat	10
+1 Sita gusalkhane mein gayi.
+2 Mohit galiyare mein chala gaya.
+3 Kya mohit daftar mein hai?	galat	2
+4 Mohit rasoi ghar mein gaya.
+5 Badri daftar gaya.
+6 Kya mohit rasoi ghar mein hai?	sahi	4
+7 Badri sayanakaksh mein chala gaya.
+8 Sita daftar mein chali gayi.
+9 Kya mohit rasoi ghar mein hai?	sahi	4
+10 Mohit galiyare mein gaya.
+11 Mohit gusalkhane gaya.
+12 Kya sita sayanakaksh mein hai?	galat	8
+13 Priya sayanakaksh gayi.
+14 Mohit daftar gaya.
+15 Kya sita daftar mein hai?	sahi	8
+1 Sita galiyare gayi.
+2 Mohit sayanakaksh mein chala gaya.
+3 Kya sita galiyare mein hai?	sahi	1
+4 Sita gendh le kar aayi.
+5 Mohit daftar mein chala gaya.
+6 Kya sita galiyare mein hai?	sahi	1
+7 Badri bagichey mein gaya.
+8 Sita gendh rakh aayi.
+9 Kya mohit daftar mein hai?	sahi	5
+10 Mohit dhoodh le kar aaya.
+11 Sita gendh le kar aayi.
+12 Kya mohit daftar mein hai?	sahi	5
+13 Mohit gusalkhane gaya.
+14 Sita gusalkhane gayi.
+15 Kya sita daftar mein hai?	galat	14
+1 Priya daftar gayi.
+2 Sita gusalkhane gayi.
+3 Kya priya daftar mein hai?	sahi	1
+4 Priya gusalkhane mein gayi.
+5 Priya gendh le kar aayi.
+6 Kya priya gusalkhane mein hai?	sahi	4
+7 Priya daftar mein chali gayi.
+8 Badri gusalkhane mein gaya.
+9 Kya badri gusalkhane mein hai?	sahi	8
+10 Badri daftar mein chala gaya.
+11 Sita bagichey gayi.
+12 Kya sita bagichey mein hai?	sahi	11
+13 Priya rasoi ghar mein chali gayi.
+14 Sita rasoi ghar gayi.
+15 Kya badri daftar mein hai?	sahi	10
+1 Badri seb le aaya.
+2 Mohit dhoodh le aaya.
+3 Mohit galiyare mein gaya.
+4 Sita gusalkhane gayi.
+5 Kya mohit gusalkhane mein hai?	galat	3
+6 Mohit dhoodh rakh aaya.
+7 Badri dhoodh le kar aaya.
+8 Kya sita gusalkhane mein hai?	sahi	4
+9 Badri bagichey mein gaya.
+10 Sita rasoi ghar mein gayi.
+11 Kya badri bagichey mein hai?	sahi	9
+12 Sita gendh le kar aayi.
+13 Badri dhoodh rakh aaya.
+14 Kya sita galiyare mein hai?	galat	10
+15 Sita sayanakaksh gayi.
+16 Badri seb rakh aaya.
+17 Kya sita sayanakaksh mein hai?	sahi	15
+1 Mohit gendh le kar aaya.
+2 Badri daftar mein gaya.
+3 Kya badri daftar mein hai?	sahi	2
+4 Priya galiyare mein gayi.
+5 Badri rasoi ghar gaya.
+6 Kya priya galiyare mein hai?	sahi	4
+7 Mohit daftar mein chala gaya.
+8 Badri bagichey mein gaya.
+9 Kya priya gusalkhane mein hai?	galat	4
+10 Sita dhoodh le kar aayi.
+11 Mohit gendh chod aaya.
+12 Kya badri bagichey mein hai?	sahi	8
+13 Priya rasoi ghar mein gayi.
+14 Badri daftar gaya.
+15 Kya badri bagichey mein hai?	galat	14
+1 Priya gusalkhane mein gayi.
+2 Sita gusalkhane gayi.
+3 Kya priya gusalkhane mein hai?	sahi	1
+4 Sita dhoodh le aayi.
+5 Mohit galiyare gaya.
+6 Kya sita bagichey mein hai?	galat	2
+7 Sita dhoodh rakh aayi.
+8 Badri gendh le aaya.
+9 Kya mohit galiyare mein hai?	sahi	5
+10 Sita galiyare mein chali gayi.
+11 Badri galiyare mein gaya.
+12 Kya sita galiyare mein hai?	sahi	10
+13 Sita rasoi ghar gayi.
+14 Priya dhoodh le kar aayi.
+15 Kya badri rasoi ghar mein hai?	galat	11
+1 Badri daftar gaya.
+2 Sita daftar mein gayi.
+3 Kya sita daftar mein hai?	sahi	2
+4 Sita dhoodh le kar aayi.
+5 Sita bagichey mein gayi.
+6 Kya badri rasoi ghar mein hai?	galat	1
+7 Sita daftar mein chali gayi.
+8 Sita rasoi ghar gayi.
+9 Kya sita galiyare mein hai?	galat	8
+10 Sita gendh le kar aayi.
+11 Sita bagichey mein gayi.
+12 Kya sita rasoi ghar mein hai?	galat	11
+13 Sita seb le aayi.
+14 Priya sayanakaksh gayi.
+15 Kya sita bagichey mein hai?	sahi	11
+1 Priya seb le kar aayi.
+2 Priya seb rakh aayi.
+3 Badri bagichey mein gaya.
+4 Badri galiyare mein chala gaya.
+5 Kya badri galiyare mein hai?	sahi	4
+6 Mohit galiyare mein gaya.
+7 Badri rasoi ghar gaya.
+8 Kya badri rasoi ghar mein hai?	sahi	7
+9 Priya seb le aayi.
+10 Priya rasoi ghar gayi.
+11 Kya badri sayanakaksh mein hai?	galat	7
+12 Priya daftar gayi.
+13 Priya bagichey mein chali gayi.
+14 Kya priya galiyare mein hai?	galat	13
+15 Badri gusalkhane mein gaya.
+16 Priya seb chod aayi.
+17 Kya priya daftar mein hai?	galat	13
+1 Priya rasoi ghar gayi.
+2 Priya daftar mein gayi.
+3 Kya priya galiyare mein hai?	galat	2
+4 Badri rasoi ghar mein chala gaya.
+5 Priya sayanakaksh mein chali gayi.
+6 Kya priya sayanakaksh mein hai?	sahi	5
+7 Mohit galiyare mein gaya.
+8 Mohit seb le aaya.
+9 Kya mohit daftar mein hai?	galat	7
+10 Sita sayanakaksh gayi.
+11 Priya daftar mein chali gayi.
+12 Kya sita gusalkhane mein hai?	galat	10
+13 Sita daftar gayi.
+14 Sita gusalkhane gayi.
+15 Kya sita gusalkhane mein hai?	sahi	14
+1 Mohit galiyare gaya.
+2 Mohit daftar gaya.
+3 Kya mohit daftar mein hai?	sahi	2
+4 Badri galiyare gaya.
+5 Priya galiyare gayi.
+6 Kya mohit daftar mein hai?	sahi	2
+7 Sita bagichey gayi.
+8 Sita gusalkhane mein gayi.
+9 Kya sita sayanakaksh mein hai?	galat	8
+10 Badri dhoodh le aaya.
+11 Badri seb le kar aaya.
+12 Kya sita bagichey mein hai?	galat	8
+13 Priya sayanakaksh mein gayi.
+14 Mohit rasoi ghar gaya.
+15 Kya mohit daftar mein hai?	galat	14
+1 Mohit galiyare gaya.
+2 Badri dhoodh le aaya.
+3 Kya mohit galiyare mein hai?	sahi	1
+4 Badri rasoi ghar gaya.
+5 Badri dhoodh chod aaya.
+6 Kya mohit galiyare mein hai?	sahi	1
+7 Priya dhoodh le aayi.
+8 Priya gusalkhane mein gayi.
+9 Kya badri daftar mein hai?	galat	4
+10 Priya daftar mein gayi.
+11 Priya dhoodh rakh aayi.
+12 Kya priya sayanakaksh mein hai?	galat	10
+13 Priya rasoi ghar gayi.
+14 Priya daftar gayi.
+15 Kya priya rasoi ghar mein hai?	galat	14
+1 Badri gusalkhane gaya.
+2 Sita sayanakaksh gayi.
+3 Kya badri gusalkhane mein hai?	sahi	1
+4 Badri galiyare mein gaya.
+5 Sita bagichey mein chali gayi.
+6 Kya sita bagichey mein hai?	sahi	5
+7 Badri daftar mein gaya.
+8 Mohit gusalkhane mein gaya.
+9 Kya sita daftar mein hai?	galat	5
+10 Priya daftar mein chali gayi.
+11 Priya gusalkhane mein gayi.
+12 Kya priya gusalkhane mein hai?	sahi	11
+13 Priya rasoi ghar gayi.
+14 Priya sayanakaksh mein gayi.
+15 Kya priya sayanakaksh mein hai?	sahi	14
+1 Badri sayanakaksh mein gaya.
+2 Sita bagichey mein gayi.
+3 Kya badri sayanakaksh mein hai?	sahi	1
+4 Badri gendh le kar aaya.
+5 Priya sayanakaksh mein gayi.
+6 Kya badri sayanakaksh mein hai?	sahi	1
+7 Badri daftar mein gaya.
+8 Badri galiyare gaya.
+9 Kya badri galiyare mein hai?	sahi	8
+10 Sita daftar gayi.
+11 Badri gendh chod aaya.
+12 Kya sita bagichey mein hai?	galat	10
+13 Mohit sayanakaksh mein chala gaya.
+14 Mohit daftar gaya.
+15 Kya mohit daftar mein hai?	sahi	14
+1 Mohit bagichey mein gaya.
+2 Badri sayanakaksh mein chala gaya.
+3 Kya badri sayanakaksh mein hai?	sahi	2
+4 Sita galiyare mein gayi.
+5 Mohit gendh le aaya.
+6 Kya badri sayanakaksh mein hai?	sahi	2
+7 Sita sayanakaksh mein chali gayi.
+8 Mohit galiyare mein chala gaya.
+9 Kya sita sayanakaksh mein hai?	sahi	7
+10 Priya dhoodh le aayi.
+11 Priya galiyare mein gayi.
+12 Kya mohit bagichey mein hai?	galat	8
+13 Mohit gendh rakh aaya.
+14 Mohit rasoi ghar mein gaya.
+15 Kya mohit bagichey mein hai?	galat	14
+1 Sita sayanakaksh mein chali gayi.
+2 Priya seb le kar aayi.
+3 Kya sita sayanakaksh mein hai?	sahi	1
+4 Badri bagichey mein chala gaya.
+5 Mohit dhoodh le aaya.
+6 Kya badri sayanakaksh mein hai?	galat	4
+7 Priya rasoi ghar gayi.
+8 Priya gendh le aayi.
+9 Kya badri galiyare mein hai?	galat	4
+10 Mohit dhoodh chod aaya.
+11 Mohit sayanakaksh mein chala gaya.
+12 Kya priya bagichey mein hai?	galat	7
+13 Sita galiyare gayi.
+14 Priya gendh chod aayi.
+15 Kya mohit sayanakaksh mein hai?	sahi	11
+1 Badri seb le aaya.
+2 Badri daftar gaya.
+3 Kya badri galiyare mein hai?	galat	2
+4 Sita gusalkhane mein chali gayi.
+5 Sita galiyare gayi.
+6 Kya badri daftar mein hai?	sahi	2
+7 Badri gendh le aaya.
+8 Mohit gusalkhane mein gaya.
+9 Kya sita galiyare mein hai?	sahi	5
+10 Sita bagichey mein gayi.
+11 Badri bagichey mein chala gaya.
+12 Kya sita bagichey mein hai?	sahi	10
+13 Priya gusalkhane mein chali gayi.
+14 Mohit galiyare gaya.
+15 Kya mohit galiyare mein hai?	sahi	14
+1 Badri galiyare mein gaya.
+2 Priya dhoodh le aayi.
+3 Kya badri galiyare mein hai?	sahi	1
+4 Badri daftar gaya.
+5 Priya dhoodh rakh aayi.
+6 Kya badri galiyare mein hai?	galat	4
+7 Mohit dhoodh le aaya.
+8 Badri galiyare gaya.
+9 Kya badri daftar mein hai?	galat	8
+10 Priya galiyare mein chali gayi.
+11 Sita sayanakaksh mein chali gayi.
+12 Kya priya sayanakaksh mein hai?	galat	10
+13 Badri rasoi ghar gaya.
+14 Mohit dhoodh chod aaya.
+15 Kya priya galiyare mein hai?	sahi	10
+1 Priya gendh le aayi.
+2 Badri rasoi ghar gaya.
+3 Kya badri rasoi ghar mein hai?	sahi	2
+4 Sita daftar mein gayi.
+5 Sita dhoodh le kar aayi.
+6 Kya badri daftar mein hai?	galat	2
+7 Priya sayanakaksh mein chali gayi.
+8 Badri sayanakaksh gaya.
+9 Kya badri sayanakaksh mein hai?	sahi	8
+10 Sita rasoi ghar mein chali gayi.
+11 Mohit bagichey mein gaya.
+12 Kya mohit bagichey mein hai?	sahi	11
+13 Priya daftar gayi.
+14 Priya gendh rakh aayi.
+15 Kya sita rasoi ghar mein hai?	sahi	10
+1 Sita bagichey mein chali gayi.
+2 Priya rasoi ghar mein chali gayi.
+3 Kya priya bagichey mein hai?	galat	2
+4 Sita daftar mein chali gayi.
+5 Sita dhoodh le kar aayi.
+6 Kya priya gusalkhane mein hai?	galat	2
+7 Badri bagichey gaya.
+8 Badri sayanakaksh mein gaya.
+9 Kya badri sayanakaksh mein hai?	sahi	8
+10 Mohit rasoi ghar mein chala gaya.
+11 Badri galiyare mein gaya.
+12 Kya badri daftar mein hai?	galat	11
+13 Mohit gusalkhane mein gaya.
+14 Priya daftar mein gayi.
+15 Kya priya daftar mein hai?	sahi	14
+1 Mohit seb le aaya.
+2 Mohit seb chod aaya.
+3 Mohit seb le aaya.
+4 Mohit galiyare mein chala gaya.
+5 Kya mohit galiyare mein hai?	sahi	4
+6 Mohit seb chod aaya.
+7 Mohit seb le aaya.
+8 Kya mohit daftar mein hai?	galat	4
+9 Mohit seb chod aaya.
+10 Priya sayanakaksh mein chali gayi.
+11 Kya priya sayanakaksh mein hai?	sahi	10
+12 Mohit daftar mein gaya.
+13 Sita sayanakaksh mein chali gayi.
+14 Kya mohit galiyare mein hai?	galat	12
+15 Mohit gusalkhane mein chala gaya.
+16 Priya daftar mein gayi.
+17 Kya priya gusalkhane mein hai?	galat	16
+1 Priya dhoodh le aayi.
+2 Sita daftar mein gayi.
+3 Kya sita daftar mein hai?	sahi	2
+4 Mohit galiyare mein gaya.
+5 Mohit gusalkhane mein chala gaya.
+6 Kya mohit sayanakaksh mein hai?	galat	5
+7 Priya rasoi ghar gayi.
+8 Sita gusalkhane mein chali gayi.
+9 Kya priya rasoi ghar mein hai?	sahi	7
+10 Priya dhoodh chod aayi.
+11 Priya daftar mein chali gayi.
+12 Kya priya daftar mein hai?	sahi	11
+13 Sita rasoi ghar gayi.
+14 Sita seb le kar aayi.
+15 Kya sita rasoi ghar mein hai?	sahi	13

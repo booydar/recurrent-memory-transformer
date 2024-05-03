@@ -5,7 +5,7 @@ import nltk
 from torch.utils.data import Dataset
 
 # preprocess babi text files
-def get_dataset_df(dataset_path, max_n_facts=None):
+def get_dataset_df(dataset_path, max_n_facts=None, max_n_samples=None):
     with open(dataset_path, 'r') as f:
         texts = f.read().strip()
         texts = texts.split('\n')
@@ -40,6 +40,8 @@ def get_dataset_df(dataset_path, max_n_facts=None):
             slices = [slc for slc in slices if slc.shape[0] <= max_n_facts]
         single_question_slices += slices
     
+    if max_n_samples is not None:
+        single_question_slices = single_question_slices[:max_n_samples]
     df = pd.concat(single_question_slices).reset_index(drop=True)
 
     # mark each sample again
@@ -54,8 +56,8 @@ def get_dataset_df(dataset_path, max_n_facts=None):
 
 # babi task loader dataset
 class TaskDataset(Dataset):
-    def __init__(self, dataset_path, max_n_facts=None):
-        self.fact_dataset = get_dataset_df(dataset_path, max_n_facts=max_n_facts)
+    def __init__(self, dataset_path, max_n_facts=None, max_n_samples=None):
+        self.fact_dataset = get_dataset_df(dataset_path, max_n_facts=max_n_facts, max_n_samples=max_n_samples)
 
     def __getitem__(self, ind):
         slc = self.fact_dataset[self.fact_dataset.sample_num == ind]
@@ -69,6 +71,20 @@ class TaskDataset(Dataset):
     def __len__(self):
         return self.fact_dataset.sample_num.max()
     
+
+# dataset for training on multiple tasks
+class MultiTaskDataset(Dataset):
+    def __init__(self, dataset_paths, max_n_facts=None, max_n_samples=None, random_seed=42):
+        self.datasets = [TaskDataset(p, max_n_facts=max_n_facts, max_n_samples=max_n_samples) for p in dataset_paths]
+        self.gen = np.random.default_rng(seed=random_seed)
+
+    def __getitem__(self, ind):
+        dataset_ind = self.gen.choice(len(self.datasets))
+        dataset = self.datasets[dataset_ind]
+        return dataset[ind]
+    
+    def __len__(self):
+        return min([len(d) for d in self.datasets])    
 
 
 def sum_lengths(sentences):
@@ -167,8 +183,8 @@ class NoiseInjectionDataset(Dataset):
     def __getitem__(self, ind):
         sample = self.task_dataset[ind]
         facts_tok = self.tokenizer(list(sample['facts']))['input_ids']
-        question_tok = self.tokenizer(sample['question'])['input_ids']
-        answer_tok = self.tokenizer(sample['answer'])['input_ids']
+        sample['question_tokens'] = self.tokenizer(sample['question'])['input_ids']
+        sample['target_tokens'] = self.tokenizer(sample['answer'])['input_ids']
 
         sample_size = self.get_sample_size()
         task_len = sum_lengths(facts_tok)
@@ -209,9 +225,6 @@ class NoiseInjectionDataset(Dataset):
         tokens = [i for s in flat for i in s]
 
         sample['input_tokens'] = tokens
-        sample['question_tokens'] = question_tok
-        sample['target_tokens'] = answer_tok
-
         return sample
     
     def __len__(self):

@@ -1,0 +1,3000 @@
+1 Mohit aur sita galiyarey gaye.
+2 Uske upraant wo gusalkhaney gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Priya aur mohit sayanakaksh mein gaye.
+5 Uske upraant wo log rasoi ghar mein gaye.
+6 Mohit ab kahan hai?	rasoi ghar	4 5
+7 Mohit aur priya daftar mein chale gaye.
+8 Baad may wo galiyarey mein gaye.
+9 Mohit is samay kahan hai?	galiyara	7 8
+10 Sita aur badri galiyarey mein chale gaye.
+11 Uske upraant wo daftar mein chale gaye.
+12 Badri is samay kahan hai?	daftar	10 11
+13 Priya aur mohit daftar mein chale gaye.
+14 Uske baad wo galiyarey mein chale gaye.
+15 Badri is samay kahan hai?	daftar	10 11
+16 Mohit aur priya daftar mein chale gaye.
+17 Baad may wo bagichey gaye.
+18 Priya is samay kahan hai?	bagicha	16 17
+19 Mohit aur badri rasoi ghar mein chale gaye.
+20 Baad may wo galiyarey mein chale gaye.
+21 Mohit ab kahan hai?	galiyara	19 20
+22 Badri aur mohit bagichey mein gaye.
+23 Uske baad wo log sayanakaksh mein gaye.
+24 Mohit ab kahan hai?	sayanakaksh	22 23
+1 Mohit aur sita rasoi ghar gaye.
+2 Uske upraant wo bagichey gaye.
+3 Sita ab kahan hai?	bagicha	1 2
+4 Mohit aur sita sayanakaksh mein chale gaye.
+5 Uske baad wo log rasoi ghar gaye.
+6 Sita is samay kahan hai?	rasoi ghar	4 5
+7 Sita aur priya sayanakaksh mein chale gaye.
+8 Baad may wo log galiyarey mein chale gaye.
+9 Priya ab kahan hai?	galiyara	7 8
+10 Priya aur sita daftar mein gaye.
+11 Uske upraant wo sayanakaksh gaye.
+12 Priya is samay kahan hai?	sayanakaksh	10 11
+13 Mohit aur sita galiyarey gaye.
+14 Uske upraant wo gusalkhaney gaye.
+15 Sita ab kahan hai?	gusalkhana	13 14
+16 Mohit aur priya bagichey mein chale gaye.
+17 Uske baad wo log daftar mein gaye.
+18 Sita is samay kahan hai?	gusalkhana	13 14
+19 Priya aur badri bagichey mein gaye.
+20 Fir wo galiyarey mein chale gaye.
+21 Badri ab kahan hai?	galiyara	19 20
+22 Badri aur priya gusalkhaney mein chale gaye.
+23 Uske upraant wo log sayanakaksh mein gaye.
+24 Badri is samay kahan hai?	sayanakaksh	22 23
+1 Priya aur badri gusalkhaney mein chale gaye.
+2 Uske upraant wo log galiyarey mein chale gaye.
+3 Badri ab kahan hai?	galiyara	1 2
+4 Mohit aur priya daftar gaye.
+5 Uske upraant wo log gusalkhaney mein chale gaye.
+6 Badri is samay kahan hai?	galiyara	1 2
+7 Mohit aur sita bagichey mein chale gaye.
+8 Uske upraant wo daftar mein gaye.
+9 Sita is samay kahan hai?	daftar	7 8
+10 Badri aur sita rasoi ghar mein chale gaye.
+11 Uske upraant wo bagichey mein chale gaye.
+12 Badri ab kahan hai?	bagicha	10 11
+13 Mohit aur badri rasoi ghar gaye.
+14 Uske baad wo bagichey mein gaye.
+15 Sita ab kahan hai?	bagicha	10 11
+16 Sita aur priya galiyarey mein gaye.
+17 Uske upraant wo log rasoi ghar gaye.
+18 Badri is samay kahan hai?	bagicha	13 14
+19 Sita aur priya gusalkhaney mein gaye.
+20 Baad may wo log sayanakaksh mein gaye.
+21 Priya ab kahan hai?	sayanakaksh	19 20
+22 Mohit aur badri daftar mein chale gaye.
+23 Uske baad wo log sayanakaksh mein chale gaye.
+24 Mohit is samay kahan hai?	sayanakaksh	22 23
+1 Priya aur badri daftar gaye.
+2 Uske baad wo bagichey gaye.
+3 Priya is samay kahan hai?	bagicha	1 2
+4 Priya aur sita rasoi ghar mein chale gaye.
+5 Fir wo log bagichey gaye.
+6 Sita ab kahan hai?	bagicha	4 5
+7 Priya aur mohit galiyarey gaye.
+8 Fir wo bagichey gaye.
+9 Priya ab kahan hai?	bagicha	7 8
+10 Priya aur badri sayanakaksh mein chale gaye.
+11 Fir wo log daftar mein chale gaye.
+12 Badri is samay kahan hai?	daftar	10 11
+13 Sita aur mohit rasoi ghar mein gaye.
+14 Fir wo log daftar mein chale gaye.
+15 Badri is samay kahan hai?	daftar	10 11
+16 Badri aur priya gusalkhaney mein chale gaye.
+17 Uske baad wo log rasoi ghar mein gaye.
+18 Priya is samay kahan hai?	rasoi ghar	16 17
+19 Mohit aur sita galiyarey mein chale gaye.
+20 Uske baad wo log daftar gaye.
+21 Mohit ab kahan hai?	daftar	19 20
+22 Badri aur priya daftar gaye.
+23 Baad may wo log galiyarey gaye.
+24 Priya is samay kahan hai?	galiyara	22 23
+1 Sita aur badri gusalkhaney mein chale gaye.
+2 Fir wo daftar gaye.
+3 Sita ab kahan hai?	daftar	1 2
+4 Badri aur priya sayanakaksh gaye.
+5 Baad may wo log rasoi ghar mein gaye.
+6 Badri is samay kahan hai?	rasoi ghar	4 5
+7 Sita aur mohit sayanakaksh mein chale gaye.
+8 Baad may wo log galiyarey mein gaye.
+9 Mohit ab kahan hai?	galiyara	7 8
+10 Mohit aur priya gusalkhaney mein gaye.
+11 Baad may wo bagichey mein gaye.
+12 Priya is samay kahan hai?	bagicha	10 11
+13 Sita aur priya daftar mein chale gaye.
+14 Fir wo gusalkhaney mein gaye.
+15 Sita ab kahan hai?	gusalkhana	13 14
+16 Mohit aur sita galiyarey gaye.
+17 Baad may wo sayanakaksh mein chale gaye.
+18 Priya ab kahan hai?	gusalkhana	13 14
+19 Priya aur sita daftar mein gaye.
+20 Fir wo log sayanakaksh mein gaye.
+21 Sita is samay kahan hai?	sayanakaksh	19 20
+22 Priya aur badri galiyarey mein gaye.
+23 Fir wo sayanakaksh mein gaye.
+24 Sita ab kahan hai?	sayanakaksh	19 20
+1 Badri aur priya galiyarey mein chale gaye.
+2 Uske upraant wo log rasoi ghar mein chale gaye.
+3 Priya ab kahan hai?	rasoi ghar	1 2
+4 Mohit aur priya daftar mein gaye.
+5 Baad may wo log sayanakaksh mein gaye.
+6 Mohit is samay kahan hai?	sayanakaksh	4 5
+7 Badri aur mohit galiyarey gaye.
+8 Uske upraant wo log bagichey mein gaye.
+9 Badri is samay kahan hai?	bagicha	7 8
+10 Priya aur mohit daftar mein chale gaye.
+11 Uske baad wo gusalkhaney mein chale gaye.
+12 Mohit is samay kahan hai?	gusalkhana	10 11
+13 Sita aur priya daftar gaye.
+14 Uske upraant wo sayanakaksh mein chale gaye.
+15 Priya ab kahan hai?	sayanakaksh	13 14
+16 Sita aur priya gusalkhaney mein gaye.
+17 Fir wo sayanakaksh mein chale gaye.
+18 Priya is samay kahan hai?	sayanakaksh	16 17
+19 Mohit aur badri galiyarey mein chale gaye.
+20 Baad may wo log daftar gaye.
+21 Mohit ab kahan hai?	daftar	19 20
+22 Sita aur priya daftar mein chale gaye.
+23 Fir wo rasoi ghar mein chale gaye.
+24 Badri is samay kahan hai?	daftar	19 20
+1 Badri aur priya galiyarey gaye.
+2 Uske upraant wo log daftar gaye.
+3 Priya is samay kahan hai?	daftar	1 2
+4 Priya aur badri sayanakaksh mein gaye.
+5 Uske upraant wo galiyarey gaye.
+6 Priya ab kahan hai?	galiyara	4 5
+7 Priya aur badri daftar gaye.
+8 Uske baad wo galiyarey mein gaye.
+9 Priya is samay kahan hai?	galiyara	7 8
+10 Sita aur priya bagichey mein gaye.
+11 Uske baad wo gusalkhaney mein gaye.
+12 Priya ab kahan hai?	gusalkhana	10 11
+13 Mohit aur priya galiyarey gaye.
+14 Baad may wo sayanakaksh mein chale gaye.
+15 Mohit is samay kahan hai?	sayanakaksh	13 14
+16 Mohit aur sita rasoi ghar mein gaye.
+17 Uske upraant wo sayanakaksh mein chale gaye.
+18 Sita is samay kahan hai?	sayanakaksh	16 17
+19 Mohit aur priya galiyarey gaye.
+20 Fir wo gusalkhaney gaye.
+21 Priya is samay kahan hai?	gusalkhana	19 20
+22 Badri aur priya sayanakaksh gaye.
+23 Uske upraant wo rasoi ghar mein gaye.
+24 Priya ab kahan hai?	rasoi ghar	22 23
+1 Sita aur priya gusalkhaney gaye.
+2 Uske upraant wo daftar mein chale gaye.
+3 Sita is samay kahan hai?	daftar	1 2
+4 Badri aur sita bagichey mein gaye.
+5 Fir wo log rasoi ghar mein gaye.
+6 Sita is samay kahan hai?	rasoi ghar	4 5
+7 Mohit aur sita gusalkhaney mein chale gaye.
+8 Fir wo bagichey mein gaye.
+9 Sita ab kahan hai?	bagicha	7 8
+10 Priya aur sita rasoi ghar gaye.
+11 Uske baad wo bagichey mein chale gaye.
+12 Priya ab kahan hai?	bagicha	10 11
+13 Sita aur priya rasoi ghar mein chale gaye.
+14 Baad may wo sayanakaksh gaye.
+15 Priya is samay kahan hai?	sayanakaksh	13 14
+16 Badri aur priya galiyarey gaye.
+17 Uske baad wo log gusalkhaney mein gaye.
+18 Badri is samay kahan hai?	gusalkhana	16 17
+19 Badri aur sita galiyarey mein chale gaye.
+20 Baad may wo rasoi ghar gaye.
+21 Priya is samay kahan hai?	gusalkhana	16 17
+22 Sita aur mohit daftar gaye.
+23 Uske upraant wo log gusalkhaney mein chale gaye.
+24 Mohit is samay kahan hai?	gusalkhana	22 23
+1 Mohit aur sita galiyarey gaye.
+2 Baad may wo rasoi ghar mein gaye.
+3 Mohit is samay kahan hai?	rasoi ghar	1 2
+4 Badri aur mohit galiyarey gaye.
+5 Fir wo log rasoi ghar mein chale gaye.
+6 Mohit ab kahan hai?	rasoi ghar	4 5
+7 Badri aur priya sayanakaksh mein chale gaye.
+8 Baad may wo log daftar mein chale gaye.
+9 Badri ab kahan hai?	daftar	7 8
+10 Priya aur sita galiyarey mein gaye.
+11 Uske upraant wo log daftar gaye.
+12 Priya ab kahan hai?	daftar	10 11
+13 Mohit aur sita galiyarey mein chale gaye.
+14 Fir wo rasoi ghar mein gaye.
+15 Sita ab kahan hai?	rasoi ghar	13 14
+16 Sita aur priya galiyarey mein chale gaye.
+17 Uske upraant wo gusalkhaney gaye.
+18 Priya is samay kahan hai?	gusalkhana	16 17
+19 Priya aur sita galiyarey mein gaye.
+20 Uske upraant wo gusalkhaney mein chale gaye.
+21 Priya is samay kahan hai?	gusalkhana	19 20
+22 Badri aur sita rasoi ghar mein gaye.
+23 Uske upraant wo log sayanakaksh gaye.
+24 Badri ab kahan hai?	sayanakaksh	22 23
+1 Badri aur sita rasoi ghar mein chale gaye.
+2 Uske baad wo log galiyarey mein chale gaye.
+3 Badri is samay kahan hai?	galiyara	1 2
+4 Badri aur mohit gusalkhaney gaye.
+5 Uske upraant wo sayanakaksh mein gaye.
+6 Badri is samay kahan hai?	sayanakaksh	4 5
+7 Priya aur mohit rasoi ghar mein gaye.
+8 Uske baad wo log galiyarey mein gaye.
+9 Mohit ab kahan hai?	galiyara	7 8
+10 Priya aur mohit bagichey gaye.
+11 Uske upraant wo log daftar mein chale gaye.
+12 Mohit is samay kahan hai?	daftar	10 11
+13 Mohit aur badri rasoi ghar gaye.
+14 Uske baad wo log sayanakaksh mein gaye.
+15 Badri ab kahan hai?	sayanakaksh	13 14
+16 Sita aur badri gusalkhaney mein chale gaye.
+17 Uske baad wo bagichey mein gaye.
+18 Sita ab kahan hai?	bagicha	16 17
+19 Sita aur mohit daftar mein chale gaye.
+20 Uske baad wo bagichey mein chale gaye.
+21 Sita is samay kahan hai?	bagicha	19 20
+22 Mohit aur priya gusalkhaney mein chale gaye.
+23 Fir wo galiyarey mein chale gaye.
+24 Mohit is samay kahan hai?	galiyara	22 23
+1 Priya aur sita daftar mein gaye.
+2 Fir wo log gusalkhaney gaye.
+3 Priya ab kahan hai?	gusalkhana	1 2
+4 Priya aur mohit sayanakaksh gaye.
+5 Fir wo log daftar gaye.
+6 Priya ab kahan hai?	daftar	4 5
+7 Mohit aur priya bagichey mein gaye.
+8 Uske baad wo log sayanakaksh mein chale gaye.
+9 Mohit ab kahan hai?	sayanakaksh	7 8
+10 Badri aur sita bagichey gaye.
+11 Fir wo log galiyarey mein chale gaye.
+12 Sita is samay kahan hai?	galiyara	10 11
+13 Badri aur mohit rasoi ghar gaye.
+14 Uske upraant wo sayanakaksh mein chale gaye.
+15 Mohit is samay kahan hai?	sayanakaksh	13 14
+16 Priya aur sita rasoi ghar gaye.
+17 Fir wo galiyarey gaye.
+18 Sita ab kahan hai?	galiyara	16 17
+19 Sita aur badri gusalkhaney mein gaye.
+20 Uske upraant wo bagichey gaye.
+21 Sita is samay kahan hai?	bagicha	19 20
+22 Priya aur sita daftar gaye.
+23 Fir wo gusalkhaney gaye.
+24 Sita ab kahan hai?	gusalkhana	22 23
+1 Badri aur mohit rasoi ghar gaye.
+2 Uske baad wo log daftar mein gaye.
+3 Mohit is samay kahan hai?	daftar	1 2
+4 Sita aur badri sayanakaksh mein chale gaye.
+5 Fir wo daftar mein chale gaye.
+6 Badri ab kahan hai?	daftar	4 5
+7 Badri aur priya galiyarey mein gaye.
+8 Baad may wo log bagichey mein chale gaye.
+9 Badri is samay kahan hai?	bagicha	7 8
+10 Sita aur mohit bagichey mein gaye.
+11 Fir wo sayanakaksh gaye.
+12 Mohit is samay kahan hai?	sayanakaksh	10 11
+13 Badri aur priya galiyarey mein chale gaye.
+14 Fir wo bagichey mein chale gaye.
+15 Mohit is samay kahan hai?	sayanakaksh	10 11
+16 Sita aur badri gusalkhaney mein chale gaye.
+17 Uske baad wo rasoi ghar gaye.
+18 Badri is samay kahan hai?	rasoi ghar	16 17
+19 Sita aur mohit gusalkhaney gaye.
+20 Fir wo bagichey gaye.
+21 Badri is samay kahan hai?	rasoi ghar	16 17
+22 Badri aur mohit galiyarey gaye.
+23 Baad may wo log sayanakaksh mein chale gaye.
+24 Mohit is samay kahan hai?	sayanakaksh	22 23
+1 Mohit aur badri daftar mein gaye.
+2 Uske baad wo gusalkhaney gaye.
+3 Badri is samay kahan hai?	gusalkhana	1 2
+4 Badri aur mohit daftar gaye.
+5 Baad may wo bagichey mein chale gaye.
+6 Mohit is samay kahan hai?	bagicha	4 5
+7 Badri aur sita galiyarey mein chale gaye.
+8 Fir wo log gusalkhaney gaye.
+9 Badri ab kahan hai?	gusalkhana	7 8
+10 Mohit aur sita sayanakaksh mein gaye.
+11 Uske upraant wo log gusalkhaney mein chale gaye.
+12 Sita ab kahan hai?	gusalkhana	10 11
+13 Sita aur badri rasoi ghar mein chale gaye.
+14 Fir wo log bagichey mein gaye.
+15 Sita is samay kahan hai?	bagicha	13 14
+16 Mohit aur badri rasoi ghar mein chale gaye.
+17 Fir wo galiyarey mein gaye.
+18 Badri ab kahan hai?	galiyara	16 17
+19 Sita aur priya daftar mein gaye.
+20 Fir wo log sayanakaksh mein gaye.
+21 Priya ab kahan hai?	sayanakaksh	19 20
+22 Badri aur priya gusalkhaney mein chale gaye.
+23 Uske baad wo log galiyarey gaye.
+24 Badri is samay kahan hai?	galiyara	22 23
+1 Mohit aur sita rasoi ghar mein gaye.
+2 Uske baad wo log gusalkhaney gaye.
+3 Sita ab kahan hai?	gusalkhana	1 2
+4 Badri aur priya sayanakaksh mein gaye.
+5 Fir wo log gusalkhaney mein gaye.
+6 Badri ab kahan hai?	gusalkhana	4 5
+7 Sita aur mohit galiyarey mein chale gaye.
+8 Uske baad wo bagichey mein chale gaye.
+9 Sita ab kahan hai?	bagicha	7 8
+10 Sita aur mohit sayanakaksh mein chale gaye.
+11 Fir wo log daftar gaye.
+12 Mohit ab kahan hai?	daftar	10 11
+13 Badri aur sita galiyarey mein chale gaye.
+14 Baad may wo rasoi ghar gaye.
+15 Sita is samay kahan hai?	rasoi ghar	13 14
+16 Mohit aur badri gusalkhaney mein gaye.
+17 Fir wo galiyarey mein gaye.
+18 Badri ab kahan hai?	galiyara	16 17
+19 Mohit aur sita sayanakaksh mein gaye.
+20 Uske baad wo log gusalkhaney gaye.
+21 Sita ab kahan hai?	gusalkhana	19 20
+22 Badri aur mohit rasoi ghar gaye.
+23 Baad may wo bagichey mein gaye.
+24 Badri ab kahan hai?	bagicha	22 23
+1 Badri aur mohit galiyarey mein chale gaye.
+2 Fir wo bagichey gaye.
+3 Mohit ab kahan hai?	bagicha	1 2
+4 Badri aur priya gusalkhaney gaye.
+5 Uske baad wo bagichey mein gaye.
+6 Badri ab kahan hai?	bagicha	4 5
+7 Sita aur badri galiyarey mein gaye.
+8 Uske baad wo log sayanakaksh gaye.
+9 Badri is samay kahan hai?	sayanakaksh	7 8
+10 Priya aur mohit galiyarey mein chale gaye.
+11 Fir wo log daftar mein gaye.
+12 Priya ab kahan hai?	daftar	10 11
+13 Sita aur mohit galiyarey mein gaye.
+14 Fir wo log sayanakaksh gaye.
+15 Mohit is samay kahan hai?	sayanakaksh	13 14
+16 Priya aur mohit gusalkhaney mein gaye.
+17 Fir wo rasoi ghar mein gaye.
+18 Priya ab kahan hai?	rasoi ghar	16 17
+19 Badri aur sita galiyarey mein chale gaye.
+20 Uske baad wo log gusalkhaney gaye.
+21 Sita is samay kahan hai?	gusalkhana	19 20
+22 Badri aur priya daftar mein gaye.
+23 Fir wo log rasoi ghar gaye.
+24 Badri ab kahan hai?	rasoi ghar	22 23
+1 Mohit aur badri bagichey mein chale gaye.
+2 Uske baad wo log daftar gaye.
+3 Mohit ab kahan hai?	daftar	1 2
+4 Sita aur priya sayanakaksh mein chale gaye.
+5 Uske upraant wo log daftar gaye.
+6 Priya is samay kahan hai?	daftar	4 5
+7 Sita aur badri sayanakaksh mein gaye.
+8 Fir wo galiyarey mein chale gaye.
+9 Priya is samay kahan hai?	daftar	4 5
+10 Priya aur mohit bagichey mein gaye.
+11 Uske upraant wo sayanakaksh gaye.
+12 Priya ab kahan hai?	sayanakaksh	10 11
+13 Sita aur mohit daftar mein gaye.
+14 Baad may wo rasoi ghar mein chale gaye.
+15 Mohit ab kahan hai?	rasoi ghar	13 14
+16 Sita aur badri sayanakaksh mein gaye.
+17 Fir wo log daftar gaye.
+18 Mohit ab kahan hai?	rasoi ghar	13 14
+19 Sita aur mohit gusalkhaney mein gaye.
+20 Fir wo daftar mein chale gaye.
+21 Mohit ab kahan hai?	daftar	19 20
+22 Priya aur sita bagichey gaye.
+23 Fir wo galiyarey gaye.
+24 Sita is samay kahan hai?	galiyara	22 23
+1 Badri aur priya daftar mein gaye.
+2 Uske upraant wo log sayanakaksh gaye.
+3 Priya ab kahan hai?	sayanakaksh	1 2
+4 Sita aur priya bagichey mein chale gaye.
+5 Baad may wo log rasoi ghar gaye.
+6 Priya ab kahan hai?	rasoi ghar	4 5
+7 Sita aur priya gusalkhaney mein chale gaye.
+8 Uske baad wo sayanakaksh gaye.
+9 Sita is samay kahan hai?	sayanakaksh	7 8
+10 Sita aur mohit bagichey mein gaye.
+11 Baad may wo daftar mein gaye.
+12 Mohit ab kahan hai?	daftar	10 11
+13 Sita aur mohit gusalkhaney mein chale gaye.
+14 Baad may wo sayanakaksh gaye.
+15 Mohit is samay kahan hai?	sayanakaksh	13 14
+16 Sita aur priya galiyarey gaye.
+17 Fir wo gusalkhaney gaye.
+18 Mohit is samay kahan hai?	sayanakaksh	13 14
+19 Priya aur mohit galiyarey mein chale gaye.
+20 Uske baad wo sayanakaksh mein chale gaye.
+21 Mohit is samay kahan hai?	sayanakaksh	19 20
+22 Mohit aur badri bagichey gaye.
+23 Fir wo rasoi ghar mein gaye.
+24 Mohit ab kahan hai?	rasoi ghar	22 23
+1 Priya aur badri rasoi ghar gaye.
+2 Baad may wo gusalkhaney mein chale gaye.
+3 Priya ab kahan hai?	gusalkhana	1 2
+4 Sita aur badri rasoi ghar gaye.
+5 Baad may wo galiyarey gaye.
+6 Badri ab kahan hai?	galiyara	4 5
+7 Priya aur badri rasoi ghar mein gaye.
+8 Uske baad wo log galiyarey mein gaye.
+9 Badri is samay kahan hai?	galiyara	7 8
+10 Mohit aur sita bagichey mein gaye.
+11 Uske baad wo log gusalkhaney mein chale gaye.
+12 Badri is samay kahan hai?	galiyara	7 8
+13 Mohit aur badri bagichey mein gaye.
+14 Fir wo log galiyarey gaye.
+15 Badri ab kahan hai?	galiyara	13 14
+16 Priya aur mohit rasoi ghar mein chale gaye.
+17 Uske upraant wo log sayanakaksh mein chale gaye.
+18 Mohit is samay kahan hai?	sayanakaksh	16 17
+19 Mohit aur sita galiyarey mein chale gaye.
+20 Uske upraant wo sayanakaksh gaye.
+21 Mohit is samay kahan hai?	sayanakaksh	19 20
+22 Badri aur sita daftar mein gaye.
+23 Baad may wo log galiyarey mein chale gaye.
+24 Badri ab kahan hai?	galiyara	22 23
+1 Badri aur sita rasoi ghar mein chale gaye.
+2 Uske upraant wo log sayanakaksh mein chale gaye.
+3 Sita is samay kahan hai?	sayanakaksh	1 2
+4 Sita aur badri rasoi ghar mein chale gaye.
+5 Uske baad wo log daftar gaye.
+6 Badri is samay kahan hai?	daftar	4 5
+7 Mohit aur priya bagichey mein gaye.
+8 Baad may wo gusalkhaney gaye.
+9 Mohit ab kahan hai?	gusalkhana	7 8
+10 Badri aur priya bagichey mein chale gaye.
+11 Uske upraant wo sayanakaksh gaye.
+12 Priya ab kahan hai?	sayanakaksh	10 11
+13 Sita aur priya rasoi ghar gaye.
+14 Uske upraant wo log sayanakaksh gaye.
+15 Sita is samay kahan hai?	sayanakaksh	13 14
+16 Sita aur priya galiyarey mein gaye.
+17 Uske baad wo log rasoi ghar mein chale gaye.
+18 Priya is samay kahan hai?	rasoi ghar	16 17
+19 Badri aur mohit daftar gaye.
+20 Baad may wo gusalkhaney gaye.
+21 Badri is samay kahan hai?	gusalkhana	19 20
+22 Sita aur badri daftar mein chale gaye.
+23 Uske baad wo gusalkhaney mein gaye.
+24 Mohit ab kahan hai?	gusalkhana	19 20
+1 Priya aur sita galiyarey mein gaye.
+2 Uske upraant wo sayanakaksh mein chale gaye.
+3 Priya ab kahan hai?	sayanakaksh	1 2
+4 Badri aur sita rasoi ghar mein gaye.
+5 Uske baad wo log gusalkhaney mein chale gaye.
+6 Sita ab kahan hai?	gusalkhana	4 5
+7 Priya aur badri rasoi ghar gaye.
+8 Fir wo log sayanakaksh gaye.
+9 Priya is samay kahan hai?	sayanakaksh	7 8
+10 Priya aur sita daftar mein gaye.
+11 Uske baad wo log gusalkhaney mein gaye.
+12 Badri ab kahan hai?	sayanakaksh	7 8
+13 Sita aur priya galiyarey gaye.
+14 Fir wo log sayanakaksh mein gaye.
+15 Sita ab kahan hai?	sayanakaksh	13 14
+16 Mohit aur badri galiyarey gaye.
+17 Baad may wo log daftar mein gaye.
+18 Mohit is samay kahan hai?	daftar	16 17
+19 Sita aur priya gusalkhaney mein gaye.
+20 Uske baad wo galiyarey mein gaye.
+21 Sita is samay kahan hai?	galiyara	19 20
+22 Badri aur mohit sayanakaksh gaye.
+23 Baad may wo daftar mein gaye.
+24 Mohit ab kahan hai?	daftar	22 23
+1 Mohit aur sita rasoi ghar mein gaye.
+2 Baad may wo log bagichey mein chale gaye.
+3 Sita is samay kahan hai?	bagicha	1 2
+4 Sita aur mohit sayanakaksh mein gaye.
+5 Fir wo log rasoi ghar mein gaye.
+6 Sita is samay kahan hai?	rasoi ghar	4 5
+7 Priya aur sita sayanakaksh mein chale gaye.
+8 Baad may wo galiyarey gaye.
+9 Priya ab kahan hai?	galiyara	7 8
+10 Badri aur mohit galiyarey mein chale gaye.
+11 Fir wo log gusalkhaney gaye.
+12 Badri is samay kahan hai?	gusalkhana	10 11
+13 Badri aur priya bagichey gaye.
+14 Fir wo sayanakaksh mein gaye.
+15 Priya is samay kahan hai?	sayanakaksh	13 14
+16 Priya aur mohit daftar mein chale gaye.
+17 Uske upraant wo log sayanakaksh mein chale gaye.
+18 Priya is samay kahan hai?	sayanakaksh	16 17
+19 Mohit aur sita bagichey gaye.
+20 Uske baad wo rasoi ghar mein chale gaye.
+21 Mohit ab kahan hai?	rasoi ghar	19 20
+22 Mohit aur badri daftar gaye.
+23 Baad may wo gusalkhaney gaye.
+24 Badri is samay kahan hai?	gusalkhana	22 23
+1 Mohit aur badri galiyarey gaye.
+2 Uske baad wo sayanakaksh mein gaye.
+3 Badri is samay kahan hai?	sayanakaksh	1 2
+4 Sita aur priya bagichey mein chale gaye.
+5 Fir wo log galiyarey mein chale gaye.
+6 Sita is samay kahan hai?	galiyara	4 5
+7 Priya aur badri gusalkhaney mein chale gaye.
+8 Fir wo log rasoi ghar mein gaye.
+9 Badri is samay kahan hai?	rasoi ghar	7 8
+10 Priya aur sita daftar mein chale gaye.
+11 Fir wo gusalkhaney gaye.
+12 Sita ab kahan hai?	gusalkhana	10 11
+13 Priya aur mohit galiyarey mein gaye.
+14 Uske baad wo daftar mein gaye.
+15 Mohit is samay kahan hai?	daftar	13 14
+16 Sita aur badri sayanakaksh mein chale gaye.
+17 Baad may wo log rasoi ghar gaye.
+18 Sita ab kahan hai?	rasoi ghar	16 17
+19 Mohit aur badri gusalkhaney mein gaye.
+20 Fir wo rasoi ghar mein gaye.
+21 Badri ab kahan hai?	rasoi ghar	19 20
+22 Mohit aur badri sayanakaksh gaye.
+23 Fir wo galiyarey gaye.
+24 Badri ab kahan hai?	galiyara	22 23
+1 Badri aur mohit bagichey gaye.
+2 Fir wo sayanakaksh gaye.
+3 Badri ab kahan hai?	sayanakaksh	1 2
+4 Priya aur mohit galiyarey mein gaye.
+5 Uske upraant wo gusalkhaney mein gaye.
+6 Mohit ab kahan hai?	gusalkhana	4 5
+7 Priya aur sita rasoi ghar gaye.
+8 Uske upraant wo log gusalkhaney mein chale gaye.
+9 Sita is samay kahan hai?	gusalkhana	7 8
+10 Mohit aur badri rasoi ghar gaye.
+11 Uske baad wo log galiyarey gaye.
+12 Badri ab kahan hai?	galiyara	10 11
+13 Priya aur mohit sayanakaksh gaye.
+14 Fir wo gusalkhaney gaye.
+15 Priya is samay kahan hai?	gusalkhana	13 14
+16 Mohit aur sita galiyarey mein gaye.
+17 Fir wo bagichey gaye.
+18 Mohit is samay kahan hai?	bagicha	16 17
+19 Priya aur badri bagichey mein chale gaye.
+20 Fir wo log sayanakaksh mein gaye.
+21 Sita is samay kahan hai?	bagicha	16 17
+22 Mohit aur badri galiyarey gaye.
+23 Uske baad wo daftar mein gaye.
+24 Badri ab kahan hai?	daftar	22 23
+1 Mohit aur priya daftar gaye.
+2 Uske baad wo log gusalkhaney mein gaye.
+3 Priya is samay kahan hai?	gusalkhana	1 2
+4 Priya aur sita galiyarey mein chale gaye.
+5 Baad may wo log rasoi ghar gaye.
+6 Priya is samay kahan hai?	rasoi ghar	4 5
+7 Priya aur mohit bagichey mein gaye.
+8 Baad may wo log gusalkhaney mein gaye.
+9 Sita ab kahan hai?	rasoi ghar	4 5
+10 Priya aur mohit sayanakaksh mein chale gaye.
+11 Fir wo gusalkhaney mein gaye.
+12 Mohit is samay kahan hai?	gusalkhana	10 11
+13 Sita aur mohit galiyarey mein chale gaye.
+14 Uske baad wo log bagichey gaye.
+15 Mohit is samay kahan hai?	bagicha	13 14
+16 Priya aur sita sayanakaksh mein gaye.
+17 Baad may wo log galiyarey mein gaye.
+18 Sita is samay kahan hai?	galiyara	16 17
+19 Priya aur badri bagichey mein chale gaye.
+20 Uske upraant wo log gusalkhaney mein chale gaye.
+21 Priya is samay kahan hai?	gusalkhana	19 20
+22 Sita aur mohit gusalkhaney gaye.
+23 Uske baad wo daftar mein chale gaye.
+24 Mohit ab kahan hai?	daftar	22 23
+1 Priya aur badri bagichey mein gaye.
+2 Baad may wo gusalkhaney gaye.
+3 Badri is samay kahan hai?	gusalkhana	1 2
+4 Sita aur priya sayanakaksh mein gaye.
+5 Fir wo gusalkhaney gaye.
+6 Sita is samay kahan hai?	gusalkhana	4 5
+7 Sita aur badri sayanakaksh mein gaye.
+8 Uske upraant wo log rasoi ghar mein chale gaye.
+9 Priya is samay kahan hai?	gusalkhana	4 5
+10 Mohit aur badri galiyarey mein gaye.
+11 Uske upraant wo bagichey mein gaye.
+12 Mohit ab kahan hai?	bagicha	10 11
+13 Badri aur priya daftar mein chale gaye.
+14 Uske upraant wo log rasoi ghar gaye.
+15 Badri ab kahan hai?	rasoi ghar	13 14
+16 Sita aur mohit galiyarey mein gaye.
+17 Uske upraant wo log daftar mein chale gaye.
+18 Mohit ab kahan hai?	daftar	16 17
+19 Badri aur priya sayanakaksh mein gaye.
+20 Fir wo log gusalkhaney gaye.
+21 Badri is samay kahan hai?	gusalkhana	19 20
+22 Badri aur priya galiyarey gaye.
+23 Baad may wo log rasoi ghar mein gaye.
+24 Priya is samay kahan hai?	rasoi ghar	22 23
+1 Badri aur priya rasoi ghar gaye.
+2 Uske baad wo log daftar mein gaye.
+3 Badri ab kahan hai?	daftar	1 2
+4 Badri aur mohit galiyarey mein gaye.
+5 Uske baad wo rasoi ghar mein chale gaye.
+6 Badri ab kahan hai?	rasoi ghar	4 5
+7 Mohit aur badri sayanakaksh gaye.
+8 Uske baad wo log daftar mein gaye.
+9 Badri ab kahan hai?	daftar	7 8
+10 Priya aur sita rasoi ghar mein gaye.
+11 Fir wo log galiyarey mein gaye.
+12 Badri ab kahan hai?	daftar	7 8
+13 Sita aur badri sayanakaksh gaye.
+14 Uske upraant wo daftar gaye.
+15 Sita ab kahan hai?	daftar	13 14
+16 Badri aur mohit rasoi ghar mein chale gaye.
+17 Fir wo galiyarey mein gaye.
+18 Badri ab kahan hai?	galiyara	16 17
+19 Sita aur priya rasoi ghar mein chale gaye.
+20 Fir wo sayanakaksh mein gaye.
+21 Sita is samay kahan hai?	sayanakaksh	19 20
+22 Badri aur priya daftar mein gaye.
+23 Uske upraant wo gusalkhaney mein gaye.
+24 Priya is samay kahan hai?	gusalkhana	22 23
+1 Priya aur badri bagichey gaye.
+2 Fir wo galiyarey mein chale gaye.
+3 Priya is samay kahan hai?	galiyara	1 2
+4 Sita aur badri sayanakaksh mein gaye.
+5 Baad may wo gusalkhaney mein chale gaye.
+6 Sita is samay kahan hai?	gusalkhana	4 5
+7 Priya aur badri rasoi ghar mein chale gaye.
+8 Uske upraant wo sayanakaksh mein chale gaye.
+9 Badri is samay kahan hai?	sayanakaksh	7 8
+10 Badri aur priya daftar mein gaye.
+11 Fir wo gusalkhaney mein chale gaye.
+12 Priya is samay kahan hai?	gusalkhana	10 11
+13 Priya aur badri galiyarey gaye.
+14 Fir wo log gusalkhaney gaye.
+15 Priya ab kahan hai?	gusalkhana	13 14
+16 Badri aur mohit rasoi ghar mein gaye.
+17 Uske upraant wo daftar gaye.
+18 Badri ab kahan hai?	daftar	16 17
+19 Priya aur sita bagichey gaye.
+20 Baad may wo log rasoi ghar gaye.
+21 Priya is samay kahan hai?	rasoi ghar	19 20
+22 Mohit aur badri rasoi ghar mein gaye.
+23 Uske upraant wo log gusalkhaney mein gaye.
+24 Badri is samay kahan hai?	gusalkhana	22 23
+1 Sita aur badri bagichey mein chale gaye.
+2 Fir wo sayanakaksh mein gaye.
+3 Sita is samay kahan hai?	sayanakaksh	1 2
+4 Priya aur badri galiyarey mein chale gaye.
+5 Baad may wo log sayanakaksh mein gaye.
+6 Badri is samay kahan hai?	sayanakaksh	4 5
+7 Priya aur sita bagichey mein chale gaye.
+8 Uske baad wo galiyarey gaye.
+9 Sita is samay kahan hai?	galiyara	7 8
+10 Mohit aur badri bagichey gaye.
+11 Fir wo log gusalkhaney gaye.
+12 Badri is samay kahan hai?	gusalkhana	10 11
+13 Badri aur priya rasoi ghar gaye.
+14 Baad may wo gusalkhaney gaye.
+15 Badri ab kahan hai?	gusalkhana	13 14
+16 Sita aur mohit rasoi ghar mein chale gaye.
+17 Fir wo daftar mein gaye.
+18 Priya is samay kahan hai?	gusalkhana	13 14
+19 Badri aur mohit bagichey mein chale gaye.
+20 Baad may wo log sayanakaksh mein gaye.
+21 Mohit ab kahan hai?	sayanakaksh	19 20
+22 Priya aur mohit galiyarey mein chale gaye.
+23 Baad may wo log daftar mein chale gaye.
+24 Mohit is samay kahan hai?	daftar	22 23
+1 Badri aur priya daftar mein gaye.
+2 Fir wo log galiyarey gaye.
+3 Badri ab kahan hai?	galiyara	1 2
+4 Badri aur priya rasoi ghar gaye.
+5 Baad may wo log sayanakaksh gaye.
+6 Priya ab kahan hai?	sayanakaksh	4 5
+7 Badri aur sita galiyarey gaye.
+8 Uske baad wo sayanakaksh mein chale gaye.
+9 Badri ab kahan hai?	sayanakaksh	7 8
+10 Priya aur sita rasoi ghar mein gaye.
+11 Fir wo log bagichey mein chale gaye.
+12 Priya ab kahan hai?	bagicha	10 11
+13 Sita aur mohit galiyarey mein chale gaye.
+14 Fir wo daftar gaye.
+15 Sita ab kahan hai?	daftar	13 14
+16 Priya aur badri gusalkhaney mein chale gaye.
+17 Uske baad wo log bagichey mein gaye.
+18 Priya is samay kahan hai?	bagicha	16 17
+19 Badri aur mohit sayanakaksh gaye.
+20 Uske upraant wo rasoi ghar mein gaye.
+21 Badri is samay kahan hai?	rasoi ghar	19 20
+22 Sita aur badri sayanakaksh mein chale gaye.
+23 Fir wo log rasoi ghar mein chale gaye.
+24 Mohit is samay kahan hai?	rasoi ghar	19 20
+1 Sita aur badri sayanakaksh mein gaye.
+2 Uske baad wo log rasoi ghar gaye.
+3 Badri is samay kahan hai?	rasoi ghar	1 2
+4 Mohit aur sita sayanakaksh mein chale gaye.
+5 Baad may wo log bagichey gaye.
+6 Badri ab kahan hai?	rasoi ghar	1 2
+7 Sita aur mohit gusalkhaney mein chale gaye.
+8 Baad may wo log bagichey mein gaye.
+9 Sita ab kahan hai?	bagicha	7 8
+10 Badri aur priya sayanakaksh mein chale gaye.
+11 Uske baad wo gusalkhaney mein gaye.
+12 Mohit ab kahan hai?	bagicha	7 8
+13 Sita aur mohit sayanakaksh gaye.
+14 Uske upraant wo daftar mein gaye.
+15 Mohit ab kahan hai?	daftar	13 14
+16 Sita aur mohit gusalkhaney gaye.
+17 Uske baad wo sayanakaksh gaye.
+18 Sita is samay kahan hai?	sayanakaksh	16 17
+19 Mohit aur badri daftar gaye.
+20 Baad may wo log sayanakaksh mein gaye.
+21 Badri is samay kahan hai?	sayanakaksh	19 20
+22 Badri aur mohit galiyarey mein gaye.
+23 Uske baad wo log gusalkhaney gaye.
+24 Badri is samay kahan hai?	gusalkhana	22 23
+1 Badri aur mohit rasoi ghar gaye.
+2 Fir wo log galiyarey mein chale gaye.
+3 Mohit ab kahan hai?	galiyara	1 2
+4 Priya aur sita galiyarey gaye.
+5 Baad may wo log rasoi ghar mein chale gaye.
+6 Priya is samay kahan hai?	rasoi ghar	4 5
+7 Badri aur sita bagichey gaye.
+8 Uske baad wo rasoi ghar mein gaye.
+9 Sita ab kahan hai?	rasoi ghar	7 8
+10 Priya aur badri gusalkhaney mein chale gaye.
+11 Baad may wo log rasoi ghar mein gaye.
+12 Badri is samay kahan hai?	rasoi ghar	10 11
+13 Priya aur badri gusalkhaney mein chale gaye.
+14 Uske baad wo log bagichey mein chale gaye.
+15 Priya is samay kahan hai?	bagicha	13 14
+16 Priya aur badri gusalkhaney mein gaye.
+17 Fir wo log sayanakaksh gaye.
+18 Priya ab kahan hai?	sayanakaksh	16 17
+19 Priya aur sita bagichey mein gaye.
+20 Uske upraant wo sayanakaksh mein gaye.
+21 Sita ab kahan hai?	sayanakaksh	19 20
+22 Mohit aur badri rasoi ghar mein chale gaye.
+23 Baad may wo log sayanakaksh mein chale gaye.
+24 Mohit ab kahan hai?	sayanakaksh	22 23
+1 Sita aur badri gusalkhaney mein chale gaye.
+2 Baad may wo daftar gaye.
+3 Badri is samay kahan hai?	daftar	1 2
+4 Priya aur badri bagichey mein chale gaye.
+5 Uske upraant wo rasoi ghar mein chale gaye.
+6 Priya is samay kahan hai?	rasoi ghar	4 5
+7 Priya aur sita galiyarey mein chale gaye.
+8 Baad may wo log gusalkhaney gaye.
+9 Priya is samay kahan hai?	gusalkhana	7 8
+10 Sita aur priya galiyarey mein gaye.
+11 Uske upraant wo daftar gaye.
+12 Sita is samay kahan hai?	daftar	10 11
+13 Badri aur priya galiyarey mein gaye.
+14 Uske upraant wo daftar mein gaye.
+15 Priya is samay kahan hai?	daftar	13 14
+16 Priya aur badri sayanakaksh gaye.
+17 Uske baad wo rasoi ghar mein chale gaye.
+18 Priya ab kahan hai?	rasoi ghar	16 17
+19 Badri aur sita galiyarey gaye.
+20 Uske baad wo daftar gaye.
+21 Badri is samay kahan hai?	daftar	19 20
+22 Mohit aur priya sayanakaksh mein gaye.
+23 Uske upraant wo log bagichey gaye.
+24 Priya ab kahan hai?	bagicha	22 23
+1 Priya aur mohit sayanakaksh mein chale gaye.
+2 Fir wo rasoi ghar mein gaye.
+3 Mohit is samay kahan hai?	rasoi ghar	1 2
+4 Sita aur priya sayanakaksh mein chale gaye.
+5 Uske baad wo log gusalkhaney mein chale gaye.
+6 Mohit is samay kahan hai?	rasoi ghar	1 2
+7 Mohit aur priya galiyarey gaye.
+8 Fir wo sayanakaksh mein gaye.
+9 Priya is samay kahan hai?	sayanakaksh	7 8
+10 Mohit aur badri galiyarey gaye.
+11 Uske upraant wo log rasoi ghar mein gaye.
+12 Priya is samay kahan hai?	sayanakaksh	7 8
+13 Badri aur mohit daftar gaye.
+14 Fir wo log galiyarey mein chale gaye.
+15 Badri ab kahan hai?	galiyara	13 14
+16 Mohit aur sita rasoi ghar gaye.
+17 Uske baad wo daftar mein gaye.
+18 Mohit ab kahan hai?	daftar	16 17
+19 Badri aur mohit sayanakaksh mein chale gaye.
+20 Uske upraant wo log galiyarey mein chale gaye.
+21 Mohit ab kahan hai?	galiyara	19 20
+22 Mohit aur badri bagichey mein gaye.
+23 Uske baad wo log rasoi ghar mein chale gaye.
+24 Badri ab kahan hai?	rasoi ghar	22 23
+1 Badri aur mohit gusalkhaney mein gaye.
+2 Uske baad wo log sayanakaksh mein gaye.
+3 Badri ab kahan hai?	sayanakaksh	1 2
+4 Mohit aur sita rasoi ghar mein chale gaye.
+5 Fir wo log galiyarey gaye.
+6 Sita ab kahan hai?	galiyara	4 5
+7 Priya aur sita rasoi ghar mein gaye.
+8 Uske upraant wo gusalkhaney gaye.
+9 Sita ab kahan hai?	gusalkhana	7 8
+10 Mohit aur sita daftar mein chale gaye.
+11 Fir wo log gusalkhaney mein gaye.
+12 Mohit is samay kahan hai?	gusalkhana	10 11
+13 Priya aur mohit rasoi ghar gaye.
+14 Fir wo log bagichey mein gaye.
+15 Sita ab kahan hai?	gusalkhana	10 11
+16 Priya aur sita rasoi ghar mein gaye.
+17 Uske baad wo log gusalkhaney gaye.
+18 Mohit is samay kahan hai?	bagicha	13 14
+19 Badri aur mohit daftar gaye.
+20 Uske upraant wo rasoi ghar gaye.
+21 Mohit ab kahan hai?	rasoi ghar	19 20
+22 Mohit aur priya galiyarey gaye.
+23 Fir wo daftar gaye.
+24 Mohit is samay kahan hai?	daftar	22 23
+1 Sita aur priya rasoi ghar mein chale gaye.
+2 Uske baad wo log gusalkhaney mein gaye.
+3 Sita is samay kahan hai?	gusalkhana	1 2
+4 Priya aur mohit bagichey mein gaye.
+5 Fir wo rasoi ghar mein gaye.
+6 Priya is samay kahan hai?	rasoi ghar	4 5
+7 Priya aur badri galiyarey mein gaye.
+8 Uske baad wo log rasoi ghar mein gaye.
+9 Mohit is samay kahan hai?	rasoi ghar	4 5
+10 Priya aur mohit gusalkhaney mein chale gaye.
+11 Uske baad wo log bagichey gaye.
+12 Mohit is samay kahan hai?	bagicha	10 11
+13 Sita aur priya galiyarey mein gaye.
+14 Baad may wo rasoi ghar mein gaye.
+15 Mohit ab kahan hai?	bagicha	10 11
+16 Mohit aur priya daftar mein chale gaye.
+17 Fir wo rasoi ghar gaye.
+18 Priya is samay kahan hai?	rasoi ghar	16 17
+19 Priya aur mohit sayanakaksh gaye.
+20 Uske baad wo log rasoi ghar mein chale gaye.
+21 Priya is samay kahan hai?	rasoi ghar	19 20
+22 Mohit aur priya gusalkhaney mein gaye.
+23 Fir wo galiyarey mein gaye.
+24 Mohit ab kahan hai?	galiyara	22 23
+1 Mohit aur sita daftar mein chale gaye.
+2 Fir wo galiyarey gaye.
+3 Sita ab kahan hai?	galiyara	1 2
+4 Priya aur sita sayanakaksh mein chale gaye.
+5 Fir wo log galiyarey gaye.
+6 Priya is samay kahan hai?	galiyara	4 5
+7 Mohit aur badri bagichey mein gaye.
+8 Fir wo log galiyarey mein gaye.
+9 Badri ab kahan hai?	galiyara	7 8
+10 Priya aur sita bagichey mein gaye.
+11 Fir wo galiyarey mein chale gaye.
+12 Sita is samay kahan hai?	galiyara	10 11
+13 Mohit aur sita rasoi ghar mein chale gaye.
+14 Uske baad wo sayanakaksh mein chale gaye.
+15 Sita ab kahan hai?	sayanakaksh	13 14
+16 Sita aur priya daftar gaye.
+17 Uske upraant wo log gusalkhaney mein chale gaye.
+18 Sita is samay kahan hai?	gusalkhana	16 17
+19 Badri aur mohit rasoi ghar mein gaye.
+20 Fir wo bagichey gaye.
+21 Badri ab kahan hai?	bagicha	19 20
+22 Priya aur badri rasoi ghar gaye.
+23 Fir wo galiyarey mein chale gaye.
+24 Badri ab kahan hai?	galiyara	22 23
+1 Mohit aur priya daftar mein chale gaye.
+2 Fir wo bagichey mein gaye.
+3 Priya ab kahan hai?	bagicha	1 2
+4 Mohit aur sita galiyarey mein gaye.
+5 Uske upraant wo gusalkhaney mein chale gaye.
+6 Priya ab kahan hai?	bagicha	1 2
+7 Badri aur sita daftar mein gaye.
+8 Fir wo sayanakaksh mein gaye.
+9 Badri ab kahan hai?	sayanakaksh	7 8
+10 Mohit aur priya rasoi ghar mein gaye.
+11 Uske baad wo gusalkhaney mein chale gaye.
+12 Priya is samay kahan hai?	gusalkhana	10 11
+13 Badri aur sita galiyarey mein gaye.
+14 Uske upraant wo rasoi ghar mein chale gaye.
+15 Badri is samay kahan hai?	rasoi ghar	13 14
+16 Sita aur mohit bagichey mein chale gaye.
+17 Fir wo gusalkhaney mein gaye.
+18 Sita ab kahan hai?	gusalkhana	16 17
+19 Badri aur mohit daftar mein chale gaye.
+20 Uske upraant wo log gusalkhaney mein chale gaye.
+21 Badri is samay kahan hai?	gusalkhana	19 20
+22 Priya aur sita rasoi ghar mein gaye.
+23 Uske baad wo sayanakaksh mein gaye.
+24 Mohit is samay kahan hai?	gusalkhana	19 20
+1 Badri aur priya galiyarey mein gaye.
+2 Fir wo log sayanakaksh mein gaye.
+3 Priya ab kahan hai?	sayanakaksh	1 2
+4 Priya aur sita gusalkhaney gaye.
+5 Uske baad wo rasoi ghar mein gaye.
+6 Priya ab kahan hai?	rasoi ghar	4 5
+7 Sita aur priya gusalkhaney mein chale gaye.
+8 Baad may wo galiyarey mein chale gaye.
+9 Priya ab kahan hai?	galiyara	7 8
+10 Sita aur priya gusalkhaney mein gaye.
+11 Uske upraant wo log sayanakaksh mein chale gaye.
+12 Priya ab kahan hai?	sayanakaksh	10 11
+13 Priya aur sita bagichey mein gaye.
+14 Fir wo log gusalkhaney gaye.
+15 Priya ab kahan hai?	gusalkhana	13 14
+16 Sita aur badri bagichey mein gaye.
+17 Baad may wo log daftar mein chale gaye.
+18 Sita ab kahan hai?	daftar	16 17
+19 Mohit aur sita galiyarey gaye.
+20 Uske upraant wo bagichey gaye.
+21 Mohit is samay kahan hai?	bagicha	19 20
+22 Mohit aur priya daftar mein gaye.
+23 Uske baad wo gusalkhaney mein chale gaye.
+24 Priya is samay kahan hai?	gusalkhana	22 23
+1 Badri aur sita galiyarey mein gaye.
+2 Uske baad wo rasoi ghar gaye.
+3 Sita ab kahan hai?	rasoi ghar	1 2
+4 Priya aur sita bagichey mein chale gaye.
+5 Uske baad wo log sayanakaksh mein chale gaye.
+6 Sita ab kahan hai?	sayanakaksh	4 5
+7 Sita aur priya bagichey mein gaye.
+8 Baad may wo rasoi ghar mein chale gaye.
+9 Priya is samay kahan hai?	rasoi ghar	7 8
+10 Mohit aur badri daftar mein gaye.
+11 Baad may wo gusalkhaney gaye.
+12 Mohit ab kahan hai?	gusalkhana	10 11
+13 Mohit aur badri galiyarey mein chale gaye.
+14 Fir wo log daftar mein gaye.
+15 Badri ab kahan hai?	daftar	13 14
+16 Mohit aur sita sayanakaksh mein chale gaye.
+17 Uske upraant wo log gusalkhaney gaye.
+18 Sita ab kahan hai?	gusalkhana	16 17
+19 Sita aur priya galiyarey mein gaye.
+20 Fir wo bagichey mein gaye.
+21 Priya ab kahan hai?	bagicha	19 20
+22 Sita aur badri sayanakaksh mein gaye.
+23 Uske baad wo bagichey gaye.
+24 Sita is samay kahan hai?	bagicha	22 23
+1 Mohit aur sita rasoi ghar mein gaye.
+2 Uske baad wo log sayanakaksh mein gaye.
+3 Mohit ab kahan hai?	sayanakaksh	1 2
+4 Badri aur mohit daftar mein gaye.
+5 Fir wo rasoi ghar mein gaye.
+6 Mohit ab kahan hai?	rasoi ghar	4 5
+7 Mohit aur priya sayanakaksh mein chale gaye.
+8 Uske upraant wo log gusalkhaney mein gaye.
+9 Mohit is samay kahan hai?	gusalkhana	7 8
+10 Badri aur priya daftar gaye.
+11 Uske baad wo log bagichey mein chale gaye.
+12 Badri ab kahan hai?	bagicha	10 11
+13 Mohit aur sita daftar mein chale gaye.
+14 Uske upraant wo log sayanakaksh mein chale gaye.
+15 Mohit ab kahan hai?	sayanakaksh	13 14
+16 Priya aur mohit galiyarey mein chale gaye.
+17 Baad may wo daftar gaye.
+18 Mohit is samay kahan hai?	daftar	16 17
+19 Mohit aur priya gusalkhaney mein gaye.
+20 Baad may wo log daftar mein gaye.
+21 Priya ab kahan hai?	daftar	19 20
+22 Mohit aur badri rasoi ghar mein gaye.
+23 Uske baad wo bagichey gaye.
+24 Mohit is samay kahan hai?	bagicha	22 23
+1 Priya aur badri gusalkhaney mein gaye.
+2 Fir wo galiyarey mein chale gaye.
+3 Priya ab kahan hai?	galiyara	1 2
+4 Sita aur priya sayanakaksh mein gaye.
+5 Uske upraant wo gusalkhaney mein gaye.
+6 Sita ab kahan hai?	gusalkhana	4 5
+7 Mohit aur badri sayanakaksh gaye.
+8 Uske upraant wo daftar gaye.
+9 Mohit is samay kahan hai?	daftar	7 8
+10 Sita aur priya daftar mein chale gaye.
+11 Fir wo log rasoi ghar mein chale gaye.
+12 Badri is samay kahan hai?	daftar	7 8
+13 Badri aur mohit gusalkhaney mein chale gaye.
+14 Fir wo bagichey mein chale gaye.
+15 Priya is samay kahan hai?	rasoi ghar	10 11
+16 Badri aur sita gusalkhaney mein chale gaye.
+17 Baad may wo log daftar gaye.
+18 Sita ab kahan hai?	daftar	16 17
+19 Badri aur priya galiyarey gaye.
+20 Fir wo gusalkhaney mein chale gaye.
+21 Badri ab kahan hai?	gusalkhana	19 20
+22 Sita aur priya rasoi ghar mein gaye.
+23 Uske upraant wo log bagichey gaye.
+24 Sita is samay kahan hai?	bagicha	22 23
+1 Sita aur mohit rasoi ghar gaye.
+2 Fir wo galiyarey mein chale gaye.
+3 Sita is samay kahan hai?	galiyara	1 2
+4 Badri aur sita rasoi ghar gaye.
+5 Fir wo log bagichey gaye.
+6 Sita ab kahan hai?	bagicha	4 5
+7 Sita aur priya rasoi ghar gaye.
+8 Baad may wo bagichey gaye.
+9 Priya is samay kahan hai?	bagicha	7 8
+10 Mohit aur priya daftar mein chale gaye.
+11 Uske upraant wo log gusalkhaney gaye.
+12 Mohit is samay kahan hai?	gusalkhana	10 11
+13 Sita aur badri gusalkhaney gaye.
+14 Uske upraant wo daftar mein gaye.
+15 Badri is samay kahan hai?	daftar	13 14
+16 Mohit aur badri rasoi ghar mein chale gaye.
+17 Uske upraant wo bagichey gaye.
+18 Mohit ab kahan hai?	bagicha	16 17
+19 Badri aur sita rasoi ghar gaye.
+20 Fir wo daftar mein chale gaye.
+21 Sita is samay kahan hai?	daftar	19 20
+22 Sita aur mohit sayanakaksh mein gaye.
+23 Fir wo log daftar gaye.
+24 Sita ab kahan hai?	daftar	22 23
+1 Mohit aur sita sayanakaksh mein gaye.
+2 Baad may wo gusalkhaney mein gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Priya aur badri rasoi ghar mein chale gaye.
+5 Uske baad wo sayanakaksh mein chale gaye.
+6 Sita ab kahan hai?	gusalkhana	1 2
+7 Mohit aur sita rasoi ghar gaye.
+8 Fir wo log daftar mein chale gaye.
+9 Sita ab kahan hai?	daftar	7 8
+10 Mohit aur sita gusalkhaney mein chale gaye.
+11 Baad may wo log daftar mein gaye.
+12 Mohit is samay kahan hai?	daftar	10 11
+13 Priya aur mohit rasoi ghar mein gaye.
+14 Uske baad wo log bagichey mein gaye.
+15 Priya is samay kahan hai?	bagicha	13 14
+16 Mohit aur badri gusalkhaney mein gaye.
+17 Uske upraant wo galiyarey mein chale gaye.
+18 Badri ab kahan hai?	galiyara	16 17
+19 Priya aur badri rasoi ghar gaye.
+20 Uske upraant wo gusalkhaney mein chale gaye.
+21 Badri is samay kahan hai?	gusalkhana	19 20
+22 Priya aur badri rasoi ghar gaye.
+23 Fir wo gusalkhaney mein chale gaye.
+24 Priya is samay kahan hai?	gusalkhana	22 23
+1 Sita aur priya bagichey mein gaye.
+2 Fir wo sayanakaksh mein chale gaye.
+3 Priya is samay kahan hai?	sayanakaksh	1 2
+4 Sita aur badri gusalkhaney mein chale gaye.
+5 Uske baad wo sayanakaksh mein chale gaye.
+6 Badri ab kahan hai?	sayanakaksh	4 5
+7 Badri aur sita galiyarey mein gaye.
+8 Uske baad wo log bagichey mein chale gaye.
+9 Badri ab kahan hai?	bagicha	7 8
+10 Mohit aur priya galiyarey mein chale gaye.
+11 Fir wo gusalkhaney mein chale gaye.
+12 Sita ab kahan hai?	bagicha	7 8
+13 Priya aur mohit galiyarey gaye.
+14 Fir wo log sayanakaksh mein gaye.
+15 Mohit is samay kahan hai?	sayanakaksh	13 14
+16 Priya aur mohit rasoi ghar mein chale gaye.
+17 Fir wo log galiyarey gaye.
+18 Mohit is samay kahan hai?	galiyara	16 17
+19 Sita aur badri sayanakaksh gaye.
+20 Baad may wo gusalkhaney mein gaye.
+21 Badri is samay kahan hai?	gusalkhana	19 20
+22 Sita aur badri rasoi ghar gaye.
+23 Baad may wo log daftar mein chale gaye.
+24 Badri is samay kahan hai?	daftar	22 23
+1 Badri aur mohit sayanakaksh mein gaye.
+2 Uske baad wo log rasoi ghar gaye.
+3 Badri is samay kahan hai?	rasoi ghar	1 2
+4 Badri aur sita gusalkhaney mein gaye.
+5 Uske upraant wo galiyarey gaye.
+6 Badri is samay kahan hai?	galiyara	4 5
+7 Mohit aur sita daftar mein gaye.
+8 Baad may wo log galiyarey mein chale gaye.
+9 Mohit ab kahan hai?	galiyara	7 8
+10 Priya aur sita gusalkhaney mein gaye.
+11 Baad may wo galiyarey mein chale gaye.
+12 Priya is samay kahan hai?	galiyara	10 11
+13 Badri aur priya gusalkhaney mein gaye.
+14 Uske baad wo log sayanakaksh mein chale gaye.
+15 Badri ab kahan hai?	sayanakaksh	13 14
+16 Sita aur badri daftar mein chale gaye.
+17 Fir wo log rasoi ghar mein gaye.
+18 Priya is samay kahan hai?	sayanakaksh	13 14
+19 Priya aur badri galiyarey mein chale gaye.
+20 Fir wo gusalkhaney gaye.
+21 Priya is samay kahan hai?	gusalkhana	19 20
+22 Sita aur badri galiyarey mein gaye.
+23 Uske upraant wo log gusalkhaney gaye.
+24 Sita ab kahan hai?	gusalkhana	22 23
+1 Sita aur badri galiyarey mein chale gaye.
+2 Baad may wo log sayanakaksh gaye.
+3 Sita ab kahan hai?	sayanakaksh	1 2
+4 Badri aur mohit rasoi ghar gaye.
+5 Baad may wo log galiyarey gaye.
+6 Badri is samay kahan hai?	galiyara	4 5
+7 Badri aur mohit gusalkhaney mein gaye.
+8 Uske baad wo sayanakaksh mein chale gaye.
+9 Mohit is samay kahan hai?	sayanakaksh	7 8
+10 Priya aur badri bagichey gaye.
+11 Uske upraant wo log galiyarey gaye.
+12 Priya is samay kahan hai?	galiyara	10 11
+13 Badri aur priya sayanakaksh gaye.
+14 Baad may wo daftar mein chale gaye.
+15 Badri ab kahan hai?	daftar	13 14
+16 Priya aur mohit rasoi ghar mein chale gaye.
+17 Fir wo gusalkhaney gaye.
+18 Mohit ab kahan hai?	gusalkhana	16 17
+19 Mohit aur sita daftar mein gaye.
+20 Uske upraant wo galiyarey gaye.
+21 Sita ab kahan hai?	galiyara	19 20
+22 Sita aur priya daftar gaye.
+23 Uske baad wo galiyarey mein gaye.
+24 Sita is samay kahan hai?	galiyara	22 23
+1 Sita aur priya gusalkhaney gaye.
+2 Uske upraant wo sayanakaksh gaye.
+3 Priya is samay kahan hai?	sayanakaksh	1 2
+4 Badri aur sita bagichey mein chale gaye.
+5 Fir wo log rasoi ghar mein gaye.
+6 Badri is samay kahan hai?	rasoi ghar	4 5
+7 Sita aur mohit galiyarey mein gaye.
+8 Baad may wo log sayanakaksh mein gaye.
+9 Sita is samay kahan hai?	sayanakaksh	7 8
+10 Priya aur sita rasoi ghar mein gaye.
+11 Fir wo log galiyarey mein chale gaye.
+12 Sita is samay kahan hai?	galiyara	10 11
+13 Badri aur priya bagichey mein gaye.
+14 Uske upraant wo galiyarey mein chale gaye.
+15 Priya is samay kahan hai?	galiyara	13 14
+16 Priya aur badri bagichey gaye.
+17 Uske baad wo log sayanakaksh mein gaye.
+18 Badri ab kahan hai?	sayanakaksh	16 17
+19 Priya aur sita daftar gaye.
+20 Baad may wo log rasoi ghar mein chale gaye.
+21 Sita is samay kahan hai?	rasoi ghar	19 20
+22 Priya aur sita sayanakaksh mein chale gaye.
+23 Uske upraant wo gusalkhaney gaye.
+24 Sita is samay kahan hai?	gusalkhana	22 23
+1 Badri aur sita sayanakaksh gaye.
+2 Uske baad wo log daftar mein chale gaye.
+3 Sita ab kahan hai?	daftar	1 2
+4 Sita aur badri rasoi ghar mein chale gaye.
+5 Uske upraant wo bagichey gaye.
+6 Badri is samay kahan hai?	bagicha	4 5
+7 Priya aur mohit sayanakaksh mein chale gaye.
+8 Uske baad wo log galiyarey gaye.
+9 Priya ab kahan hai?	galiyara	7 8
+10 Priya aur badri gusalkhaney mein chale gaye.
+11 Baad may wo log bagichey mein gaye.
+12 Badri ab kahan hai?	bagicha	10 11
+13 Sita aur badri daftar mein gaye.
+14 Uske upraant wo log bagichey gaye.
+15 Sita ab kahan hai?	bagicha	13 14
+16 Sita aur mohit daftar mein chale gaye.
+17 Fir wo galiyarey gaye.
+18 Mohit ab kahan hai?	galiyara	16 17
+19 Badri aur sita daftar gaye.
+20 Uske baad wo log sayanakaksh mein chale gaye.
+21 Badri ab kahan hai?	sayanakaksh	19 20
+22 Badri aur mohit daftar mein gaye.
+23 Uske baad wo galiyarey gaye.
+24 Sita ab kahan hai?	sayanakaksh	19 20
+1 Mohit aur priya rasoi ghar mein chale gaye.
+2 Uske baad wo log sayanakaksh gaye.
+3 Priya ab kahan hai?	sayanakaksh	1 2
+4 Mohit aur badri daftar mein chale gaye.
+5 Baad may wo gusalkhaney mein gaye.
+6 Mohit ab kahan hai?	gusalkhana	4 5
+7 Priya aur badri galiyarey mein gaye.
+8 Baad may wo rasoi ghar gaye.
+9 Priya ab kahan hai?	rasoi ghar	7 8
+10 Badri aur priya gusalkhaney mein chale gaye.
+11 Uske upraant wo log bagichey mein gaye.
+12 Badri ab kahan hai?	bagicha	10 11
+13 Badri aur mohit daftar mein chale gaye.
+14 Baad may wo log gusalkhaney mein chale gaye.
+15 Mohit ab kahan hai?	gusalkhana	13 14
+16 Badri aur mohit sayanakaksh mein gaye.
+17 Fir wo log gusalkhaney gaye.
+18 Badri ab kahan hai?	gusalkhana	16 17
+19 Priya aur mohit rasoi ghar mein chale gaye.
+20 Uske upraant wo log gusalkhaney mein gaye.
+21 Priya is samay kahan hai?	gusalkhana	19 20
+22 Badri aur sita galiyarey mein gaye.
+23 Fir wo daftar mein chale gaye.
+24 Mohit is samay kahan hai?	gusalkhana	19 20
+1 Badri aur mohit gusalkhaney mein gaye.
+2 Uske upraant wo daftar mein gaye.
+3 Mohit ab kahan hai?	daftar	1 2
+4 Mohit aur sita galiyarey mein chale gaye.
+5 Uske baad wo rasoi ghar mein gaye.
+6 Mohit ab kahan hai?	rasoi ghar	4 5
+7 Priya aur mohit bagichey gaye.
+8 Baad may wo daftar mein chale gaye.
+9 Mohit is samay kahan hai?	daftar	7 8
+10 Badri aur mohit galiyarey mein chale gaye.
+11 Fir wo log sayanakaksh mein chale gaye.
+12 Badri is samay kahan hai?	sayanakaksh	10 11
+13 Sita aur badri galiyarey mein gaye.
+14 Baad may wo log rasoi ghar mein chale gaye.
+15 Mohit ab kahan hai?	sayanakaksh	10 11
+16 Sita aur mohit daftar mein chale gaye.
+17 Fir wo sayanakaksh mein gaye.
+18 Mohit is samay kahan hai?	sayanakaksh	16 17
+19 Badri aur sita bagichey mein chale gaye.
+20 Baad may wo sayanakaksh mein gaye.
+21 Badri is samay kahan hai?	sayanakaksh	19 20
+22 Sita aur priya galiyarey mein chale gaye.
+23 Fir wo daftar mein gaye.
+24 Priya ab kahan hai?	daftar	22 23
+1 Badri aur priya daftar gaye.
+2 Baad may wo log bagichey gaye.
+3 Badri ab kahan hai?	bagicha	1 2
+4 Sita aur badri sayanakaksh mein gaye.
+5 Fir wo bagichey mein chale gaye.
+6 Sita ab kahan hai?	bagicha	4 5
+7 Badri aur mohit rasoi ghar gaye.
+8 Fir wo daftar mein chale gaye.
+9 Badri is samay kahan hai?	daftar	7 8
+10 Sita aur mohit gusalkhaney gaye.
+11 Uske baad wo galiyarey mein gaye.
+12 Mohit is samay kahan hai?	galiyara	10 11
+13 Sita aur mohit bagichey gaye.
+14 Fir wo log daftar mein gaye.
+15 Sita ab kahan hai?	daftar	13 14
+16 Sita aur priya sayanakaksh mein gaye.
+17 Uske baad wo bagichey gaye.
+18 Priya is samay kahan hai?	bagicha	16 17
+19 Badri aur mohit bagichey gaye.
+20 Uske baad wo sayanakaksh gaye.
+21 Priya ab kahan hai?	bagicha	16 17
+22 Badri aur sita gusalkhaney mein chale gaye.
+23 Uske baad wo log sayanakaksh mein gaye.
+24 Badri is samay kahan hai?	sayanakaksh	22 23
+1 Sita aur priya daftar gaye.
+2 Baad may wo rasoi ghar mein chale gaye.
+3 Priya is samay kahan hai?	rasoi ghar	1 2
+4 Badri aur priya sayanakaksh gaye.
+5 Uske upraant wo log bagichey mein chale gaye.
+6 Badri ab kahan hai?	bagicha	4 5
+7 Mohit aur badri daftar mein chale gaye.
+8 Fir wo galiyarey mein gaye.
+9 Mohit is samay kahan hai?	galiyara	7 8
+10 Priya aur mohit rasoi ghar mein chale gaye.
+11 Uske baad wo gusalkhaney mein gaye.
+12 Badri is samay kahan hai?	galiyara	7 8
+13 Priya aur sita daftar mein gaye.
+14 Uske upraant wo log sayanakaksh mein gaye.
+15 Sita ab kahan hai?	sayanakaksh	13 14
+16 Mohit aur badri daftar mein chale gaye.
+17 Uske baad wo rasoi ghar mein gaye.
+18 Mohit ab kahan hai?	rasoi ghar	16 17
+19 Badri aur sita bagichey mein chale gaye.
+20 Fir wo log gusalkhaney mein chale gaye.
+21 Badri ab kahan hai?	gusalkhana	19 20
+22 Badri aur mohit bagichey mein gaye.
+23 Fir wo rasoi ghar mein gaye.
+24 Sita is samay kahan hai?	gusalkhana	19 20
+1 Badri aur mohit daftar mein chale gaye.
+2 Uske upraant wo bagichey mein gaye.
+3 Badri ab kahan hai?	bagicha	1 2
+4 Mohit aur priya galiyarey mein gaye.
+5 Baad may wo sayanakaksh mein chale gaye.
+6 Mohit ab kahan hai?	sayanakaksh	4 5
+7 Mohit aur sita daftar gaye.
+8 Baad may wo log sayanakaksh mein gaye.
+9 Priya is samay kahan hai?	sayanakaksh	4 5
+10 Mohit aur priya bagichey mein gaye.
+11 Fir wo log sayanakaksh gaye.
+12 Mohit is samay kahan hai?	sayanakaksh	10 11
+13 Priya aur mohit daftar gaye.
+14 Fir wo bagichey gaye.
+15 Priya ab kahan hai?	bagicha	13 14
+16 Badri aur priya rasoi ghar mein gaye.
+17 Uske baad wo gusalkhaney mein gaye.
+18 Priya ab kahan hai?	gusalkhana	16 17
+19 Sita aur priya galiyarey mein gaye.
+20 Uske baad wo log rasoi ghar gaye.
+21 Priya ab kahan hai?	rasoi ghar	19 20
+22 Mohit aur priya galiyarey mein chale gaye.
+23 Uske baad wo gusalkhaney mein chale gaye.
+24 Priya is samay kahan hai?	gusalkhana	22 23
+1 Sita aur priya galiyarey gaye.
+2 Baad may wo sayanakaksh mein gaye.
+3 Priya is samay kahan hai?	sayanakaksh	1 2
+4 Badri aur mohit galiyarey gaye.
+5 Uske baad wo log daftar mein gaye.
+6 Priya is samay kahan hai?	sayanakaksh	1 2
+7 Priya aur badri gusalkhaney mein chale gaye.
+8 Uske upraant wo galiyarey gaye.
+9 Badri is samay kahan hai?	galiyara	7 8
+10 Mohit aur sita galiyarey mein chale gaye.
+11 Baad may wo bagichey mein chale gaye.
+12 Sita ab kahan hai?	bagicha	10 11
+13 Sita aur badri gusalkhaney mein chale gaye.
+14 Uske upraant wo sayanakaksh mein chale gaye.
+15 Badri ab kahan hai?	sayanakaksh	13 14
+16 Priya aur badri daftar mein gaye.
+17 Baad may wo sayanakaksh gaye.
+18 Badri ab kahan hai?	sayanakaksh	16 17
+19 Mohit aur badri rasoi ghar mein chale gaye.
+20 Baad may wo gusalkhaney mein gaye.
+21 Badri ab kahan hai?	gusalkhana	19 20
+22 Mohit aur sita galiyarey mein chale gaye.
+23 Uske baad wo rasoi ghar mein chale gaye.
+24 Mohit ab kahan hai?	rasoi ghar	22 23
+1 Sita aur priya gusalkhaney mein chale gaye.
+2 Uske upraant wo log galiyarey mein chale gaye.
+3 Sita ab kahan hai?	galiyara	1 2
+4 Sita aur badri gusalkhaney gaye.
+5 Baad may wo rasoi ghar gaye.
+6 Sita is samay kahan hai?	rasoi ghar	4 5
+7 Badri aur sita galiyarey mein gaye.
+8 Fir wo rasoi ghar gaye.
+9 Badri is samay kahan hai?	rasoi ghar	7 8
+10 Badri aur mohit bagichey mein chale gaye.
+11 Uske upraant wo log sayanakaksh mein gaye.
+12 Sita is samay kahan hai?	rasoi ghar	7 8
+13 Mohit aur sita galiyarey gaye.
+14 Uske upraant wo log rasoi ghar gaye.
+15 Mohit ab kahan hai?	rasoi ghar	13 14
+16 Sita aur badri bagichey gaye.
+17 Fir wo daftar gaye.
+18 Sita ab kahan hai?	daftar	16 17
+19 Sita aur mohit gusalkhaney mein gaye.
+20 Fir wo bagichey mein gaye.
+21 Sita ab kahan hai?	bagicha	19 20
+22 Mohit aur sita galiyarey mein chale gaye.
+23 Uske upraant wo daftar mein gaye.
+24 Mohit is samay kahan hai?	daftar	22 23
+1 Badri aur priya sayanakaksh mein gaye.
+2 Baad may wo rasoi ghar gaye.
+3 Badri ab kahan hai?	rasoi ghar	1 2
+4 Badri aur priya sayanakaksh gaye.
+5 Uske upraant wo log bagichey gaye.
+6 Badri ab kahan hai?	bagicha	4 5
+7 Badri aur priya daftar mein chale gaye.
+8 Fir wo galiyarey mein chale gaye.
+9 Priya is samay kahan hai?	galiyara	7 8
+10 Badri aur priya bagichey mein chale gaye.
+11 Baad may wo log daftar mein gaye.
+12 Badri ab kahan hai?	daftar	10 11
+13 Sita aur priya bagichey mein gaye.
+14 Baad may wo galiyarey gaye.
+15 Sita ab kahan hai?	galiyara	13 14
+16 Sita aur priya sayanakaksh gaye.
+17 Baad may wo rasoi ghar mein gaye.
+18 Priya ab kahan hai?	rasoi ghar	16 17
+19 Badri aur priya galiyarey mein gaye.
+20 Uske baad wo log bagichey mein gaye.
+21 Priya ab kahan hai?	bagicha	19 20
+22 Badri aur priya rasoi ghar mein chale gaye.
+23 Baad may wo gusalkhaney gaye.
+24 Badri is samay kahan hai?	gusalkhana	22 23
+1 Badri aur mohit gusalkhaney gaye.
+2 Baad may wo bagichey mein gaye.
+3 Mohit is samay kahan hai?	bagicha	1 2
+4 Priya aur sita galiyarey mein chale gaye.
+5 Baad may wo log gusalkhaney mein chale gaye.
+6 Mohit ab kahan hai?	bagicha	1 2
+7 Sita aur priya galiyarey mein chale gaye.
+8 Baad may wo daftar gaye.
+9 Sita is samay kahan hai?	daftar	7 8
+10 Mohit aur sita sayanakaksh mein gaye.
+11 Fir wo log daftar mein gaye.
+12 Sita ab kahan hai?	daftar	10 11
+13 Sita aur badri rasoi ghar mein chale gaye.
+14 Uske baad wo galiyarey mein chale gaye.
+15 Sita ab kahan hai?	galiyara	13 14
+16 Mohit aur priya gusalkhaney mein chale gaye.
+17 Uske upraant wo log galiyarey mein chale gaye.
+18 Mohit is samay kahan hai?	galiyara	16 17
+19 Priya aur mohit rasoi ghar mein chale gaye.
+20 Fir wo sayanakaksh mein chale gaye.
+21 Priya ab kahan hai?	sayanakaksh	19 20
+22 Sita aur badri bagichey mein gaye.
+23 Uske upraant wo log galiyarey mein chale gaye.
+24 Sita is samay kahan hai?	galiyara	22 23
+1 Badri aur priya daftar mein gaye.
+2 Uske upraant wo rasoi ghar gaye.
+3 Badri ab kahan hai?	rasoi ghar	1 2
+4 Badri aur sita galiyarey gaye.
+5 Fir wo daftar mein chale gaye.
+6 Badri ab kahan hai?	daftar	4 5
+7 Sita aur badri gusalkhaney gaye.
+8 Baad may wo sayanakaksh mein chale gaye.
+9 Sita is samay kahan hai?	sayanakaksh	7 8
+10 Priya aur sita galiyarey mein chale gaye.
+11 Uske baad wo log rasoi ghar gaye.
+12 Sita is samay kahan hai?	rasoi ghar	10 11
+13 Priya aur sita daftar mein chale gaye.
+14 Uske upraant wo galiyarey mein chale gaye.
+15 Sita is samay kahan hai?	galiyara	13 14
+16 Sita aur priya rasoi ghar gaye.
+17 Uske upraant wo bagichey mein chale gaye.
+18 Sita is samay kahan hai?	bagicha	16 17
+19 Mohit aur badri gusalkhaney gaye.
+20 Baad may wo log daftar mein gaye.
+21 Badri is samay kahan hai?	daftar	19 20
+22 Sita aur priya sayanakaksh mein chale gaye.
+23 Uske baad wo rasoi ghar mein chale gaye.
+24 Priya ab kahan hai?	rasoi ghar	22 23
+1 Mohit aur sita gusalkhaney mein chale gaye.
+2 Uske upraant wo rasoi ghar mein gaye.
+3 Sita is samay kahan hai?	rasoi ghar	1 2
+4 Mohit aur badri gusalkhaney gaye.
+5 Baad may wo log bagichey mein chale gaye.
+6 Mohit ab kahan hai?	bagicha	4 5
+7 Priya aur sita galiyarey gaye.
+8 Uske baad wo log bagichey gaye.
+9 Badri is samay kahan hai?	bagicha	4 5
+10 Priya aur sita galiyarey mein chale gaye.
+11 Baad may wo log gusalkhaney mein gaye.
+12 Sita is samay kahan hai?	gusalkhana	10 11
+13 Sita aur priya sayanakaksh mein chale gaye.
+14 Uske upraant wo gusalkhaney mein chale gaye.
+15 Sita ab kahan hai?	gusalkhana	13 14
+16 Mohit aur badri sayanakaksh gaye.
+17 Baad may wo log galiyarey mein gaye.
+18 Mohit ab kahan hai?	galiyara	16 17
+19 Priya aur sita bagichey mein chale gaye.
+20 Fir wo galiyarey mein chale gaye.
+21 Priya ab kahan hai?	galiyara	19 20
+22 Mohit aur badri daftar gaye.
+23 Uske baad wo log rasoi ghar gaye.
+24 Sita is samay kahan hai?	galiyara	19 20
+1 Priya aur sita gusalkhaney mein gaye.
+2 Baad may wo log galiyarey mein gaye.
+3 Sita is samay kahan hai?	galiyara	1 2
+4 Mohit aur sita daftar gaye.
+5 Uske upraant wo sayanakaksh mein gaye.
+6 Mohit ab kahan hai?	sayanakaksh	4 5
+7 Mohit aur sita gusalkhaney mein gaye.
+8 Baad may wo log rasoi ghar gaye.
+9 Sita is samay kahan hai?	rasoi ghar	7 8
+10 Sita aur mohit daftar mein gaye.
+11 Uske baad wo sayanakaksh mein gaye.
+12 Sita is samay kahan hai?	sayanakaksh	10 11
+13 Sita aur badri gusalkhaney mein gaye.
+14 Baad may wo bagichey mein chale gaye.
+15 Sita is samay kahan hai?	bagicha	13 14
+16 Sita aur mohit galiyarey mein chale gaye.
+17 Baad may wo log rasoi ghar gaye.
+18 Mohit is samay kahan hai?	rasoi ghar	16 17
+19 Sita aur badri daftar mein chale gaye.
+20 Fir wo galiyarey mein gaye.
+21 Badri is samay kahan hai?	galiyara	19 20
+22 Mohit aur priya daftar mein gaye.
+23 Uske baad wo gusalkhaney mein chale gaye.
+24 Priya is samay kahan hai?	gusalkhana	22 23
+1 Badri aur priya galiyarey gaye.
+2 Fir wo rasoi ghar mein chale gaye.
+3 Priya ab kahan hai?	rasoi ghar	1 2
+4 Priya aur sita bagichey mein chale gaye.
+5 Uske baad wo log sayanakaksh mein chale gaye.
+6 Sita is samay kahan hai?	sayanakaksh	4 5
+7 Priya aur sita gusalkhaney mein chale gaye.
+8 Baad may wo galiyarey mein chale gaye.
+9 Sita is samay kahan hai?	galiyara	7 8
+10 Badri aur mohit galiyarey gaye.
+11 Fir wo rasoi ghar gaye.
+12 Mohit is samay kahan hai?	rasoi ghar	10 11
+13 Mohit aur priya bagichey mein gaye.
+14 Fir wo gusalkhaney mein chale gaye.
+15 Mohit is samay kahan hai?	gusalkhana	13 14
+16 Priya aur sita daftar mein chale gaye.
+17 Fir wo sayanakaksh mein gaye.
+18 Priya is samay kahan hai?	sayanakaksh	16 17
+19 Priya aur sita daftar gaye.
+20 Baad may wo log sayanakaksh mein chale gaye.
+21 Priya ab kahan hai?	sayanakaksh	19 20
+22 Mohit aur sita bagichey mein chale gaye.
+23 Uske baad wo rasoi ghar gaye.
+24 Mohit ab kahan hai?	rasoi ghar	22 23
+1 Badri aur mohit gusalkhaney mein chale gaye.
+2 Baad may wo log daftar gaye.
+3 Mohit is samay kahan hai?	daftar	1 2
+4 Mohit aur priya bagichey gaye.
+5 Uske baad wo log gusalkhaney mein gaye.
+6 Mohit ab kahan hai?	gusalkhana	4 5
+7 Badri aur mohit bagichey gaye.
+8 Baad may wo sayanakaksh mein chale gaye.
+9 Badri is samay kahan hai?	sayanakaksh	7 8
+10 Mohit aur priya rasoi ghar gaye.
+11 Uske baad wo galiyarey mein chale gaye.
+12 Priya ab kahan hai?	galiyara	10 11
+13 Mohit aur sita gusalkhaney gaye.
+14 Fir wo log daftar mein gaye.
+15 Sita is samay kahan hai?	daftar	13 14
+16 Badri aur sita galiyarey gaye.
+17 Fir wo daftar mein gaye.
+18 Sita is samay kahan hai?	daftar	16 17
+19 Sita aur priya bagichey mein gaye.
+20 Baad may wo sayanakaksh gaye.
+21 Priya is samay kahan hai?	sayanakaksh	19 20
+22 Sita aur mohit bagichey mein gaye.
+23 Uske upraant wo log sayanakaksh mein gaye.
+24 Mohit ab kahan hai?	sayanakaksh	22 23
+1 Priya aur badri galiyarey mein gaye.
+2 Baad may wo daftar gaye.
+3 Priya is samay kahan hai?	daftar	1 2
+4 Sita aur badri galiyarey gaye.
+5 Uske upraant wo rasoi ghar mein gaye.
+6 Sita is samay kahan hai?	rasoi ghar	4 5
+7 Priya aur mohit galiyarey gaye.
+8 Fir wo log daftar mein chale gaye.
+9 Mohit is samay kahan hai?	daftar	7 8
+10 Priya aur badri sayanakaksh mein gaye.
+11 Baad may wo rasoi ghar mein chale gaye.
+12 Badri ab kahan hai?	rasoi ghar	10 11
+13 Mohit aur badri galiyarey mein chale gaye.
+14 Fir wo daftar mein gaye.
+15 Badri is samay kahan hai?	daftar	13 14
+16 Sita aur mohit galiyarey mein chale gaye.
+17 Uske baad wo log bagichey gaye.
+18 Sita is samay kahan hai?	bagicha	16 17
+19 Priya aur mohit galiyarey mein chale gaye.
+20 Uske baad wo log gusalkhaney mein gaye.
+21 Priya ab kahan hai?	gusalkhana	19 20
+22 Sita aur priya daftar mein gaye.
+23 Uske baad wo log galiyarey gaye.
+24 Sita ab kahan hai?	galiyara	22 23
+1 Badri aur sita sayanakaksh mein chale gaye.
+2 Uske baad wo bagichey mein gaye.
+3 Sita is samay kahan hai?	bagicha	1 2
+4 Badri aur mohit rasoi ghar gaye.
+5 Fir wo gusalkhaney mein chale gaye.
+6 Badri is samay kahan hai?	gusalkhana	4 5
+7 Priya aur badri daftar gaye.
+8 Uske baad wo galiyarey mein chale gaye.
+9 Priya is samay kahan hai?	galiyara	7 8
+10 Sita aur badri rasoi ghar mein gaye.
+11 Fir wo log galiyarey gaye.
+12 Badri is samay kahan hai?	galiyara	10 11
+13 Priya aur mohit sayanakaksh mein chale gaye.
+14 Baad may wo gusalkhaney mein gaye.
+15 Priya is samay kahan hai?	gusalkhana	13 14
+16 Priya aur sita daftar gaye.
+17 Fir wo log galiyarey mein gaye.
+18 Sita ab kahan hai?	galiyara	16 17
+19 Priya aur mohit rasoi ghar mein chale gaye.
+20 Uske baad wo galiyarey mein gaye.
+21 Priya is samay kahan hai?	galiyara	19 20
+22 Badri aur priya sayanakaksh mein gaye.
+23 Fir wo daftar mein gaye.
+24 Mohit ab kahan hai?	galiyara	19 20
+1 Mohit aur priya rasoi ghar mein chale gaye.
+2 Uske baad wo log bagichey mein gaye.
+3 Priya ab kahan hai?	bagicha	1 2
+4 Mohit aur badri rasoi ghar mein gaye.
+5 Uske upraant wo log bagichey gaye.
+6 Badri is samay kahan hai?	bagicha	4 5
+7 Badri aur mohit sayanakaksh gaye.
+8 Fir wo log galiyarey gaye.
+9 Badri is samay kahan hai?	galiyara	7 8
+10 Priya aur badri sayanakaksh mein chale gaye.
+11 Uske baad wo daftar gaye.
+12 Priya is samay kahan hai?	daftar	10 11
+13 Badri aur priya sayanakaksh gaye.
+14 Baad may wo log rasoi ghar mein chale gaye.
+15 Badri ab kahan hai?	rasoi ghar	13 14
+16 Priya aur sita gusalkhaney mein gaye.
+17 Fir wo log sayanakaksh gaye.
+18 Priya ab kahan hai?	sayanakaksh	16 17
+19 Sita aur badri daftar mein gaye.
+20 Uske baad wo bagichey mein gaye.
+21 Badri is samay kahan hai?	bagicha	19 20
+22 Sita aur priya gusalkhaney gaye.
+23 Uske baad wo log rasoi ghar mein chale gaye.
+24 Badri is samay kahan hai?	bagicha	19 20
+1 Badri aur sita gusalkhaney mein chale gaye.
+2 Fir wo log galiyarey mein chale gaye.
+3 Sita ab kahan hai?	galiyara	1 2
+4 Badri aur mohit gusalkhaney mein chale gaye.
+5 Fir wo daftar mein gaye.
+6 Badri is samay kahan hai?	daftar	4 5
+7 Priya aur mohit gusalkhaney mein chale gaye.
+8 Fir wo log bagichey gaye.
+9 Mohit is samay kahan hai?	bagicha	7 8
+10 Mohit aur sita gusalkhaney gaye.
+11 Uske upraant wo daftar mein gaye.
+12 Mohit is samay kahan hai?	daftar	10 11
+13 Mohit aur badri gusalkhaney mein gaye.
+14 Fir wo bagichey mein chale gaye.
+15 Badri ab kahan hai?	bagicha	13 14
+16 Mohit aur priya daftar gaye.
+17 Fir wo rasoi ghar mein chale gaye.
+18 Mohit is samay kahan hai?	rasoi ghar	16 17
+19 Sita aur mohit galiyarey gaye.
+20 Uske baad wo log rasoi ghar mein gaye.
+21 Sita is samay kahan hai?	rasoi ghar	19 20
+22 Badri aur mohit galiyarey mein gaye.
+23 Uske baad wo log rasoi ghar mein chale gaye.
+24 Badri ab kahan hai?	rasoi ghar	22 23
+1 Sita aur mohit gusalkhaney mein chale gaye.
+2 Uske upraant wo rasoi ghar mein gaye.
+3 Sita ab kahan hai?	rasoi ghar	1 2
+4 Mohit aur priya bagichey mein chale gaye.
+5 Fir wo sayanakaksh mein gaye.
+6 Priya is samay kahan hai?	sayanakaksh	4 5
+7 Badri aur mohit gusalkhaney mein gaye.
+8 Baad may wo sayanakaksh mein gaye.
+9 Mohit ab kahan hai?	sayanakaksh	7 8
+10 Badri aur priya gusalkhaney mein chale gaye.
+11 Uske upraant wo daftar gaye.
+12 Badri ab kahan hai?	daftar	10 11
+13 Priya aur badri gusalkhaney mein chale gaye.
+14 Uske baad wo log rasoi ghar mein chale gaye.
+15 Badri is samay kahan hai?	rasoi ghar	13 14
+16 Priya aur sita gusalkhaney gaye.
+17 Baad may wo galiyarey mein gaye.
+18 Badri ab kahan hai?	rasoi ghar	13 14
+19 Priya aur sita daftar gaye.
+20 Uske upraant wo gusalkhaney mein chale gaye.
+21 Sita is samay kahan hai?	gusalkhana	19 20
+22 Sita aur badri galiyarey gaye.
+23 Uske baad wo rasoi ghar mein chale gaye.
+24 Badri ab kahan hai?	rasoi ghar	22 23
+1 Badri aur mohit sayanakaksh mein chale gaye.
+2 Uske upraant wo log bagichey mein chale gaye.
+3 Mohit ab kahan hai?	bagicha	1 2
+4 Badri aur mohit daftar mein gaye.
+5 Uske baad wo log bagichey gaye.
+6 Mohit ab kahan hai?	bagicha	4 5
+7 Priya aur badri sayanakaksh mein chale gaye.
+8 Uske upraant wo log daftar gaye.
+9 Priya ab kahan hai?	daftar	7 8
+10 Priya aur mohit rasoi ghar mein gaye.
+11 Baad may wo daftar gaye.
+12 Mohit ab kahan hai?	daftar	10 11
+13 Priya aur badri gusalkhaney gaye.
+14 Baad may wo log galiyarey mein chale gaye.
+15 Priya is samay kahan hai?	galiyara	13 14
+16 Sita aur priya rasoi ghar mein chale gaye.
+17 Uske baad wo gusalkhaney gaye.
+18 Sita is samay kahan hai?	gusalkhana	16 17
+19 Badri aur mohit bagichey mein gaye.
+20 Baad may wo sayanakaksh mein gaye.
+21 Priya ab kahan hai?	gusalkhana	16 17
+22 Mohit aur sita daftar mein chale gaye.
+23 Uske baad wo log bagichey mein chale gaye.
+24 Mohit is samay kahan hai?	bagicha	22 23
+1 Badri aur sita daftar gaye.
+2 Baad may wo log rasoi ghar mein gaye.
+3 Badri is samay kahan hai?	rasoi ghar	1 2
+4 Mohit aur sita sayanakaksh mein gaye.
+5 Uske upraant wo log rasoi ghar mein gaye.
+6 Sita ab kahan hai?	rasoi ghar	4 5
+7 Sita aur badri bagichey mein gaye.
+8 Baad may wo log daftar mein gaye.
+9 Badri is samay kahan hai?	daftar	7 8
+10 Mohit aur badri sayanakaksh gaye.
+11 Uske upraant wo log bagichey mein gaye.
+12 Badri ab kahan hai?	bagicha	10 11
+13 Sita aur priya galiyarey mein gaye.
+14 Uske baad wo bagichey mein gaye.
+15 Sita ab kahan hai?	bagicha	13 14
+16 Badri aur mohit daftar mein chale gaye.
+17 Uske upraant wo log galiyarey gaye.
+18 Badri is samay kahan hai?	galiyara	16 17
+19 Mohit aur badri bagichey gaye.
+20 Uske baad wo log sayanakaksh mein chale gaye.
+21 Badri ab kahan hai?	sayanakaksh	19 20
+22 Badri aur priya galiyarey mein gaye.
+23 Fir wo log gusalkhaney gaye.
+24 Badri ab kahan hai?	gusalkhana	22 23
+1 Mohit aur priya daftar mein gaye.
+2 Uske baad wo gusalkhaney mein gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Mohit aur priya daftar mein gaye.
+5 Uske upraant wo rasoi ghar gaye.
+6 Mohit is samay kahan hai?	rasoi ghar	4 5
+7 Badri aur priya bagichey mein chale gaye.
+8 Fir wo galiyarey gaye.
+9 Badri ab kahan hai?	galiyara	7 8
+10 Badri aur priya gusalkhaney gaye.
+11 Uske baad wo rasoi ghar gaye.
+12 Priya is samay kahan hai?	rasoi ghar	10 11
+13 Mohit aur sita daftar gaye.
+14 Uske baad wo bagichey gaye.
+15 Mohit is samay kahan hai?	bagicha	13 14
+16 Mohit aur sita sayanakaksh mein gaye.
+17 Uske baad wo daftar mein gaye.
+18 Sita ab kahan hai?	daftar	16 17
+19 Mohit aur sita galiyarey mein gaye.
+20 Baad may wo log gusalkhaney gaye.
+21 Sita is samay kahan hai?	gusalkhana	19 20
+22 Priya aur sita bagichey mein chale gaye.
+23 Uske upraant wo galiyarey mein chale gaye.
+24 Priya is samay kahan hai?	galiyara	22 23
+1 Badri aur mohit gusalkhaney gaye.
+2 Uske upraant wo daftar mein gaye.
+3 Mohit is samay kahan hai?	daftar	1 2
+4 Sita aur priya bagichey gaye.
+5 Uske baad wo log rasoi ghar gaye.
+6 Sita ab kahan hai?	rasoi ghar	4 5
+7 Badri aur mohit gusalkhaney mein chale gaye.
+8 Baad may wo daftar gaye.
+9 Badri ab kahan hai?	daftar	7 8
+10 Mohit aur priya bagichey gaye.
+11 Uske upraant wo galiyarey gaye.
+12 Mohit is samay kahan hai?	galiyara	10 11
+13 Badri aur mohit bagichey gaye.
+14 Uske upraant wo daftar mein chale gaye.
+15 Priya ab kahan hai?	galiyara	10 11
+16 Mohit aur sita galiyarey mein gaye.
+17 Fir wo log gusalkhaney mein chale gaye.
+18 Sita ab kahan hai?	gusalkhana	16 17
+19 Badri aur priya sayanakaksh gaye.
+20 Fir wo daftar gaye.
+21 Badri is samay kahan hai?	daftar	19 20
+22 Priya aur badri gusalkhaney gaye.
+23 Uske upraant wo sayanakaksh mein chale gaye.
+24 Badri ab kahan hai?	sayanakaksh	22 23
+1 Mohit aur sita bagichey mein gaye.
+2 Baad may wo galiyarey mein chale gaye.
+3 Mohit ab kahan hai?	galiyara	1 2
+4 Priya aur badri gusalkhaney mein chale gaye.
+5 Uske upraant wo log sayanakaksh mein chale gaye.
+6 Priya is samay kahan hai?	sayanakaksh	4 5
+7 Priya aur mohit daftar gaye.
+8 Fir wo bagichey mein chale gaye.
+9 Mohit ab kahan hai?	bagicha	7 8
+10 Sita aur priya rasoi ghar mein gaye.
+11 Baad may wo log bagichey mein chale gaye.
+12 Mohit is samay kahan hai?	bagicha	7 8
+13 Priya aur sita daftar gaye.
+14 Uske upraant wo galiyarey mein gaye.
+15 Priya ab kahan hai?	galiyara	13 14
+16 Sita aur priya gusalkhaney mein gaye.
+17 Fir wo bagichey mein gaye.
+18 Priya is samay kahan hai?	bagicha	16 17
+19 Badri aur priya gusalkhaney gaye.
+20 Uske baad wo log rasoi ghar gaye.
+21 Badri is samay kahan hai?	rasoi ghar	19 20
+22 Mohit aur sita daftar mein gaye.
+23 Uske baad wo log rasoi ghar mein gaye.
+24 Mohit ab kahan hai?	rasoi ghar	22 23
+1 Badri aur sita bagichey mein chale gaye.
+2 Fir wo sayanakaksh gaye.
+3 Sita ab kahan hai?	sayanakaksh	1 2
+4 Priya aur sita bagichey mein chale gaye.
+5 Uske baad wo log gusalkhaney mein chale gaye.
+6 Sita ab kahan hai?	gusalkhana	4 5
+7 Badri aur priya galiyarey mein chale gaye.
+8 Uske upraant wo log rasoi ghar mein chale gaye.
+9 Sita is samay kahan hai?	gusalkhana	4 5
+10 Mohit aur priya sayanakaksh gaye.
+11 Uske baad wo log gusalkhaney mein chale gaye.
+12 Priya is samay kahan hai?	gusalkhana	10 11
+13 Sita aur priya daftar gaye.
+14 Baad may wo bagichey gaye.
+15 Sita is samay kahan hai?	bagicha	13 14
+16 Mohit aur priya daftar gaye.
+17 Uske upraant wo sayanakaksh mein chale gaye.
+18 Priya is samay kahan hai?	sayanakaksh	16 17
+19 Priya aur mohit daftar mein gaye.
+20 Baad may wo log galiyarey mein gaye.
+21 Mohit ab kahan hai?	galiyara	19 20
+22 Badri aur mohit gusalkhaney gaye.
+23 Uske baad wo log daftar mein gaye.
+24 Badri ab kahan hai?	daftar	22 23
+1 Mohit aur badri sayanakaksh gaye.
+2 Fir wo rasoi ghar mein chale gaye.
+3 Mohit is samay kahan hai?	rasoi ghar	1 2
+4 Mohit aur priya gusalkhaney gaye.
+5 Baad may wo log sayanakaksh gaye.
+6 Priya ab kahan hai?	sayanakaksh	4 5
+7 Sita aur badri daftar gaye.
+8 Uske baad wo log rasoi ghar mein gaye.
+9 Sita ab kahan hai?	rasoi ghar	7 8
+10 Mohit aur priya bagichey gaye.
+11 Uske upraant wo daftar mein chale gaye.
+12 Priya ab kahan hai?	daftar	10 11
+13 Badri aur priya gusalkhaney mein chale gaye.
+14 Uske baad wo daftar mein gaye.
+15 Priya is samay kahan hai?	daftar	13 14
+16 Priya aur badri rasoi ghar mein chale gaye.
+17 Uske baad wo sayanakaksh mein gaye.
+18 Badri is samay kahan hai?	sayanakaksh	16 17
+19 Priya aur mohit bagichey mein chale gaye.
+20 Uske baad wo log sayanakaksh mein chale gaye.
+21 Mohit ab kahan hai?	sayanakaksh	19 20
+22 Priya aur badri galiyarey mein gaye.
+23 Uske baad wo daftar mein chale gaye.
+24 Badri ab kahan hai?	daftar	22 23
+1 Mohit aur badri rasoi ghar mein chale gaye.
+2 Baad may wo log sayanakaksh gaye.
+3 Badri ab kahan hai?	sayanakaksh	1 2
+4 Sita aur priya rasoi ghar mein gaye.
+5 Fir wo log gusalkhaney mein chale gaye.
+6 Priya is samay kahan hai?	gusalkhana	4 5
+7 Mohit aur badri gusalkhaney gaye.
+8 Fir wo log daftar mein chale gaye.
+9 Badri ab kahan hai?	daftar	7 8
+10 Badri aur priya galiyarey mein chale gaye.
+11 Uske upraant wo daftar mein gaye.
+12 Priya is samay kahan hai?	daftar	10 11
+13 Sita aur badri bagichey mein chale gaye.
+14 Fir wo log gusalkhaney mein gaye.
+15 Badri ab kahan hai?	gusalkhana	13 14
+16 Mohit aur badri rasoi ghar gaye.
+17 Uske upraant wo log daftar mein gaye.
+18 Mohit is samay kahan hai?	daftar	16 17
+19 Sita aur mohit bagichey mein chale gaye.
+20 Baad may wo log sayanakaksh mein gaye.
+21 Badri ab kahan hai?	daftar	16 17
+22 Sita aur priya rasoi ghar mein gaye.
+23 Uske baad wo log galiyarey mein chale gaye.
+24 Mohit is samay kahan hai?	sayanakaksh	19 20
+1 Mohit aur priya daftar mein gaye.
+2 Uske baad wo log sayanakaksh mein chale gaye.
+3 Priya is samay kahan hai?	sayanakaksh	1 2
+4 Mohit aur priya bagichey gaye.
+5 Fir wo log sayanakaksh gaye.
+6 Mohit ab kahan hai?	sayanakaksh	4 5
+7 Priya aur badri daftar mein chale gaye.
+8 Baad may wo log sayanakaksh mein chale gaye.
+9 Priya ab kahan hai?	sayanakaksh	7 8
+10 Sita aur priya bagichey gaye.
+11 Uske upraant wo log sayanakaksh mein chale gaye.
+12 Sita ab kahan hai?	sayanakaksh	10 11
+13 Sita aur mohit gusalkhaney mein gaye.
+14 Baad may wo galiyarey mein chale gaye.
+15 Sita is samay kahan hai?	galiyara	13 14
+16 Priya aur sita gusalkhaney mein chale gaye.
+17 Fir wo galiyarey mein chale gaye.
+18 Sita is samay kahan hai?	galiyara	16 17
+19 Mohit aur priya sayanakaksh gaye.
+20 Uske baad wo gusalkhaney mein gaye.
+21 Mohit ab kahan hai?	gusalkhana	19 20
+22 Badri aur sita daftar mein gaye.
+23 Fir wo log galiyarey mein chale gaye.
+24 Badri is samay kahan hai?	galiyara	22 23
+1 Sita aur badri rasoi ghar mein chale gaye.
+2 Uske baad wo log sayanakaksh gaye.
+3 Sita ab kahan hai?	sayanakaksh	1 2
+4 Mohit aur sita bagichey gaye.
+5 Uske upraant wo log galiyarey gaye.
+6 Mohit ab kahan hai?	galiyara	4 5
+7 Mohit aur priya gusalkhaney mein gaye.
+8 Baad may wo log sayanakaksh mein gaye.
+9 Sita is samay kahan hai?	galiyara	4 5
+10 Priya aur sita daftar mein chale gaye.
+11 Uske baad wo log bagichey mein gaye.
+12 Priya is samay kahan hai?	bagicha	10 11
+13 Sita aur badri galiyarey mein chale gaye.
+14 Uske baad wo bagichey mein gaye.
+15 Sita is samay kahan hai?	bagicha	13 14
+16 Sita aur mohit daftar gaye.
+17 Uske baad wo log rasoi ghar mein chale gaye.
+18 Mohit is samay kahan hai?	rasoi ghar	16 17
+19 Sita aur mohit galiyarey mein gaye.
+20 Uske baad wo daftar mein gaye.
+21 Sita is samay kahan hai?	daftar	19 20
+22 Sita aur badri sayanakaksh gaye.
+23 Uske upraant wo log rasoi ghar mein chale gaye.
+24 Sita is samay kahan hai?	rasoi ghar	22 23
+1 Sita aur priya galiyarey mein chale gaye.
+2 Baad may wo log rasoi ghar mein chale gaye.
+3 Priya ab kahan hai?	rasoi ghar	1 2
+4 Badri aur sita galiyarey mein chale gaye.
+5 Uske baad wo bagichey mein chale gaye.
+6 Priya is samay kahan hai?	rasoi ghar	1 2
+7 Priya aur mohit galiyarey mein chale gaye.
+8 Fir wo daftar gaye.
+9 Priya is samay kahan hai?	daftar	7 8
+10 Sita aur priya galiyarey mein chale gaye.
+11 Baad may wo rasoi ghar mein gaye.
+12 Sita ab kahan hai?	rasoi ghar	10 11
+13 Mohit aur priya galiyarey mein chale gaye.
+14 Uske upraant wo bagichey mein chale gaye.
+15 Priya is samay kahan hai?	bagicha	13 14
+16 Sita aur badri daftar gaye.
+17 Baad may wo log galiyarey mein chale gaye.
+18 Priya is samay kahan hai?	bagicha	13 14
+19 Priya aur sita rasoi ghar mein chale gaye.
+20 Baad may wo log bagichey mein gaye.
+21 Priya ab kahan hai?	bagicha	19 20
+22 Priya aur mohit rasoi ghar gaye.
+23 Uske baad wo log sayanakaksh mein chale gaye.
+24 Mohit ab kahan hai?	sayanakaksh	22 23
+1 Badri aur priya sayanakaksh mein chale gaye.
+2 Uske upraant wo log rasoi ghar mein chale gaye.
+3 Priya is samay kahan hai?	rasoi ghar	1 2
+4 Sita aur badri bagichey mein chale gaye.
+5 Fir wo log rasoi ghar gaye.
+6 Sita is samay kahan hai?	rasoi ghar	4 5
+7 Mohit aur sita daftar mein chale gaye.
+8 Fir wo galiyarey gaye.
+9 Mohit ab kahan hai?	galiyara	7 8
+10 Badri aur mohit daftar gaye.
+11 Baad may wo log galiyarey mein chale gaye.
+12 Mohit ab kahan hai?	galiyara	10 11
+13 Priya aur badri bagichey mein gaye.
+14 Fir wo sayanakaksh mein chale gaye.
+15 Badri ab kahan hai?	sayanakaksh	13 14
+16 Priya aur mohit bagichey mein gaye.
+17 Baad may wo log daftar mein chale gaye.
+18 Priya ab kahan hai?	daftar	16 17
+19 Badri aur priya gusalkhaney mein gaye.
+20 Uske baad wo log daftar mein chale gaye.
+21 Mohit is samay kahan hai?	daftar	16 17
+22 Badri aur mohit sayanakaksh gaye.
+23 Uske baad wo log daftar mein chale gaye.
+24 Mohit is samay kahan hai?	daftar	22 23
+1 Badri aur sita daftar gaye.
+2 Uske upraant wo log gusalkhaney mein gaye.
+3 Sita ab kahan hai?	gusalkhana	1 2
+4 Mohit aur priya gusalkhaney mein chale gaye.
+5 Uske upraant wo daftar mein gaye.
+6 Mohit is samay kahan hai?	daftar	4 5
+7 Priya aur sita sayanakaksh mein chale gaye.
+8 Uske baad wo gusalkhaney gaye.
+9 Priya ab kahan hai?	gusalkhana	7 8
+10 Sita aur priya daftar gaye.
+11 Uske upraant wo gusalkhaney gaye.
+12 Sita ab kahan hai?	gusalkhana	10 11
+13 Priya aur mohit sayanakaksh gaye.
+14 Uske baad wo log rasoi ghar gaye.
+15 Priya ab kahan hai?	rasoi ghar	13 14
+16 Sita aur badri galiyarey mein gaye.
+17 Baad may wo bagichey gaye.
+18 Sita is samay kahan hai?	bagicha	16 17
+19 Sita aur priya gusalkhaney mein chale gaye.
+20 Fir wo log rasoi ghar mein chale gaye.
+21 Sita ab kahan hai?	rasoi ghar	19 20
+22 Sita aur priya galiyarey mein chale gaye.
+23 Baad may wo log sayanakaksh gaye.
+24 Priya is samay kahan hai?	sayanakaksh	22 23
+1 Badri aur sita bagichey gaye.
+2 Uske upraant wo log sayanakaksh gaye.
+3 Sita ab kahan hai?	sayanakaksh	1 2
+4 Priya aur mohit rasoi ghar gaye.
+5 Uske baad wo log daftar gaye.
+6 Priya is samay kahan hai?	daftar	4 5
+7 Sita aur badri daftar gaye.
+8 Fir wo log gusalkhaney mein chale gaye.
+9 Sita ab kahan hai?	gusalkhana	7 8
+10 Priya aur mohit galiyarey mein gaye.
+11 Baad may wo log rasoi ghar mein chale gaye.
+12 Mohit ab kahan hai?	rasoi ghar	10 11
+13 Mohit aur priya daftar mein chale gaye.
+14 Uske baad wo log bagichey gaye.
+15 Mohit is samay kahan hai?	bagicha	13 14
+16 Badri aur sita galiyarey mein gaye.
+17 Uske baad wo daftar gaye.
+18 Badri ab kahan hai?	daftar	16 17
+19 Badri aur mohit galiyarey gaye.
+20 Uske baad wo log rasoi ghar gaye.
+21 Mohit ab kahan hai?	rasoi ghar	19 20
+22 Badri aur mohit bagichey mein chale gaye.
+23 Fir wo log rasoi ghar mein gaye.
+24 Mohit ab kahan hai?	rasoi ghar	22 23
+1 Mohit aur priya bagichey mein gaye.
+2 Baad may wo gusalkhaney mein chale gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Mohit aur badri sayanakaksh mein gaye.
+5 Uske upraant wo bagichey mein gaye.
+6 Mohit is samay kahan hai?	bagicha	4 5
+7 Sita aur mohit rasoi ghar mein gaye.
+8 Fir wo log daftar mein chale gaye.
+9 Sita is samay kahan hai?	daftar	7 8
+10 Priya aur sita bagichey gaye.
+11 Uske upraant wo sayanakaksh mein gaye.
+12 Priya is samay kahan hai?	sayanakaksh	10 11
+13 Badri aur mohit galiyarey mein gaye.
+14 Baad may wo sayanakaksh mein chale gaye.
+15 Mohit ab kahan hai?	sayanakaksh	13 14
+16 Priya aur badri daftar mein gaye.
+17 Uske baad wo log bagichey mein chale gaye.
+18 Mohit is samay kahan hai?	sayanakaksh	13 14
+19 Priya aur mohit galiyarey gaye.
+20 Uske upraant wo gusalkhaney mein chale gaye.
+21 Mohit ab kahan hai?	gusalkhana	19 20
+22 Mohit aur sita daftar mein chale gaye.
+23 Uske upraant wo log gusalkhaney mein chale gaye.
+24 Mohit ab kahan hai?	gusalkhana	22 23
+1 Sita aur mohit sayanakaksh mein gaye.
+2 Baad may wo log gusalkhaney gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Badri aur priya galiyarey mein gaye.
+5 Fir wo log daftar mein gaye.
+6 Mohit ab kahan hai?	gusalkhana	1 2
+7 Badri aur mohit bagichey mein gaye.
+8 Fir wo log rasoi ghar gaye.
+9 Priya ab kahan hai?	daftar	4 5
+10 Mohit aur sita daftar mein chale gaye.
+11 Uske upraant wo bagichey mein chale gaye.
+12 Mohit ab kahan hai?	bagicha	10 11
+13 Badri aur priya bagichey mein chale gaye.
+14 Fir wo log rasoi ghar mein gaye.
+15 Badri is samay kahan hai?	rasoi ghar	13 14
+16 Mohit aur badri sayanakaksh gaye.
+17 Uske baad wo log gusalkhaney mein gaye.
+18 Priya is samay kahan hai?	rasoi ghar	13 14
+19 Priya aur badri sayanakaksh gaye.
+20 Uske baad wo gusalkhaney mein chale gaye.
+21 Priya is samay kahan hai?	gusalkhana	19 20
+22 Mohit aur priya rasoi ghar mein chale gaye.
+23 Fir wo daftar gaye.
+24 Mohit is samay kahan hai?	daftar	22 23
+1 Badri aur priya rasoi ghar mein chale gaye.
+2 Baad may wo log sayanakaksh gaye.
+3 Badri is samay kahan hai?	sayanakaksh	1 2
+4 Priya aur sita galiyarey mein gaye.
+5 Uske baad wo log gusalkhaney mein gaye.
+6 Priya ab kahan hai?	gusalkhana	4 5
+7 Mohit aur badri galiyarey gaye.
+8 Baad may wo gusalkhaney mein gaye.
+9 Badri ab kahan hai?	gusalkhana	7 8
+10 Mohit aur sita galiyarey gaye.
+11 Baad may wo log bagichey mein gaye.
+12 Mohit is samay kahan hai?	bagicha	10 11
+13 Sita aur mohit gusalkhaney mein gaye.
+14 Uske baad wo log rasoi ghar gaye.
+15 Sita ab kahan hai?	rasoi ghar	13 14
+16 Sita aur priya sayanakaksh mein chale gaye.
+17 Fir wo log daftar gaye.
+18 Mohit is samay kahan hai?	rasoi ghar	13 14
+19 Sita aur badri galiyarey mein chale gaye.
+20 Uske baad wo rasoi ghar gaye.
+21 Badri ab kahan hai?	rasoi ghar	19 20
+22 Badri aur priya sayanakaksh mein chale gaye.
+23 Uske baad wo log daftar mein chale gaye.
+24 Badri is samay kahan hai?	daftar	22 23
+1 Mohit aur priya rasoi ghar gaye.
+2 Uske upraant wo log daftar gaye.
+3 Mohit is samay kahan hai?	daftar	1 2
+4 Sita aur badri gusalkhaney gaye.
+5 Uske baad wo bagichey mein gaye.
+6 Badri is samay kahan hai?	bagicha	4 5
+7 Mohit aur priya rasoi ghar mein chale gaye.
+8 Baad may wo sayanakaksh mein chale gaye.
+9 Priya ab kahan hai?	sayanakaksh	7 8
+10 Badri aur sita daftar mein chale gaye.
+11 Uske upraant wo gusalkhaney gaye.
+12 Sita is samay kahan hai?	gusalkhana	10 11
+13 Priya aur sita galiyarey gaye.
+14 Uske baad wo log daftar mein chale gaye.
+15 Priya is samay kahan hai?	daftar	13 14
+16 Priya aur sita bagichey mein gaye.
+17 Uske upraant wo daftar mein gaye.
+18 Priya ab kahan hai?	daftar	16 17
+19 Priya aur sita bagichey gaye.
+20 Baad may wo log daftar mein gaye.
+21 Sita ab kahan hai?	daftar	19 20
+22 Mohit aur sita galiyarey gaye.
+23 Uske baad wo rasoi ghar gaye.
+24 Sita ab kahan hai?	rasoi ghar	22 23
+1 Badri aur priya rasoi ghar mein chale gaye.
+2 Uske baad wo daftar mein chale gaye.
+3 Priya ab kahan hai?	daftar	1 2
+4 Priya aur mohit galiyarey mein chale gaye.
+5 Fir wo log gusalkhaney mein chale gaye.
+6 Priya is samay kahan hai?	gusalkhana	4 5
+7 Priya aur mohit daftar mein gaye.
+8 Baad may wo log galiyarey gaye.
+9 Mohit ab kahan hai?	galiyara	7 8
+10 Badri aur sita galiyarey mein gaye.
+11 Baad may wo log daftar mein chale gaye.
+12 Badri ab kahan hai?	daftar	10 11
+13 Sita aur mohit bagichey gaye.
+14 Uske baad wo rasoi ghar mein chale gaye.
+15 Sita ab kahan hai?	rasoi ghar	13 14
+16 Badri aur sita galiyarey mein gaye.
+17 Uske baad wo log daftar mein gaye.
+18 Mohit is samay kahan hai?	rasoi ghar	13 14
+19 Badri aur priya gusalkhaney mein gaye.
+20 Baad may wo bagichey mein chale gaye.
+21 Badri ab kahan hai?	bagicha	19 20
+22 Sita aur mohit bagichey mein chale gaye.
+23 Fir wo log daftar mein chale gaye.
+24 Sita ab kahan hai?	daftar	22 23
+1 Badri aur priya galiyarey gaye.
+2 Uske upraant wo log gusalkhaney gaye.
+3 Badri is samay kahan hai?	gusalkhana	1 2
+4 Priya aur sita bagichey mein gaye.
+5 Baad may wo log daftar mein chale gaye.
+6 Priya is samay kahan hai?	daftar	4 5
+7 Mohit aur badri bagichey mein gaye.
+8 Baad may wo gusalkhaney gaye.
+9 Mohit is samay kahan hai?	gusalkhana	7 8
+10 Badri aur priya rasoi ghar mein gaye.
+11 Uske upraant wo log gusalkhaney mein gaye.
+12 Priya is samay kahan hai?	gusalkhana	10 11
+13 Mohit aur priya galiyarey mein gaye.
+14 Fir wo gusalkhaney mein chale gaye.
+15 Mohit is samay kahan hai?	gusalkhana	13 14
+16 Sita aur mohit rasoi ghar mein chale gaye.
+17 Fir wo log galiyarey mein chale gaye.
+18 Mohit is samay kahan hai?	galiyara	16 17
+19 Priya aur sita bagichey gaye.
+20 Uske baad wo rasoi ghar mein chale gaye.
+21 Priya is samay kahan hai?	rasoi ghar	19 20
+22 Sita aur priya daftar mein gaye.
+23 Uske baad wo gusalkhaney mein gaye.
+24 Priya ab kahan hai?	gusalkhana	22 23
+1 Sita aur mohit sayanakaksh mein chale gaye.
+2 Uske baad wo bagichey mein gaye.
+3 Mohit ab kahan hai?	bagicha	1 2
+4 Badri aur mohit galiyarey mein gaye.
+5 Baad may wo rasoi ghar mein gaye.
+6 Mohit ab kahan hai?	rasoi ghar	4 5
+7 Mohit aur priya daftar mein chale gaye.
+8 Fir wo gusalkhaney mein chale gaye.
+9 Mohit is samay kahan hai?	gusalkhana	7 8
+10 Sita aur priya galiyarey mein chale gaye.
+11 Baad may wo gusalkhaney gaye.
+12 Priya ab kahan hai?	gusalkhana	10 11
+13 Mohit aur sita bagichey mein chale gaye.
+14 Baad may wo log gusalkhaney mein gaye.
+15 Sita is samay kahan hai?	gusalkhana	13 14
+16 Badri aur priya daftar mein chale gaye.
+17 Baad may wo gusalkhaney mein gaye.
+18 Sita is samay kahan hai?	gusalkhana	13 14
+19 Badri aur mohit bagichey mein gaye.
+20 Uske upraant wo galiyarey mein chale gaye.
+21 Badri is samay kahan hai?	galiyara	19 20
+22 Mohit aur sita rasoi ghar mein gaye.
+23 Baad may wo daftar mein gaye.
+24 Mohit is samay kahan hai?	daftar	22 23
+1 Priya aur mohit bagichey mein gaye.
+2 Uske baad wo log galiyarey mein gaye.
+3 Priya ab kahan hai?	galiyara	1 2
+4 Badri aur sita daftar mein gaye.
+5 Uske baad wo log sayanakaksh mein gaye.
+6 Mohit is samay kahan hai?	galiyara	1 2
+7 Mohit aur priya bagichey gaye.
+8 Fir wo log rasoi ghar mein gaye.
+9 Priya ab kahan hai?	rasoi ghar	7 8
+10 Badri aur mohit gusalkhaney gaye.
+11 Uske upraant wo log daftar mein gaye.
+12 Badri is samay kahan hai?	daftar	10 11
+13 Badri aur sita bagichey mein chale gaye.
+14 Uske baad wo galiyarey mein gaye.
+15 Badri ab kahan hai?	galiyara	13 14
+16 Mohit aur priya sayanakaksh mein gaye.
+17 Uske upraant wo log gusalkhaney mein gaye.
+18 Priya is samay kahan hai?	gusalkhana	16 17
+19 Mohit aur sita sayanakaksh gaye.
+20 Uske baad wo log galiyarey mein chale gaye.
+21 Priya is samay kahan hai?	gusalkhana	16 17
+22 Sita aur priya bagichey mein gaye.
+23 Fir wo log sayanakaksh mein chale gaye.
+24 Priya is samay kahan hai?	sayanakaksh	22 23
+1 Priya aur badri galiyarey mein chale gaye.
+2 Uske baad wo log sayanakaksh gaye.
+3 Priya is samay kahan hai?	sayanakaksh	1 2
+4 Badri aur mohit galiyarey mein chale gaye.
+5 Fir wo rasoi ghar gaye.
+6 Badri is samay kahan hai?	rasoi ghar	4 5
+7 Priya aur sita bagichey gaye.
+8 Baad may wo daftar mein gaye.
+9 Mohit is samay kahan hai?	rasoi ghar	4 5
+10 Priya aur mohit gusalkhaney gaye.
+11 Baad may wo log daftar mein chale gaye.
+12 Mohit is samay kahan hai?	daftar	10 11
+13 Priya aur sita galiyarey mein chale gaye.
+14 Fir wo log sayanakaksh gaye.
+15 Priya is samay kahan hai?	sayanakaksh	13 14
+16 Sita aur priya gusalkhaney gaye.
+17 Uske baad wo log rasoi ghar mein gaye.
+18 Sita is samay kahan hai?	rasoi ghar	16 17
+19 Priya aur mohit gusalkhaney mein gaye.
+20 Baad may wo log sayanakaksh gaye.
+21 Mohit ab kahan hai?	sayanakaksh	19 20
+22 Sita aur badri galiyarey mein gaye.
+23 Uske upraant wo log daftar mein chale gaye.
+24 Sita is samay kahan hai?	daftar	22 23
+1 Priya aur mohit daftar mein chale gaye.
+2 Fir wo log gusalkhaney mein gaye.
+3 Mohit is samay kahan hai?	gusalkhana	1 2
+4 Sita aur badri galiyarey mein chale gaye.
+5 Uske upraant wo log daftar gaye.
+6 Sita ab kahan hai?	daftar	4 5
+7 Badri aur priya bagichey mein gaye.
+8 Uske upraant wo log rasoi ghar mein chale gaye.
+9 Badri is samay kahan hai?	rasoi ghar	7 8
+10 Sita aur badri gusalkhaney gaye.
+11 Uske baad wo bagichey mein gaye.
+12 Badri ab kahan hai?	bagicha	10 11
+13 Priya aur badri gusalkhaney gaye.
+14 Baad may wo log sayanakaksh mein chale gaye.
+15 Priya ab kahan hai?	sayanakaksh	13 14
+16 Sita aur badri daftar mein gaye.
+17 Uske baad wo sayanakaksh gaye.
+18 Badri is samay kahan hai?	sayanakaksh	16 17
+19 Mohit aur priya rasoi ghar mein gaye.
+20 Fir wo log galiyarey mein gaye.
+21 Priya is samay kahan hai?	galiyara	19 20
+22 Mohit aur badri daftar mein chale gaye.
+23 Fir wo bagichey mein chale gaye.
+24 Mohit ab kahan hai?	bagicha	22 23
+1 Badri aur mohit sayanakaksh mein chale gaye.
+2 Uske baad wo rasoi ghar gaye.
+3 Badri is samay kahan hai?	rasoi ghar	1 2
+4 Sita aur priya bagichey gaye.
+5 Uske upraant wo sayanakaksh gaye.
+6 Priya ab kahan hai?	sayanakaksh	4 5
+7 Badri aur priya gusalkhaney mein gaye.
+8 Uske upraant wo galiyarey gaye.
+9 Badri ab kahan hai?	galiyara	7 8
+10 Priya aur sita gusalkhaney mein gaye.
+11 Uske baad wo log daftar mein gaye.
+12 Priya is samay kahan hai?	daftar	10 11
+13 Mohit aur priya bagichey gaye.
+14 Uske baad wo log galiyarey mein chale gaye.
+15 Mohit is samay kahan hai?	galiyara	13 14
+16 Mohit aur priya bagichey gaye.
+17 Uske baad wo daftar mein gaye.
+18 Priya ab kahan hai?	daftar	16 17
+19 Sita aur mohit rasoi ghar gaye.
+20 Fir wo log galiyarey mein gaye.
+21 Priya ab kahan hai?	daftar	16 17
+22 Badri aur priya sayanakaksh gaye.
+23 Uske upraant wo log rasoi ghar mein chale gaye.
+24 Badri ab kahan hai?	rasoi ghar	22 23
+1 Mohit aur sita rasoi ghar mein gaye.
+2 Fir wo gusalkhaney gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Mohit aur priya rasoi ghar gaye.
+5 Uske upraant wo log galiyarey mein gaye.
+6 Sita is samay kahan hai?	gusalkhana	1 2
+7 Badri aur sita daftar mein gaye.
+8 Baad may wo sayanakaksh mein gaye.
+9 Sita ab kahan hai?	sayanakaksh	7 8
+10 Badri aur sita galiyarey gaye.
+11 Fir wo bagichey gaye.
+12 Sita is samay kahan hai?	bagicha	10 11
+13 Mohit aur sita daftar mein chale gaye.
+14 Baad may wo log rasoi ghar mein gaye.
+15 Mohit ab kahan hai?	rasoi ghar	13 14
+16 Badri aur sita daftar mein chale gaye.
+17 Uske baad wo bagichey gaye.
+18 Badri is samay kahan hai?	bagicha	16 17
+19 Badri aur sita gusalkhaney gaye.
+20 Baad may wo log sayanakaksh gaye.
+21 Badri ab kahan hai?	sayanakaksh	19 20
+22 Priya aur mohit daftar mein gaye.
+23 Baad may wo log sayanakaksh gaye.
+24 Sita is samay kahan hai?	sayanakaksh	19 20
+1 Priya aur mohit daftar mein chale gaye.
+2 Fir wo log bagichey mein gaye.
+3 Mohit ab kahan hai?	bagicha	1 2
+4 Priya aur badri rasoi ghar mein chale gaye.
+5 Uske upraant wo gusalkhaney mein chale gaye.
+6 Priya is samay kahan hai?	gusalkhana	4 5
+7 Sita aur mohit gusalkhaney mein gaye.
+8 Baad may wo log rasoi ghar mein chale gaye.
+9 Sita is samay kahan hai?	rasoi ghar	7 8
+10 Sita aur mohit galiyarey mein chale gaye.
+11 Uske upraant wo log daftar mein chale gaye.
+12 Mohit is samay kahan hai?	daftar	10 11
+13 Sita aur mohit bagichey mein chale gaye.
+14 Fir wo daftar gaye.
+15 Mohit ab kahan hai?	daftar	13 14
+16 Mohit aur sita galiyarey mein chale gaye.
+17 Uske baad wo log gusalkhaney gaye.
+18 Sita is samay kahan hai?	gusalkhana	16 17
+19 Sita aur mohit daftar gaye.
+20 Fir wo rasoi ghar gaye.
+21 Mohit ab kahan hai?	rasoi ghar	19 20
+22 Priya aur sita galiyarey mein chale gaye.
+23 Uske baad wo daftar mein chale gaye.
+24 Sita is samay kahan hai?	daftar	22 23
+1 Mohit aur sita bagichey gaye.
+2 Uske upraant wo log daftar mein chale gaye.
+3 Sita ab kahan hai?	daftar	1 2
+4 Badri aur priya gusalkhaney gaye.
+5 Uske baad wo sayanakaksh mein chale gaye.
+6 Badri is samay kahan hai?	sayanakaksh	4 5
+7 Sita aur mohit sayanakaksh mein gaye.
+8 Uske baad wo gusalkhaney gaye.
+9 Sita is samay kahan hai?	gusalkhana	7 8
+10 Sita aur priya rasoi ghar gaye.
+11 Fir wo daftar mein chale gaye.
+12 Sita ab kahan hai?	daftar	10 11
+13 Sita aur mohit sayanakaksh mein gaye.
+14 Fir wo daftar gaye.
+15 Sita is samay kahan hai?	daftar	13 14
+16 Sita aur priya rasoi ghar gaye.
+17 Uske baad wo galiyarey gaye.
+18 Sita ab kahan hai?	galiyara	16 17
+19 Priya aur sita sayanakaksh gaye.
+20 Uske upraant wo rasoi ghar mein chale gaye.
+21 Sita is samay kahan hai?	rasoi ghar	19 20
+22 Sita aur priya galiyarey mein gaye.
+23 Uske baad wo log daftar mein gaye.
+24 Sita ab kahan hai?	daftar	22 23
+1 Mohit aur sita bagichey gaye.
+2 Uske upraant wo log rasoi ghar mein chale gaye.
+3 Mohit ab kahan hai?	rasoi ghar	1 2
+4 Sita aur priya bagichey mein chale gaye.
+5 Fir wo log galiyarey gaye.
+6 Sita is samay kahan hai?	galiyara	4 5
+7 Priya aur badri rasoi ghar mein chale gaye.
+8 Uske upraant wo galiyarey mein chale gaye.
+9 Badri ab kahan hai?	galiyara	7 8
+10 Badri aur mohit bagichey gaye.
+11 Uske baad wo galiyarey gaye.
+12 Badri ab kahan hai?	galiyara	10 11
+13 Priya aur badri sayanakaksh mein chale gaye.
+14 Uske upraant wo rasoi ghar mein gaye.
+15 Badri ab kahan hai?	rasoi ghar	13 14
+16 Mohit aur badri gusalkhaney mein gaye.
+17 Fir wo log rasoi ghar mein gaye.
+18 Mohit is samay kahan hai?	rasoi ghar	16 17
+19 Badri aur priya bagichey mein gaye.
+20 Baad may wo rasoi ghar gaye.
+21 Priya is samay kahan hai?	rasoi ghar	19 20
+22 Sita aur priya daftar gaye.
+23 Uske baad wo rasoi ghar gaye.
+24 Priya is samay kahan hai?	rasoi ghar	22 23
+1 Badri aur mohit bagichey mein chale gaye.
+2 Uske baad wo sayanakaksh gaye.
+3 Badri is samay kahan hai?	sayanakaksh	1 2
+4 Priya aur mohit rasoi ghar gaye.
+5 Fir wo log galiyarey gaye.
+6 Mohit is samay kahan hai?	galiyara	4 5
+7 Sita aur badri galiyarey mein chale gaye.
+8 Baad may wo sayanakaksh mein gaye.
+9 Mohit ab kahan hai?	galiyara	4 5
+10 Mohit aur priya sayanakaksh gaye.
+11 Baad may wo bagichey mein chale gaye.
+12 Priya ab kahan hai?	bagicha	10 11
+13 Priya aur mohit rasoi ghar mein gaye.
+14 Uske upraant wo log gusalkhaney mein chale gaye.
+15 Priya is samay kahan hai?	gusalkhana	13 14
+16 Priya aur sita daftar gaye.
+17 Fir wo bagichey mein chale gaye.
+18 Mohit ab kahan hai?	gusalkhana	13 14
+19 Badri aur mohit galiyarey mein chale gaye.
+20 Fir wo log sayanakaksh mein gaye.
+21 Badri ab kahan hai?	sayanakaksh	19 20
+22 Mohit aur priya galiyarey mein gaye.
+23 Uske upraant wo gusalkhaney gaye.
+24 Mohit ab kahan hai?	gusalkhana	22 23
+1 Priya aur mohit bagichey mein gaye.
+2 Uske baad wo rasoi ghar gaye.
+3 Priya is samay kahan hai?	rasoi ghar	1 2
+4 Mohit aur badri galiyarey mein chale gaye.
+5 Fir wo bagichey gaye.
+6 Mohit is samay kahan hai?	bagicha	4 5
+7 Mohit aur sita gusalkhaney mein chale gaye.
+8 Baad may wo log galiyarey gaye.
+9 Sita is samay kahan hai?	galiyara	7 8
+10 Priya aur mohit sayanakaksh mein gaye.
+11 Baad may wo daftar gaye.
+12 Priya is samay kahan hai?	daftar	10 11
+13 Sita aur priya gusalkhaney gaye.
+14 Baad may wo log bagichey mein gaye.
+15 Priya ab kahan hai?	bagicha	13 14
+16 Sita aur badri rasoi ghar gaye.
+17 Uske baad wo log daftar mein chale gaye.
+18 Badri is samay kahan hai?	daftar	16 17
+19 Mohit aur sita bagichey gaye.
+20 Uske upraant wo log sayanakaksh gaye.
+21 Mohit ab kahan hai?	sayanakaksh	19 20
+22 Sita aur mohit galiyarey gaye.
+23 Baad may wo bagichey mein chale gaye.
+24 Mohit ab kahan hai?	bagicha	22 23
+1 Badri aur sita sayanakaksh mein gaye.
+2 Fir wo daftar mein gaye.
+3 Sita ab kahan hai?	daftar	1 2
+4 Mohit aur badri bagichey mein chale gaye.
+5 Uske baad wo sayanakaksh mein chale gaye.
+6 Badri ab kahan hai?	sayanakaksh	4 5
+7 Mohit aur badri rasoi ghar mein gaye.
+8 Uske baad wo log bagichey mein chale gaye.
+9 Badri is samay kahan hai?	bagicha	7 8
+10 Badri aur priya galiyarey mein chale gaye.
+11 Fir wo log sayanakaksh mein chale gaye.
+12 Priya is samay kahan hai?	sayanakaksh	10 11
+13 Mohit aur badri daftar gaye.
+14 Uske baad wo log rasoi ghar mein gaye.
+15 Mohit is samay kahan hai?	rasoi ghar	13 14
+16 Priya aur sita gusalkhaney mein chale gaye.
+17 Uske upraant wo daftar mein chale gaye.
+18 Badri is samay kahan hai?	rasoi ghar	13 14
+19 Badri aur sita bagichey mein gaye.
+20 Fir wo sayanakaksh mein chale gaye.
+21 Badri ab kahan hai?	sayanakaksh	19 20
+22 Badri aur sita galiyarey mein chale gaye.
+23 Fir wo rasoi ghar mein gaye.
+24 Sita is samay kahan hai?	rasoi ghar	22 23
+1 Mohit aur priya galiyarey mein chale gaye.
+2 Uske upraant wo rasoi ghar gaye.
+3 Priya is samay kahan hai?	rasoi ghar	1 2
+4 Badri aur mohit galiyarey gaye.
+5 Fir wo log bagichey mein gaye.
+6 Mohit is samay kahan hai?	bagicha	4 5
+7 Priya aur sita daftar mein chale gaye.
+8 Fir wo bagichey mein chale gaye.
+9 Mohit ab kahan hai?	bagicha	4 5
+10 Badri aur priya sayanakaksh mein chale gaye.
+11 Uske baad wo log bagichey mein chale gaye.
+12 Priya is samay kahan hai?	bagicha	10 11
+13 Mohit aur priya daftar mein gaye.
+14 Baad may wo galiyarey mein gaye.
+15 Priya is samay kahan hai?	galiyara	13 14
+16 Mohit aur badri daftar gaye.
+17 Uske baad wo log galiyarey gaye.
+18 Mohit ab kahan hai?	galiyara	16 17
+19 Mohit aur badri gusalkhaney mein gaye.
+20 Baad may wo log rasoi ghar mein gaye.
+21 Badri ab kahan hai?	rasoi ghar	19 20
+22 Priya aur sita sayanakaksh gaye.
+23 Uske baad wo bagichey gaye.
+24 Sita ab kahan hai?	bagicha	22 23
+1 Badri aur sita galiyarey gaye.
+2 Uske baad wo log sayanakaksh gaye.
+3 Sita ab kahan hai?	sayanakaksh	1 2
+4 Sita aur badri galiyarey gaye.
+5 Uske baad wo sayanakaksh mein chale gaye.
+6 Sita ab kahan hai?	sayanakaksh	4 5
+7 Badri aur priya gusalkhaney mein gaye.
+8 Uske baad wo log rasoi ghar mein gaye.
+9 Priya is samay kahan hai?	rasoi ghar	7 8
+10 Mohit aur priya galiyarey mein gaye.
+11 Fir wo bagichey mein gaye.
+12 Priya ab kahan hai?	bagicha	10 11
+13 Badri aur sita gusalkhaney mein gaye.
+14 Fir wo bagichey mein gaye.
+15 Sita ab kahan hai?	bagicha	13 14
+16 Mohit aur badri gusalkhaney mein chale gaye.
+17 Fir wo sayanakaksh gaye.
+18 Badri is samay kahan hai?	sayanakaksh	16 17
+19 Priya aur badri gusalkhaney gaye.
+20 Uske upraant wo bagichey gaye.
+21 Badri is samay kahan hai?	bagicha	19 20
+22 Sita aur badri galiyarey mein chale gaye.
+23 Uske baad wo bagichey mein gaye.
+24 Badri is samay kahan hai?	bagicha	22 23
+1 Badri aur mohit galiyarey mein gaye.
+2 Uske baad wo gusalkhaney mein chale gaye.
+3 Badri is samay kahan hai?	gusalkhana	1 2
+4 Badri aur priya bagichey mein gaye.
+5 Baad may wo log gusalkhaney gaye.
+6 Priya ab kahan hai?	gusalkhana	4 5
+7 Mohit aur badri galiyarey gaye.
+8 Uske upraant wo log daftar mein gaye.
+9 Badri ab kahan hai?	daftar	7 8
+10 Sita aur priya daftar mein chale gaye.
+11 Baad may wo bagichey mein gaye.
+12 Priya ab kahan hai?	bagicha	10 11
+13 Priya aur sita sayanakaksh mein chale gaye.
+14 Baad may wo log rasoi ghar mein chale gaye.
+15 Priya is samay kahan hai?	rasoi ghar	13 14
+16 Priya aur badri gusalkhaney mein chale gaye.
+17 Baad may wo sayanakaksh mein gaye.
+18 Badri ab kahan hai?	sayanakaksh	16 17
+19 Mohit aur priya bagichey mein gaye.
+20 Uske upraant wo log gusalkhaney mein gaye.
+21 Priya ab kahan hai?	gusalkhana	19 20
+22 Sita aur priya galiyarey gaye.
+23 Uske upraant wo bagichey gaye.
+24 Sita ab kahan hai?	bagicha	22 23
+1 Badri aur mohit sayanakaksh gaye.
+2 Fir wo daftar gaye.
+3 Mohit is samay kahan hai?	daftar	1 2
+4 Sita aur mohit gusalkhaney mein chale gaye.
+5 Baad may wo sayanakaksh mein chale gaye.
+6 Mohit ab kahan hai?	sayanakaksh	4 5
+7 Mohit aur sita galiyarey mein gaye.
+8 Uske upraant wo log daftar gaye.
+9 Sita is samay kahan hai?	daftar	7 8
+10 Priya aur mohit galiyarey gaye.
+11 Baad may wo daftar gaye.
+12 Mohit is samay kahan hai?	daftar	10 11
+13 Badri aur sita sayanakaksh mein chale gaye.
+14 Uske baad wo log rasoi ghar mein chale gaye.
+15 Sita is samay kahan hai?	rasoi ghar	13 14
+16 Badri aur sita galiyarey mein gaye.
+17 Baad may wo log gusalkhaney mein chale gaye.
+18 Sita ab kahan hai?	gusalkhana	16 17
+19 Sita aur badri galiyarey gaye.
+20 Fir wo log sayanakaksh mein chale gaye.
+21 Sita is samay kahan hai?	sayanakaksh	19 20
+22 Badri aur sita galiyarey gaye.
+23 Fir wo log gusalkhaney mein gaye.
+24 Badri is samay kahan hai?	gusalkhana	22 23
+1 Priya aur sita galiyarey gaye.
+2 Uske baad wo gusalkhaney mein gaye.
+3 Sita ab kahan hai?	gusalkhana	1 2
+4 Priya aur badri daftar gaye.
+5 Baad may wo log rasoi ghar mein gaye.
+6 Badri ab kahan hai?	rasoi ghar	4 5
+7 Badri aur mohit bagichey mein chale gaye.
+8 Baad may wo log gusalkhaney gaye.
+9 Badri ab kahan hai?	gusalkhana	7 8
+10 Mohit aur badri galiyarey gaye.
+11 Uske baad wo daftar mein chale gaye.
+12 Badri ab kahan hai?	daftar	10 11
+13 Sita aur mohit galiyarey mein chale gaye.
+14 Uske baad wo rasoi ghar mein gaye.
+15 Sita ab kahan hai?	rasoi ghar	13 14
+16 Badri aur sita gusalkhaney gaye.
+17 Fir wo sayanakaksh mein chale gaye.
+18 Badri ab kahan hai?	sayanakaksh	16 17
+19 Mohit aur sita gusalkhaney gaye.
+20 Fir wo log galiyarey mein gaye.
+21 Sita ab kahan hai?	galiyara	19 20
+22 Mohit aur priya bagichey mein gaye.
+23 Uske upraant wo log galiyarey mein chale gaye.
+24 Priya is samay kahan hai?	galiyara	22 23
+1 Sita aur badri galiyarey mein gaye.
+2 Fir wo log bagichey mein gaye.
+3 Badri is samay kahan hai?	bagicha	1 2
+4 Mohit aur badri gusalkhaney mein chale gaye.
+5 Uske upraant wo log sayanakaksh gaye.
+6 Badri is samay kahan hai?	sayanakaksh	4 5
+7 Mohit aur badri daftar mein gaye.
+8 Uske baad wo sayanakaksh mein chale gaye.
+9 Badri is samay kahan hai?	sayanakaksh	7 8
+10 Priya aur sita galiyarey mein gaye.
+11 Uske baad wo log daftar gaye.
+12 Priya ab kahan hai?	daftar	10 11
+13 Sita aur mohit bagichey gaye.
+14 Uske upraant wo log daftar gaye.
+15 Sita is samay kahan hai?	daftar	13 14
+16 Mohit aur sita bagichey mein gaye.
+17 Fir wo log sayanakaksh gaye.
+18 Mohit is samay kahan hai?	sayanakaksh	16 17
+19 Sita aur badri rasoi ghar gaye.
+20 Uske baad wo log galiyarey gaye.
+21 Sita ab kahan hai?	galiyara	19 20
+22 Badri aur sita bagichey mein chale gaye.
+23 Uske baad wo log galiyarey mein chale gaye.
+24 Badri is samay kahan hai?	galiyara	22 23
+1 Priya aur sita sayanakaksh mein chale gaye.
+2 Uske upraant wo gusalkhaney gaye.
+3 Priya ab kahan hai?	gusalkhana	1 2
+4 Mohit aur sita daftar gaye.
+5 Fir wo log galiyarey mein gaye.
+6 Mohit is samay kahan hai?	galiyara	4 5
+7 Priya aur badri bagichey gaye.
+8 Uske upraant wo log daftar mein chale gaye.
+9 Priya is samay kahan hai?	daftar	7 8
+10 Badri aur sita rasoi ghar gaye.
+11 Uske baad wo sayanakaksh mein chale gaye.
+12 Badri ab kahan hai?	sayanakaksh	10 11
+13 Sita aur mohit daftar mein chale gaye.
+14 Uske baad wo galiyarey gaye.
+15 Sita is samay kahan hai?	galiyara	13 14
+16 Badri aur mohit gusalkhaney gaye.
+17 Uske upraant wo log bagichey gaye.
+18 Badri ab kahan hai?	bagicha	16 17
+19 Mohit aur sita rasoi ghar mein gaye.
+20 Uske baad wo daftar mein gaye.
+21 Sita is samay kahan hai?	daftar	19 20
+22 Badri aur sita rasoi ghar mein chale gaye.
+23 Fir wo log gusalkhaney gaye.
+24 Sita ab kahan hai?	gusalkhana	22 23
+1 Mohit aur sita gusalkhaney mein gaye.
+2 Uske upraant wo log daftar mein gaye.
+3 Sita ab kahan hai?	daftar	1 2
+4 Badri aur priya bagichey mein gaye.
+5 Fir wo galiyarey mein chale gaye.
+6 Priya is samay kahan hai?	galiyara	4 5
+7 Priya aur badri daftar mein gaye.
+8 Baad may wo log gusalkhaney mein chale gaye.
+9 Priya is samay kahan hai?	gusalkhana	7 8
+10 Badri aur sita sayanakaksh mein gaye.
+11 Uske upraant wo log bagichey mein gaye.
+12 Badri is samay kahan hai?	bagicha	10 11
+13 Mohit aur sita sayanakaksh gaye.
+14 Uske baad wo log bagichey mein gaye.
+15 Sita ab kahan hai?	bagicha	13 14
+16 Priya aur mohit rasoi ghar mein gaye.
+17 Fir wo log galiyarey mein gaye.
+18 Priya is samay kahan hai?	galiyara	16 17
+19 Priya aur badri rasoi ghar mein chale gaye.
+20 Uske upraant wo bagichey mein gaye.
+21 Badri ab kahan hai?	bagicha	19 20
+22 Sita aur priya daftar mein chale gaye.
+23 Uske upraant wo log gusalkhaney mein chale gaye.
+24 Priya ab kahan hai?	gusalkhana	22 23
+1 Mohit aur badri bagichey mein chale gaye.
+2 Baad may wo log rasoi ghar gaye.
+3 Mohit is samay kahan hai?	rasoi ghar	1 2
+4 Priya aur mohit sayanakaksh mein gaye.
+5 Baad may wo rasoi ghar mein gaye.
+6 Mohit ab kahan hai?	rasoi ghar	4 5
+7 Priya aur badri gusalkhaney mein chale gaye.
+8 Uske upraant wo bagichey gaye.
+9 Badri ab kahan hai?	bagicha	7 8
+10 Priya aur badri sayanakaksh mein gaye.
+11 Baad may wo gusalkhaney gaye.
+12 Badri ab kahan hai?	gusalkhana	10 11
+13 Priya aur badri rasoi ghar mein chale gaye.
+14 Uske upraant wo log gusalkhaney mein gaye.
+15 Badri ab kahan hai?	gusalkhana	13 14
+16 Badri aur mohit galiyarey gaye.
+17 Uske baad wo daftar gaye.
+18 Badri ab kahan hai?	daftar	16 17
+19 Mohit aur badri gusalkhaney mein gaye.
+20 Uske upraant wo daftar gaye.
+21 Badri is samay kahan hai?	daftar	19 20
+22 Mohit aur sita galiyarey gaye.
+23 Baad may wo log rasoi ghar mein chale gaye.
+24 Sita is samay kahan hai?	rasoi ghar	22 23
+1 Priya aur badri rasoi ghar mein gaye.
+2 Baad may wo galiyarey mein chale gaye.
+3 Badri is samay kahan hai?	galiyara	1 2
+4 Sita aur priya rasoi ghar mein chale gaye.
+5 Uske baad wo sayanakaksh gaye.
+6 Sita is samay kahan hai?	sayanakaksh	4 5
+7 Priya aur badri rasoi ghar mein chale gaye.
+8 Baad may wo log galiyarey mein chale gaye.
+9 Priya ab kahan hai?	galiyara	7 8
+10 Sita aur badri daftar gaye.
+11 Fir wo log rasoi ghar mein chale gaye.
+12 Sita is samay kahan hai?	rasoi ghar	10 11
+13 Mohit aur badri daftar gaye.
+14 Baad may wo sayanakaksh mein gaye.
+15 Badri ab kahan hai?	sayanakaksh	13 14
+16 Sita aur mohit gusalkhaney mein gaye.
+17 Baad may wo log rasoi ghar mein chale gaye.
+18 Sita ab kahan hai?	rasoi ghar	16 17
+19 Mohit aur badri gusalkhaney mein gaye.
+20 Uske baad wo rasoi ghar mein gaye.
+21 Badri ab kahan hai?	rasoi ghar	19 20
+22 Mohit aur badri daftar mein chale gaye.
+23 Fir wo log sayanakaksh gaye.
+24 Mohit ab kahan hai?	sayanakaksh	22 23
+1 Sita aur priya galiyarey mein chale gaye.
+2 Fir wo log bagichey mein chale gaye.
+3 Priya is samay kahan hai?	bagicha	1 2
+4 Mohit aur priya galiyarey gaye.
+5 Fir wo bagichey mein gaye.
+6 Priya ab kahan hai?	bagicha	4 5
+7 Sita aur mohit daftar gaye.
+8 Uske baad wo rasoi ghar gaye.
+9 Mohit is samay kahan hai?	rasoi ghar	7 8
+10 Priya aur badri rasoi ghar mein gaye.
+11 Fir wo daftar mein gaye.
+12 Badri is samay kahan hai?	daftar	10 11
+13 Sita aur badri gusalkhaney mein chale gaye.
+14 Uske upraant wo galiyarey gaye.
+15 Badri ab kahan hai?	galiyara	13 14
+16 Sita aur badri bagichey mein gaye.
+17 Uske baad wo log rasoi ghar gaye.
+18 Sita is samay kahan hai?	rasoi ghar	16 17
+19 Sita aur priya gusalkhaney mein chale gaye.
+20 Uske upraant wo log daftar gaye.
+21 Sita is samay kahan hai?	daftar	19 20
+22 Badri aur sita galiyarey mein gaye.
+23 Uske baad wo rasoi ghar gaye.
+24 Sita is samay kahan hai?	rasoi ghar	22 23
+1 Priya aur mohit gusalkhaney mein chale gaye.
+2 Baad may wo daftar mein chale gaye.
+3 Mohit ab kahan hai?	daftar	1 2
+4 Sita aur priya bagichey mein gaye.
+5 Uske baad wo log gusalkhaney mein chale gaye.
+6 Mohit ab kahan hai?	daftar	1 2
+7 Mohit aur priya bagichey mein gaye.
+8 Fir wo log gusalkhaney mein gaye.
+9 Priya ab kahan hai?	gusalkhana	7 8
+10 Mohit aur priya daftar mein gaye.
+11 Baad may wo log gusalkhaney mein chale gaye.
+12 Priya ab kahan hai?	gusalkhana	10 11
+13 Badri aur sita daftar mein gaye.
+14 Uske upraant wo sayanakaksh mein gaye.
+15 Sita ab kahan hai?	sayanakaksh	13 14
+16 Mohit aur priya rasoi ghar gaye.
+17 Uske upraant wo log bagichey gaye.
+18 Mohit ab kahan hai?	bagicha	16 17
+19 Priya aur badri gusalkhaney mein gaye.
+20 Uske baad wo galiyarey mein gaye.
+21 Priya is samay kahan hai?	galiyara	19 20
+22 Mohit aur sita galiyarey mein chale gaye.
+23 Uske baad wo log sayanakaksh mein gaye.
+24 Sita ab kahan hai?	sayanakaksh	22 23
+1 Badri aur priya bagichey mein gaye.
+2 Uske upraant wo log sayanakaksh mein chale gaye.
+3 Priya ab kahan hai?	sayanakaksh	1 2
+4 Mohit aur sita sayanakaksh mein chale gaye.
+5 Uske baad wo bagichey mein gaye.
+6 Sita is samay kahan hai?	bagicha	4 5
+7 Badri aur sita gusalkhaney mein gaye.
+8 Fir wo rasoi ghar mein gaye.
+9 Sita ab kahan hai?	rasoi ghar	7 8
+10 Sita aur mohit sayanakaksh mein chale gaye.
+11 Baad may wo gusalkhaney gaye.
+12 Mohit is samay kahan hai?	gusalkhana	10 11
+13 Mohit aur sita daftar mein chale gaye.
+14 Baad may wo log galiyarey mein chale gaye.
+15 Mohit ab kahan hai?	galiyara	13 14
+16 Sita aur mohit gusalkhaney mein chale gaye.
+17 Baad may wo sayanakaksh mein chale gaye.
+18 Sita ab kahan hai?	sayanakaksh	16 17
+19 Badri aur mohit galiyarey gaye.
+20 Fir wo log daftar mein chale gaye.
+21 Badri ab kahan hai?	daftar	19 20
+22 Sita aur mohit galiyarey mein gaye.
+23 Uske upraant wo log rasoi ghar mein gaye.
+24 Sita ab kahan hai?	rasoi ghar	22 23
+1 Sita aur badri rasoi ghar gaye.
+2 Uske baad wo sayanakaksh mein gaye.
+3 Sita ab kahan hai?	sayanakaksh	1 2
+4 Priya aur badri gusalkhaney mein gaye.
+5 Fir wo rasoi ghar mein chale gaye.
+6 Priya ab kahan hai?	rasoi ghar	4 5
+7 Mohit aur priya sayanakaksh mein chale gaye.
+8 Fir wo log daftar mein gaye.
+9 Priya ab kahan hai?	daftar	7 8
+10 Mohit aur sita galiyarey mein chale gaye.
+11 Uske upraant wo rasoi ghar gaye.
+12 Sita ab kahan hai?	rasoi ghar	10 11
+13 Priya aur sita sayanakaksh mein chale gaye.
+14 Uske upraant wo log galiyarey gaye.
+15 Sita ab kahan hai?	galiyara	13 14
+16 Priya aur sita rasoi ghar mein chale gaye.
+17 Baad may wo gusalkhaney gaye.
+18 Sita ab kahan hai?	gusalkhana	16 17
+19 Badri aur mohit galiyarey gaye.
+20 Uske upraant wo log daftar mein chale gaye.
+21 Mohit is samay kahan hai?	daftar	19 20
+22 Badri aur mohit galiyarey mein gaye.
+23 Uske baad wo sayanakaksh mein gaye.
+24 Badri ab kahan hai?	sayanakaksh	22 23
+1 Priya aur badri rasoi ghar mein gaye.
+2 Uske baad wo gusalkhaney mein chale gaye.
+3 Priya is samay kahan hai?	gusalkhana	1 2
+4 Mohit aur badri galiyarey mein chale gaye.
+5 Baad may wo log gusalkhaney mein chale gaye.
+6 Badri is samay kahan hai?	gusalkhana	4 5
+7 Mohit aur badri rasoi ghar gaye.
+8 Uske baad wo log galiyarey mein chale gaye.
+9 Badri is samay kahan hai?	galiyara	7 8
+10 Priya aur badri daftar gaye.
+11 Baad may wo log galiyarey gaye.
+12 Badri ab kahan hai?	galiyara	10 11
+13 Badri aur sita daftar mein gaye.
+14 Fir wo log gusalkhaney gaye.
+15 Sita ab kahan hai?	gusalkhana	13 14
+16 Priya aur badri rasoi ghar mein gaye.
+17 Fir wo log gusalkhaney mein gaye.
+18 Priya ab kahan hai?	gusalkhana	16 17
+19 Priya aur badri bagichey mein gaye.
+20 Baad may wo sayanakaksh mein chale gaye.
+21 Badri ab kahan hai?	sayanakaksh	19 20
+22 Badri aur priya rasoi ghar mein chale gaye.
+23 Baad may wo gusalkhaney gaye.
+24 Priya ab kahan hai?	gusalkhana	22 23
+1 Priya aur mohit galiyarey gaye.
+2 Uske upraant wo log bagichey mein chale gaye.
+3 Priya is samay kahan hai?	bagicha	1 2
+4 Priya aur mohit daftar gaye.
+5 Baad may wo gusalkhaney mein gaye.
+6 Priya ab kahan hai?	gusalkhana	4 5
+7 Mohit aur badri rasoi ghar gaye.
+8 Fir wo log bagichey mein chale gaye.
+9 Badri is samay kahan hai?	bagicha	7 8
+10 Mohit aur priya daftar gaye.
+11 Fir wo log rasoi ghar mein gaye.
+12 Priya is samay kahan hai?	rasoi ghar	10 11
+13 Mohit aur sita bagichey mein gaye.
+14 Uske upraant wo galiyarey mein gaye.
+15 Sita ab kahan hai?	galiyara	13 14
+16 Mohit aur priya sayanakaksh mein chale gaye.
+17 Uske upraant wo rasoi ghar mein chale gaye.
+18 Priya ab kahan hai?	rasoi ghar	16 17
+19 Sita aur priya daftar mein gaye.
+20 Uske baad wo log sayanakaksh mein chale gaye.
+21 Sita is samay kahan hai?	sayanakaksh	19 20
+22 Priya aur badri daftar mein chale gaye.
+23 Baad may wo log galiyarey mein gaye.
+24 Priya is samay kahan hai?	galiyara	22 23
+1 Mohit aur priya sayanakaksh gaye.
+2 Baad may wo rasoi ghar mein chale gaye.
+3 Priya is samay kahan hai?	rasoi ghar	1 2
+4 Mohit aur badri bagichey gaye.
+5 Uske upraant wo log galiyarey mein gaye.
+6 Mohit is samay kahan hai?	galiyara	4 5
+7 Priya aur mohit gusalkhaney mein chale gaye.
+8 Baad may wo sayanakaksh gaye.
+9 Priya ab kahan hai?	sayanakaksh	7 8
+10 Mohit aur sita gusalkhaney mein gaye.
+11 Uske upraant wo log daftar gaye.
+12 Mohit ab kahan hai?	daftar	10 11
+13 Priya aur badri daftar gaye.
+14 Baad may wo bagichey mein gaye.
+15 Badri ab kahan hai?	bagicha	13 14
+16 Priya aur sita rasoi ghar mein gaye.
+17 Uske baad wo log galiyarey mein chale gaye.
+18 Sita ab kahan hai?	galiyara	16 17
+19 Badri aur sita gusalkhaney mein gaye.
+20 Uske baad wo log daftar gaye.
+21 Sita ab kahan hai?	daftar	19 20
+22 Badri aur mohit rasoi ghar mein chale gaye.
+23 Fir wo log bagichey mein chale gaye.
+24 Sita is samay kahan hai?	daftar	19 20
+1 Sita aur mohit rasoi ghar mein gaye.
+2 Uske upraant wo log galiyarey gaye.
+3 Mohit ab kahan hai?	galiyara	1 2
+4 Priya aur sita bagichey mein gaye.
+5 Baad may wo sayanakaksh mein gaye.
+6 Sita ab kahan hai?	sayanakaksh	4 5
+7 Mohit aur sita gusalkhaney gaye.
+8 Uske baad wo log galiyarey gaye.
+9 Sita is samay kahan hai?	galiyara	7 8
+10 Priya aur badri daftar gaye.
+11 Fir wo gusalkhaney mein chale gaye.
+12 Priya ab kahan hai?	gusalkhana	10 11
+13 Badri aur sita daftar mein chale gaye.
+14 Uske baad wo log rasoi ghar mein chale gaye.
+15 Badri ab kahan hai?	rasoi ghar	13 14
+16 Mohit aur sita gusalkhaney mein chale gaye.
+17 Fir wo log daftar mein chale gaye.
+18 Sita ab kahan hai?	daftar	16 17
+19 Sita aur mohit gusalkhaney gaye.
+20 Fir wo log rasoi ghar gaye.
+21 Sita is samay kahan hai?	rasoi ghar	19 20
+22 Badri aur sita bagichey gaye.
+23 Baad may wo log daftar mein chale gaye.
+24 Mohit ab kahan hai?	rasoi ghar	19 20
+1 Badri aur priya gusalkhaney mein gaye.
+2 Baad may wo daftar gaye.
+3 Priya is samay kahan hai?	daftar	1 2
+4 Sita aur mohit daftar mein chale gaye.
+5 Uske baad wo log bagichey mein chale gaye.
+6 Mohit ab kahan hai?	bagicha	4 5
+7 Priya aur mohit rasoi ghar gaye.
+8 Fir wo galiyarey mein chale gaye.
+9 Mohit is samay kahan hai?	galiyara	7 8
+10 Mohit aur priya gusalkhaney mein chale gaye.
+11 Fir wo log galiyarey gaye.
+12 Priya is samay kahan hai?	galiyara	10 11
+13 Mohit aur badri bagichey mein gaye.
+14 Baad may wo log gusalkhaney gaye.
+15 Mohit ab kahan hai?	gusalkhana	13 14
+16 Mohit aur sita galiyarey mein chale gaye.
+17 Fir wo gusalkhaney mein chale gaye.
+18 Sita ab kahan hai?	gusalkhana	16 17
+19 Badri aur priya daftar gaye.
+20 Uske upraant wo log bagichey gaye.
+21 Sita is samay kahan hai?	gusalkhana	16 17
+22 Sita aur badri sayanakaksh gaye.
+23 Uske upraant wo log galiyarey mein gaye.
+24 Badri is samay kahan hai?	galiyara	22 23
+1 Badri aur mohit daftar mein gaye.
+2 Uske upraant wo log gusalkhaney mein gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Sita aur priya bagichey gaye.
+5 Baad may wo log gusalkhaney mein chale gaye.
+6 Sita is samay kahan hai?	gusalkhana	4 5
+7 Mohit aur priya bagichey mein chale gaye.
+8 Uske upraant wo sayanakaksh gaye.
+9 Priya is samay kahan hai?	sayanakaksh	7 8
+10 Badri aur sita daftar gaye.
+11 Uske baad wo gusalkhaney mein gaye.
+12 Sita is samay kahan hai?	gusalkhana	10 11
+13 Mohit aur badri rasoi ghar mein chale gaye.
+14 Fir wo log sayanakaksh mein gaye.
+15 Badri ab kahan hai?	sayanakaksh	13 14
+16 Priya aur mohit daftar mein chale gaye.
+17 Uske baad wo bagichey gaye.
+18 Mohit ab kahan hai?	bagicha	16 17
+19 Priya aur mohit sayanakaksh mein chale gaye.
+20 Fir wo log gusalkhaney gaye.
+21 Mohit is samay kahan hai?	gusalkhana	19 20
+22 Sita aur priya sayanakaksh gaye.
+23 Baad may wo galiyarey gaye.
+24 Priya ab kahan hai?	galiyara	22 23
+1 Sita aur badri daftar gaye.
+2 Uske upraant wo log gusalkhaney mein chale gaye.
+3 Badri ab kahan hai?	gusalkhana	1 2
+4 Mohit aur badri rasoi ghar mein chale gaye.
+5 Uske upraant wo gusalkhaney mein gaye.
+6 Badri is samay kahan hai?	gusalkhana	4 5
+7 Priya aur sita daftar mein gaye.
+8 Uske baad wo bagichey mein chale gaye.
+9 Priya ab kahan hai?	bagicha	7 8
+10 Mohit aur sita galiyarey mein gaye.
+11 Uske upraant wo bagichey mein chale gaye.
+12 Mohit ab kahan hai?	bagicha	10 11
+13 Mohit aur priya daftar mein gaye.
+14 Fir wo rasoi ghar mein chale gaye.
+15 Priya ab kahan hai?	rasoi ghar	13 14
+16 Badri aur priya daftar mein gaye.
+17 Baad may wo gusalkhaney gaye.
+18 Priya ab kahan hai?	gusalkhana	16 17
+19 Sita aur priya daftar gaye.
+20 Uske upraant wo sayanakaksh mein chale gaye.
+21 Priya is samay kahan hai?	sayanakaksh	19 20
+22 Mohit aur badri galiyarey mein gaye.
+23 Fir wo rasoi ghar gaye.
+24 Badri ab kahan hai?	rasoi ghar	22 23
+1 Mohit aur badri rasoi ghar mein chale gaye.
+2 Baad may wo bagichey mein gaye.
+3 Badri is samay kahan hai?	bagicha	1 2
+4 Mohit aur badri rasoi ghar mein gaye.
+5 Uske baad wo log gusalkhaney gaye.
+6 Mohit is samay kahan hai?	gusalkhana	4 5
+7 Sita aur badri galiyarey mein chale gaye.
+8 Baad may wo log daftar gaye.
+9 Badri is samay kahan hai?	daftar	7 8
+10 Sita aur mohit rasoi ghar mein chale gaye.
+11 Uske baad wo galiyarey mein chale gaye.
+12 Sita is samay kahan hai?	galiyara	10 11
+13 Sita aur priya sayanakaksh mein chale gaye.
+14 Uske baad wo log rasoi ghar gaye.
+15 Mohit is samay kahan hai?	galiyara	10 11
+16 Sita aur mohit daftar gaye.
+17 Uske baad wo rasoi ghar mein chale gaye.
+18 Priya ab kahan hai?	rasoi ghar	13 14
+19 Sita aur badri bagichey gaye.
+20 Baad may wo rasoi ghar mein gaye.
+21 Badri is samay kahan hai?	rasoi ghar	19 20
+22 Priya aur sita sayanakaksh mein gaye.
+23 Uske upraant wo log gusalkhaney gaye.
+24 Priya is samay kahan hai?	gusalkhana	22 23
+1 Mohit aur priya gusalkhaney mein chale gaye.
+2 Baad may wo log rasoi ghar mein gaye.
+3 Priya is samay kahan hai?	rasoi ghar	1 2
+4 Priya aur mohit gusalkhaney gaye.
+5 Baad may wo log daftar gaye.
+6 Mohit is samay kahan hai?	daftar	4 5
+7 Sita aur mohit rasoi ghar mein gaye.
+8 Uske baad wo daftar mein gaye.
+9 Sita ab kahan hai?	daftar	7 8
+10 Badri aur priya bagichey gaye.
+11 Uske baad wo galiyarey mein chale gaye.
+12 Badri is samay kahan hai?	galiyara	10 11
+13 Mohit aur badri rasoi ghar mein chale gaye.
+14 Baad may wo log gusalkhaney mein gaye.
+15 Priya ab kahan hai?	galiyara	10 11
+16 Badri aur priya rasoi ghar gaye.
+17 Uske baad wo bagichey gaye.
+18 Badri is samay kahan hai?	bagicha	16 17
+19 Priya aur badri galiyarey gaye.
+20 Fir wo log gusalkhaney mein gaye.
+21 Priya is samay kahan hai?	gusalkhana	19 20
+22 Sita aur badri rasoi ghar mein gaye.
+23 Uske baad wo daftar mein chale gaye.
+24 Badri is samay kahan hai?	daftar	22 23
+1 Priya aur sita rasoi ghar gaye.
+2 Uske baad wo log bagichey mein gaye.
+3 Sita is samay kahan hai?	bagicha	1 2
+4 Badri aur mohit sayanakaksh mein chale gaye.
+5 Uske baad wo log gusalkhaney mein chale gaye.
+6 Badri is samay kahan hai?	gusalkhana	4 5
+7 Priya aur badri daftar mein chale gaye.
+8 Uske baad wo log gusalkhaney mein chale gaye.
+9 Priya is samay kahan hai?	gusalkhana	7 8
+10 Sita aur mohit rasoi ghar mein gaye.
+11 Uske upraant wo sayanakaksh mein chale gaye.
+12 Badri ab kahan hai?	gusalkhana	7 8
+13 Sita aur mohit daftar mein gaye.
+14 Uske upraant wo log gusalkhaney mein gaye.
+15 Sita ab kahan hai?	gusalkhana	13 14
+16 Mohit aur priya sayanakaksh mein chale gaye.
+17 Baad may wo log daftar mein chale gaye.
+18 Mohit is samay kahan hai?	daftar	16 17
+19 Badri aur mohit sayanakaksh mein chale gaye.
+20 Fir wo log daftar gaye.
+21 Badri ab kahan hai?	daftar	19 20
+22 Badri aur mohit bagichey mein gaye.
+23 Uske baad wo daftar mein chale gaye.
+24 Mohit ab kahan hai?	daftar	22 23
+1 Sita aur badri galiyarey mein gaye.
+2 Uske baad wo bagichey mein chale gaye.
+3 Badri ab kahan hai?	bagicha	1 2
+4 Mohit aur sita gusalkhaney mein chale gaye.
+5 Uske upraant wo log bagichey mein gaye.
+6 Sita ab kahan hai?	bagicha	4 5
+7 Badri aur priya sayanakaksh mein gaye.
+8 Fir wo log galiyarey mein chale gaye.
+9 Badri ab kahan hai?	galiyara	7 8
+10 Badri aur sita rasoi ghar mein chale gaye.
+11 Uske upraant wo bagichey mein gaye.
+12 Priya ab kahan hai?	galiyara	7 8
+13 Mohit aur badri sayanakaksh mein chale gaye.
+14 Uske upraant wo gusalkhaney mein chale gaye.
+15 Badri ab kahan hai?	gusalkhana	13 14
+16 Badri aur mohit sayanakaksh mein gaye.
+17 Uske upraant wo log daftar mein gaye.
+18 Badri ab kahan hai?	daftar	16 17
+19 Mohit aur priya sayanakaksh mein chale gaye.
+20 Fir wo rasoi ghar mein gaye.
+21 Priya is samay kahan hai?	rasoi ghar	19 20
+22 Priya aur sita sayanakaksh gaye.
+23 Uske upraant wo gusalkhaney mein gaye.
+24 Priya ab kahan hai?	gusalkhana	22 23
+1 Mohit aur priya daftar mein gaye.
+2 Fir wo gusalkhaney mein chale gaye.
+3 Mohit ab kahan hai?	gusalkhana	1 2
+4 Priya aur mohit galiyarey mein gaye.
+5 Baad may wo rasoi ghar gaye.
+6 Priya is samay kahan hai?	rasoi ghar	4 5
+7 Sita aur priya sayanakaksh mein gaye.
+8 Baad may wo daftar mein gaye.
+9 Sita ab kahan hai?	daftar	7 8
+10 Mohit aur sita gusalkhaney mein chale gaye.
+11 Uske upraant wo log sayanakaksh mein chale gaye.
+12 Sita ab kahan hai?	sayanakaksh	10 11
+13 Badri aur mohit galiyarey mein chale gaye.
+14 Uske baad wo log daftar gaye.
+15 Mohit ab kahan hai?	daftar	13 14
+16 Mohit aur priya sayanakaksh mein chale gaye.
+17 Uske baad wo log gusalkhaney mein gaye.
+18 Mohit is samay kahan hai?	gusalkhana	16 17
+19 Priya aur sita rasoi ghar mein gaye.
+20 Baad may wo sayanakaksh mein gaye.
+21 Priya is samay kahan hai?	sayanakaksh	19 20
+22 Priya aur badri rasoi ghar mein gaye.
+23 Fir wo log sayanakaksh mein chale gaye.
+24 Sita is samay kahan hai?	sayanakaksh	19 20

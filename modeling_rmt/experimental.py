@@ -90,6 +90,35 @@ class MemoryCellCustomMemoryV1(MemoryCell):
         return out
     
 
+class MemoryCellSameMemory(MemoryCellGenerate):
+    def forward(self, input_ids, memory_state=None, **kwargs):
+        if memory_state is None:
+            memory_state = self.set_memory(input_ids.shape)
+
+        # change all mem tokens to mem token 1
+        memory_state = memory_state[:, :1].repeat(1, memory_state.shape[1], 1)
+
+        seg_kwargs = self.process_input(input_ids, memory_state, write_mem=True, **kwargs)
+        out = self.model(**seg_kwargs)
+        out, new_memory_state = self.process_output(out, **kwargs)
+
+        # change all mem tokens to mem token 1
+        new_memory_state = new_memory_state[:, :1].repeat(1, new_memory_state.shape[1], 1)
+
+        return out, new_memory_state
+    
+    def generate(self, input_ids, memory_state, attention_mask=None, **generate_kwargs):
+        if memory_state is None:
+            memory_state = self.set_memory(input_ids.shape)
+
+        # change all mem tokens to mem token 1
+        memory_state = memory_state[:, :1].repeat(1, memory_state.shape[1], 1)
+
+        seg_kwargs = self.process_input(input_ids, memory_state, attention_mask=attention_mask, write_mem=False)
+        out = self.model.generate(inputs_embeds=seg_kwargs['inputs_embeds'], attention_mask=seg_kwargs['attention_mask'], **generate_kwargs)
+        return out
+    
+
 from modeling_rmt.language_modeling import RecurrentWrapper
 class RecurrentWrapperLight(RecurrentWrapper):
     def forward(self, input_ids, labels=None, labels_mask=None, inputs_embeds=None, attention_mask=None, output_attentions=None, output_hidden_states=None):

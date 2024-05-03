@@ -1,0 +1,2290 @@
+1 Bistra peti dabbe ke andar samaa sakta hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Kanastar ka akaar bistra peti se badaa hai.
+4 Almari ka akaar kanastar se badaa hai.
+5 Bistra peti kanastar ke andar samaa sakta hai.
+6 Kya bistra peti almari ke andar samaa sakti hai?	haan	4 3
+7 Kya almari ka akaar bistra peti sey badaa hai?	haan	4 3
+8 Kya bistra peti almari ke andar samaa sakti hai?	haan	4 3
+9 Kya bistra peti ka akaar almari sey badaa hai?	nahi	3 4
+10 Kya almari bistra peti ke andar samaa sakti hai?	nahi	3 4
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Dabbaa ka akaar bistra peti se badaa hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Bistra peti dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	3 2
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	3 2
+8 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	3 2
+9 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	5 2
+10 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 2
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Almari bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+4 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+5 Dabbaa ka akaar kanastar se badaa hai.
+6 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	5 4
+7 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	4 5
+8 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	5 4
+9 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	4 5
+10 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	5 4
+1 Bistra peti ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+4 Mithai ka dabaa almari ke andar samaa sakta hai.
+5 Ladoo almari ke andar samaa sakta hai.
+6 Dabbaa ka akaar ladoo se badaa hai.
+7 Almari dabbe ke andar samaa sakta hai.
+8 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+9 Ladoo kanastar ke andar samaa sakta hai.
+10 Ladoo bistra peti ke andar samaa sakta hai.
+11 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	7 4
+12 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	7 4
+13 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	7 4
+14 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	7 4
+15 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	7 4
+1 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+2 Dabbaa ka akaar ladoo se badaa hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Kanastar ka akaar dabbe se badaa hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	5 1
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 5
+8 Kya ladoo kanastar ke andar samaa sakta hai?	haan	4 2
+9 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	5 1
+10 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 5
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Kanastar ka akaar ladoo se badaa hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Kanastar bistra peti ke andar samaa sakta hai.
+6 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 5
+7 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 2
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 5
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 2
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 2
+1 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+2 Bistra peti kanastar ke andar samaa sakta hai.
+3 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+6 Dabbaa bistra peti ke andar samaa sakta hai.
+7 Kanastar ka akaar mithai ke dabbe se badaa hai.
+8 Kanastar ka akaar ladoo se badaa hai.
+9 Almari kanastar ke andar samaa sakta hai.
+10 Ladoo almari ke andar samaa sakta hai.
+11 Kya dabbaa ka akaar kanastar sey badaa hai?	nahi	6 2
+12 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	1 6
+13 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 6
+14 Kya dabbaa ka akaar kanastar sey badaa hai?	nahi	6 2
+15 Kya ladoo kanastar ke andar samaa sakta hai?	haan	9 4
+1 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Bistra peti ka akaar kanastar se badaa hai.
+6 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+7 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+8 Dabbaa ka akaar ladoo se badaa hai.
+9 Almari ka akaar bistra peti se badaa hai.
+10 Kanastar bistra peti ke andar samaa sakta hai.
+11 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	9 1
+12 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	9 1
+13 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	9 1
+14 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	9 1
+15 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	9 1
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Ladoo kanastar ke andar samaa sakta hai.
+3 Kanastar ka akaar mithai ke dabbe se badaa hai.
+4 Ladoo dabbe ke andar samaa sakta hai.
+5 Kanastar almari ke andar samaa sakta hai.
+6 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 1
+7 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 1
+8 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	5 1
+9 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	5 1
+10 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 1
+1 Almari ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Almari ka akaar kanastar se badaa hai.
+5 Ladoo bistra peti ke andar samaa sakta hai.
+6 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+7 Bistra peti ka akaar dabbe se badaa hai.
+8 Dabbaa bistra peti ke andar samaa sakta hai.
+9 Kanastar dabbe ke andar samaa sakta hai.
+10 Mithai ka dabaa almari ke andar samaa sakta hai.
+11 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	8 6
+12 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	6 7
+13 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	6 7
+14 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	8 6
+15 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	8 6
+1 Dabbaa almari ke andar samaa sakta hai.
+2 Bistra peti ka akaar dabbe se badaa hai.
+3 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+4 Almari ka akaar dabbe se badaa hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+7 Ladoo bistra peti ke andar samaa sakta hai.
+8 Kanastar ka akaar mithai ke dabbe se badaa hai.
+9 Almari kanastar ke andar samaa sakta hai.
+10 Almari ka akaar ladoo se badaa hai.
+11 Kya dabbaa kanastar ke andar samaa sakta hai?	haan	9 1
+12 Kya dabbaa kanastar ke andar samaa sakta hai?	haan	9 1
+13 Kya dabbaa kanastar ke andar samaa sakta hai?	haan	9 1
+14 Almari ka akaar dabbe se badaa hai.
+15 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+16 Almari kanastar ke andar samaa sakta hai.
+17 Kanastar ka akaar bistra peti se badaa hai.
+18 Kanastar ka akaar ladoo se badaa hai.
+19 Kya dabbaa kanastar ke andar samaa sakta hai?	haan	16 1
+20 Kya dabbaa kanastar ke andar samaa sakta hai?	haan	16 1
+21 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	15 3
+22 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	15 3
+23 Kya kanastar ka akaar dabbaa sey badaa hai?	haan	16 1
+1 Dabbaa ka akaar bistra peti se badaa hai.
+2 Bistra peti dabbe ke andar samaa sakta hai.
+3 Kanastar ka akaar mithai ke dabbe se badaa hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar almari se badaa hai.
+6 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	3 4
+7 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 3
+8 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 3
+9 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	3 4
+10 Kya almari ka akaar dabbaa sey badaa hai?	nahi	5 1
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Dabbaa almari ke andar samaa sakta hai.
+3 Ladoo bistra peti ke andar samaa sakta hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Ladoo bistra peti ke andar samaa sakta hai.
+7 Ladoo almari ke andar samaa sakta hai.
+8 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+9 Almari ka akaar mithai ke dabbe se badaa hai.
+10 Kanastar ka akaar dabbe se badaa hai.
+11 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+12 Almari ka akaar bistra peti se badaa hai.
+13 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+14 Mithai ka dabaa almari ke andar samaa sakta hai.
+15 Almari ka akaar kanastar se badaa hai.
+16 Kya ladoo almari ke andar samaa sakti hai?	haan	12 1
+17 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	11 2
+18 Kya almari ka akaar ladoo sey badaa hai?	haan	12 1
+19 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	11 2
+20 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	15 5
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Dabbaa ka akaar almari se badaa hai.
+3 Almari dabbe ke andar samaa sakta hai.
+4 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	5 1
+7 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	5 1
+8 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	5 1
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	5 1
+10 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	5 1
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Ladoo kanastar ke andar samaa sakta hai.
+4 Dabbaa almari ke andar samaa sakta hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 4
+7 Kya ladoo almari ke andar samaa sakti hai?	haan	4 1
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	1 4
+9 Kya ladoo ka akaar almari sey badaa hai?	nahi	1 4
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	4 1
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Dabbaa ka akaar almari se badaa hai.
+5 Almari kanastar ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 3
+7 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 3
+8 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	3 4
+9 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	3 4
+10 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 3
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Ladoo kanastar ke andar samaa sakta hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Dabbaa kanastar ke andar samaa sakta hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	4 1
+7 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	4 1
+8 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 1
+9 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	4 1
+10 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	1 4
+1 Bistra peti ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Bistra peti almari ke andar samaa sakta hai.
+4 Almari ka akaar dabbe se badaa hai.
+5 Kanastar ka akaar ladoo se badaa hai.
+6 Kya almari ka akaar ladoo sey badaa hai?	haan	3 1
+7 Kya almari ka akaar ladoo sey badaa hai?	haan	3 1
+8 Kya almari ka akaar ladoo sey badaa hai?	haan	3 1
+9 Kya ladoo almari ke andar samaa sakti hai?	haan	3 1
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	3 1
+1 Kanastar ka akaar almari se badaa hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Kanastar ka akaar dabbe se badaa hai.
+4 Kanastar ka akaar mithai ke dabbe se badaa hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	2 1
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 2
+8 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 2
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	2 1
+10 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 2
+1 Dabbaa ka akaar bistra peti se badaa hai.
+2 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+3 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+4 Kanastar ka akaar ladoo se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kanastar ka akaar mithai ke dabbe se badaa hai.
+7 Almari ka akaar ladoo se badaa hai.
+8 Bistra peti almari ke andar samaa sakta hai.
+9 Dabbaa kanastar ke andar samaa sakta hai.
+10 Mithai ka dabaa ka akaar ladoo se badaa hai.
+11 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 2
+12 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 2
+13 Kya bistra peti kanastar ke andar samaa sakta hai?	haan	9 1
+14 Kya bistra peti kanastar ke andar samaa sakta hai?	haan	9 1
+15 Kya bistra peti kanastar ke andar samaa sakta hai?	haan	9 1
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Almari dabbe ke andar samaa sakta hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Kanastar ka akaar ladoo se badaa hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Dabbaa kanastar ke andar samaa sakta hai.
+7 Kanastar ka akaar almari se badaa hai.
+8 Kanastar ka akaar ladoo se badaa hai.
+9 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+10 Mithai ka dabaa almari ke andar samaa sakta hai.
+11 Kya almari ladoo ke andar samaa sakta hai?	nahi	9 10
+12 Kya almari ka akaar ladoo sey badaa hai?	haan	10 9
+13 Kya almari ka akaar ladoo sey badaa hai?	haan	10 9
+14 Kya ladoo almari ke andar samaa sakti hai?	haan	10 9
+15 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	10 2
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Kanastar ka akaar ladoo se badaa hai.
+5 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 1
+7 Kya almari ka akaar ladoo sey badaa hai?	haan	1 2
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 1
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 1
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	1 2
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Dabbaa ka akaar almari se badaa hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Dabbaa ka akaar kanastar se badaa hai.
+5 Bistra peti dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 1
+7 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	4 1
+8 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	4 1
+9 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	1 4
+10 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	1 4
+1 Almari bistra peti ke andar samaa sakta hai.
+2 Dabbaa kanastar ke andar samaa sakta hai.
+3 Kanastar ka akaar almari se badaa hai.
+4 Almari dabbe ke andar samaa sakta hai.
+5 Dabbaa kanastar ke andar samaa sakta hai.
+6 Kya kanastar almari ke andar samaa sakti hai?	nahi	4 2
+7 Kya kanastar almari ke andar samaa sakti hai?	nahi	4 2
+8 Kya kanastar almari ke andar samaa sakti hai?	nahi	4 2
+9 Kya almari ka akaar kanastar sey badaa hai?	nahi	4 2
+10 Kya kanastar almari ke andar samaa sakti hai?	nahi	4 2
+1 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Bistra peti ka akaar kanastar se badaa hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Bistra peti ka akaar ladoo se badaa hai.
+6 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+7 Ladoo dabbe ke andar samaa sakta hai.
+8 Almari ka akaar ladoo se badaa hai.
+9 Dabbaa bistra peti ke andar samaa sakta hai.
+10 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+11 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	6 3
+12 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	9 1
+13 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 6
+14 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 6
+15 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	9 1
+1 Almari ka akaar ladoo se badaa hai.
+2 Kanastar ka akaar dabbe se badaa hai.
+3 Almari dabbe ke andar samaa sakta hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+6 Kya almari ka akaar kanastar sey badaa hai?	nahi	3 2
+7 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	1 3
+8 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	1 3
+9 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	1 3
+10 Kya almari kanastar ke andar samaa sakta hai?	haan	2 3
+1 Bistra peti ka akaar dabbe se badaa hai.
+2 Dabbaa ka akaar ladoo se badaa hai.
+3 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	3 1
+7 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	3 1
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 1
+9 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	2 1
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	1 2
+1 Bistra peti ka akaar almari se badaa hai.
+2 Ladoo kanastar ke andar samaa sakta hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Kanastar bistra peti ke andar samaa sakta hai.
+5 Almari bistra peti ke andar samaa sakta hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	4 2
+7 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	4 2
+8 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	4 2
+9 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 4
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	4 2
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Kanastar bistra peti ke andar samaa sakta hai.
+3 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+4 Kanastar bistra peti ke andar samaa sakta hai.
+5 Kanastar dabbe ke andar samaa sakta hai.
+6 Dabbaa ka akaar almari se badaa hai.
+7 Dabbaa ka akaar kanastar se badaa hai.
+8 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+9 Mithai ka dabaa almari ke andar samaa sakta hai.
+10 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+11 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 1
+12 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 1
+13 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	9 6
+14 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	6 9
+15 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	9 6
+1 Bistra peti almari ke andar samaa sakta hai.
+2 Kanastar ka akaar mithai ke dabbe se badaa hai.
+3 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+4 Bistra peti kanastar ke andar samaa sakta hai.
+5 Dabbaa ka akaar kanastar se badaa hai.
+6 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	3 1
+7 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	1 3
+8 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	1 3
+9 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	1 3
+10 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	1 3
+1 Almari bistra peti ke andar samaa sakta hai.
+2 Ladoo bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+4 Bistra peti ka akaar almari se badaa hai.
+5 Dabbaa almari ke andar samaa sakta hai.
+6 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	3 5
+7 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	3 5
+8 Kya bistra peti dabbaa ke andar samaa sakta hai?	nahi	5 1
+9 Kya bistra peti dabbaa ke andar samaa sakta hai?	nahi	5 1
+10 Kya bistra peti dabbaa ke andar samaa sakta hai?	nahi	5 1
+1 Kanastar bistra peti ke andar samaa sakta hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Bistra peti almari ke andar samaa sakta hai.
+5 Mithai ka dabaa almari ke andar samaa sakta hai.
+6 Kya almari ka akaar kanastar sey badaa hai?	haan	4 1
+7 Kya almari kanastar ke andar samaa sakta hai?	nahi	1 4
+8 Kya almari ka akaar kanastar sey badaa hai?	haan	4 1
+9 Kya almari kanastar ke andar samaa sakta hai?	nahi	1 4
+10 Kya kanastar almari ke andar samaa sakti hai?	haan	4 1
+1 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Ladoo bistra peti ke andar samaa sakta hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Kanastar almari ke andar samaa sakta hai.
+6 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	1 5
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 2
+8 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 2
+9 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 2
+10 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	1 5
+1 Almari dabbe ke andar samaa sakta hai.
+2 Kanastar ka akaar bistra peti se badaa hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Kanastar dabbe ke andar samaa sakta hai.
+6 Kya ladoo kanastar ke andar samaa sakta hai?	haan	2 4
+7 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 2
+8 Kya dabbaa ka akaar bistra peti sey badaa hai?	haan	5 2
+9 Kya bistra peti ka akaar dabbaa sey badaa hai?	nahi	2 5
+10 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 2
+1 Kanastar bistra peti ke andar samaa sakta hai.
+2 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+4 Kanastar almari ke andar samaa sakta hai.
+5 Dabbaa almari ke andar samaa sakta hai.
+6 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 2
+7 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 2
+8 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 2
+9 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 2
+10 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	5 2
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Ladoo bistra peti ke andar samaa sakta hai.
+4 Dabbaa ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Ladoo bistra peti ke andar samaa sakta hai.
+7 Dabbaa bistra peti ke andar samaa sakta hai.
+8 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+9 Ladoo kanastar ke andar samaa sakta hai.
+10 Bistra peti ka akaar kanastar se badaa hai.
+11 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	7 1
+12 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	9 10
+13 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	10 9
+14 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	9 10
+15 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	10 9
+1 Almari ka akaar bistra peti se badaa hai.
+2 Kanastar ka akaar mithai ke dabbe se badaa hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Bistra peti dabbe ke andar samaa sakta hai.
+5 Kanastar ka akaar dabbe se badaa hai.
+6 Kya kanastar ka akaar ladoo sey badaa hai?	haan	5 3
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	5 3
+8 Kya ladoo kanastar ke andar samaa sakta hai?	haan	5 3
+9 Kya kanastar ka akaar ladoo sey badaa hai?	haan	5 3
+10 Kya ladoo kanastar ke andar samaa sakta hai?	haan	5 3
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+3 Almari bistra peti ke andar samaa sakta hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Kanastar ka akaar almari se badaa hai.
+6 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	4 3
+7 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+8 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	3 4
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Almari ka akaar ladoo se badaa hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+5 Kanastar almari ke andar samaa sakta hai.
+6 Mithai ka dabaa ka akaar ladoo se badaa hai.
+7 Ladoo dabbe ke andar samaa sakta hai.
+8 Almari ka akaar dabbe se badaa hai.
+9 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+10 Almari ka akaar bistra peti se badaa hai.
+11 Kya ladoo ka akaar almari sey badaa hai?	nahi	6 1
+12 Kya almari ka akaar ladoo sey badaa hai?	haan	8 7
+13 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	10 4
+14 Kya almari ka akaar ladoo sey badaa hai?	haan	8 7
+15 Kya ladoo ka akaar almari sey badaa hai?	nahi	7 8
+1 Ladoo kanastar ke andar samaa sakta hai.
+2 Kanastar ka akaar mithai ke dabbe se badaa hai.
+3 Kanastar bistra peti ke andar samaa sakta hai.
+4 Almari dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Kya bistra peti almari ke andar samaa sakti hai?	nahi	4 5
+7 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 1
+8 Kya bistra peti ka akaar almari sey badaa hai?	haan	5 4
+9 Kya bistra peti almari ke andar samaa sakti hai?	nahi	4 5
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 1
+1 Almari ka akaar ladoo se badaa hai.
+2 Mithai ka dabaa ka akaar ladoo se badaa hai.
+3 Dabbaa kanastar ke andar samaa sakta hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Ladoo bistra peti ke andar samaa sakta hai.
+6 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+7 Ladoo kanastar ke andar samaa sakta hai.
+8 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+9 Bistra peti ka akaar kanastar se badaa hai.
+10 Mithai ka dabaa almari ke andar samaa sakta hai.
+11 Kya ladoo kanastar ke andar samaa sakta hai?	haan	6 2
+12 Kya kanastar ka akaar ladoo sey badaa hai?	haan	6 2
+13 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	2 6
+14 Kya ladoo kanastar ke andar samaa sakta hai?	haan	6 2
+15 Kya kanastar ka akaar ladoo sey badaa hai?	haan	6 2
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Bistra peti ka akaar dabbe se badaa hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Kanastar bistra peti ke andar samaa sakta hai.
+5 Bistra peti ka akaar ladoo se badaa hai.
+6 Kanastar ka akaar dabbe se badaa hai.
+7 Bistra peti ka akaar dabbe se badaa hai.
+8 Bistra peti almari ke andar samaa sakta hai.
+9 Bistra peti ka akaar ladoo se badaa hai.
+10 Kanastar ka akaar mithai ke dabbe se badaa hai.
+11 Kya bistra peti dabbaa ke andar samaa sakta hai?	nahi	6 4
+12 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	10 4
+13 Kya almari ka akaar dabbaa sey badaa hai?	haan	8 2
+14 Kya bistra peti ka akaar dabbaa sey badaa hai?	haan	4 6
+15 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	10 4
+1 Ladoo kanastar ke andar samaa sakta hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Mithai ka dabaa ka akaar ladoo se badaa hai.
+4 Kanastar ka akaar bistra peti se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya ladoo almari ke andar samaa sakti hai?	haan	2 3
+7 Kya ladoo almari ke andar samaa sakti hai?	haan	2 3
+8 Kya ladoo almari ke andar samaa sakti hai?	haan	2 3
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	3 2
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	2 3
+1 Almari ka akaar bistra peti se badaa hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 2
+7 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 2
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 2
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 2
+10 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 2
+1 Kanastar almari ke andar samaa sakta hai.
+2 Ladoo bistra peti ke andar samaa sakta hai.
+3 Kanastar almari ke andar samaa sakta hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Dabbaa almari ke andar samaa sakta hai.
+7 Dabbaa almari ke andar samaa sakta hai.
+8 Ladoo bistra peti ke andar samaa sakta hai.
+9 Kanastar dabbe ke andar samaa sakta hai.
+10 Kanastar ka akaar ladoo se badaa hai.
+11 Kya almari ladoo ke andar samaa sakta hai?	nahi	10 1
+12 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	9 5
+13 Kya ladoo ka akaar almari sey badaa hai?	nahi	10 1
+14 Kya ladoo ka akaar almari sey badaa hai?	nahi	10 1
+15 Kya ladoo ka akaar almari sey badaa hai?	nahi	10 1
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Kanastar ka akaar mithai ke dabbe se badaa hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Almari bistra peti ke andar samaa sakta hai.
+5 Kanastar dabbe ke andar samaa sakta hai.
+6 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	5 2
+7 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	2 5
+8 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	5 2
+9 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	5 2
+10 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	5 2
+1 Almari ka akaar kanastar se badaa hai.
+2 Dabbaa almari ke andar samaa sakta hai.
+3 Dabbaa bistra peti ke andar samaa sakta hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 2
+7 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 2
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 2
+9 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 2
+10 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 2
+1 Almari ka akaar ladoo se badaa hai.
+2 Kanastar ka akaar bistra peti se badaa hai.
+3 Bistra peti kanastar ke andar samaa sakta hai.
+4 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+5 Almari ka akaar ladoo se badaa hai.
+6 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+7 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+8 Kanastar ka akaar bistra peti se badaa hai.
+9 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+10 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+11 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	9 2
+12 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	9 2
+13 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	6 4
+14 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	6 4
+15 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	9 2
+1 Kanastar ka akaar bistra peti se badaa hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Bistra peti kanastar ke andar samaa sakta hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+7 Dabbaa kanastar ke andar samaa sakta hai.
+8 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+9 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+10 Kanastar ka akaar ladoo se badaa hai.
+11 Kya ladoo ka akaar almari sey badaa hai?	nahi	6 2
+12 Kya almari ladoo ke andar samaa sakta hai?	nahi	6 2
+13 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	7 4
+14 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	7 4
+15 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	7 4
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Dabbaa almari ke andar samaa sakta hai.
+5 Bistra peti dabbe ke andar samaa sakta hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	1 4
+7 Kya ladoo ka akaar almari sey badaa hai?	nahi	1 4
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 4
+9 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	5 2
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	4 1
+1 Ladoo almari ke andar samaa sakta hai.
+2 Kanastar ka akaar ladoo se badaa hai.
+3 Ladoo kanastar ke andar samaa sakta hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa almari ke andar samaa sakta hai.
+6 Kya almari ka akaar ladoo sey badaa hai?	haan	5 4
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 5
+8 Kya almari ka akaar ladoo sey badaa hai?	haan	5 4
+9 Kya almari ka akaar ladoo sey badaa hai?	haan	5 4
+10 Kya ladoo almari ke andar samaa sakti hai?	haan	5 4
+1 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+2 Ladoo bistra peti ke andar samaa sakta hai.
+3 Kanastar ka akaar bistra peti se badaa hai.
+4 Dabbaa ka akaar kanastar se badaa hai.
+5 Kanastar almari ke andar samaa sakta hai.
+6 Kya ladoo kanastar ke andar samaa sakta hai?	haan	3 2
+7 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 1
+8 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	2 3
+9 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	5 1
+10 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	2 3
+1 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+2 Dabbaa ka akaar bistra peti se badaa hai.
+3 Almari dabbe ke andar samaa sakta hai.
+4 Kanastar ka akaar mithai ke dabbe se badaa hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	2 5
+7 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	2 5
+8 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	5 2
+9 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	5 2
+10 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	2 5
+1 Bistra peti ka akaar dabbe se badaa hai.
+2 Almari ka akaar ladoo se badaa hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+6 Bistra peti ka akaar kanastar se badaa hai.
+7 Dabbaa ka akaar kanastar se badaa hai.
+8 Dabbaa ka akaar kanastar se badaa hai.
+9 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+10 Kanastar almari ke andar samaa sakta hai.
+11 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	7 1
+12 Kya bistra peti ka akaar kanastar sey badaa hai?	haan	1 7
+13 Kya kanastar ka akaar bistra peti sey badaa hai?	nahi	7 1
+14 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	9 6
+15 Kya kanastar ka akaar bistra peti sey badaa hai?	nahi	7 1
+1 Kanastar ka akaar bistra peti se badaa hai.
+2 Mithai ka dabaa ka akaar ladoo se badaa hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Ladoo almari ke andar samaa sakta hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 1
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 4
+8 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 1
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 1
+10 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 4
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Dabbaa bistra peti ke andar samaa sakta hai.
+3 Bistra peti ka akaar kanastar se badaa hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	5 3
+7 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	3 5
+8 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 3
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 5
+10 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 3
+1 Bistra peti ka akaar almari se badaa hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Kanastar bistra peti ke andar samaa sakta hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+6 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	2 1
+7 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	2 1
+8 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	2 1
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	1 2
+10 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	2 1
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Kanastar ka akaar ladoo se badaa hai.
+3 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+4 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+5 Ladoo bistra peti ke andar samaa sakta hai.
+6 Almari dabbe ke andar samaa sakta hai.
+7 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+8 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+9 Dabbaa ka akaar almari se badaa hai.
+10 Bistra peti dabbe ke andar samaa sakta hai.
+11 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 10
+12 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	5 10
+13 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 10
+14 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	10 5
+15 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 10
+1 Bistra peti almari ke andar samaa sakta hai.
+2 Mithai ka dabaa ka akaar ladoo se badaa hai.
+3 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Kanastar ka akaar bistra peti se badaa hai.
+6 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 3
+7 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 3
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 1
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 1
+10 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 3
+1 Bistra peti dabbe ke andar samaa sakta hai.
+2 Bistra peti kanastar ke andar samaa sakta hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Almari ka akaar mithai ke dabbe se badaa hai.
+5 Bistra peti kanastar ke andar samaa sakta hai.
+6 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+7 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+8 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	3 1
+9 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+10 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	3 1
+1 Kanastar bistra peti ke andar samaa sakta hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Kanastar ka akaar almari se badaa hai.
+4 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	5 1
+7 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	2 4
+8 Kya almari bistra peti ke andar samaa sakti hai?	haan	1 3
+9 Kya bistra peti almari ke andar samaa sakti hai?	nahi	3 1
+10 Kya bistra peti ka akaar almari sey badaa hai?	haan	1 3
+1 Kanastar dabbe ke andar samaa sakta hai.
+2 Ladoo bistra peti ke andar samaa sakta hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+5 Kanastar dabbe ke andar samaa sakta hai.
+6 Bistra peti ka akaar dabbe se badaa hai.
+7 Ladoo kanastar ke andar samaa sakta hai.
+8 Almari ka akaar kanastar se badaa hai.
+9 Almari ka akaar mithai ke dabbe se badaa hai.
+10 Bistra peti ka akaar ladoo se badaa hai.
+11 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	7 1
+12 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	7 1
+13 Kya kanastar bistra peti ke andar samaa sakti hai?	haan	6 1
+14 Kya kanastar bistra peti ke andar samaa sakti hai?	haan	6 1
+15 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	7 1
+1 Dabbaa kanastar ke andar samaa sakta hai.
+2 Bistra peti kanastar ke andar samaa sakta hai.
+3 Dabbaa kanastar ke andar samaa sakta hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Bistra peti dabbe ke andar samaa sakta hai.
+6 Kya kanastar bistra peti ke andar samaa sakti hai?	nahi	5 1
+7 Kya kanastar bistra peti ke andar samaa sakti hai?	nahi	5 1
+8 Kya kanastar bistra peti ke andar samaa sakti hai?	nahi	5 1
+9 Kya kanastar bistra peti ke andar samaa sakti hai?	nahi	5 1
+10 Kya bistra peti ka akaar kanastar sey badaa hai?	nahi	5 1
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Bistra peti ka akaar dabbe se badaa hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 1
+7 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	1 2
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 2
+9 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 2
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+1 Almari dabbe ke andar samaa sakta hai.
+2 Kanastar almari ke andar samaa sakta hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Almari bistra peti ke andar samaa sakta hai.
+5 Dabbaa ka akaar kanastar se badaa hai.
+6 Kya kanastar dabbaa ke andar samaa sakta hai?	haan	1 2
+7 Kya dabbaa ka akaar kanastar sey badaa hai?	haan	1 2
+8 Kya dabbaa ka akaar kanastar sey badaa hai?	haan	1 2
+9 Kya dabbaa ka akaar kanastar sey badaa hai?	haan	1 2
+10 Kya dabbaa kanastar ke andar samaa sakta hai?	nahi	2 1
+1 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Almari ka akaar dabbe se badaa hai.
+4 Mithai ka dabaa almari ke andar samaa sakta hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Almari ka akaar dabbe se badaa hai.
+7 Ladoo dabbe ke andar samaa sakta hai.
+8 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+9 Almari ka akaar mithai ke dabbe se badaa hai.
+10 Dabbaa kanastar ke andar samaa sakta hai.
+11 Kya almari ladoo ke andar samaa sakta hai?	nahi	7 3
+12 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	8 3
+13 Kya ladoo ka akaar almari sey badaa hai?	nahi	7 3
+14 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	8 3
+15 Kya ladoo ka akaar almari sey badaa hai?	nahi	7 3
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Dabbaa bistra peti ke andar samaa sakta hai.
+3 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+4 Kanastar ka akaar mithai ke dabbe se badaa hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	2 5
+7 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	5 2
+8 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	2 5
+9 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	2 5
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	2 5
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar bistra peti se badaa hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Kanastar ka akaar ladoo se badaa hai.
+6 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	4 2
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	3 1
+8 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	4 2
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	2 4
+10 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	3 1
+1 Bistra peti ka akaar dabbe se badaa hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	1 5
+7 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 1
+8 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 1
+9 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 1
+10 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	5 1
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Almari kanastar ke andar samaa sakta hai.
+3 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Kanastar ka akaar almari se badaa hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 2
+7 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 2
+8 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 2
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 2
+10 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 2
+1 Almari kanastar ke andar samaa sakta hai.
+2 Mithai ka dabaa ka akaar ladoo se badaa hai.
+3 Almari bistra peti ke andar samaa sakta hai.
+4 Kanastar ka akaar dabbe se badaa hai.
+5 Kanastar ka akaar dabbe se badaa hai.
+6 Almari ka akaar ladoo se badaa hai.
+7 Bistra peti kanastar ke andar samaa sakta hai.
+8 Mithai ka dabaa ka akaar ladoo se badaa hai.
+9 Almari dabbe ke andar samaa sakta hai.
+10 Dabbaa kanastar ke andar samaa sakta hai.
+11 Kya kanastar ka akaar almari sey badaa hai?	haan	7 3
+12 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	6 1
+13 Kya almari ka akaar kanastar sey badaa hai?	nahi	3 7
+14 Kya kanastar ka akaar almari sey badaa hai?	haan	7 3
+15 Kya kanastar almari ke andar samaa sakti hai?	nahi	3 7
+1 Dabbaa ka akaar bistra peti se badaa hai.
+2 Bistra peti dabbe ke andar samaa sakta hai.
+3 Ladoo bistra peti ke andar samaa sakta hai.
+4 Dabbaa ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+7 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+8 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	3 1
+9 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+10 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Kanastar ka akaar dabbe se badaa hai.
+3 Almari ka akaar dabbe se badaa hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Bistra peti ka akaar ladoo se badaa hai.
+6 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	4 2
+7 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	4 2
+8 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	4 2
+9 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	4 2
+10 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	4 2
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Dabbaa almari ke andar samaa sakta hai.
+3 Bistra peti kanastar ke andar samaa sakta hai.
+4 Bistra peti almari ke andar samaa sakta hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Ladoo almari ke andar samaa sakta hai.
+7 Ladoo bistra peti ke andar samaa sakta hai.
+8 Bistra peti almari ke andar samaa sakta hai.
+9 Almari ka akaar mithai ke dabbe se badaa hai.
+10 Bistra peti almari ke andar samaa sakta hai.
+11 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	7 3
+12 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	7 3
+13 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	7 3
+14 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	7 3
+15 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	7 3
+1 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Dabbaa bistra peti ke andar samaa sakta hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 1
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 1
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 2
+9 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	5 1
+10 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	2 1
+1 Kanastar ka akaar dabbe se badaa hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	2 1
+7 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	4 3
+9 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 2
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Kanastar almari ke andar samaa sakta hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 1
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 1
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 1
+9 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 1
+10 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 1
+1 Kanastar ka akaar bistra peti se badaa hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	2 1
+7 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	1 2
+8 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	2 1
+9 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	1 2
+10 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	2 1
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Almari ka akaar ladoo se badaa hai.
+3 Kanastar bistra peti ke andar samaa sakta hai.
+4 Dabbaa bistra peti ke andar samaa sakta hai.
+5 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+6 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	1 4
+7 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	3 5
+8 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 5
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 5
+10 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	1 4
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Dabbaa ka akaar kanastar se badaa hai.
+4 Kanastar bistra peti ke andar samaa sakta hai.
+5 Dabbaa bistra peti ke andar samaa sakta hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+7 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 1
+8 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+10 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 1
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Dabbaa almari ke andar samaa sakta hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Kanastar ka akaar mithai ke dabbe se badaa hai.
+5 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+6 Bistra peti ka akaar ladoo se badaa hai.
+7 Dabbaa bistra peti ke andar samaa sakta hai.
+8 Kanastar ka akaar mithai ke dabbe se badaa hai.
+9 Bistra peti almari ke andar samaa sakta hai.
+10 Almari ka akaar ladoo se badaa hai.
+11 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	9 5
+12 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	9 5
+13 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	9 5
+14 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	9 5
+15 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	9 5
+1 Almari bistra peti ke andar samaa sakta hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Kanastar ka akaar almari se badaa hai.
+5 Kanastar ka akaar dabbe se badaa hai.
+6 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+7 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 1
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 1
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	1 3
+10 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Kanastar ka akaar mithai ke dabbe se badaa hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	5 1
+7 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	5 1
+8 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	5 1
+9 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	5 1
+10 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	5 1
+1 Kanastar dabbe ke andar samaa sakta hai.
+2 Bistra peti ka akaar almari se badaa hai.
+3 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+4 Almari ka akaar kanastar se badaa hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya bistra peti ka akaar kanastar sey badaa hai?	haan	2 4
+7 Kya bistra peti ka akaar kanastar sey badaa hai?	haan	2 4
+8 Kya kanastar bistra peti ke andar samaa sakti hai?	haan	2 4
+9 Kya bistra peti ka akaar kanastar sey badaa hai?	haan	2 4
+10 Kya bistra peti ka akaar kanastar sey badaa hai?	haan	2 4
+1 Almari ka akaar dabbe se badaa hai.
+2 Kanastar bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar kanastar se badaa hai.
+4 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+5 Bistra peti almari ke andar samaa sakta hai.
+6 Kya almari kanastar ke andar samaa sakta hai?	nahi	3 1
+7 Kya almari ka akaar kanastar sey badaa hai?	haan	1 3
+8 Kya kanastar almari ke andar samaa sakti hai?	haan	1 3
+9 Kya kanastar almari ke andar samaa sakti hai?	haan	5 2
+10 Kya almari kanastar ke andar samaa sakta hai?	nahi	3 1
+1 Almari ka akaar kanastar se badaa hai.
+2 Bistra peti ka akaar kanastar se badaa hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Bistra peti ka akaar kanastar se badaa hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Bistra peti dabbe ke andar samaa sakta hai.
+7 Bistra peti ka akaar ladoo se badaa hai.
+8 Dabbaa ka akaar ladoo se badaa hai.
+9 Kanastar ka akaar ladoo se badaa hai.
+10 Kanastar bistra peti ke andar samaa sakta hai.
+11 Kya ladoo ka akaar almari sey badaa hai?	nahi	9 1
+12 Kya almari ladoo ke andar samaa sakta hai?	nahi	9 1
+13 Kya ladoo ka akaar almari sey badaa hai?	nahi	9 1
+14 Kya almari ladoo ke andar samaa sakta hai?	nahi	9 1
+15 Kya almari ladoo ke andar samaa sakta hai?	nahi	9 1
+1 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Ladoo kanastar ke andar samaa sakta hai.
+5 Kanastar ka akaar dabbe se badaa hai.
+6 Bistra peti almari ke andar samaa sakta hai.
+7 Kanastar ka akaar ladoo se badaa hai.
+8 Ladoo bistra peti ke andar samaa sakta hai.
+9 Dabbaa bistra peti ke andar samaa sakta hai.
+10 Ladoo bistra peti ke andar samaa sakta hai.
+11 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	1 6
+12 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	6 1
+13 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	6 1
+14 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	6 1
+15 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	1 6
+1 Kanastar ka akaar almari se badaa hai.
+2 Bistra peti ka akaar almari se badaa hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	3 1
+7 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 1
+8 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 1
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	3 1
+10 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	3 1
+1 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+2 Bistra peti ka akaar almari se badaa hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Almari kanastar ke andar samaa sakta hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 5
+7 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 1
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 5
+9 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 5
+10 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 5
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+4 Mithai ka dabaa almari ke andar samaa sakta hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+7 Kanastar ka akaar mithai ke dabbe se badaa hai.
+8 Ladoo almari ke andar samaa sakta hai.
+9 Almari ka akaar mithai ke dabbe se badaa hai.
+10 Bistra peti ka akaar dabbe se badaa hai.
+11 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	10 3
+12 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	10 3
+13 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	10 3
+14 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	10 3
+15 Ladoo bistra peti ke andar samaa sakta hai.
+16 Mithai ka dabaa ka akaar ladoo se badaa hai.
+17 Ladoo almari ke andar samaa sakta hai.
+18 Almari bistra peti ke andar samaa sakta hai.
+19 Dabbaa almari ke andar samaa sakta hai.
+20 Kya almari ladoo ke andar samaa sakta hai?	nahi	16 1
+21 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	10 3
+22 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	19 3
+23 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	19 3
+24 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	10 3
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Ladoo kanastar ke andar samaa sakta hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 2
+7 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 2
+8 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	2 1
+9 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 2
+10 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 2
+1 Kanastar bistra peti ke andar samaa sakta hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Bistra peti ka akaar kanastar se badaa hai.
+4 Bistra peti ka akaar kanastar se badaa hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Mithai ka dabaa ka akaar ladoo se badaa hai.
+7 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+8 Kanastar bistra peti ke andar samaa sakta hai.
+9 Almari ka akaar kanastar se badaa hai.
+10 Ladoo bistra peti ke andar samaa sakta hai.
+11 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	7 5
+12 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	7 5
+13 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	7 5
+14 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	7 5
+15 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	7 5
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+3 Kanastar ka akaar ladoo se badaa hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 3
+7 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 3
+8 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	3 4
+9 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 3
+10 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 3
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Almari ka akaar kanastar se badaa hai.
+3 Kanastar dabbe ke andar samaa sakta hai.
+4 Kanastar almari ke andar samaa sakta hai.
+5 Kanastar ka akaar ladoo se badaa hai.
+6 Kya ladoo almari ke andar samaa sakti hai?	haan	4 1
+7 Kya ladoo almari ke andar samaa sakti hai?	haan	2 1
+8 Kya ladoo almari ke andar samaa sakti hai?	haan	2 1
+9 Kya ladoo almari ke andar samaa sakti hai?	haan	4 1
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	4 1
+1 Mithai ka dabaa ka akaar ladoo se badaa hai.
+2 Dabbaa ka akaar bistra peti se badaa hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	5 2
+7 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	5 2
+8 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	2 5
+9 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	5 2
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+1 Bistra peti dabbe ke andar samaa sakta hai.
+2 Bistra peti kanastar ke andar samaa sakta hai.
+3 Kanastar ka akaar ladoo se badaa hai.
+4 Bistra peti dabbe ke andar samaa sakta hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+7 Almari ka akaar mithai ke dabbe se badaa hai.
+8 Dabbaa ka akaar ladoo se badaa hai.
+9 Almari dabbe ke andar samaa sakta hai.
+10 Kanastar ka akaar mithai ke dabbe se badaa hai.
+11 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	6 5
+12 Kya almari ka akaar ladoo sey badaa hai?	haan	7 5
+13 Kya kanastar ka akaar ladoo sey badaa hai?	haan	10 5
+14 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	5 6
+15 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	9 7
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Bistra peti kanastar ke andar samaa sakta hai.
+5 Bistra peti ka akaar dabbe se badaa hai.
+6 Kya kanastar ka akaar ladoo sey badaa hai?	haan	4 1
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	4 1
+8 Kya kanastar ka akaar ladoo sey badaa hai?	haan	4 1
+9 Kya kanastar ka akaar ladoo sey badaa hai?	haan	4 1
+10 Kya kanastar ka akaar ladoo sey badaa hai?	haan	4 1
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Almari ka akaar dabbe se badaa hai.
+3 Kanastar ka akaar ladoo se badaa hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Almari ka akaar mithai ke dabbe se badaa hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 2
+7 Kya ladoo ka akaar almari sey badaa hai?	nahi	1 2
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 2
+9 Kya almari ka akaar ladoo sey badaa hai?	haan	2 1
+10 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 2
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Almari bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar kanastar se badaa hai.
+4 Ladoo kanastar ke andar samaa sakta hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	1 3
+7 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 5
+8 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	3 1
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	5 1
+10 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	3 1
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Kanastar dabbe ke andar samaa sakta hai.
+3 Bistra peti ka akaar almari se badaa hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya almari ka akaar ladoo sey badaa hai?	haan	1 4
+7 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	1 3
+8 Kya ladoo almari ke andar samaa sakti hai?	haan	1 4
+9 Kya ladoo ka akaar almari sey badaa hai?	nahi	4 1
+10 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 3
+1 Ladoo kanastar ke andar samaa sakta hai.
+2 Kanastar ka akaar bistra peti se badaa hai.
+3 Almari dabbe ke andar samaa sakta hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 1
+7 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 1
+8 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 1
+9 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 1
+10 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 1
+1 Bistra peti ka akaar dabbe se badaa hai.
+2 Dabbaa almari ke andar samaa sakta hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Bistra peti ka akaar kanastar se badaa hai.
+6 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 1
+7 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 1
+8 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+9 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+10 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Bistra peti kanastar ke andar samaa sakta hai.
+3 Bistra peti ka akaar dabbe se badaa hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya kanastar ka akaar dabbaa sey badaa hai?	haan	2 3
+7 Kya kanastar ka akaar dabbaa sey badaa hai?	haan	2 3
+8 Kya kanastar ka akaar dabbaa sey badaa hai?	haan	2 3
+9 Kya kanastar ka akaar dabbaa sey badaa hai?	haan	2 3
+10 Kya kanastar dabbaa ke andar samaa sakta hai?	nahi	3 2
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+4 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+5 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+6 Bistra peti ka akaar kanastar se badaa hai.
+7 Dabbaa almari ke andar samaa sakta hai.
+8 Dabbaa bistra peti ke andar samaa sakta hai.
+9 Kanastar bistra peti ke andar samaa sakta hai.
+10 Dabbaa almari ke andar samaa sakta hai.
+11 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	7 3
+12 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	7 3
+13 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	8 3
+14 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	7 3
+15 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	10 3
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Kanastar bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+5 Kanastar ka akaar ladoo se badaa hai.
+6 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	2 5
+7 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	5 2
+8 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	5 2
+9 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	2 5
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	2 5
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Almari ka akaar dabbe se badaa hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Kanastar ka akaar almari se badaa hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Kya kanastar ka akaar dabbaa sey badaa hai?	haan	4 2
+7 Kya dabbaa ka akaar kanastar sey badaa hai?	nahi	2 4
+8 Kya dabbaa ka akaar kanastar sey badaa hai?	nahi	2 4
+9 Kya dabbaa ka akaar kanastar sey badaa hai?	nahi	2 4
+10 Kya dabbaa ka akaar kanastar sey badaa hai?	nahi	2 4
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Almari ka akaar bistra peti se badaa hai.
+3 Bistra peti ka akaar dabbe se badaa hai.
+4 Dabbaa ka akaar ladoo se badaa hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Kya almari ka akaar ladoo sey badaa hai?	haan	2 1
+7 Kya almari ka akaar ladoo sey badaa hai?	haan	2 1
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 2
+9 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	3 4
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	2 1
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	5 2
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	2 5
+8 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	2 5
+9 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	2 5
+10 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	5 2
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Dabbaa bistra peti ke andar samaa sakta hai.
+3 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	2 1
+7 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	1 2
+8 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	2 1
+9 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	1 2
+10 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 2
+1 Mithai ka dabaa ka akaar ladoo se badaa hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Ladoo dabbe ke andar samaa sakta hai.
+4 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya almari ka akaar ladoo sey badaa hai?	haan	2 1
+7 Kya ladoo almari ke andar samaa sakti hai?	haan	2 1
+8 Kya ladoo almari ke andar samaa sakti hai?	haan	2 1
+9 Kya ladoo almari ke andar samaa sakti hai?	haan	2 1
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	2 1
+1 Bistra peti ka akaar ladoo se badaa hai.
+2 Dabbaa almari ke andar samaa sakta hai.
+3 Ladoo bistra peti ke andar samaa sakta hai.
+4 Dabbaa ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	4 2
+7 Kya ladoo almari ke andar samaa sakti hai?	haan	2 4
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 2
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 2
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	2 4
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar kanastar se badaa hai.
+3 Almari ka akaar kanastar se badaa hai.
+4 Kanastar almari ke andar samaa sakta hai.
+5 Dabbaa bistra peti ke andar samaa sakta hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+7 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	1 5
+8 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+9 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	1 5
+10 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 1
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Dabbaa ka akaar ladoo se badaa hai.
+3 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Bistra peti kanastar ke andar samaa sakta hai.
+6 Dabbaa ka akaar ladoo se badaa hai.
+7 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+8 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+9 Ladoo bistra peti ke andar samaa sakta hai.
+10 Dabbaa kanastar ke andar samaa sakta hai.
+11 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	8 1
+12 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	10 1
+13 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	9 5
+14 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	5 7
+15 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	5 7
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Almari ka akaar kanastar se badaa hai.
+3 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+4 Dabbaa ka akaar bistra peti se badaa hai.
+5 Almari ka akaar mithai ke dabbe se badaa hai.
+6 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+7 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+8 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+9 Bistra peti ka akaar ladoo se badaa hai.
+10 Dabbaa ka akaar ladoo se badaa hai.
+11 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 8
+12 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	9 4
+13 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	6 1
+14 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	8 4
+15 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	4 8
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+5 Mithai ka dabaa almari ke andar samaa sakta hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 2
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 2
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	4 2
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 2
+10 Kya almari ladoo ke andar samaa sakta hai?	nahi	4 2
+1 Bistra peti ka akaar almari se badaa hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Dabbaa bistra peti ke andar samaa sakta hai.
+4 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+5 Kanastar ka akaar dabbe se badaa hai.
+6 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	3 4
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 2
+8 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 2
+9 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	2 4
+10 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 2
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+3 Ladoo kanastar ke andar samaa sakta hai.
+4 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Dabbaa almari ke andar samaa sakta hai.
+7 Dabbaa ka akaar ladoo se badaa hai.
+8 Ladoo almari ke andar samaa sakta hai.
+9 Dabbaa ka akaar kanastar se badaa hai.
+10 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+11 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	9 1
+12 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	6 2
+13 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	6 2
+14 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	9 1
+15 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	9 1
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Almari bistra peti ke andar samaa sakta hai.
+3 Dabbaa bistra peti ke andar samaa sakta hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Bistra peti ka akaar ladoo se badaa hai.
+6 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	2 1
+7 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 2
+8 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	2 1
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	2 1
+10 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 2
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Ladoo dabbe ke andar samaa sakta hai.
+5 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+6 Kya almari ka akaar ladoo sey badaa hai?	haan	3 2
+7 Kya almari ka akaar ladoo sey badaa hai?	haan	3 2
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 3
+9 Kya almari ka akaar ladoo sey badaa hai?	haan	3 2
+10 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 3
+1 Almari ka akaar ladoo se badaa hai.
+2 Dabbaa ka akaar ladoo se badaa hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Kanastar almari ke andar samaa sakta hai.
+5 Kanastar ka akaar ladoo se badaa hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 4
+7 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 4
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 4
+9 Kya almari ka akaar ladoo sey badaa hai?	haan	4 5
+10 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 4
+1 Bistra peti kanastar ke andar samaa sakta hai.
+2 Mithai ka dabaa ka akaar ladoo se badaa hai.
+3 Kanastar ka akaar mithai ke dabbe se badaa hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	2 3
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	3 2
+8 Kya ladoo kanastar ke andar samaa sakta hai?	haan	5 2
+9 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	2 3
+10 Kya kanastar ka akaar ladoo sey badaa hai?	haan	5 2
+1 Almari dabbe ke andar samaa sakta hai.
+2 Bistra peti kanastar ke andar samaa sakta hai.
+3 Almari ka akaar bistra peti se badaa hai.
+4 Dabbaa ka akaar kanastar se badaa hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Kya bistra peti dabbaa ke andar samaa sakta hai?	haan	4 2
+7 Kya bistra peti dabbaa ke andar samaa sakta hai?	haan	4 2
+8 Kya bistra peti ka akaar dabbaa sey badaa hai?	nahi	2 4
+9 Kya bistra peti ka akaar dabbaa sey badaa hai?	nahi	2 4
+10 Kya bistra peti dabbaa ke andar samaa sakta hai?	haan	1 3
+1 Kanastar ka akaar bistra peti se badaa hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Dabbaa ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+7 Mithai ka dabaa ka akaar ladoo se badaa hai.
+8 Bistra peti kanastar ke andar samaa sakta hai.
+9 Kanastar ka akaar bistra peti se badaa hai.
+10 Ladoo dabbe ke andar samaa sakta hai.
+11 Kya ladoo ka akaar almari sey badaa hai?	nahi	7 3
+12 Kya almari ladoo ke andar samaa sakta hai?	nahi	7 3
+13 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	1 6
+14 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	1 6
+15 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	1 6
+1 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+2 Almari dabbe ke andar samaa sakta hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+5 Kanastar ka akaar ladoo se badaa hai.
+6 Kya ladoo almari ke andar samaa sakti hai?	haan	3 1
+7 Kya ladoo almari ke andar samaa sakti hai?	haan	3 1
+8 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	2 3
+9 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	3 2
+10 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	2 3
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Almari ka akaar kanastar se badaa hai.
+4 Ladoo dabbe ke andar samaa sakta hai.
+5 Almari ka akaar kanastar se badaa hai.
+6 Kanastar ka akaar dabbe se badaa hai.
+7 Dabbaa almari ke andar samaa sakta hai.
+8 Ladoo almari ke andar samaa sakta hai.
+9 Ladoo dabbe ke andar samaa sakta hai.
+10 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+11 Kya almari ka akaar ladoo sey badaa hai?	haan	7 1
+12 Kya ladoo kanastar ke andar samaa sakta hai?	haan	6 1
+13 Kya almari dabbaa ke andar samaa sakta hai?	nahi	6 3
+14 Kya ladoo kanastar ke andar samaa sakta hai?	haan	6 1
+15 Kya dabbaa ka akaar almari sey badaa hai?	nahi	6 3
+1 Almari dabbe ke andar samaa sakta hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Kanastar almari ke andar samaa sakta hai.
+4 Kanastar ka akaar mithai ke dabbe se badaa hai.
+5 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 2
+7 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	2 4
+8 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	2 4
+9 Kya kanastar ka akaar dabbaa sey badaa hai?	nahi	3 1
+10 Kya kanastar ka akaar dabbaa sey badaa hai?	nahi	3 1
+1 Almari kanastar ke andar samaa sakta hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Bistra peti dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar ladoo se badaa hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 2
+7 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 2
+8 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 2
+9 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 2
+10 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	4 2
+1 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+2 Almari ka akaar bistra peti se badaa hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Kanastar bistra peti ke andar samaa sakta hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya kanastar ka akaar almari sey badaa hai?	nahi	4 2
+7 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	1 4
+8 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	4 1
+9 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 4
+10 Kya almari kanastar ke andar samaa sakta hai?	nahi	4 2
+1 Ladoo kanastar ke andar samaa sakta hai.
+2 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Kanastar ka akaar almari se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Bistra peti kanastar ke andar samaa sakta hai.
+7 Ladoo kanastar ke andar samaa sakta hai.
+8 Mithai ka dabaa almari ke andar samaa sakta hai.
+9 Almari ka akaar ladoo se badaa hai.
+10 Mithai ka dabaa almari ke andar samaa sakta hai.
+11 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	4 8
+12 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	4 8
+13 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	10 4
+14 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	8 4
+15 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	6 2
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Dabbaa almari ke andar samaa sakta hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 4
+7 Kya almari ka akaar ladoo sey badaa hai?	haan	4 1
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	1 4
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	1 4
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	4 1
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Kanastar ka akaar mithai ke dabbe se badaa hai.
+3 Almari kanastar ke andar samaa sakta hai.
+4 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+5 Almari ka akaar mithai ke dabbe se badaa hai.
+6 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	3 5
+7 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	3 5
+8 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	5 3
+9 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	3 5
+10 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	3 5
+1 Bistra peti ka akaar ladoo se badaa hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+4 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 3
+7 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	5 3
+8 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 3
+9 Kya kanastar ka akaar ladoo sey badaa hai?	haan	4 3
+10 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	3 4
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Kanastar ka akaar dabbe se badaa hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Ladoo kanastar ke andar samaa sakta hai.
+5 Kanastar ka akaar almari se badaa hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	1 2
+7 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	3 5
+8 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	1 2
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	1 2
+10 Kya kanastar ka akaar ladoo sey badaa hai?	haan	2 1
+1 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+2 Kanastar almari ke andar samaa sakta hai.
+3 Ladoo bistra peti ke andar samaa sakta hai.
+4 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+5 Bistra peti ka akaar almari se badaa hai.
+6 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 4
+7 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	2 5
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 4
+9 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	2 5
+10 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	1 4
+1 Almari ka akaar bistra peti se badaa hai.
+2 Kanastar ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa ka akaar ladoo se badaa hai.
+4 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	4 1
+7 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	4 1
+8 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	3 2
+9 Kya kanastar ka akaar ladoo sey badaa hai?	haan	2 3
+10 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	1 4
+1 Kanastar dabbe ke andar samaa sakta hai.
+2 Kanastar bistra peti ke andar samaa sakta hai.
+3 Kanastar ka akaar mithai ke dabbe se badaa hai.
+4 Dabbaa almari ke andar samaa sakta hai.
+5 Kanastar bistra peti ke andar samaa sakta hai.
+6 Kya almari ka akaar kanastar sey badaa hai?	haan	4 1
+7 Kya kanastar ka akaar almari sey badaa hai?	nahi	1 4
+8 Kya kanastar almari ke andar samaa sakti hai?	haan	4 1
+9 Kya kanastar almari ke andar samaa sakti hai?	haan	4 1
+10 Kya almari kanastar ke andar samaa sakta hai?	nahi	1 4
+1 Dabbaa ka akaar bistra peti se badaa hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Mithai ka dabaa ka akaar ladoo se badaa hai.
+4 Dabbaa ka akaar kanastar se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya kanastar ka akaar ladoo sey badaa hai?	haan	5 2
+7 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	5 4
+8 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	5 4
+9 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 5
+10 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	4 5
+1 Almari ka akaar ladoo se badaa hai.
+2 Ladoo kanastar ke andar samaa sakta hai.
+3 Bistra peti dabbe ke andar samaa sakta hai.
+4 Bistra peti dabbe ke andar samaa sakta hai.
+5 Almari ka akaar mithai ke dabbe se badaa hai.
+6 Almari ka akaar ladoo se badaa hai.
+7 Kanastar ka akaar ladoo se badaa hai.
+8 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+9 Kanastar ka akaar bistra peti se badaa hai.
+10 Almari ka akaar dabbe se badaa hai.
+11 Kya bistra peti almari ke andar samaa sakti hai?	haan	10 3
+12 Kya almari ka akaar bistra peti sey badaa hai?	haan	10 3
+13 Kya almari ka akaar ladoo sey badaa hai?	haan	5 8
+14 Kya almari ka akaar ladoo sey badaa hai?	haan	5 8
+15 Kya almari ladoo ke andar samaa sakta hai?	nahi	8 5
+1 Dabbaa ka akaar kanastar se badaa hai.
+2 Ladoo kanastar ke andar samaa sakta hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Almari ka akaar mithai ke dabbe se badaa hai.
+6 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	1 2
+7 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	1 2
+8 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	1 2
+9 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	2 1
+10 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	2 1
+1 Bistra peti ka akaar almari se badaa hai.
+2 Almari kanastar ke andar samaa sakta hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Mithai ka dabaa almari ke andar samaa sakta hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	4 1
+7 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+8 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	4 1
+9 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+10 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 1
+1 Ladoo almari ke andar samaa sakta hai.
+2 Kanastar ka akaar ladoo se badaa hai.
+3 Almari ka akaar kanastar se badaa hai.
+4 Kanastar ka akaar ladoo se badaa hai.
+5 Ladoo almari ke andar samaa sakta hai.
+6 Kya almari ka akaar ladoo sey badaa hai?	haan	3 2
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 3
+8 Kya ladoo almari ke andar samaa sakti hai?	haan	3 2
+9 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 3
+10 Kya ladoo almari ke andar samaa sakti hai?	haan	3 2
+1 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+2 Bistra peti ka akaar dabbe se badaa hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Dabbaa ka akaar kanastar se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	4 2
+7 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	4 5
+8 Kya kanastar bistra peti ke andar samaa sakti hai?	haan	2 4
+9 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	4 2
+10 Kya bistra peti ka akaar kanastar sey badaa hai?	haan	2 4
+1 Bistra peti ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar kanastar se badaa hai.
+3 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+4 Almari dabbe ke andar samaa sakta hai.
+5 Almari bistra peti ke andar samaa sakta hai.
+6 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+7 Mithai ka dabaa ka akaar ladoo se badaa hai.
+8 Bistra peti ka akaar almari se badaa hai.
+9 Ladoo kanastar ke andar samaa sakta hai.
+10 Bistra peti ka akaar kanastar se badaa hai.
+11 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	7 3
+12 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	7 3
+13 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	3 6
+14 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	7 3
+15 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	9 2
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Kanastar ka akaar ladoo se badaa hai.
+4 Kanastar ka akaar mithai ke dabbe se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Almari bistra peti ke andar samaa sakta hai.
+7 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+8 Ladoo bistra peti ke andar samaa sakta hai.
+9 Mithai ka dabaa almari ke andar samaa sakta hai.
+10 Ladoo almari ke andar samaa sakta hai.
+11 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	6 9
+12 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	6 9
+13 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	10 6
+14 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	6 9
+15 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	6 9
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Almari dabbe ke andar samaa sakta hai.
+3 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+4 Dabbaa ka akaar ladoo se badaa hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Almari kanastar ke andar samaa sakta hai.
+7 Dabbaa ka akaar ladoo se badaa hai.
+8 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+9 Bistra peti ka akaar ladoo se badaa hai.
+10 Ladoo kanastar ke andar samaa sakta hai.
+11 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+12 Kanastar ka akaar mithai ke dabbe se badaa hai.
+13 Ladoo bistra peti ke andar samaa sakta hai.
+14 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+15 Almari kanastar ke andar samaa sakta hai.
+16 Dabbaa ka akaar ladoo se badaa hai.
+17 Ladoo dabbe ke andar samaa sakta hai.
+18 Ladoo kanastar ke andar samaa sakta hai.
+19 Bistra peti almari ke andar samaa sakta hai.
+20 Kanastar ka akaar mithai ke dabbe se badaa hai.
+21 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	19 3
+22 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	19 3
+23 Kya dabbaa bistra peti ke andar samaa sakti hai?	nahi	19 2
+24 Kya dabbaa bistra peti ke andar samaa sakti hai?	nahi	19 2
+25 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	19 3
+1 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Kanastar dabbe ke andar samaa sakta hai.
+4 Ladoo kanastar ke andar samaa sakta hai.
+5 Kanastar dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	3 4
+7 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	3 4
+8 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	4 3
+9 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	4 3
+10 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	3 4
+1 Dabbaa ka akaar ladoo se badaa hai.
+2 Kanastar ka akaar bistra peti se badaa hai.
+3 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Almari ka akaar kanastar se badaa hai.
+6 Kya bistra peti ka akaar dabbaa sey badaa hai?	nahi	2 4
+7 Kya dabbaa ka akaar bistra peti sey badaa hai?	haan	4 2
+8 Kya dabbaa ka akaar bistra peti sey badaa hai?	haan	4 2
+9 Kya dabbaa ka akaar bistra peti sey badaa hai?	haan	4 2
+10 Kya dabbaa ka akaar bistra peti sey badaa hai?	haan	4 2
+1 Almari ka akaar dabbe se badaa hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Dabbaa kanastar ke andar samaa sakta hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Almari ka akaar dabbe se badaa hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 1
+7 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 1
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 1
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 1
+10 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 1
+1 Almari ka akaar ladoo se badaa hai.
+2 Ladoo kanastar ke andar samaa sakta hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Kanastar almari ke andar samaa sakta hai.
+5 Mithai ka dabaa almari ke andar samaa sakta hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 4
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 4
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 4
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 4
+10 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 4
+1 Ladoo bistra peti ke andar samaa sakta hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Kanastar ka akaar almari se badaa hai.
+4 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	5 2
+7 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	5 2
+8 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	5 2
+9 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	5 2
+10 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	5 2
+1 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Kanastar bistra peti ke andar samaa sakta hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Almari bistra peti ke andar samaa sakta hai.
+7 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+8 Almari ka akaar ladoo se badaa hai.
+9 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+10 Almari ka akaar ladoo se badaa hai.
+11 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	4 6
+12 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	6 4
+13 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	4 6
+14 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	4 6
+15 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	4 6
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar dabbe se badaa hai.
+3 Bistra peti ka akaar almari se badaa hai.
+4 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar kanastar se badaa hai.
+6 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 1
+7 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	5 1
+8 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 1
+9 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	1 5
+10 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	1 5
+1 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+2 Kanastar bistra peti ke andar samaa sakta hai.
+3 Bistra peti ka akaar almari se badaa hai.
+4 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+5 Mithai ka dabaa almari ke andar samaa sakta hai.
+6 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 3
+7 Kya almari ka akaar ladoo sey badaa hai?	haan	5 1
+8 Kya ladoo almari ke andar samaa sakti hai?	haan	5 1
+9 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 3
+10 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	5 3
+1 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+2 Kanastar ka akaar bistra peti se badaa hai.
+3 Dabbaa almari ke andar samaa sakta hai.
+4 Kanastar ka akaar dabbe se badaa hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	5 1
+7 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 5
+8 Kya ladoo kanastar ke andar samaa sakta hai?	haan	1 5
+9 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	5 1
+10 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 5
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Bistra peti ka akaar almari se badaa hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+7 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	3 4
+8 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	3 4
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+1 Kanastar dabbe ke andar samaa sakta hai.
+2 Dabbaa ka akaar ladoo se badaa hai.
+3 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	4 3
+7 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	3 4
+8 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 4
+10 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	4 3
+1 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Bistra peti ka akaar kanastar se badaa hai.
+4 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+5 Mithai ka dabaa ka akaar ladoo se badaa hai.
+6 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 1
+7 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 1
+8 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	5 1
+9 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 1
+10 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 1
+1 Bistra peti ka akaar kanastar se badaa hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Bistra peti ka akaar kanastar se badaa hai.
+4 Kanastar almari ke andar samaa sakta hai.
+5 Dabbaa ka akaar almari se badaa hai.
+6 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	5 2
+7 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	5 2
+8 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	5 2
+9 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	5 2
+10 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	5 2
+1 Bistra peti kanastar ke andar samaa sakta hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Ladoo kanastar ke andar samaa sakta hai.
+4 Kanastar ka akaar almari se badaa hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	5 1
+7 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 2
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 5
+9 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	5 1
+10 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	1 5
+1 Kanastar ka akaar bistra peti se badaa hai.
+2 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+3 Kanastar ka akaar mithai ke dabbe se badaa hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Dabbaa ka akaar bistra peti se badaa hai.
+6 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+7 Ladoo dabbe ke andar samaa sakta hai.
+8 Mithai ka dabaa ka akaar ladoo se badaa hai.
+9 Mithai ka dabaa almari ke andar samaa sakta hai.
+10 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+11 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	10 1
+12 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	10 1
+13 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	10 1
+14 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	10 1
+15 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	10 1
+1 Bistra peti ka akaar ladoo se badaa hai.
+2 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+3 Bistra peti ka akaar ladoo se badaa hai.
+4 Bistra peti ka akaar kanastar se badaa hai.
+5 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+6 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	4 2
+7 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	4 2
+8 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	4 2
+9 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	2 4
+10 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	2 4
+1 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Kanastar bistra peti ke andar samaa sakta hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Bistra peti ka akaar kanastar se badaa hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	1 2
+7 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	1 2
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 1
+9 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	1 2
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	1 2
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Bistra peti ka akaar kanastar se badaa hai.
+4 Bistra peti ka akaar almari se badaa hai.
+5 Kanastar ka akaar ladoo se badaa hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 1
+7 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 1
+8 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	3 1
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 1
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	3 1
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Kanastar bistra peti ke andar samaa sakta hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+6 Kanastar dabbe ke andar samaa sakta hai.
+7 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+8 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+9 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+10 Ladoo almari ke andar samaa sakta hai.
+11 Dabbaa bistra peti ke andar samaa sakta hai.
+12 Bistra peti ka akaar kanastar se badaa hai.
+13 Ladoo bistra peti ke andar samaa sakta hai.
+14 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+15 Kanastar ka akaar mithai ke dabbe se badaa hai.
+16 Kya ladoo ka akaar almari sey badaa hai?	nahi	14 1
+17 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	11 2
+18 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	11 2
+19 Kya ladoo ka akaar almari sey badaa hai?	nahi	14 1
+20 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	15 3
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Dabbaa ka akaar almari se badaa hai.
+4 Ladoo kanastar ke andar samaa sakta hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	3 2
+7 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	3 2
+8 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	3 2
+9 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	3 2
+10 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	3 2
+1 Mithai ka dabaa ka akaar ladoo se badaa hai.
+2 Bistra peti ka akaar ladoo se badaa hai.
+3 Bistra peti ka akaar dabbe se badaa hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	5 3
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 1
+8 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	5 3
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 5
+10 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 5
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Almari ka akaar ladoo se badaa hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Ladoo dabbe ke andar samaa sakta hai.
+5 Almari dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 2
+7 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	5 2
+8 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	5 2
+9 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	5 2
+10 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 2
+1 Dabbaa kanastar ke andar samaa sakta hai.
+2 Ladoo almari ke andar samaa sakta hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Bistra peti ka akaar almari se badaa hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	3 1
+7 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	3 1
+8 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 3
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	3 1
+10 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	5 2
+1 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+2 Kanastar ka akaar bistra peti se badaa hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Bistra peti almari ke andar samaa sakta hai.
+6 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	5 1
+7 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	1 2
+8 Kya almari ka akaar mithai ka dabaa sey badaa hai?	haan	5 1
+9 Kya kanastar ka akaar mithai ka dabaa sey badaa hai?	haan	2 1
+10 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	1 2
+1 Almari ka akaar ladoo se badaa hai.
+2 Almari ka akaar bistra peti se badaa hai.
+3 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+4 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+5 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 3
+7 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 3
+8 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 3
+9 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 3
+10 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 3
+1 Kanastar ka akaar dabbe se badaa hai.
+2 Almari ka akaar dabbe se badaa hai.
+3 Dabbaa kanastar ke andar samaa sakta hai.
+4 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+5 Kanastar ka akaar dabbe se badaa hai.
+6 Dabbaa ka akaar ladoo se badaa hai.
+7 Ladoo kanastar ke andar samaa sakta hai.
+8 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+9 Almari ka akaar dabbe se badaa hai.
+10 Bistra peti ka akaar dabbe se badaa hai.
+11 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	6 1
+12 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	6 1
+13 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	6 1
+14 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	6 1
+15 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	6 1
+1 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+2 Kanastar bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar almari se badaa hai.
+4 Dabbaa ka akaar almari se badaa hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Ladoo kanastar ke andar samaa sakta hai.
+7 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+8 Kanastar almari ke andar samaa sakta hai.
+9 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+10 Almari ka akaar bistra peti se badaa hai.
+11 Kya dabbaa bistra peti ke andar samaa sakti hai?	nahi	10 3
+12 Kya bistra peti ka akaar dabbaa sey badaa hai?	nahi	10 3
+13 Kya ladoo bistra peti ke andar samaa sakti hai?	haan	2 6
+14 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	6 2
+15 Kya bistra peti ka akaar dabbaa sey badaa hai?	nahi	10 3
+1 Dabbaa bistra peti ke andar samaa sakta hai.
+2 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+3 Almari ka akaar dabbe se badaa hai.
+4 Mithai ka dabaa ka akaar ladoo se badaa hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	4 2
+7 Kya ladoo kanastar ke andar samaa sakta hai?	haan	2 4
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	5 1
+9 Kya ladoo kanastar ke andar samaa sakta hai?	haan	2 4
+10 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	4 2
+1 Kanastar ka akaar ladoo se badaa hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Kanastar ka akaar almari se badaa hai.
+4 Kanastar ka akaar ladoo se badaa hai.
+5 Almari kanastar ke andar samaa sakta hai.
+6 Dabbaa ka akaar bistra peti se badaa hai.
+7 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+8 Dabbaa ka akaar almari se badaa hai.
+9 Dabbaa ka akaar ladoo se badaa hai.
+10 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+11 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	2 7
+12 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	2 7
+13 Kya kanastar ka akaar ladoo sey badaa hai?	haan	10 2
+14 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	7 2
+15 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	7 6
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Almari dabbe ke andar samaa sakta hai.
+4 Ladoo bistra peti ke andar samaa sakta hai.
+5 Almari ka akaar ladoo se badaa hai.
+6 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	1 3
+7 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	1 3
+8 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	1 3
+9 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	3 1
+10 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	1 3
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+4 Almari dabbe ke andar samaa sakta hai.
+5 Dabbaa ka akaar almari se badaa hai.
+6 Ladoo dabbe ke andar samaa sakta hai.
+7 Almari ka akaar ladoo se badaa hai.
+8 Dabbaa ka akaar ladoo se badaa hai.
+9 Kanastar ka akaar ladoo se badaa hai.
+10 Ladoo almari ke andar samaa sakta hai.
+11 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 4
+12 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 4
+13 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 4
+14 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	10 4
+15 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	10 4
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Dabbaa ka akaar ladoo se badaa hai.
+3 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+4 Dabbaa almari ke andar samaa sakta hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Kya almari ladoo ke andar samaa sakta hai?	nahi	3 1
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	3 1
+8 Kya almari ka akaar ladoo sey badaa hai?	haan	1 3
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	3 1
+10 Kya almari ka akaar ladoo sey badaa hai?	haan	4 2
+1 Bistra peti ka akaar ladoo se badaa hai.
+2 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Dabbaa almari ke andar samaa sakta hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya ladoo almari ke andar samaa sakti hai?	haan	4 5
+7 Kya ladoo almari ke andar samaa sakti hai?	haan	4 5
+8 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 4
+9 Kya ladoo almari ke andar samaa sakti hai?	haan	4 5
+10 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 4
+1 Kanastar ka akaar almari se badaa hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Dabbaa almari ke andar samaa sakta hai.
+4 Almari ka akaar mithai ke dabbe se badaa hai.
+5 Ladoo almari ke andar samaa sakta hai.
+6 Kya dabbaa kanastar ke andar samaa sakta hai?	haan	1 3
+7 Kya kanastar ladoo ke andar samaa sakta hai?	nahi	5 1
+8 Kya dabbaa kanastar ke andar samaa sakta hai?	haan	1 3
+9 Kya mithai ka dabaa ka akaar kanastar sey badaa hai?	nahi	4 1
+10 Kya kanastar dabbaa ke andar samaa sakta hai?	nahi	3 1
+1 Dabbaa bistra peti ke andar samaa sakta hai.
+2 Ladoo bistra peti ke andar samaa sakta hai.
+3 Dabbaa ka akaar ladoo se badaa hai.
+4 Ladoo almari ke andar samaa sakta hai.
+5 Kanastar ka akaar dabbe se badaa hai.
+6 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	1 3
+7 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 1
+8 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 1
+9 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	1 3
+10 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 1
+1 Ladoo kanastar ke andar samaa sakta hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Almari ka akaar ladoo se badaa hai.
+5 Bistra peti ka akaar almari se badaa hai.
+6 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	5 2
+7 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	5 2
+8 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	5 2
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	5 2
+10 Kya bistra peti ka akaar mithai ka dabaa sey badaa hai?	haan	5 2
+1 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+2 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Kanastar ka akaar almari se badaa hai.
+5 Almari dabbe ke andar samaa sakta hai.
+6 Kya ladoo kanastar ke andar samaa sakta hai?	haan	4 3
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 3
+8 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	3 4
+9 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	5 3
+10 Kya ladoo kanastar ke andar samaa sakta hai?	haan	4 3
+1 Dabbaa almari ke andar samaa sakta hai.
+2 Dabbaa kanastar ke andar samaa sakta hai.
+3 Almari ka akaar ladoo se badaa hai.
+4 Dabbaa ka akaar ladoo se badaa hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	4 1
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 1
+8 Kya ladoo ka akaar almari sey badaa hai?	nahi	5 1
+9 Kya ladoo ka akaar almari sey badaa hai?	nahi	4 1
+10 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 1
+1 Ladoo dabbe ke andar samaa sakta hai.
+2 Mithai ka dabaa ka akaar ladoo se badaa hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Kanastar dabbe ke andar samaa sakta hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 3
+7 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 3
+8 Kya almari ka akaar ladoo sey badaa hai?	haan	3 2
+9 Kya almari ladoo ke andar samaa sakta hai?	nahi	2 3
+10 Kya ladoo ka akaar almari sey badaa hai?	nahi	2 3
+1 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+2 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Dabbaa ka akaar kanastar se badaa hai.
+5 Ladoo kanastar ke andar samaa sakta hai.
+6 Kya ladoo ka akaar dabbaa sey badaa hai?	nahi	5 4
+7 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	4 5
+8 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 4
+9 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 4
+10 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	5 4
+1 Dabbaa almari ke andar samaa sakta hai.
+2 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+3 Bistra peti kanastar ke andar samaa sakta hai.
+4 Kanastar ka akaar bistra peti se badaa hai.
+5 Dabbaa ka akaar ladoo se badaa hai.
+6 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	2 3
+7 Kya almari ladoo ke andar samaa sakta hai?	nahi	5 1
+8 Kya kanastar mithai ka dabaa ke andar samaa sakta hai?	nahi	2 3
+9 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	4 2
+10 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	4 2
+1 Kanastar almari ke andar samaa sakta hai.
+2 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Bistra peti ka akaar dabbe se badaa hai.
+5 Almari ka akaar dabbe se badaa hai.
+6 Kanastar ka akaar ladoo se badaa hai.
+7 Almari ka akaar kanastar se badaa hai.
+8 Kanastar dabbe ke andar samaa sakta hai.
+9 Kanastar ka akaar ladoo se badaa hai.
+10 Bistra peti ka akaar dabbe se badaa hai.
+11 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	8 4
+12 Kya bistra peti kanastar ke andar samaa sakta hai?	nahi	8 4
+13 Kya kanastar ka akaar bistra peti sey badaa hai?	nahi	8 4
+14 Kya ladoo ka akaar almari sey badaa hai?	nahi	9 1
+15 Kya ladoo ka akaar almari sey badaa hai?	nahi	9 1
+1 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Mithai ka dabaa almari ke andar samaa sakta hai.
+4 Dabbaa ka akaar bistra peti se badaa hai.
+5 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+6 Bistra peti almari ke andar samaa sakta hai.
+7 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+8 Kanastar ka akaar mithai ke dabbe se badaa hai.
+9 Mithai ka dabaa almari ke andar samaa sakta hai.
+10 Almari dabbe ke andar samaa sakta hai.
+11 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	10 2
+12 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	10 2
+13 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	7 4
+14 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	10 2
+15 Kya mithai ka dabaa ka akaar dabbaa sey badaa hai?	nahi	7 4
+1 Almari ka akaar ladoo se badaa hai.
+2 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+3 Almari ka akaar mithai ke dabbe se badaa hai.
+4 Almari ka akaar kanastar se badaa hai.
+5 Dabbaa kanastar ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar almari sey badaa hai?	nahi	5 4
+7 Kya almari ka akaar dabbaa sey badaa hai?	haan	4 5
+8 Kya mithai ka dabaa kanastar ke andar samaa sakta hai?	haan	5 2
+9 Kya almari ka akaar dabbaa sey badaa hai?	haan	4 5
+10 Kya almari ka akaar dabbaa sey badaa hai?	haan	4 5
+1 Almari dabbe ke andar samaa sakta hai.
+2 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+3 Ladoo almari ke andar samaa sakta hai.
+4 Bistra peti ka akaar ladoo se badaa hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar ladoo sey badaa hai?	haan	1 3
+7 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+8 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+9 Kya ladoo dabbaa ke andar samaa sakta hai?	haan	1 3
+10 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	3 1
+1 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+2 Almari ka akaar mithai ke dabbe se badaa hai.
+3 Kanastar ka akaar ladoo se badaa hai.
+4 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+5 Ladoo almari ke andar samaa sakta hai.
+6 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+7 Bistra peti ka akaar kanastar se badaa hai.
+8 Bistra peti ka akaar mithai ke dabbe se badaa hai.
+9 Ladoo dabbe ke andar samaa sakta hai.
+10 Mithai ka dabaa ka akaar ladoo se badaa hai.
+11 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 1
+12 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	10 1
+13 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 7
+14 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	3 7
+15 Kya ladoo ka akaar bistra peti sey badaa hai?	nahi	3 7
+1 Dabbaa ka akaar almari se badaa hai.
+2 Ladoo kanastar ke andar samaa sakta hai.
+3 Kanastar dabbe ke andar samaa sakta hai.
+4 Almari ka akaar mithai ke dabbe se badaa hai.
+5 Almari dabbe ke andar samaa sakta hai.
+6 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	1 4
+7 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	1 4
+8 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	4 1
+9 Kya dabbaa ladoo ke andar samaa sakta hai?	nahi	2 3
+10 Kya dabbaa mithai ka dabaa ke andar samaa sakta hai?	nahi	4 1
+1 Almari ka akaar mithai ke dabbe se badaa hai.
+2 Mithai ka dabaa almari ke andar samaa sakta hai.
+3 Bistra peti almari ke andar samaa sakta hai.
+4 Kanastar ka akaar mithai ke dabbe se badaa hai.
+5 Almari ka akaar mithai ke dabbe se badaa hai.
+6 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+7 Kanastar ka akaar mithai ke dabbe se badaa hai.
+8 Mithai ka dabaa almari ke andar samaa sakta hai.
+9 Kanastar ka akaar mithai ke dabbe se badaa hai.
+10 Almari ka akaar bistra peti se badaa hai.
+11 Kya ladoo ka akaar almari sey badaa hai?	nahi	6 1
+12 Kya ladoo ka akaar almari sey badaa hai?	nahi	6 1
+13 Ladoo almari ke andar samaa sakta hai.
+14 Almari ka akaar mithai ke dabbe se badaa hai.
+15 Mithai ka dabaa almari ke andar samaa sakta hai.
+16 Almari ka akaar dabbe se badaa hai.
+17 Mithai ka dabaa bistra peti ke andar samaa sakta hai.
+18 Kya almari ladoo ke andar samaa sakta hai?	nahi	6 1
+19 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	17 3
+20 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	17 3
+21 Kya mithai ka dabaa ka akaar almari sey badaa hai?	nahi	17 3
+22 Kya almari mithai ka dabaa ke andar samaa sakta hai?	nahi	17 3
+1 Kanastar bistra peti ke andar samaa sakta hai.
+2 Kanastar almari ke andar samaa sakta hai.
+3 Almari dabbe ke andar samaa sakta hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Kanastar ka akaar mithai ke dabbe se badaa hai.
+6 Kya kanastar ka akaar dabbaa sey badaa hai?	nahi	2 3
+7 Kya kanastar dabbaa ke andar samaa sakta hai?	haan	3 2
+8 Kya kanastar dabbaa ke andar samaa sakta hai?	haan	3 2
+9 Kya mithai ka dabaa ka akaar bistra peti sey badaa hai?	nahi	5 1
+10 Kya kanastar dabbaa ke andar samaa sakta hai?	haan	3 2
+1 Kanastar ka akaar mithai ke dabbe se badaa hai.
+2 Bistra peti ka akaar dabbe se badaa hai.
+3 Bistra peti ka akaar kanastar se badaa hai.
+4 Almari ka akaar dabbe se badaa hai.
+5 Ladoo mithai ke dabbe ke andar samaa sakta hai.
+6 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 5
+7 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 1
+8 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 5
+9 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	3 1
+10 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 3
+1 Mithai ka dabaa almari ke andar samaa sakta hai.
+2 Almari bistra peti ke andar samaa sakta hai.
+3 Ladoo kanastar ke andar samaa sakta hai.
+4 Dabbaa bistra peti ke andar samaa sakta hai.
+5 Ladoo dabbe ke andar samaa sakta hai.
+6 Kya bistra peti ladoo ke andar samaa sakta hai?	nahi	5 4
+7 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	2 1
+8 Kya mithai ka dabaa bistra peti ke andar samaa sakti hai?	haan	2 1
+9 Kya bistra peti mithai ka dabaa ke andar samaa sakta hai?	nahi	1 2
+10 Kya bistra peti ka akaar ladoo sey badaa hai?	haan	4 5
+1 Almari ka akaar bistra peti se badaa hai.
+2 Mithai ka dabaa kanastar ke andar samaa sakta hai.
+3 Kanastar ka akaar mithai ke dabbe se badaa hai.
+4 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+5 Mithai ka dabaa dabbe ke andar samaa sakta hai.
+6 Ladoo dabbe ke andar samaa sakta hai.
+7 Almari ka akaar ladoo se badaa hai.
+8 Kanastar dabbe ke andar samaa sakta hai.
+9 Almari ka akaar bistra peti se badaa hai.
+10 Dabbaa ka akaar mithai ke dabbe se badaa hai.
+11 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	8 2
+12 Kya dabbaa ka akaar mithai ka dabaa sey badaa hai?	haan	8 2
+13 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	8 2
+14 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	8 2
+15 Kanastar ka akaar mithai ke dabbe se badaa hai.
+16 Almari dabbe ke andar samaa sakta hai.
+17 Dabbaa ka akaar ladoo se badaa hai.
+18 Almari ka akaar kanastar se badaa hai.
+19 Dabbaa ka akaar ladoo se badaa hai.
+20 Kya bistra peti dabbaa ke andar samaa sakta hai?	haan	16 1
+21 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	18 2
+22 Kya mithai ka dabaa almari ke andar samaa sakti hai?	haan	18 2
+23 Kya bistra peti dabbaa ke andar samaa sakta hai?	haan	16 1
+24 Kya mithai ka dabaa dabbaa ke andar samaa sakta hai?	haan	8 2
+1 Almari kanastar ke andar samaa sakta hai.
+2 Ladoo dabbe ke andar samaa sakta hai.
+3 Ladoo bistra peti ke andar samaa sakta hai.
+4 Dabbaa kanastar ke andar samaa sakta hai.
+5 Almari ka akaar ladoo se badaa hai.
+6 Kya kanastar ka akaar ladoo sey badaa hai?	haan	1 5
+7 Kya ladoo ka akaar kanastar sey badaa hai?	nahi	5 1

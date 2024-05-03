@@ -1,0 +1,5468 @@
+1 Sita gusalkhaney mein gayi.
+2 Priya sayanakaksh mein gayi.
+3 Sita gayend le kar aayi.
+4 Mohit daftar mein gaya.
+5 Badri galiyarey mein gaya.
+6 Sita daftar mein gayi.
+7 Gayend ab kahan hai?	daftar	3 6
+8 Badri seb le aaya.
+9 Badri seb chod aaya.
+10 Seb ab kahan hai?	galiyara	9 5
+11 Priya galiyarey mein gayi.
+12 Mohit dhoodh le kar aaya.
+13 Seb is samay kahan hai?	galiyara	9 5
+14 Mohit bagichey mein gaya.
+15 Mohit dhoodh chod aaya.
+16 Seb is samay kahan hai?	galiyara	9 5
+17 Mohit dhoodh le kar aaya.
+18 Mohit dhoodh chod aaya.
+19 Dhoodh ab kahan hai?	bagicha	18 14
+1 Priya bagichey mein chali gayi.
+2 Sita galiyarey gayi.
+3 Mohit bagichey mein gaya.
+4 Mohit daftar mein chala gaya.
+5 Mohit rasoi ghar mein gaya.
+6 Mohit galiyarey mein gaya.
+7 Badri gusalkhaney mein gaya.
+8 Badri dhoodh le kar aaya.
+9 Sita bagichey gayi.
+10 Sita rasoi ghar gayi.
+11 Sita daftar mein chali gayi.
+12 Badri rasoi ghar mein gaya.
+13 Dhoodh ab kahan hai?	rasoi ghar	8 12
+14 Sita bagichey gayi.
+15 Badri dhoodh chod aaya.
+16 Dhoodh ab kahan hai?	rasoi ghar	15 12
+17 Sita rasoi ghar gayi.
+18 Mohit bagichey mein chala gaya.
+19 Dhoodh ab kahan hai?	rasoi ghar	15 12
+20 Sita sayanakaksh gayi.
+21 Mohit gusalkhaney mein chala gaya.
+22 Dhoodh is samay kahan hai?	rasoi ghar	15 12
+23 Priya daftar gayi.
+24 Sita seb le kar aayi.
+25 Badri gayend le aaya.
+26 Badri dhoodh le kar aaya.
+27 Sita seb chod aayi.
+28 Sita seb le kar aayi.
+29 Sita bagichey mein gayi.
+30 Mohit galiyarey mein chala gaya.
+31 Seb is samay kahan hai?	bagicha	28 29
+1 Mohit gusalkhaney mein chala gaya.
+2 Priya bagichey mein chali gayi.
+3 Badri rasoi ghar mein chala gaya.
+4 Badri daftar mein gaya.
+5 Mohit bagichey mein gaya.
+6 Badri galiyarey gaya.
+7 Mohit rasoi ghar mein gaya.
+8 Priya gusalkhaney mein gayi.
+9 Badri bagichey mein chala gaya.
+10 Mohit bagichey gaya.
+11 Sita seb le kar aayi.
+12 Sita daftar gayi.
+13 Seb is samay kahan hai?	daftar	11 12
+14 Badri galiyarey mein chala gaya.
+15 Sita seb chod aayi.
+16 Seb ab kahan hai?	daftar	15 12
+17 Priya dhoodh le aayi.
+18 Priya bagichey mein chali gayi.
+19 Dhoodh ab kahan hai?	bagicha	17 18
+20 Priya dhoodh chod aayi.
+21 Mohit gusalkhaney mein gaya.
+22 Dhoodh ab kahan hai?	bagicha	20 18
+23 Sita galiyarey gayi.
+24 Badri daftar mein gaya.
+25 Dhoodh ab kahan hai?	bagicha	20 18
+1 Badri daftar mein chala gaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Mohit daftar mein chala gaya.
+4 Mohit galiyarey gaya.
+5 Badri seb le kar aaya.
+6 Priya bagichey mein chali gayi.
+7 Sita galiyarey gayi.
+8 Badri galiyarey mein gaya.
+9 Seb is samay kahan hai?	galiyara	5 8
+10 Badri seb chod aaya.
+11 Badri gusalkhaney mein gaya.
+12 Seb ab kahan hai?	galiyara	10 8
+13 Badri galiyarey mein chala gaya.
+14 Mohit seb le aaya.
+15 Mohit seb chod aaya.
+16 Badri gusalkhaney gaya.
+17 Seb is samay kahan hai?	galiyara	15 4
+18 Mohit daftar mein chala gaya.
+19 Badri rasoi ghar mein chala gaya.
+20 Seb is samay kahan hai?	galiyara	15 4
+21 Priya sayanakaksh gayi.
+22 Priya gusalkhaney mein gayi.
+23 Mohit galiyarey gaya.
+24 Sita daftar gayi.
+25 Badri gayend le kar aaya.
+26 Priya bagichey mein gayi.
+27 Badri gayend chod aaya.
+28 Badri gayend le aaya.
+29 Mohit sayanakaksh mein chala gaya.
+30 Priya rasoi ghar mein gayi.
+31 Badri daftar mein chala gaya.
+32 Mohit bagichey mein chala gaya.
+33 Gayend ab kahan hai?	daftar	28 31
+1 Priya dhoodh le kar aayi.
+2 Badri gusalkhaney gaya.
+3 Priya rasoi ghar mein chali gayi.
+4 Priya dhoodh rakh aayi.
+5 Dhoodh is samay kahan hai?	rasoi ghar	4 3
+6 Priya dhoodh le kar aayi.
+7 Mohit daftar gaya.
+8 Priya dhoodh chod aayi.
+9 Sita sayanakaksh gayi.
+10 Dhoodh ab kahan hai?	rasoi ghar	8 3
+11 Priya daftar gayi.
+12 Priya gusalkhaney mein chali gayi.
+13 Dhoodh ab kahan hai?	rasoi ghar	8 3
+14 Priya sayanakaksh mein gayi.
+15 Mohit gusalkhaney gaya.
+16 Mohit sayanakaksh gaya.
+17 Sita rasoi ghar mein gayi.
+18 Sita dhoodh le aayi.
+19 Sita dhoodh chod aayi.
+20 Dhoodh ab kahan hai?	rasoi ghar	19 17
+21 Priya daftar gayi.
+22 Priya bagichey mein gayi.
+23 Dhoodh is samay kahan hai?	rasoi ghar	19 17
+1 Sita seb le kar aayi.
+2 Mohit galiyarey mein chala gaya.
+3 Badri dhoodh le kar aaya.
+4 Badri dhoodh rakh aaya.
+5 Priya bagichey mein gayi.
+6 Mohit daftar gaya.
+7 Priya gusalkhaney gayi.
+8 Sita seb rakh aayi.
+9 Badri galiyarey mein gaya.
+10 Mohit rasoi ghar mein gaya.
+11 Priya seb le kar aayi.
+12 Badri sayanakaksh mein gaya.
+13 Mohit gusalkhaney mein chala gaya.
+14 Badri gusalkhaney mein gaya.
+15 Priya seb chod aayi.
+16 Priya seb le kar aayi.
+17 Badri galiyarey gaya.
+18 Mohit rasoi ghar mein chala gaya.
+19 Badri rasoi ghar gaya.
+20 Badri gayend le kar aaya.
+21 Badri gayend chod aaya.
+22 Sita galiyarey mein chali gayi.
+23 Gayend is samay kahan hai?	rasoi ghar	21 19
+24 Priya seb rakh aayi.
+25 Badri galiyarey gaya.
+26 Gayend is samay kahan hai?	rasoi ghar	21 19
+27 Priya galiyarey mein chali gayi.
+28 Priya daftar mein gayi.
+29 Seb ab kahan hai?	gusalkhana	24 7
+30 Priya galiyarey mein chali gayi.
+31 Mohit gusalkhaney mein gaya.
+32 Mohit seb le aaya.
+33 Mohit seb rakh aaya.
+34 Seb is samay kahan hai?	gusalkhana	33 31
+35 Badri bagichey mein gaya.
+36 Sita daftar mein gayi.
+37 Seb ab kahan hai?	gusalkhana	33 31
+1 Sita galiyarey mein chali gayi.
+2 Priya dhoodh le aayi.
+3 Priya dhoodh chod aayi.
+4 Priya daftar mein chali gayi.
+5 Priya gayend le kar aayi.
+6 Priya bagichey mein chali gayi.
+7 Gayend ab kahan hai?	bagicha	5 6
+8 Badri daftar mein chala gaya.
+9 Sita rasoi ghar mein chali gayi.
+10 Gayend is samay kahan hai?	bagicha	5 6
+11 Priya sayanakaksh gayi.
+12 Priya seb le aayi.
+13 Priya seb chod aayi.
+14 Priya seb le kar aayi.
+15 Mohit galiyarey mein chala gaya.
+16 Sita gusalkhaney mein gayi.
+17 Priya gayend rakh aayi.
+18 Priya galiyarey mein chali gayi.
+19 Gayend is samay kahan hai?	sayanakaksh	17 11
+20 Priya bagichey mein chali gayi.
+21 Priya seb rakh aayi.
+22 Seb is samay kahan hai?	bagicha	21 20
+23 Priya seb le aayi.
+24 Priya seb rakh aayi.
+25 Seb ab kahan hai?	bagicha	24 20
+1 Badri galiyarey mein chala gaya.
+2 Mohit sayanakaksh mein chala gaya.
+3 Badri seb le aaya.
+4 Sita rasoi ghar mein gayi.
+5 Badri bagichey gaya.
+6 Badri seb chod aaya.
+7 Seb ab kahan hai?	bagicha	6 5
+8 Sita sayanakaksh mein chali gayi.
+9 Sita bagichey gayi.
+10 Seb ab kahan hai?	bagicha	6 5
+11 Sita seb le aayi.
+12 Mohit galiyarey mein gaya.
+13 Badri gayend le kar aaya.
+14 Sita seb rakh aayi.
+15 Seb ab kahan hai?	bagicha	14 9
+16 Sita gusalkhaney mein gayi.
+17 Priya galiyarey gayi.
+18 Seb ab kahan hai?	bagicha	14 9
+19 Badri gayend chod aaya.
+20 Badri seb le kar aaya.
+21 Gayend is samay kahan hai?	bagicha	19 5
+1 Badri rasoi ghar mein chala gaya.
+2 Badri daftar mein gaya.
+3 Sita bagichey mein chali gayi.
+4 Sita gusalkhaney mein chali gayi.
+5 Badri gusalkhaney mein chala gaya.
+6 Priya sayanakaksh mein chali gayi.
+7 Mohit daftar mein gaya.
+8 Priya bagichey mein chali gayi.
+9 Badri sayanakaksh mein chala gaya.
+10 Priya seb le kar aayi.
+11 Sita daftar mein chali gayi.
+12 Sita gusalkhaney mein gayi.
+13 Badri bagichey mein chala gaya.
+14 Sita sayanakaksh mein gayi.
+15 Mohit rasoi ghar mein gaya.
+16 Sita gusalkhaney mein chali gayi.
+17 Sita bagichey gayi.
+18 Mohit sayanakaksh gaya.
+19 Mohit galiyarey mein chala gaya.
+20 Priya seb rakh aayi.
+21 Seb is samay kahan hai?	bagicha	20 8
+22 Badri daftar mein gaya.
+23 Priya sayanakaksh gayi.
+24 Seb ab kahan hai?	bagicha	20 8
+25 Sita rasoi ghar gayi.
+26 Sita galiyarey gayi.
+27 Seb ab kahan hai?	bagicha	20 8
+28 Badri gusalkhaney mein chala gaya.
+29 Sita gayend le kar aayi.
+30 Sita gusalkhaney mein chali gayi.
+31 Sita gayend rakh aayi.
+32 Gayend ab kahan hai?	gusalkhana	31 30
+33 Sita daftar mein gayi.
+34 Badri gayend le kar aaya.
+35 Mohit gusalkhaney gaya.
+36 Mohit galiyarey gaya.
+37 Mohit sayanakaksh mein chala gaya.
+38 Sita bagichey mein gayi.
+39 Badri sayanakaksh gaya.
+40 Sita dhoodh le aayi.
+41 Sita dhoodh chod aayi.
+42 Badri galiyarey gaya.
+43 Dhoodh is samay kahan hai?	bagicha	41 38
+1 Sita rasoi ghar mein gayi.
+2 Priya dhoodh le aayi.
+3 Sita gusalkhaney mein chali gayi.
+4 Sita seb le aayi.
+5 Mohit sayanakaksh mein gaya.
+6 Priya dhoodh chod aayi.
+7 Sita seb chod aayi.
+8 Badri sayanakaksh gaya.
+9 Seb ab kahan hai?	gusalkhana	7 3
+10 Mohit rasoi ghar mein chala gaya.
+11 Sita rasoi ghar gayi.
+12 Seb is samay kahan hai?	gusalkhana	7 3
+13 Priya gusalkhaney mein chali gayi.
+14 Badri bagichey mein gaya.
+15 Sita galiyarey gayi.
+16 Priya daftar mein gayi.
+17 Priya bagichey mein gayi.
+18 Sita bagichey gayi.
+19 Badri gusalkhaney mein chala gaya.
+20 Badri gayend le aaya.
+21 Priya gusalkhaney mein gayi.
+22 Mohit daftar mein gaya.
+23 Priya seb le kar aayi.
+24 Priya bagichey gayi.
+25 Seb ab kahan hai?	bagicha	23 24
+26 Mohit rasoi ghar gaya.
+27 Sita rasoi ghar mein chali gayi.
+28 Seb is samay kahan hai?	bagicha	23 24
+29 Mohit daftar mein gaya.
+30 Mohit rasoi ghar mein chala gaya.
+31 Mohit galiyarey gaya.
+32 Priya seb chod aayi.
+33 Seb ab kahan hai?	bagicha	32 24
+1 Priya rasoi ghar gayi.
+2 Priya gayend le kar aayi.
+3 Priya gayend rakh aayi.
+4 Mohit seb le aaya.
+5 Gayend ab kahan hai?	rasoi ghar	3 1
+6 Priya galiyarey gayi.
+7 Priya bagichey gayi.
+8 Gayend ab kahan hai?	rasoi ghar	3 1
+9 Mohit seb rakh aaya.
+10 Sita sayanakaksh mein chali gayi.
+11 Badri bagichey mein chala gaya.
+12 Priya galiyarey mein gayi.
+13 Badri sayanakaksh mein chala gaya.
+14 Sita gusalkhaney gayi.
+15 Badri daftar gaya.
+16 Mohit daftar mein gaya.
+17 Sita sayanakaksh gayi.
+18 Priya seb le kar aayi.
+19 Mohit galiyarey mein gaya.
+20 Sita gusalkhaney gayi.
+21 Sita galiyarey mein chali gayi.
+22 Sita gusalkhaney gayi.
+23 Sita bagichey gayi.
+24 Badri rasoi ghar mein gaya.
+25 Priya rasoi ghar mein chali gayi.
+26 Sita dhoodh le kar aayi.
+27 Sita rasoi ghar mein chali gayi.
+28 Priya daftar gayi.
+29 Dhoodh is samay kahan hai?	rasoi ghar	26 27
+30 Badri gayend le kar aaya.
+31 Priya seb rakh aayi.
+32 Dhoodh ab kahan hai?	rasoi ghar	26 27
+33 Sita dhoodh rakh aayi.
+34 Badri galiyarey gaya.
+35 Dhoodh is samay kahan hai?	rasoi ghar	33 27
+1 Mohit gayend le kar aaya.
+2 Mohit gusalkhaney mein chala gaya.
+3 Gayend is samay kahan hai?	gusalkhana	1 2
+4 Mohit daftar gaya.
+5 Priya bagichey gayi.
+6 Gayend ab kahan hai?	daftar	1 4
+7 Mohit gayend rakh aaya.
+8 Sita gayend le aayi.
+9 Priya daftar mein gayi.
+10 Mohit rasoi ghar gaya.
+11 Sita bagichey mein chali gayi.
+12 Priya sayanakaksh mein gayi.
+13 Gayend is samay kahan hai?	bagicha	8 11
+14 Mohit galiyarey gaya.
+15 Mohit dhoodh le kar aaya.
+16 Mohit sayanakaksh mein gaya.
+17 Sita sayanakaksh mein chali gayi.
+18 Dhoodh is samay kahan hai?	sayanakaksh	15 16
+19 Mohit dhoodh rakh aaya.
+20 Mohit dhoodh le kar aaya.
+21 Mohit dhoodh chod aaya.
+22 Sita galiyarey gayi.
+23 Dhoodh is samay kahan hai?	sayanakaksh	21 16
+1 Sita gusalkhaney mein chali gayi.
+2 Priya seb le kar aayi.
+3 Mohit galiyarey gaya.
+4 Priya seb rakh aayi.
+5 Priya seb le kar aayi.
+6 Priya sayanakaksh mein chali gayi.
+7 Seb ab kahan hai?	sayanakaksh	5 6
+8 Mohit dhoodh le aaya.
+9 Mohit rasoi ghar gaya.
+10 Seb is samay kahan hai?	sayanakaksh	5 6
+11 Mohit daftar mein chala gaya.
+12 Mohit dhoodh rakh aaya.
+13 Dhoodh ab kahan hai?	daftar	12 11
+14 Priya seb rakh aayi.
+15 Badri gusalkhaney mein chala gaya.
+16 Dhoodh is samay kahan hai?	daftar	12 11
+17 Badri sayanakaksh mein chala gaya.
+18 Priya seb le aayi.
+19 Dhoodh ab kahan hai?	daftar	12 11
+1 Sita rasoi ghar mein gayi.
+2 Mohit daftar gaya.
+3 Badri daftar mein chala gaya.
+4 Priya gayend le kar aayi.
+5 Badri bagichey gaya.
+6 Priya sayanakaksh gayi.
+7 Gayend is samay kahan hai?	sayanakaksh	4 6
+8 Sita bagichey mein gayi.
+9 Badri galiyarey mein chala gaya.
+10 Gayend is samay kahan hai?	sayanakaksh	4 6
+11 Badri gusalkhaney gaya.
+12 Sita gusalkhaney gayi.
+13 Priya gayend rakh aayi.
+14 Priya bagichey mein chali gayi.
+15 Gayend is samay kahan hai?	sayanakaksh	13 6
+16 Badri rasoi ghar mein gaya.
+17 Priya daftar mein gayi.
+18 Gayend is samay kahan hai?	sayanakaksh	13 6
+19 Priya galiyarey mein gayi.
+20 Mohit galiyarey mein chala gaya.
+21 Sita bagichey mein chali gayi.
+22 Mohit daftar gaya.
+23 Badri bagichey mein gaya.
+24 Sita sayanakaksh mein chali gayi.
+25 Sita gayend le aayi.
+26 Sita bagichey mein chali gayi.
+27 Gayend ab kahan hai?	bagicha	25 26
+1 Priya bagichey mein chali gayi.
+2 Sita daftar mein chali gayi.
+3 Badri sayanakaksh gaya.
+4 Sita bagichey mein chali gayi.
+5 Sita gusalkhaney mein chali gayi.
+6 Mohit rasoi ghar mein gaya.
+7 Sita sayanakaksh gayi.
+8 Priya rasoi ghar mein chali gayi.
+9 Sita gusalkhaney mein chali gayi.
+10 Sita seb le kar aayi.
+11 Sita dhoodh le aayi.
+12 Sita seb rakh aayi.
+13 Seb is samay kahan hai?	gusalkhana	12 9
+14 Sita seb le aayi.
+15 Mohit sayanakaksh mein gaya.
+16 Badri bagichey mein chala gaya.
+17 Sita seb chod aayi.
+18 Seb is samay kahan hai?	gusalkhana	17 9
+19 Badri sayanakaksh gaya.
+20 Sita seb le aayi.
+21 Sita dhoodh rakh aayi.
+22 Badri galiyarey mein gaya.
+23 Dhoodh is samay kahan hai?	gusalkhana	21 9
+24 Sita rasoi ghar mein chali gayi.
+25 Badri gayend le aaya.
+26 Seb ab kahan hai?	rasoi ghar	20 24
+27 Sita galiyarey mein chali gayi.
+28 Mohit gusalkhaney mein chala gaya.
+29 Mohit rasoi ghar mein gaya.
+30 Badri gayend rakh aaya.
+31 Gayend ab kahan hai?	galiyara	30 22
+1 Sita gayend le aayi.
+2 Badri galiyarey mein gaya.
+3 Sita gayend chod aayi.
+4 Priya bagichey mein chali gayi.
+5 Sita dhoodh le kar aayi.
+6 Sita gayend le kar aayi.
+7 Sita dhoodh chod aayi.
+8 Badri dhoodh le aaya.
+9 Priya gusalkhaney gayi.
+10 Sita gayend chod aayi.
+11 Mohit daftar gaya.
+12 Sita gayend le aayi.
+13 Mohit seb le kar aaya.
+14 Badri dhoodh rakh aaya.
+15 Dhoodh is samay kahan hai?	galiyara	14 2
+16 Priya sayanakaksh mein gayi.
+17 Sita dhoodh le aayi.
+18 Badri gusalkhaney gaya.
+19 Mohit seb chod aaya.
+20 Seb is samay kahan hai?	daftar	19 11
+21 Badri daftar gaya.
+22 Sita dhoodh rakh aayi.
+23 Seb is samay kahan hai?	daftar	19 11
+24 Sita dhoodh le kar aayi.
+25 Badri gusalkhaney gaya.
+26 Seb is samay kahan hai?	daftar	19 11
+27 Mohit seb le kar aaya.
+28 Priya galiyarey gayi.
+29 Mohit gusalkhaney mein chala gaya.
+30 Mohit seb chod aaya.
+31 Seb ab kahan hai?	gusalkhana	30 29
+1 Mohit gayend le aaya.
+2 Badri sayanakaksh mein chala gaya.
+3 Badri bagichey mein chala gaya.
+4 Badri sayanakaksh gaya.
+5 Mohit gayend rakh aaya.
+6 Sita rasoi ghar mein chali gayi.
+7 Mohit daftar mein gaya.
+8 Priya galiyarey gayi.
+9 Mohit rasoi ghar gaya.
+10 Priya bagichey mein gayi.
+11 Priya sayanakaksh gayi.
+12 Mohit daftar gaya.
+13 Mohit gusalkhaney gaya.
+14 Mohit rasoi ghar gaya.
+15 Mohit seb le kar aaya.
+16 Badri gusalkhaney mein chala gaya.
+17 Sita bagichey gayi.
+18 Mohit dhoodh le aaya.
+19 Priya bagichey mein chali gayi.
+20 Badri galiyarey mein gaya.
+21 Badri gayend le kar aaya.
+22 Badri sayanakaksh mein gaya.
+23 Gayend ab kahan hai?	sayanakaksh	21 22
+24 Mohit dhoodh chod aaya.
+25 Badri gayend rakh aaya.
+26 Gayend ab kahan hai?	sayanakaksh	25 22
+27 Mohit dhoodh le aaya.
+28 Priya daftar gayi.
+29 Gayend is samay kahan hai?	sayanakaksh	25 22
+30 Badri gayend le aaya.
+31 Mohit sayanakaksh mein gaya.
+32 Dhoodh ab kahan hai?	sayanakaksh	27 31
+33 Priya galiyarey gayi.
+34 Badri gayend rakh aaya.
+35 Gayend ab kahan hai?	sayanakaksh	34 22
+1 Priya bagichey mein chali gayi.
+2 Mohit daftar mein chala gaya.
+3 Badri bagichey mein chala gaya.
+4 Priya daftar mein gayi.
+5 Badri seb le aaya.
+6 Mohit galiyarey gaya.
+7 Priya galiyarey gayi.
+8 Badri seb chod aaya.
+9 Seb is samay kahan hai?	bagicha	8 3
+10 Badri dhoodh le aaya.
+11 Badri seb le aaya.
+12 Badri rasoi ghar gaya.
+13 Sita galiyarey gayi.
+14 Dhoodh is samay kahan hai?	rasoi ghar	10 12
+15 Badri gusalkhaney mein gaya.
+16 Badri daftar mein gaya.
+17 Seb is samay kahan hai?	daftar	11 16
+18 Badri galiyarey mein gaya.
+19 Badri bagichey mein gaya.
+20 Sita daftar mein gayi.
+21 Mohit gusalkhaney mein chala gaya.
+22 Mohit gayend le kar aaya.
+23 Sita galiyarey mein gayi.
+24 Badri dhoodh rakh aaya.
+25 Sita daftar gayi.
+26 Dhoodh ab kahan hai?	bagicha	24 19
+27 Priya bagichey mein chali gayi.
+28 Badri seb rakh aaya.
+29 Seb ab kahan hai?	bagicha	28 19
+1 Priya rasoi ghar mein gayi.
+2 Sita seb le aayi.
+3 Priya sayanakaksh gayi.
+4 Priya bagichey mein gayi.
+5 Sita seb rakh aayi.
+6 Priya dhoodh le aayi.
+7 Badri seb le kar aaya.
+8 Badri seb rakh aaya.
+9 Sita rasoi ghar gayi.
+10 Mohit gusalkhaney gaya.
+11 Badri galiyarey mein gaya.
+12 Priya dhoodh rakh aayi.
+13 Dhoodh is samay kahan hai?	bagicha	12 4
+14 Priya dhoodh le kar aayi.
+15 Mohit rasoi ghar gaya.
+16 Sita daftar mein chali gayi.
+17 Sita gusalkhaney mein gayi.
+18 Priya galiyarey gayi.
+19 Priya gayend le aayi.
+20 Mohit daftar mein chala gaya.
+21 Priya bagichey mein chali gayi.
+22 Gayend ab kahan hai?	bagicha	19 21
+23 Mohit seb le kar aaya.
+24 Mohit seb rakh aaya.
+25 Gayend is samay kahan hai?	bagicha	19 21
+26 Priya galiyarey mein chali gayi.
+27 Mohit seb le aaya.
+28 Priya gayend rakh aayi.
+29 Priya dhoodh rakh aayi.
+30 Dhoodh ab kahan hai?	galiyara	29 26
+31 Mohit bagichey mein chala gaya.
+32 Badri bagichey mein chala gaya.
+33 Seb is samay kahan hai?	bagicha	27 31
+1 Mohit rasoi ghar mein gaya.
+2 Sita galiyarey gayi.
+3 Priya gusalkhaney mein gayi.
+4 Sita daftar mein chali gayi.
+5 Sita seb le aayi.
+6 Sita galiyarey gayi.
+7 Seb ab kahan hai?	galiyara	5 6
+8 Badri galiyarey gaya.
+9 Priya dhoodh le kar aayi.
+10 Seb ab kahan hai?	galiyara	5 6
+11 Badri gayend le kar aaya.
+12 Priya daftar mein chali gayi.
+13 Dhoodh is samay kahan hai?	daftar	9 12
+14 Mohit galiyarey mein chala gaya.
+15 Badri daftar gaya.
+16 Dhoodh is samay kahan hai?	daftar	9 12
+17 Sita seb rakh aayi.
+18 Priya dhoodh rakh aayi.
+19 Dhoodh is samay kahan hai?	daftar	18 12
+1 Mohit galiyarey gaya.
+2 Priya seb le aayi.
+3 Priya seb chod aayi.
+4 Sita daftar mein gayi.
+5 Sita seb le kar aayi.
+6 Mohit gusalkhaney mein gaya.
+7 Mohit gayend le kar aaya.
+8 Badri rasoi ghar gaya.
+9 Mohit gayend chod aaya.
+10 Priya bagichey gayi.
+11 Gayend is samay kahan hai?	gusalkhana	9 6
+12 Badri bagichey gaya.
+13 Priya sayanakaksh mein chali gayi.
+14 Gayend ab kahan hai?	gusalkhana	9 6
+15 Mohit gayend le kar aaya.
+16 Mohit sayanakaksh mein chala gaya.
+17 Gayend is samay kahan hai?	sayanakaksh	15 16
+18 Priya daftar gayi.
+19 Mohit rasoi ghar mein gaya.
+20 Gayend is samay kahan hai?	rasoi ghar	15 19
+21 Badri galiyarey mein chala gaya.
+22 Sita seb rakh aayi.
+23 Seb ab kahan hai?	daftar	22 4
+1 Sita sayanakaksh mein chali gayi.
+2 Sita bagichey mein chali gayi.
+3 Sita dhoodh le kar aayi.
+4 Sita daftar mein chali gayi.
+5 Dhoodh ab kahan hai?	daftar	3 4
+6 Sita dhoodh rakh aayi.
+7 Sita rasoi ghar gayi.
+8 Dhoodh ab kahan hai?	daftar	6 4
+9 Mohit rasoi ghar mein chala gaya.
+10 Badri dhoodh le kar aaya.
+11 Badri gusalkhaney gaya.
+12 Badri sayanakaksh gaya.
+13 Dhoodh is samay kahan hai?	sayanakaksh	10 12
+14 Badri dhoodh chod aaya.
+15 Badri seb le aaya.
+16 Dhoodh is samay kahan hai?	sayanakaksh	14 12
+17 Badri seb rakh aaya.
+18 Priya daftar mein gayi.
+19 Dhoodh is samay kahan hai?	sayanakaksh	14 12
+1 Priya daftar mein gayi.
+2 Badri bagichey gaya.
+3 Mohit seb le aaya.
+4 Sita rasoi ghar mein gayi.
+5 Badri gayend le kar aaya.
+6 Sita sayanakaksh mein chali gayi.
+7 Sita gusalkhaney gayi.
+8 Mohit dhoodh le kar aaya.
+9 Badri sayanakaksh mein chala gaya.
+10 Mohit gusalkhaney mein chala gaya.
+11 Dhoodh is samay kahan hai?	gusalkhana	8 10
+12 Mohit dhoodh chod aaya.
+13 Mohit seb rakh aaya.
+14 Dhoodh ab kahan hai?	gusalkhana	12 10
+15 Priya bagichey mein gayi.
+16 Mohit seb le aaya.
+17 Dhoodh is samay kahan hai?	gusalkhana	12 10
+18 Sita sayanakaksh mein chali gayi.
+19 Badri daftar mein gaya.
+20 Mohit dhoodh le aaya.
+21 Mohit sayanakaksh mein gaya.
+22 Seb is samay kahan hai?	sayanakaksh	16 21
+23 Badri gusalkhaney gaya.
+24 Mohit dhoodh chod aaya.
+25 Dhoodh is samay kahan hai?	sayanakaksh	24 21
+1 Mohit rasoi ghar gaya.
+2 Mohit sayanakaksh mein chala gaya.
+3 Mohit rasoi ghar mein chala gaya.
+4 Mohit daftar gaya.
+5 Sita seb le kar aayi.
+6 Badri rasoi ghar mein gaya.
+7 Sita daftar mein chali gayi.
+8 Sita seb chod aayi.
+9 Seb ab kahan hai?	daftar	8 7
+10 Badri sayanakaksh mein chala gaya.
+11 Sita gusalkhaney gayi.
+12 Seb ab kahan hai?	daftar	8 7
+13 Priya bagichey mein gayi.
+14 Priya dhoodh le aayi.
+15 Seb ab kahan hai?	daftar	8 7
+16 Priya dhoodh chod aayi.
+17 Mohit galiyarey mein gaya.
+18 Dhoodh is samay kahan hai?	bagicha	16 13
+19 Priya dhoodh le kar aayi.
+20 Priya dhoodh rakh aayi.
+21 Dhoodh is samay kahan hai?	bagicha	20 13
+1 Mohit daftar mein chala gaya.
+2 Priya gayend le aayi.
+3 Badri dhoodh le kar aaya.
+4 Badri dhoodh chod aaya.
+5 Priya dhoodh le kar aayi.
+6 Mohit sayanakaksh mein gaya.
+7 Sita sayanakaksh gayi.
+8 Mohit daftar mein chala gaya.
+9 Priya gayend chod aayi.
+10 Mohit galiyarey mein gaya.
+11 Priya gayend le aayi.
+12 Sita bagichey mein gayi.
+13 Priya dhoodh chod aayi.
+14 Badri daftar mein chala gaya.
+15 Badri rasoi ghar mein chala gaya.
+16 Priya gayend rakh aayi.
+17 Mohit gusalkhaney gaya.
+18 Mohit sayanakaksh mein chala gaya.
+19 Badri daftar gaya.
+20 Sita daftar gayi.
+21 Priya bagichey mein gayi.
+22 Mohit bagichey gaya.
+23 Sita rasoi ghar mein chali gayi.
+24 Priya daftar mein chali gayi.
+25 Mohit sayanakaksh gaya.
+26 Sita dhoodh le kar aayi.
+27 Sita dhoodh chod aayi.
+28 Mohit galiyarey gaya.
+29 Dhoodh is samay kahan hai?	rasoi ghar	27 23
+30 Sita galiyarey mein chali gayi.
+31 Mohit seb le aaya.
+32 Dhoodh is samay kahan hai?	rasoi ghar	27 23
+33 Priya sayanakaksh gayi.
+34 Priya gusalkhaney mein gayi.
+35 Badri galiyarey mein chala gaya.
+36 Mohit daftar gaya.
+37 Seb ab kahan hai?	daftar	31 36
+38 Mohit gusalkhaney mein chala gaya.
+39 Badri gusalkhaney gaya.
+40 Badri galiyarey mein gaya.
+41 Sita bagichey gayi.
+42 Mohit daftar gaya.
+43 Mohit seb chod aaya.
+44 Seb ab kahan hai?	daftar	43 42
+45 Badri sayanakaksh gaya.
+46 Mohit seb le aaya.
+47 Sita daftar mein chali gayi.
+48 Mohit seb rakh aaya.
+49 Seb ab kahan hai?	daftar	48 42
+1 Sita bagichey mein chali gayi.
+2 Mohit daftar gaya.
+3 Priya galiyarey mein chali gayi.
+4 Priya dhoodh le kar aayi.
+5 Priya gusalkhaney mein chali gayi.
+6 Sita daftar gayi.
+7 Dhoodh is samay kahan hai?	gusalkhana	4 5
+8 Badri rasoi ghar mein gaya.
+9 Sita galiyarey mein gayi.
+10 Dhoodh ab kahan hai?	gusalkhana	4 5
+11 Priya gayend le aayi.
+12 Sita seb le aayi.
+13 Mohit rasoi ghar gaya.
+14 Sita gusalkhaney mein gayi.
+15 Seb ab kahan hai?	gusalkhana	12 14
+16 Badri gusalkhaney mein gaya.
+17 Sita seb chod aayi.
+18 Seb ab kahan hai?	gusalkhana	17 14
+19 Priya seb le aayi.
+20 Priya dhoodh chod aayi.
+21 Dhoodh ab kahan hai?	gusalkhana	20 5
+1 Priya daftar gayi.
+2 Mohit daftar mein gaya.
+3 Sita gusalkhaney mein gayi.
+4 Mohit galiyarey gaya.
+5 Priya bagichey gayi.
+6 Sita daftar mein chali gayi.
+7 Priya rasoi ghar mein gayi.
+8 Badri daftar mein chala gaya.
+9 Badri bagichey gaya.
+10 Badri rasoi ghar gaya.
+11 Priya sayanakaksh gayi.
+12 Badri sayanakaksh gaya.
+13 Badri seb le kar aaya.
+14 Badri seb rakh aaya.
+15 Seb is samay kahan hai?	sayanakaksh	14 12
+16 Badri dhoodh le aaya.
+17 Mohit bagichey mein gaya.
+18 Seb ab kahan hai?	sayanakaksh	14 12
+19 Sita rasoi ghar mein chali gayi.
+20 Badri seb le aaya.
+21 Badri dhoodh rakh aaya.
+22 Sita bagichey mein chali gayi.
+23 Dhoodh ab kahan hai?	sayanakaksh	21 12
+24 Badri dhoodh le aaya.
+25 Badri bagichey mein chala gaya.
+26 Seb is samay kahan hai?	bagicha	20 25
+27 Badri seb rakh aaya.
+28 Badri seb le kar aaya.
+29 Dhoodh is samay kahan hai?	bagicha	24 25
+1 Mohit daftar mein chala gaya.
+2 Badri sayanakaksh gaya.
+3 Badri gusalkhaney mein gaya.
+4 Sita sayanakaksh gayi.
+5 Sita gusalkhaney mein chali gayi.
+6 Badri sayanakaksh mein chala gaya.
+7 Sita rasoi ghar mein gayi.
+8 Badri gayend le kar aaya.
+9 Priya gusalkhaney mein chali gayi.
+10 Badri rasoi ghar gaya.
+11 Gayend ab kahan hai?	rasoi ghar	8 10
+12 Badri gayend chod aaya.
+13 Priya sayanakaksh mein chali gayi.
+14 Gayend ab kahan hai?	rasoi ghar	12 10
+15 Badri seb le aaya.
+16 Sita gayend le aayi.
+17 Badri sayanakaksh mein chala gaya.
+18 Sita gusalkhaney mein gayi.
+19 Seb is samay kahan hai?	sayanakaksh	15 17
+20 Badri seb rakh aaya.
+21 Priya seb le aayi.
+22 Gayend is samay kahan hai?	gusalkhana	16 18
+23 Mohit bagichey mein chala gaya.
+24 Priya bagichey mein chali gayi.
+25 Seb ab kahan hai?	bagicha	21 24
+1 Priya gayend le kar aayi.
+2 Sita dhoodh le kar aayi.
+3 Sita galiyarey mein gayi.
+4 Badri bagichey mein chala gaya.
+5 Dhoodh is samay kahan hai?	galiyara	2 3
+6 Priya rasoi ghar gayi.
+7 Priya gayend chod aayi.
+8 Dhoodh is samay kahan hai?	galiyara	2 3
+9 Priya seb le kar aayi.
+10 Priya seb rakh aayi.
+11 Gayend ab kahan hai?	rasoi ghar	7 6
+12 Priya bagichey gayi.
+13 Priya gusalkhaney mein chali gayi.
+14 Gayend is samay kahan hai?	rasoi ghar	7 6
+15 Priya rasoi ghar mein gayi.
+16 Sita dhoodh rakh aayi.
+17 Seb is samay kahan hai?	rasoi ghar	10 6
+1 Mohit galiyarey mein gaya.
+2 Mohit gusalkhaney mein chala gaya.
+3 Priya gusalkhaney gayi.
+4 Sita dhoodh le kar aayi.
+5 Badri daftar mein chala gaya.
+6 Sita bagichey gayi.
+7 Dhoodh is samay kahan hai?	bagicha	4 6
+8 Sita dhoodh rakh aayi.
+9 Priya daftar mein chali gayi.
+10 Dhoodh ab kahan hai?	bagicha	8 6
+11 Badri sayanakaksh mein chala gaya.
+12 Sita daftar mein chali gayi.
+13 Dhoodh is samay kahan hai?	bagicha	8 6
+14 Mohit sayanakaksh gaya.
+15 Mohit galiyarey mein chala gaya.
+16 Sita seb le aayi.
+17 Badri rasoi ghar mein chala gaya.
+18 Sita seb chod aayi.
+19 Sita sayanakaksh gayi.
+20 Seb ab kahan hai?	daftar	18 12
+21 Sita bagichey mein gayi.
+22 Sita dhoodh le aayi.
+23 Seb ab kahan hai?	daftar	18 12
+1 Mohit galiyarey mein chala gaya.
+2 Badri galiyarey mein chala gaya.
+3 Priya rasoi ghar mein chali gayi.
+4 Sita daftar mein chali gayi.
+5 Priya galiyarey mein chali gayi.
+6 Badri gusalkhaney mein chala gaya.
+7 Badri bagichey gaya.
+8 Badri dhoodh le kar aaya.
+9 Badri sayanakaksh gaya.
+10 Badri rasoi ghar mein gaya.
+11 Dhoodh is samay kahan hai?	rasoi ghar	8 10
+12 Sita bagichey gayi.
+13 Badri bagichey mein chala gaya.
+14 Dhoodh ab kahan hai?	bagicha	8 13
+15 Sita daftar gayi.
+16 Priya rasoi ghar mein gayi.
+17 Mohit gusalkhaney mein chala gaya.
+18 Mohit gayend le kar aaya.
+19 Priya sayanakaksh mein chali gayi.
+20 Mohit bagichey mein gaya.
+21 Gayend ab kahan hai?	bagicha	18 20
+22 Badri dhoodh chod aaya.
+23 Priya seb le kar aayi.
+24 Gayend is samay kahan hai?	bagicha	18 20
+25 Badri sayanakaksh gaya.
+26 Priya seb rakh aayi.
+27 Seb ab kahan hai?	sayanakaksh	26 19
+1 Mohit daftar mein gaya.
+2 Priya rasoi ghar mein chali gayi.
+3 Priya dhoodh le aayi.
+4 Mohit gusalkhaney mein gaya.
+5 Sita bagichey mein gayi.
+6 Mohit gayend le kar aaya.
+7 Priya sayanakaksh gayi.
+8 Badri gusalkhaney gaya.
+9 Mohit rasoi ghar mein chala gaya.
+10 Priya rasoi ghar gayi.
+11 Gayend is samay kahan hai?	rasoi ghar	6 9
+12 Priya dhoodh chod aayi.
+13 Badri rasoi ghar gaya.
+14 Dhoodh ab kahan hai?	rasoi ghar	12 10
+15 Priya dhoodh le aayi.
+16 Sita rasoi ghar mein chali gayi.
+17 Priya dhoodh chod aayi.
+18 Mohit bagichey mein gaya.
+19 Dhoodh ab kahan hai?	rasoi ghar	17 10
+20 Badri sayanakaksh gaya.
+21 Priya gusalkhaney mein gayi.
+22 Dhoodh ab kahan hai?	rasoi ghar	17 10
+23 Mohit gayend rakh aaya.
+24 Badri galiyarey mein gaya.
+25 Gayend ab kahan hai?	bagicha	23 18
+1 Badri sayanakaksh mein gaya.
+2 Priya galiyarey mein gayi.
+3 Priya rasoi ghar mein gayi.
+4 Badri galiyarey mein chala gaya.
+5 Badri bagichey mein chala gaya.
+6 Priya gayend le kar aayi.
+7 Mohit rasoi ghar mein gaya.
+8 Mohit galiyarey gaya.
+9 Badri rasoi ghar gaya.
+10 Badri galiyarey gaya.
+11 Priya galiyarey mein gayi.
+12 Priya gayend rakh aayi.
+13 Gayend is samay kahan hai?	galiyara	12 11
+14 Mohit gayend le aaya.
+15 Sita sayanakaksh gayi.
+16 Sita dhoodh le aayi.
+17 Mohit rasoi ghar gaya.
+18 Gayend is samay kahan hai?	rasoi ghar	14 17
+19 Badri gusalkhaney gaya.
+20 Mohit gayend rakh aaya.
+21 Gayend ab kahan hai?	rasoi ghar	20 17
+22 Badri seb le kar aaya.
+23 Priya bagichey mein chali gayi.
+24 Gayend ab kahan hai?	rasoi ghar	20 17
+25 Badri rasoi ghar mein chala gaya.
+26 Badri gusalkhaney mein chala gaya.
+27 Gayend ab kahan hai?	rasoi ghar	20 17
+1 Sita sayanakaksh mein chali gayi.
+2 Mohit dhoodh le kar aaya.
+3 Mohit dhoodh rakh aaya.
+4 Sita seb le aayi.
+5 Mohit dhoodh le kar aaya.
+6 Mohit dhoodh chod aaya.
+7 Badri rasoi ghar gaya.
+8 Badri daftar gaya.
+9 Mohit dhoodh le kar aaya.
+10 Badri gayend le kar aaya.
+11 Badri sayanakaksh gaya.
+12 Badri daftar mein chala gaya.
+13 Gayend is samay kahan hai?	daftar	10 12
+14 Mohit gusalkhaney mein gaya.
+15 Sita seb rakh aayi.
+16 Seb is samay kahan hai?	sayanakaksh	15 1
+17 Sita daftar mein gayi.
+18 Priya rasoi ghar gayi.
+19 Seb ab kahan hai?	sayanakaksh	15 1
+20 Badri gayend rakh aaya.
+21 Badri gusalkhaney mein chala gaya.
+22 Gayend ab kahan hai?	daftar	20 12
+23 Mohit dhoodh rakh aaya.
+24 Sita gayend le kar aayi.
+25 Dhoodh is samay kahan hai?	gusalkhana	23 14
+1 Priya galiyarey mein chali gayi.
+2 Mohit rasoi ghar gaya.
+3 Mohit galiyarey gaya.
+4 Badri gusalkhaney mein chala gaya.
+5 Sita gusalkhaney mein chali gayi.
+6 Badri gayend le kar aaya.
+7 Badri daftar gaya.
+8 Sita bagichey mein gayi.
+9 Gayend is samay kahan hai?	daftar	6 7
+10 Badri gayend rakh aaya.
+11 Badri seb le kar aaya.
+12 Gayend is samay kahan hai?	daftar	10 7
+13 Badri dhoodh le aaya.
+14 Priya sayanakaksh mein gayi.
+15 Gayend ab kahan hai?	daftar	10 7
+16 Mohit rasoi ghar gaya.
+17 Badri seb rakh aaya.
+18 Seb is samay kahan hai?	daftar	17 7
+19 Badri gusalkhaney mein chala gaya.
+20 Badri dhoodh chod aaya.
+21 Dhoodh is samay kahan hai?	gusalkhana	20 19
+1 Mohit gusalkhaney mein chala gaya.
+2 Sita galiyarey gayi.
+3 Sita daftar mein gayi.
+4 Badri bagichey mein chala gaya.
+5 Priya rasoi ghar mein gayi.
+6 Priya sayanakaksh mein gayi.
+7 Sita gusalkhaney mein chali gayi.
+8 Sita sayanakaksh mein chali gayi.
+9 Mohit daftar mein chala gaya.
+10 Badri gusalkhaney gaya.
+11 Mohit galiyarey mein gaya.
+12 Priya gusalkhaney mein chali gayi.
+13 Mohit rasoi ghar mein chala gaya.
+14 Priya rasoi ghar mein gayi.
+15 Priya gusalkhaney mein gayi.
+16 Badri sayanakaksh gaya.
+17 Sita bagichey gayi.
+18 Priya daftar gayi.
+19 Mohit bagichey mein gaya.
+20 Mohit daftar mein chala gaya.
+21 Mohit gayend le aaya.
+22 Mohit sayanakaksh mein chala gaya.
+23 Gayend is samay kahan hai?	sayanakaksh	21 22
+24 Priya gusalkhaney gayi.
+25 Sita galiyarey mein gayi.
+26 Gayend is samay kahan hai?	sayanakaksh	21 22
+27 Sita sayanakaksh mein chali gayi.
+28 Badri daftar mein gaya.
+29 Mohit bagichey mein gaya.
+30 Badri seb le aaya.
+31 Priya bagichey mein gayi.
+32 Badri seb chod aaya.
+33 Seb ab kahan hai?	daftar	32 28
+34 Badri rasoi ghar gaya.
+35 Mohit galiyarey mein gaya.
+36 Seb is samay kahan hai?	daftar	32 28
+37 Mohit gayend rakh aaya.
+38 Mohit daftar gaya.
+39 Seb ab kahan hai?	daftar	32 28
+1 Badri rasoi ghar gaya.
+2 Mohit rasoi ghar mein gaya.
+3 Sita seb le kar aayi.
+4 Priya galiyarey mein gayi.
+5 Priya rasoi ghar mein chali gayi.
+6 Sita galiyarey mein gayi.
+7 Seb ab kahan hai?	galiyara	3 6
+8 Sita rasoi ghar mein gayi.
+9 Sita seb chod aayi.
+10 Seb is samay kahan hai?	rasoi ghar	9 8
+11 Priya seb le kar aayi.
+12 Sita bagichey mein chali gayi.
+13 Priya bagichey mein chali gayi.
+14 Priya seb chod aayi.
+15 Seb ab kahan hai?	bagicha	14 13
+16 Sita seb le kar aayi.
+17 Mohit sayanakaksh mein chala gaya.
+18 Mohit rasoi ghar mein gaya.
+19 Badri galiyarey mein chala gaya.
+20 Priya gusalkhaney mein chali gayi.
+21 Badri daftar mein chala gaya.
+22 Priya rasoi ghar mein chali gayi.
+23 Sita seb chod aayi.
+24 Seb is samay kahan hai?	bagicha	23 12
+25 Mohit gusalkhaney mein gaya.
+26 Sita rasoi ghar gayi.
+27 Seb ab kahan hai?	bagicha	23 12
+1 Mohit gusalkhaney gaya.
+2 Badri seb le aaya.
+3 Badri gayend le aaya.
+4 Badri gayend rakh aaya.
+5 Badri seb chod aaya.
+6 Badri seb le aaya.
+7 Sita rasoi ghar gayi.
+8 Badri gusalkhaney mein gaya.
+9 Seb is samay kahan hai?	gusalkhana	6 8
+10 Mohit galiyarey gaya.
+11 Badri galiyarey mein chala gaya.
+12 Seb ab kahan hai?	galiyara	6 11
+13 Mohit sayanakaksh mein chala gaya.
+14 Priya bagichey gayi.
+15 Priya daftar mein gayi.
+16 Priya gayend le kar aayi.
+17 Priya bagichey mein gayi.
+18 Badri rasoi ghar mein gaya.
+19 Gayend ab kahan hai?	bagicha	16 17
+20 Badri seb rakh aaya.
+21 Sita galiyarey mein chali gayi.
+22 Gayend ab kahan hai?	bagicha	16 17
+23 Badri galiyarey gaya.
+24 Priya daftar mein chali gayi.
+25 Seb is samay kahan hai?	rasoi ghar	20 18
+1 Mohit bagichey mein chala gaya.
+2 Badri galiyarey gaya.
+3 Mohit seb le kar aaya.
+4 Sita daftar mein chali gayi.
+5 Mohit seb chod aaya.
+6 Mohit seb le aaya.
+7 Priya bagichey mein gayi.
+8 Priya sayanakaksh mein gayi.
+9 Badri bagichey mein gaya.
+10 Priya dhoodh le aayi.
+11 Priya dhoodh chod aayi.
+12 Priya gusalkhaney mein chali gayi.
+13 Dhoodh is samay kahan hai?	sayanakaksh	11 8
+14 Sita bagichey mein gayi.
+15 Badri daftar mein chala gaya.
+16 Dhoodh is samay kahan hai?	sayanakaksh	11 8
+17 Mohit sayanakaksh gaya.
+18 Priya daftar mein chali gayi.
+19 Mohit seb rakh aaya.
+20 Badri galiyarey mein chala gaya.
+21 Seb ab kahan hai?	sayanakaksh	19 17
+22 Mohit seb le kar aaya.
+23 Mohit dhoodh le kar aaya.
+24 Badri sayanakaksh mein chala gaya.
+25 Badri galiyarey mein chala gaya.
+26 Mohit galiyarey gaya.
+27 Mohit sayanakaksh gaya.
+28 Dhoodh is samay kahan hai?	sayanakaksh	23 27
+29 Sita daftar mein chali gayi.
+30 Badri daftar gaya.
+31 Sita sayanakaksh gayi.
+32 Mohit gusalkhaney mein gaya.
+33 Badri rasoi ghar gaya.
+34 Mohit dhoodh rakh aaya.
+35 Dhoodh is samay kahan hai?	gusalkhana	34 32
+1 Sita gusalkhaney mein chali gayi.
+2 Sita seb le kar aayi.
+3 Badri sayanakaksh mein chala gaya.
+4 Sita seb chod aayi.
+5 Seb is samay kahan hai?	gusalkhana	4 1
+6 Priya galiyarey gayi.
+7 Priya rasoi ghar mein gayi.
+8 Seb is samay kahan hai?	gusalkhana	4 1
+9 Mohit bagichey mein chala gaya.
+10 Priya galiyarey mein chali gayi.
+11 Seb is samay kahan hai?	gusalkhana	4 1
+12 Sita bagichey gayi.
+13 Mohit dhoodh le aaya.
+14 Mohit galiyarey mein gaya.
+15 Badri bagichey mein chala gaya.
+16 Dhoodh ab kahan hai?	galiyara	13 14
+17 Mohit gayend le aaya.
+18 Badri sayanakaksh mein gaya.
+19 Dhoodh is samay kahan hai?	galiyara	13 14
+1 Priya galiyarey mein chali gayi.
+2 Priya seb le kar aayi.
+3 Priya gayend le kar aayi.
+4 Badri sayanakaksh mein gaya.
+5 Badri bagichey mein chala gaya.
+6 Badri sayanakaksh gaya.
+7 Badri gusalkhaney gaya.
+8 Priya daftar mein gayi.
+9 Sita rasoi ghar mein chali gayi.
+10 Priya seb chod aayi.
+11 Seb ab kahan hai?	daftar	10 8
+12 Mohit bagichey mein chala gaya.
+13 Mohit galiyarey gaya.
+14 Seb is samay kahan hai?	daftar	10 8
+15 Priya seb le aayi.
+16 Priya seb chod aayi.
+17 Seb ab kahan hai?	daftar	16 8
+18 Sita daftar mein chali gayi.
+19 Mohit bagichey gaya.
+20 Seb ab kahan hai?	daftar	16 8
+21 Sita seb le kar aayi.
+22 Priya gayend chod aayi.
+23 Gayend is samay kahan hai?	daftar	22 8
+1 Priya bagichey gayi.
+2 Sita gayend le kar aayi.
+3 Priya galiyarey mein chali gayi.
+4 Priya gusalkhaney mein chali gayi.
+5 Badri bagichey mein gaya.
+6 Mohit dhoodh le aaya.
+7 Sita gayend chod aayi.
+8 Mohit sayanakaksh mein gaya.
+9 Dhoodh ab kahan hai?	sayanakaksh	6 8
+10 Priya daftar mein chali gayi.
+11 Badri daftar mein chala gaya.
+12 Dhoodh is samay kahan hai?	sayanakaksh	6 8
+13 Badri galiyarey mein gaya.
+14 Mohit gayend le kar aaya.
+15 Mohit dhoodh chod aaya.
+16 Sita dhoodh le kar aayi.
+17 Sita dhoodh rakh aayi.
+18 Mohit dhoodh le kar aaya.
+19 Badri sayanakaksh mein gaya.
+20 Badri rasoi ghar mein chala gaya.
+21 Priya sayanakaksh mein chali gayi.
+22 Mohit gayend chod aaya.
+23 Gayend ab kahan hai?	sayanakaksh	22 8
+24 Priya rasoi ghar mein chali gayi.
+25 Mohit gayend le aaya.
+26 Badri daftar gaya.
+27 Priya gusalkhaney mein chali gayi.
+28 Mohit gayend rakh aaya.
+29 Mohit dhoodh chod aaya.
+30 Dhoodh is samay kahan hai?	sayanakaksh	29 8
+31 Mohit gayend le kar aaya.
+32 Mohit dhoodh le kar aaya.
+33 Mohit gayend rakh aaya.
+34 Mohit dhoodh chod aaya.
+35 Dhoodh is samay kahan hai?	sayanakaksh	34 8
+1 Priya bagichey mein chali gayi.
+2 Priya rasoi ghar mein chali gayi.
+3 Badri rasoi ghar mein gaya.
+4 Mohit bagichey gaya.
+5 Badri bagichey gaya.
+6 Priya bagichey mein chali gayi.
+7 Mohit galiyarey mein chala gaya.
+8 Mohit seb le kar aaya.
+9 Badri galiyarey mein chala gaya.
+10 Mohit seb chod aaya.
+11 Seb is samay kahan hai?	galiyara	10 7
+12 Mohit seb le aaya.
+13 Mohit seb chod aaya.
+14 Seb ab kahan hai?	galiyara	13 7
+15 Mohit rasoi ghar mein chala gaya.
+16 Priya galiyarey gayi.
+17 Seb is samay kahan hai?	galiyara	13 7
+18 Priya seb le kar aayi.
+19 Priya seb rakh aayi.
+20 Seb is samay kahan hai?	galiyara	19 16
+21 Badri seb le kar aaya.
+22 Badri sayanakaksh gaya.
+23 Seb ab kahan hai?	sayanakaksh	21 22
+1 Badri daftar gaya.
+2 Priya gusalkhaney mein chali gayi.
+3 Priya rasoi ghar mein gayi.
+4 Badri gayend le aaya.
+5 Badri gayend rakh aaya.
+6 Badri gayend le kar aaya.
+7 Sita galiyarey gayi.
+8 Badri sayanakaksh mein gaya.
+9 Gayend ab kahan hai?	sayanakaksh	6 8
+10 Sita bagichey mein gayi.
+11 Badri gayend chod aaya.
+12 Gayend is samay kahan hai?	sayanakaksh	11 8
+13 Sita dhoodh le kar aayi.
+14 Priya daftar mein gayi.
+15 Gayend ab kahan hai?	sayanakaksh	11 8
+16 Priya gusalkhaney gayi.
+17 Mohit sayanakaksh mein gaya.
+18 Gayend is samay kahan hai?	sayanakaksh	11 8
+19 Mohit daftar gaya.
+20 Mohit rasoi ghar mein gaya.
+21 Mohit sayanakaksh gaya.
+22 Sita galiyarey mein gayi.
+23 Sita dhoodh chod aayi.
+24 Badri gayend le kar aaya.
+25 Dhoodh ab kahan hai?	galiyara	23 22
+1 Sita dhoodh le kar aayi.
+2 Sita dhoodh chod aayi.
+3 Badri dhoodh le kar aaya.
+4 Badri dhoodh rakh aaya.
+5 Priya rasoi ghar mein chali gayi.
+6 Mohit galiyarey mein gaya.
+7 Priya bagichey mein chali gayi.
+8 Mohit bagichey gaya.
+9 Badri galiyarey mein gaya.
+10 Sita sayanakaksh mein chali gayi.
+11 Priya gayend le aayi.
+12 Sita seb le aayi.
+13 Badri rasoi ghar mein chala gaya.
+14 Priya gayend chod aayi.
+15 Gayend ab kahan hai?	bagicha	14 7
+16 Priya gayend le aayi.
+17 Priya gusalkhaney gayi.
+18 Gayend is samay kahan hai?	gusalkhana	16 17
+19 Priya gayend chod aayi.
+20 Sita gusalkhaney gayi.
+21 Gayend is samay kahan hai?	gusalkhana	19 17
+22 Sita gayend le aayi.
+23 Mohit sayanakaksh gaya.
+24 Mohit bagichey mein chala gaya.
+25 Mohit sayanakaksh mein chala gaya.
+26 Priya daftar mein chali gayi.
+27 Badri galiyarey mein chala gaya.
+28 Sita gayend rakh aayi.
+29 Priya galiyarey mein chali gayi.
+30 Gayend ab kahan hai?	gusalkhana	28 20
+31 Sita gayend le aayi.
+32 Priya rasoi ghar gayi.
+33 Badri rasoi ghar mein gaya.
+34 Sita daftar mein chali gayi.
+35 Gayend is samay kahan hai?	daftar	31 34
+1 Badri galiyarey gaya.
+2 Priya daftar mein chali gayi.
+3 Badri gusalkhaney mein chala gaya.
+4 Badri rasoi ghar gaya.
+5 Mohit sayanakaksh gaya.
+6 Badri daftar mein chala gaya.
+7 Mohit seb le aaya.
+8 Sita gusalkhaney mein gayi.
+9 Priya sayanakaksh gayi.
+10 Mohit seb chod aaya.
+11 Seb is samay kahan hai?	sayanakaksh	10 5
+12 Badri sayanakaksh mein gaya.
+13 Priya galiyarey mein gayi.
+14 Seb ab kahan hai?	sayanakaksh	10 5
+15 Mohit daftar gaya.
+16 Priya dhoodh le kar aayi.
+17 Seb ab kahan hai?	sayanakaksh	10 5
+18 Sita gayend le kar aayi.
+19 Badri galiyarey mein gaya.
+20 Sita daftar gayi.
+21 Mohit bagichey gaya.
+22 Gayend is samay kahan hai?	daftar	18 20
+23 Priya dhoodh chod aayi.
+24 Sita gayend chod aayi.
+25 Dhoodh ab kahan hai?	galiyara	23 13
+1 Sita dhoodh le kar aayi.
+2 Priya bagichey gayi.
+3 Badri rasoi ghar mein gaya.
+4 Badri seb le kar aaya.
+5 Priya gayend le kar aayi.
+6 Priya gayend rakh aayi.
+7 Gayend is samay kahan hai?	bagicha	6 2
+8 Sita gayend le kar aayi.
+9 Sita gayend chod aayi.
+10 Sita dhoodh rakh aayi.
+11 Sita dhoodh le aayi.
+12 Priya gayend le kar aayi.
+13 Badri sayanakaksh mein gaya.
+14 Sita dhoodh rakh aayi.
+15 Mohit gusalkhaney mein gaya.
+16 Priya gayend rakh aayi.
+17 Priya gusalkhaney mein chali gayi.
+18 Gayend is samay kahan hai?	bagicha	16 2
+19 Mohit bagichey gaya.
+20 Priya daftar mein chali gayi.
+21 Gayend is samay kahan hai?	bagicha	16 2
+22 Sita rasoi ghar mein gayi.
+23 Mohit gayend le kar aaya.
+24 Badri seb chod aaya.
+25 Mohit dhoodh le kar aaya.
+26 Seb is samay kahan hai?	sayanakaksh	24 13
+27 Badri bagichey gaya.
+28 Mohit gusalkhaney gaya.
+29 Gayend ab kahan hai?	gusalkhana	23 28
+1 Badri bagichey gaya.
+2 Mohit daftar gaya.
+3 Mohit sayanakaksh gaya.
+4 Mohit daftar gaya.
+5 Mohit galiyarey gaya.
+6 Priya rasoi ghar mein gayi.
+7 Mohit sayanakaksh mein chala gaya.
+8 Priya bagichey gayi.
+9 Mohit rasoi ghar mein chala gaya.
+10 Priya gayend le aayi.
+11 Sita daftar gayi.
+12 Sita gusalkhaney gayi.
+13 Mohit daftar mein chala gaya.
+14 Mohit galiyarey gaya.
+15 Priya gayend rakh aayi.
+16 Mohit sayanakaksh mein chala gaya.
+17 Gayend ab kahan hai?	bagicha	15 8
+18 Sita rasoi ghar mein gayi.
+19 Priya daftar mein chali gayi.
+20 Gayend is samay kahan hai?	bagicha	15 8
+21 Badri daftar gaya.
+22 Priya sayanakaksh gayi.
+23 Priya gusalkhaney mein gayi.
+24 Badri gusalkhaney mein chala gaya.
+25 Priya daftar mein gayi.
+26 Badri dhoodh le kar aaya.
+27 Priya gusalkhaney gayi.
+28 Priya seb le kar aayi.
+29 Badri daftar mein gaya.
+30 Badri gusalkhaney mein chala gaya.
+31 Dhoodh ab kahan hai?	gusalkhana	26 30
+32 Priya galiyarey mein chali gayi.
+33 Badri dhoodh chod aaya.
+34 Dhoodh is samay kahan hai?	gusalkhana	33 30
+35 Priya rasoi ghar mein chali gayi.
+36 Mohit gusalkhaney mein chala gaya.
+37 Dhoodh is samay kahan hai?	gusalkhana	33 30
+1 Sita rasoi ghar mein gayi.
+2 Badri seb le kar aaya.
+3 Badri gayend le aaya.
+4 Priya dhoodh le kar aayi.
+5 Badri gayend rakh aaya.
+6 Mohit daftar mein chala gaya.
+7 Badri seb rakh aaya.
+8 Priya sayanakaksh gayi.
+9 Dhoodh ab kahan hai?	sayanakaksh	4 8
+10 Badri rasoi ghar gaya.
+11 Sita bagichey gayi.
+12 Priya dhoodh chod aayi.
+13 Badri sayanakaksh mein chala gaya.
+14 Dhoodh ab kahan hai?	sayanakaksh	12 8
+15 Sita sayanakaksh mein chali gayi.
+16 Badri dhoodh le kar aaya.
+17 Mohit rasoi ghar mein chala gaya.
+18 Badri dhoodh chod aaya.
+19 Dhoodh ab kahan hai?	sayanakaksh	18 13
+20 Badri dhoodh le kar aaya.
+21 Sita galiyarey mein gayi.
+22 Priya rasoi ghar mein gayi.
+23 Sita seb le kar aayi.
+24 Sita gayend le kar aayi.
+25 Sita daftar mein chali gayi.
+26 Gayend ab kahan hai?	daftar	24 25
+27 Sita galiyarey gayi.
+28 Badri dhoodh rakh aaya.
+29 Dhoodh ab kahan hai?	sayanakaksh	28 13
+1 Priya gayend le kar aayi.
+2 Mohit daftar gaya.
+3 Mohit gusalkhaney mein chala gaya.
+4 Mohit daftar mein chala gaya.
+5 Priya gayend rakh aayi.
+6 Badri sayanakaksh mein gaya.
+7 Priya gayend le kar aayi.
+8 Mohit galiyarey mein gaya.
+9 Priya daftar gayi.
+10 Sita daftar mein chali gayi.
+11 Gayend ab kahan hai?	daftar	7 9
+12 Priya galiyarey gayi.
+13 Priya gayend chod aayi.
+14 Gayend is samay kahan hai?	galiyara	13 12
+15 Sita bagichey gayi.
+16 Sita seb le kar aayi.
+17 Gayend is samay kahan hai?	galiyara	13 12
+18 Badri bagichey mein gaya.
+19 Sita seb rakh aayi.
+20 Gayend is samay kahan hai?	galiyara	13 12
+21 Sita seb le kar aayi.
+22 Mohit gayend le aaya.
+23 Mohit gayend rakh aaya.
+24 Mohit gayend le kar aaya.
+25 Badri dhoodh le aaya.
+26 Mohit gayend chod aaya.
+27 Gayend is samay kahan hai?	galiyara	26 8
+1 Mohit sayanakaksh mein gaya.
+2 Sita bagichey mein chali gayi.
+3 Priya bagichey mein chali gayi.
+4 Priya rasoi ghar gayi.
+5 Badri bagichey mein gaya.
+6 Priya daftar gayi.
+7 Badri daftar mein gaya.
+8 Mohit bagichey gaya.
+9 Badri gayend le aaya.
+10 Sita rasoi ghar gayi.
+11 Mohit rasoi ghar mein chala gaya.
+12 Mohit dhoodh le kar aaya.
+13 Priya sayanakaksh mein chali gayi.
+14 Badri sayanakaksh mein gaya.
+15 Mohit seb le aaya.
+16 Priya galiyarey mein gayi.
+17 Badri galiyarey mein chala gaya.
+18 Mohit seb chod aaya.
+19 Seb ab kahan hai?	rasoi ghar	18 11
+20 Mohit seb le kar aaya.
+21 Badri gayend rakh aaya.
+22 Gayend is samay kahan hai?	galiyara	21 17
+23 Mohit seb chod aaya.
+24 Priya sayanakaksh mein chali gayi.
+25 Gayend ab kahan hai?	galiyara	21 17
+26 Mohit daftar mein gaya.
+27 Sita daftar mein chali gayi.
+28 Gayend ab kahan hai?	galiyara	21 17
+29 Priya galiyarey gayi.
+30 Mohit bagichey gaya.
+31 Priya sayanakaksh mein gayi.
+32 Badri bagichey mein chala gaya.
+33 Sita sayanakaksh mein gayi.
+34 Priya bagichey mein gayi.
+35 Sita galiyarey mein gayi.
+36 Sita daftar mein gayi.
+37 Badri gusalkhaney gaya.
+38 Badri daftar mein gaya.
+39 Mohit dhoodh rakh aaya.
+40 Badri bagichey mein chala gaya.
+41 Dhoodh ab kahan hai?	bagicha	39 30
+1 Priya seb le aayi.
+2 Mohit rasoi ghar mein chala gaya.
+3 Sita rasoi ghar gayi.
+4 Mohit gusalkhaney gaya.
+5 Sita galiyarey gayi.
+6 Priya seb rakh aayi.
+7 Mohit galiyarey mein chala gaya.
+8 Sita sayanakaksh mein gayi.
+9 Priya seb le kar aayi.
+10 Priya bagichey gayi.
+11 Seb ab kahan hai?	bagicha	9 10
+12 Priya sayanakaksh gayi.
+13 Mohit sayanakaksh gaya.
+14 Seb is samay kahan hai?	sayanakaksh	9 12
+15 Sita galiyarey gayi.
+16 Mohit rasoi ghar gaya.
+17 Badri daftar mein chala gaya.
+18 Mohit sayanakaksh gaya.
+19 Badri galiyarey mein chala gaya.
+20 Badri rasoi ghar gaya.
+21 Priya bagichey gayi.
+22 Priya sayanakaksh mein gayi.
+23 Mohit galiyarey mein chala gaya.
+24 Mohit rasoi ghar mein chala gaya.
+25 Mohit galiyarey gaya.
+26 Badri galiyarey mein gaya.
+27 Priya seb rakh aayi.
+28 Priya bagichey gayi.
+29 Seb is samay kahan hai?	sayanakaksh	27 22
+30 Mohit sayanakaksh gaya.
+31 Sita gusalkhaney gayi.
+32 Seb is samay kahan hai?	sayanakaksh	27 22
+33 Sita dhoodh le kar aayi.
+34 Sita dhoodh rakh aayi.
+35 Dhoodh ab kahan hai?	gusalkhana	34 31
+1 Mohit gusalkhaney mein chala gaya.
+2 Badri gayend le aaya.
+3 Badri seb le kar aaya.
+4 Priya galiyarey mein gayi.
+5 Sita bagichey gayi.
+6 Badri gusalkhaney gaya.
+7 Gayend ab kahan hai?	gusalkhana	2 6
+8 Priya sayanakaksh mein gayi.
+9 Badri gayend chod aaya.
+10 Gayend ab kahan hai?	gusalkhana	9 6
+11 Mohit rasoi ghar mein gaya.
+12 Mohit daftar gaya.
+13 Gayend is samay kahan hai?	gusalkhana	9 6
+14 Badri gayend le kar aaya.
+15 Badri seb chod aaya.
+16 Seb is samay kahan hai?	gusalkhana	15 6
+17 Badri gayend chod aaya.
+18 Badri gayend le kar aaya.
+19 Seb ab kahan hai?	gusalkhana	15 6
+1 Priya gayend le aayi.
+2 Priya bagichey mein gayi.
+3 Gayend ab kahan hai?	bagicha	1 2
+4 Priya rasoi ghar mein gayi.
+5 Priya gayend rakh aayi.
+6 Gayend ab kahan hai?	rasoi ghar	5 4
+7 Priya daftar mein chali gayi.
+8 Sita sayanakaksh mein chali gayi.
+9 Gayend ab kahan hai?	rasoi ghar	5 4
+10 Mohit rasoi ghar mein chala gaya.
+11 Sita bagichey gayi.
+12 Gayend is samay kahan hai?	rasoi ghar	5 4
+13 Sita dhoodh le kar aayi.
+14 Priya rasoi ghar mein gayi.
+15 Badri rasoi ghar gaya.
+16 Priya gayend le kar aayi.
+17 Sita dhoodh chod aayi.
+18 Priya gayend rakh aayi.
+19 Dhoodh ab kahan hai?	bagicha	17 11
+1 Priya bagichey mein gayi.
+2 Sita gayend le kar aayi.
+3 Priya dhoodh le kar aayi.
+4 Mohit gusalkhaney mein chala gaya.
+5 Priya daftar mein gayi.
+6 Priya galiyarey gayi.
+7 Dhoodh ab kahan hai?	galiyara	3 6
+8 Mohit galiyarey mein gaya.
+9 Sita galiyarey mein gayi.
+10 Mohit daftar mein gaya.
+11 Sita gusalkhaney gayi.
+12 Priya bagichey mein gayi.
+13 Priya galiyarey mein gayi.
+14 Priya dhoodh chod aayi.
+15 Mohit rasoi ghar mein chala gaya.
+16 Dhoodh ab kahan hai?	galiyara	14 13
+17 Sita daftar gayi.
+18 Priya rasoi ghar mein gayi.
+19 Dhoodh is samay kahan hai?	galiyara	14 13
+20 Priya gusalkhaney gayi.
+21 Priya seb le aayi.
+22 Badri dhoodh le aaya.
+23 Badri dhoodh rakh aaya.
+24 Priya seb chod aayi.
+25 Priya rasoi ghar mein gayi.
+26 Seb is samay kahan hai?	gusalkhana	24 20
+27 Badri sayanakaksh mein chala gaya.
+28 Priya gusalkhaney mein gayi.
+29 Seb is samay kahan hai?	gusalkhana	24 20
+1 Mohit gusalkhaney mein gaya.
+2 Badri gusalkhaney gaya.
+3 Mohit bagichey gaya.
+4 Priya galiyarey mein gayi.
+5 Priya seb le kar aayi.
+6 Priya dhoodh le aayi.
+7 Priya dhoodh chod aayi.
+8 Mohit gusalkhaney gaya.
+9 Dhoodh ab kahan hai?	galiyara	7 4
+10 Priya daftar mein chali gayi.
+11 Sita daftar mein chali gayi.
+12 Dhoodh ab kahan hai?	galiyara	7 4
+13 Sita gayend le aayi.
+14 Mohit sayanakaksh gaya.
+15 Priya seb rakh aayi.
+16 Priya gusalkhaney mein gayi.
+17 Seb ab kahan hai?	daftar	15 10
+18 Mohit daftar gaya.
+19 Sita seb le kar aayi.
+20 Badri daftar gaya.
+21 Priya rasoi ghar mein chali gayi.
+22 Sita seb rakh aayi.
+23 Badri galiyarey gaya.
+24 Seb ab kahan hai?	daftar	22 11
+25 Mohit seb le aaya.
+26 Badri dhoodh le kar aaya.
+27 Sita gayend rakh aayi.
+28 Priya sayanakaksh gayi.
+29 Gayend ab kahan hai?	daftar	27 11
+1 Mohit daftar gaya.
+2 Sita bagichey gayi.
+3 Sita galiyarey mein gayi.
+4 Priya rasoi ghar gayi.
+5 Sita seb le aayi.
+6 Mohit gusalkhaney mein gaya.
+7 Badri daftar gaya.
+8 Badri sayanakaksh mein gaya.
+9 Mohit galiyarey mein gaya.
+10 Badri bagichey mein gaya.
+11 Sita daftar mein chali gayi.
+12 Sita seb rakh aayi.
+13 Seb ab kahan hai?	daftar	12 11
+14 Sita seb le aayi.
+15 Sita rasoi ghar mein chali gayi.
+16 Seb ab kahan hai?	rasoi ghar	14 15
+17 Priya dhoodh le aayi.
+18 Sita daftar gayi.
+19 Seb is samay kahan hai?	daftar	14 18
+20 Priya dhoodh rakh aayi.
+21 Badri galiyarey gaya.
+22 Dhoodh is samay kahan hai?	rasoi ghar	20 4
+23 Sita bagichey gayi.
+24 Priya dhoodh le aayi.
+25 Mohit rasoi ghar mein gaya.
+26 Priya bagichey gayi.
+27 Dhoodh is samay kahan hai?	bagicha	24 26
+1 Badri seb le kar aaya.
+2 Badri seb rakh aaya.
+3 Mohit gayend le aaya.
+4 Mohit sayanakaksh mein chala gaya.
+5 Gayend ab kahan hai?	sayanakaksh	3 4
+6 Badri rasoi ghar mein chala gaya.
+7 Mohit bagichey mein gaya.
+8 Gayend is samay kahan hai?	bagicha	3 7
+9 Mohit gayend rakh aaya.
+10 Mohit gayend le kar aaya.
+11 Badri gusalkhaney mein chala gaya.
+12 Priya bagichey mein gayi.
+13 Badri rasoi ghar mein chala gaya.
+14 Mohit gayend chod aaya.
+15 Gayend ab kahan hai?	bagicha	14 7
+16 Sita daftar mein gayi.
+17 Sita seb le aayi.
+18 Gayend ab kahan hai?	bagicha	14 7
+19 Mohit galiyarey gaya.
+20 Priya gayend le aayi.
+21 Priya gayend chod aayi.
+22 Sita sayanakaksh mein chali gayi.
+23 Gayend ab kahan hai?	bagicha	21 12
+1 Priya gusalkhaney mein chali gayi.
+2 Priya galiyarey gayi.
+3 Priya seb le aayi.
+4 Badri rasoi ghar gaya.
+5 Sita bagichey mein gayi.
+6 Priya seb rakh aayi.
+7 Seb is samay kahan hai?	galiyara	6 2
+8 Priya seb le kar aayi.
+9 Mohit bagichey mein chala gaya.
+10 Mohit gayend le kar aaya.
+11 Mohit gayend chod aaya.
+12 Gayend ab kahan hai?	bagicha	11 9
+13 Sita gayend le aayi.
+14 Badri bagichey mein gaya.
+15 Sita daftar gayi.
+16 Priya rasoi ghar mein chali gayi.
+17 Gayend ab kahan hai?	daftar	13 15
+18 Priya seb chod aayi.
+19 Badri sayanakaksh mein chala gaya.
+20 Seb is samay kahan hai?	rasoi ghar	18 16
+21 Sita bagichey gayi.
+22 Sita gayend rakh aayi.
+23 Seb ab kahan hai?	rasoi ghar	18 16
+1 Badri dhoodh le kar aaya.
+2 Sita seb le kar aayi.
+3 Badri daftar gaya.
+4 Badri galiyarey mein chala gaya.
+5 Dhoodh is samay kahan hai?	galiyara	1 4
+6 Badri sayanakaksh mein chala gaya.
+7 Badri galiyarey mein gaya.
+8 Badri bagichey mein gaya.
+9 Sita rasoi ghar mein chali gayi.
+10 Badri gusalkhaney gaya.
+11 Badri dhoodh chod aaya.
+12 Dhoodh is samay kahan hai?	gusalkhana	11 10
+13 Priya rasoi ghar mein gayi.
+14 Mohit bagichey gaya.
+15 Dhoodh ab kahan hai?	gusalkhana	11 10
+16 Badri sayanakaksh gaya.
+17 Badri daftar gaya.
+18 Dhoodh is samay kahan hai?	gusalkhana	11 10
+19 Badri rasoi ghar mein chala gaya.
+20 Priya gusalkhaney mein chali gayi.
+21 Priya galiyarey mein gayi.
+22 Sita bagichey mein chali gayi.
+23 Sita seb chod aayi.
+24 Sita seb le aayi.
+25 Sita seb chod aayi.
+26 Priya gusalkhaney gayi.
+27 Seb is samay kahan hai?	bagicha	25 22
+1 Sita rasoi ghar mein gayi.
+2 Sita galiyarey gayi.
+3 Priya daftar mein gayi.
+4 Mohit daftar gaya.
+5 Mohit gusalkhaney gaya.
+6 Sita rasoi ghar mein gayi.
+7 Mohit bagichey mein gaya.
+8 Mohit sayanakaksh mein gaya.
+9 Mohit galiyarey mein chala gaya.
+10 Sita gusalkhaney mein gayi.
+11 Mohit gusalkhaney gaya.
+12 Mohit daftar mein chala gaya.
+13 Badri galiyarey gaya.
+14 Priya sayanakaksh mein chali gayi.
+15 Sita sayanakaksh gayi.
+16 Priya daftar gayi.
+17 Priya galiyarey gayi.
+18 Sita gayend le kar aayi.
+19 Sita gayend rakh aayi.
+20 Mohit bagichey mein gaya.
+21 Gayend is samay kahan hai?	sayanakaksh	19 15
+22 Sita gayend le kar aayi.
+23 Priya bagichey gayi.
+24 Mohit gusalkhaney mein chala gaya.
+25 Badri bagichey mein gaya.
+26 Sita rasoi ghar mein gayi.
+27 Mohit bagichey gaya.
+28 Sita dhoodh le kar aayi.
+29 Badri gusalkhaney gaya.
+30 Sita seb le aayi.
+31 Mohit galiyarey mein gaya.
+32 Badri rasoi ghar mein chala gaya.
+33 Sita dhoodh rakh aayi.
+34 Dhoodh ab kahan hai?	rasoi ghar	33 26
+35 Mohit bagichey gaya.
+36 Sita sayanakaksh mein gayi.
+37 Dhoodh is samay kahan hai?	rasoi ghar	33 26
+38 Priya galiyarey mein chali gayi.
+39 Badri dhoodh le kar aaya.
+40 Sita daftar mein chali gayi.
+41 Sita bagichey mein chali gayi.
+42 Sita daftar gayi.
+43 Badri galiyarey gaya.
+44 Dhoodh ab kahan hai?	galiyara	39 43
+45 Mohit gusalkhaney mein gaya.
+46 Sita gayend chod aayi.
+47 Gayend ab kahan hai?	daftar	46 42
+1 Sita bagichey gayi.
+2 Badri daftar mein chala gaya.
+3 Badri sayanakaksh gaya.
+4 Mohit dhoodh le aaya.
+5 Mohit dhoodh rakh aaya.
+6 Priya bagichey mein gayi.
+7 Sita gusalkhaney mein gayi.
+8 Mohit daftar mein chala gaya.
+9 Badri galiyarey gaya.
+10 Badri sayanakaksh mein chala gaya.
+11 Mohit sayanakaksh mein gaya.
+12 Priya rasoi ghar gayi.
+13 Priya gusalkhaney gayi.
+14 Mohit rasoi ghar gaya.
+15 Sita sayanakaksh mein chali gayi.
+16 Mohit seb le kar aaya.
+17 Sita rasoi ghar mein chali gayi.
+18 Badri rasoi ghar mein chala gaya.
+19 Priya galiyarey mein gayi.
+20 Sita sayanakaksh mein gayi.
+21 Sita bagichey mein gayi.
+22 Mohit seb rakh aaya.
+23 Seb is samay kahan hai?	rasoi ghar	22 14
+24 Priya dhoodh le aayi.
+25 Sita sayanakaksh mein gayi.
+26 Seb ab kahan hai?	rasoi ghar	22 14
+27 Badri gayend le kar aaya.
+28 Badri gayend chod aaya.
+29 Gayend is samay kahan hai?	rasoi ghar	28 18
+30 Priya bagichey mein gayi.
+31 Badri seb le kar aaya.
+32 Gayend is samay kahan hai?	rasoi ghar	28 18
+33 Mohit galiyarey mein gaya.
+34 Sita galiyarey gayi.
+35 Gayend ab kahan hai?	rasoi ghar	28 18
+1 Sita bagichey gayi.
+2 Sita gusalkhaney gayi.
+3 Badri seb le aaya.
+4 Sita gayend le aayi.
+5 Sita gayend rakh aayi.
+6 Mohit daftar mein chala gaya.
+7 Gayend is samay kahan hai?	gusalkhana	5 2
+8 Priya sayanakaksh mein gayi.
+9 Sita gayend le kar aayi.
+10 Mohit bagichey mein gaya.
+11 Badri seb rakh aaya.
+12 Sita gayend chod aayi.
+13 Mohit daftar mein gaya.
+14 Gayend ab kahan hai?	gusalkhana	12 2
+15 Priya seb le kar aayi.
+16 Mohit galiyarey gaya.
+17 Gayend ab kahan hai?	gusalkhana	12 2
+18 Priya seb rakh aayi.
+19 Sita dhoodh le kar aayi.
+20 Seb ab kahan hai?	sayanakaksh	18 8
+21 Sita bagichey mein gayi.
+22 Badri gusalkhaney mein chala gaya.
+23 Dhoodh is samay kahan hai?	bagicha	19 21
+1 Priya bagichey gayi.
+2 Badri bagichey mein chala gaya.
+3 Priya gusalkhaney gayi.
+4 Mohit bagichey mein chala gaya.
+5 Sita sayanakaksh gayi.
+6 Badri rasoi ghar mein gaya.
+7 Badri seb le aaya.
+8 Badri seb chod aaya.
+9 Seb ab kahan hai?	rasoi ghar	8 6
+10 Priya bagichey gayi.
+11 Sita galiyarey mein gayi.
+12 Seb is samay kahan hai?	rasoi ghar	8 6
+13 Badri seb le kar aaya.
+14 Badri seb chod aaya.
+15 Seb is samay kahan hai?	rasoi ghar	14 6
+16 Badri gayend le kar aaya.
+17 Badri galiyarey mein chala gaya.
+18 Seb is samay kahan hai?	rasoi ghar	14 6
+19 Priya rasoi ghar mein gayi.
+20 Mohit rasoi ghar gaya.
+21 Gayend is samay kahan hai?	galiyara	16 17
+1 Sita galiyarey mein chali gayi.
+2 Mohit daftar mein gaya.
+3 Mohit rasoi ghar mein gaya.
+4 Mohit gusalkhaney gaya.
+5 Sita bagichey mein chali gayi.
+6 Priya rasoi ghar mein gayi.
+7 Badri galiyarey mein chala gaya.
+8 Mohit bagichey gaya.
+9 Mohit gayend le aaya.
+10 Priya daftar mein chali gayi.
+11 Sita dhoodh le aayi.
+12 Badri bagichey mein chala gaya.
+13 Mohit gayend rakh aaya.
+14 Badri gusalkhaney mein gaya.
+15 Gayend is samay kahan hai?	bagicha	13 8
+16 Priya sayanakaksh mein chali gayi.
+17 Mohit daftar mein gaya.
+18 Gayend is samay kahan hai?	bagicha	13 8
+19 Badri sayanakaksh mein gaya.
+20 Mohit sayanakaksh mein chala gaya.
+21 Mohit seb le aaya.
+22 Sita sayanakaksh mein chali gayi.
+23 Badri gusalkhaney mein chala gaya.
+24 Sita daftar mein gayi.
+25 Sita dhoodh rakh aayi.
+26 Badri rasoi ghar mein gaya.
+27 Dhoodh ab kahan hai?	daftar	25 24
+28 Sita dhoodh le aayi.
+29 Priya bagichey gayi.
+30 Priya gayend le aayi.
+31 Sita dhoodh rakh aayi.
+32 Dhoodh ab kahan hai?	daftar	31 24
+33 Priya gayend rakh aayi.
+34 Mohit seb rakh aaya.
+35 Seb ab kahan hai?	sayanakaksh	34 20
+1 Badri bagichey mein gaya.
+2 Badri dhoodh le kar aaya.
+3 Priya galiyarey mein chali gayi.
+4 Badri galiyarey mein chala gaya.
+5 Dhoodh is samay kahan hai?	galiyara	2 4
+6 Badri dhoodh chod aaya.
+7 Priya gusalkhaney gayi.
+8 Dhoodh ab kahan hai?	galiyara	6 4
+9 Mohit gayend le kar aaya.
+10 Badri seb le kar aaya.
+11 Dhoodh ab kahan hai?	galiyara	6 4
+12 Mohit gayend chod aaya.
+13 Sita bagichey gayi.
+14 Badri dhoodh le kar aaya.
+15 Mohit gayend le kar aaya.
+16 Priya sayanakaksh mein gayi.
+17 Sita daftar mein gayi.
+18 Badri seb rakh aaya.
+19 Badri dhoodh rakh aaya.
+20 Seb ab kahan hai?	galiyara	18 4
+21 Sita rasoi ghar mein chali gayi.
+22 Badri daftar gaya.
+23 Dhoodh is samay kahan hai?	galiyara	19 4
+1 Mohit gusalkhaney gaya.
+2 Sita dhoodh le kar aayi.
+3 Badri rasoi ghar mein chala gaya.
+4 Sita dhoodh rakh aayi.
+5 Sita galiyarey gayi.
+6 Mohit dhoodh le aaya.
+7 Sita bagichey gayi.
+8 Mohit gayend le kar aaya.
+9 Priya daftar mein gayi.
+10 Priya seb le kar aayi.
+11 Priya seb rakh aayi.
+12 Sita galiyarey mein chali gayi.
+13 Seb is samay kahan hai?	daftar	11 9
+14 Priya rasoi ghar mein chali gayi.
+15 Mohit rasoi ghar mein chala gaya.
+16 Seb ab kahan hai?	daftar	11 9
+17 Mohit gusalkhaney mein chala gaya.
+18 Mohit dhoodh rakh aaya.
+19 Dhoodh is samay kahan hai?	gusalkhana	18 17
+20 Mohit dhoodh le aaya.
+21 Badri gusalkhaney mein chala gaya.
+22 Priya galiyarey mein gayi.
+23 Mohit dhoodh chod aaya.
+24 Dhoodh is samay kahan hai?	gusalkhana	23 17
+25 Mohit gayend rakh aaya.
+26 Sita sayanakaksh mein chali gayi.
+27 Gayend is samay kahan hai?	gusalkhana	25 17
+1 Sita dhoodh le kar aayi.
+2 Priya seb le kar aayi.
+3 Badri sayanakaksh gaya.
+4 Priya seb rakh aayi.
+5 Priya gusalkhaney gayi.
+6 Mohit gusalkhaney mein chala gaya.
+7 Sita dhoodh rakh aayi.
+8 Sita dhoodh le aayi.
+9 Badri seb le kar aaya.
+10 Badri seb rakh aaya.
+11 Seb is samay kahan hai?	sayanakaksh	10 3
+12 Priya rasoi ghar gayi.
+13 Badri seb le kar aaya.
+14 Badri seb chod aaya.
+15 Sita dhoodh chod aayi.
+16 Seb ab kahan hai?	sayanakaksh	14 3
+17 Badri seb le kar aaya.
+18 Priya bagichey gayi.
+19 Mohit rasoi ghar mein chala gaya.
+20 Sita dhoodh le aayi.
+21 Sita sayanakaksh mein gayi.
+22 Sita rasoi ghar gayi.
+23 Dhoodh is samay kahan hai?	rasoi ghar	20 22
+24 Mohit sayanakaksh gaya.
+25 Sita daftar mein gayi.
+26 Dhoodh is samay kahan hai?	daftar	20 25
+27 Badri gusalkhaney mein chala gaya.
+28 Sita sayanakaksh mein chali gayi.
+29 Mohit gusalkhaney mein gaya.
+30 Badri seb rakh aaya.
+31 Seb ab kahan hai?	gusalkhana	30 27
+1 Badri bagichey mein gaya.
+2 Sita dhoodh le kar aayi.
+3 Sita daftar gayi.
+4 Mohit rasoi ghar gaya.
+5 Dhoodh is samay kahan hai?	daftar	2 3
+6 Mohit gusalkhaney mein gaya.
+7 Mohit gayend le kar aaya.
+8 Dhoodh ab kahan hai?	daftar	2 3
+9 Sita rasoi ghar mein gayi.
+10 Sita dhoodh chod aayi.
+11 Dhoodh ab kahan hai?	rasoi ghar	10 9
+12 Mohit daftar gaya.
+13 Priya rasoi ghar mein gayi.
+14 Dhoodh ab kahan hai?	rasoi ghar	10 9
+15 Mohit sayanakaksh mein gaya.
+16 Priya galiyarey mein gayi.
+17 Dhoodh is samay kahan hai?	rasoi ghar	10 9
+1 Mohit seb le kar aaya.
+2 Sita sayanakaksh mein gayi.
+3 Priya galiyarey mein gayi.
+4 Sita bagichey mein chali gayi.
+5 Priya dhoodh le aayi.
+6 Priya dhoodh rakh aayi.
+7 Dhoodh ab kahan hai?	galiyara	6 3
+8 Mohit sayanakaksh gaya.
+9 Mohit seb rakh aaya.
+10 Dhoodh ab kahan hai?	galiyara	6 3
+11 Priya gusalkhaney mein chali gayi.
+12 Sita gusalkhaney gayi.
+13 Dhoodh is samay kahan hai?	galiyara	6 3
+14 Sita galiyarey mein chali gayi.
+15 Sita gayend le kar aayi.
+16 Seb ab kahan hai?	sayanakaksh	9 8
+17 Badri sayanakaksh mein chala gaya.
+18 Mohit seb le aaya.
+19 Mohit galiyarey mein gaya.
+20 Sita dhoodh le aayi.
+21 Seb is samay kahan hai?	galiyara	18 19
+1 Badri galiyarey gaya.
+2 Sita galiyarey gayi.
+3 Mohit daftar mein gaya.
+4 Sita bagichey mein chali gayi.
+5 Sita gusalkhaney mein gayi.
+6 Badri daftar mein chala gaya.
+7 Priya rasoi ghar mein chali gayi.
+8 Sita seb le aayi.
+9 Sita sayanakaksh mein chali gayi.
+10 Mohit rasoi ghar mein chala gaya.
+11 Seb is samay kahan hai?	sayanakaksh	8 9
+12 Sita rasoi ghar mein chali gayi.
+13 Sita seb rakh aayi.
+14 Seb is samay kahan hai?	rasoi ghar	13 12
+15 Priya gayend le aayi.
+16 Sita sayanakaksh mein chali gayi.
+17 Seb is samay kahan hai?	rasoi ghar	13 12
+18 Mohit sayanakaksh mein chala gaya.
+19 Mohit bagichey gaya.
+20 Seb ab kahan hai?	rasoi ghar	13 12
+21 Badri rasoi ghar gaya.
+22 Badri seb le aaya.
+23 Badri gusalkhaney mein gaya.
+24 Mohit daftar gaya.
+25 Seb ab kahan hai?	gusalkhana	22 23
+1 Mohit sayanakaksh mein chala gaya.
+2 Badri dhoodh le aaya.
+3 Sita galiyarey mein gayi.
+4 Badri bagichey gaya.
+5 Dhoodh ab kahan hai?	bagicha	2 4
+6 Sita gayend le aayi.
+7 Sita gayend chod aayi.
+8 Gayend ab kahan hai?	galiyara	7 3
+9 Badri dhoodh rakh aaya.
+10 Badri dhoodh le kar aaya.
+11 Gayend is samay kahan hai?	galiyara	7 3
+12 Mohit bagichey mein chala gaya.
+13 Badri daftar mein gaya.
+14 Dhoodh ab kahan hai?	daftar	10 13
+15 Mohit gusalkhaney mein gaya.
+16 Sita gayend le aayi.
+17 Dhoodh ab kahan hai?	daftar	10 13
+1 Badri galiyarey mein gaya.
+2 Priya seb le kar aayi.
+3 Sita rasoi ghar mein gayi.
+4 Mohit gayend le aaya.
+5 Priya bagichey mein gayi.
+6 Mohit gayend rakh aaya.
+7 Seb ab kahan hai?	bagicha	2 5
+8 Mohit gayend le aaya.
+9 Mohit gusalkhaney gaya.
+10 Gayend is samay kahan hai?	gusalkhana	8 9
+11 Sita bagichey mein gayi.
+12 Priya seb chod aayi.
+13 Seb ab kahan hai?	bagicha	12 5
+14 Priya galiyarey gayi.
+15 Mohit gayend chod aaya.
+16 Gayend ab kahan hai?	gusalkhana	15 9
+17 Sita seb le kar aayi.
+18 Priya rasoi ghar mein gayi.
+19 Gayend ab kahan hai?	gusalkhana	15 9
+1 Priya dhoodh le aayi.
+2 Priya dhoodh chod aayi.
+3 Mohit gayend le aaya.
+4 Sita seb le aayi.
+5 Sita rasoi ghar mein chali gayi.
+6 Mohit gusalkhaney gaya.
+7 Gayend is samay kahan hai?	gusalkhana	3 6
+8 Sita seb chod aayi.
+9 Sita seb le kar aayi.
+10 Priya dhoodh le aayi.
+11 Sita galiyarey gayi.
+12 Seb is samay kahan hai?	galiyara	9 11
+13 Mohit gayend chod aaya.
+14 Sita gusalkhaney gayi.
+15 Gayend ab kahan hai?	gusalkhana	13 6
+16 Priya dhoodh chod aayi.
+17 Sita sayanakaksh mein gayi.
+18 Gayend is samay kahan hai?	gusalkhana	13 6
+19 Mohit gayend le aaya.
+20 Sita rasoi ghar mein gayi.
+21 Badri sayanakaksh gaya.
+22 Badri bagichey mein chala gaya.
+23 Priya sayanakaksh gayi.
+24 Badri sayanakaksh mein chala gaya.
+25 Priya galiyarey mein chali gayi.
+26 Priya sayanakaksh mein gayi.
+27 Badri daftar gaya.
+28 Mohit gayend chod aaya.
+29 Gayend is samay kahan hai?	gusalkhana	28 6
+1 Priya daftar mein chali gayi.
+2 Mohit sayanakaksh mein chala gaya.
+3 Sita galiyarey gayi.
+4 Mohit rasoi ghar mein chala gaya.
+5 Mohit sayanakaksh mein gaya.
+6 Mohit gayend le aaya.
+7 Mohit daftar mein gaya.
+8 Badri gusalkhaney mein chala gaya.
+9 Gayend ab kahan hai?	daftar	6 7
+10 Sita daftar mein gayi.
+11 Priya rasoi ghar mein chali gayi.
+12 Gayend is samay kahan hai?	daftar	6 7
+13 Sita gusalkhaney gayi.
+14 Priya sayanakaksh gayi.
+15 Priya bagichey mein chali gayi.
+16 Mohit bagichey mein chala gaya.
+17 Mohit gayend chod aaya.
+18 Mohit gayend le aaya.
+19 Mohit galiyarey mein chala gaya.
+20 Mohit gayend rakh aaya.
+21 Gayend ab kahan hai?	galiyara	20 19
+22 Mohit gayend le kar aaya.
+23 Mohit gayend rakh aaya.
+24 Gayend is samay kahan hai?	galiyara	23 19
+25 Sita daftar gayi.
+26 Sita gusalkhaney mein gayi.
+27 Gayend ab kahan hai?	galiyara	23 19
+1 Mohit bagichey mein chala gaya.
+2 Badri daftar gaya.
+3 Mohit sayanakaksh gaya.
+4 Mohit galiyarey gaya.
+5 Priya sayanakaksh mein chali gayi.
+6 Badri bagichey gaya.
+7 Badri sayanakaksh mein gaya.
+8 Badri daftar mein gaya.
+9 Badri gusalkhaney mein chala gaya.
+10 Priya gayend le aayi.
+11 Mohit rasoi ghar gaya.
+12 Priya gayend rakh aayi.
+13 Gayend ab kahan hai?	sayanakaksh	12 5
+14 Priya gayend le kar aayi.
+15 Mohit bagichey mein gaya.
+16 Mohit rasoi ghar mein gaya.
+17 Mohit daftar mein chala gaya.
+18 Priya gayend rakh aayi.
+19 Badri sayanakaksh mein gaya.
+20 Gayend is samay kahan hai?	sayanakaksh	18 5
+21 Badri bagichey mein chala gaya.
+22 Sita daftar mein chali gayi.
+23 Gayend is samay kahan hai?	sayanakaksh	18 5
+24 Priya gayend le aayi.
+25 Sita sayanakaksh gayi.
+26 Priya gusalkhaney gayi.
+27 Priya gayend rakh aayi.
+28 Gayend is samay kahan hai?	gusalkhana	27 26
+29 Priya gayend le aayi.
+30 Badri seb le kar aaya.
+31 Priya gayend chod aayi.
+32 Mohit bagichey mein chala gaya.
+33 Gayend is samay kahan hai?	gusalkhana	31 26
+1 Priya gusalkhaney mein chali gayi.
+2 Badri daftar gaya.
+3 Sita dhoodh le kar aayi.
+4 Badri sayanakaksh mein gaya.
+5 Sita sayanakaksh gayi.
+6 Badri gayend le kar aaya.
+7 Dhoodh ab kahan hai?	sayanakaksh	3 5
+8 Sita seb le aayi.
+9 Badri daftar mein chala gaya.
+10 Gayend ab kahan hai?	daftar	6 9
+11 Priya galiyarey mein gayi.
+12 Badri bagichey mein chala gaya.
+13 Gayend is samay kahan hai?	bagicha	6 12
+14 Sita dhoodh chod aayi.
+15 Mohit galiyarey mein gaya.
+16 Dhoodh ab kahan hai?	sayanakaksh	14 5
+17 Sita seb rakh aayi.
+18 Badri gayend rakh aaya.
+19 Gayend is samay kahan hai?	bagicha	18 12
+1 Badri gayend le aaya.
+2 Badri gayend chod aaya.
+3 Priya daftar mein gayi.
+4 Mohit dhoodh le kar aaya.
+5 Mohit dhoodh chod aaya.
+6 Priya rasoi ghar gayi.
+7 Badri gayend le kar aaya.
+8 Mohit dhoodh le kar aaya.
+9 Priya bagichey mein gayi.
+10 Badri sayanakaksh mein chala gaya.
+11 Gayend is samay kahan hai?	sayanakaksh	7 10
+12 Badri galiyarey gaya.
+13 Mohit dhoodh chod aaya.
+14 Badri gayend chod aaya.
+15 Badri daftar mein gaya.
+16 Gayend is samay kahan hai?	galiyara	14 12
+17 Mohit dhoodh le aaya.
+18 Badri sayanakaksh mein gaya.
+19 Gayend is samay kahan hai?	galiyara	14 12
+20 Badri bagichey mein chala gaya.
+21 Badri rasoi ghar mein gaya.
+22 Priya daftar mein chali gayi.
+23 Badri sayanakaksh mein chala gaya.
+24 Sita rasoi ghar mein gayi.
+25 Mohit galiyarey mein chala gaya.
+26 Priya bagichey mein gayi.
+27 Mohit dhoodh rakh aaya.
+28 Dhoodh ab kahan hai?	galiyara	27 25
+29 Mohit rasoi ghar mein gaya.
+30 Badri gusalkhaney mein gaya.
+31 Dhoodh ab kahan hai?	galiyara	27 25
+1 Mohit rasoi ghar mein chala gaya.
+2 Sita galiyarey gayi.
+3 Badri seb le kar aaya.
+4 Sita sayanakaksh mein chali gayi.
+5 Mohit galiyarey mein gaya.
+6 Sita gusalkhaney mein gayi.
+7 Badri seb chod aaya.
+8 Priya daftar gayi.
+9 Badri bagichey gaya.
+10 Sita bagichey mein chali gayi.
+11 Priya dhoodh le aayi.
+12 Badri galiyarey mein gaya.
+13 Badri gusalkhaney gaya.
+14 Priya rasoi ghar mein gayi.
+15 Dhoodh is samay kahan hai?	rasoi ghar	11 14
+16 Mohit rasoi ghar mein chala gaya.
+17 Mohit seb le aaya.
+18 Mohit seb chod aaya.
+19 Sita sayanakaksh mein chali gayi.
+20 Seb ab kahan hai?	rasoi ghar	18 16
+21 Sita gusalkhaney mein chali gayi.
+22 Mohit seb le aaya.
+23 Sita galiyarey mein gayi.
+24 Priya galiyarey mein gayi.
+25 Priya dhoodh chod aayi.
+26 Priya sayanakaksh mein gayi.
+27 Dhoodh is samay kahan hai?	galiyara	25 24
+28 Mohit gusalkhaney gaya.
+29 Badri bagichey mein chala gaya.
+30 Dhoodh is samay kahan hai?	galiyara	25 24
+31 Priya daftar mein gayi.
+32 Priya rasoi ghar gayi.
+33 Mohit seb rakh aaya.
+34 Badri daftar gaya.
+35 Seb is samay kahan hai?	gusalkhana	33 28
+1 Mohit seb le aaya.
+2 Mohit gusalkhaney gaya.
+3 Seb is samay kahan hai?	gusalkhana	1 2
+4 Badri sayanakaksh mein chala gaya.
+5 Badri gayend le aaya.
+6 Seb ab kahan hai?	gusalkhana	1 2
+7 Mohit seb rakh aaya.
+8 Mohit dhoodh le aaya.
+9 Seb ab kahan hai?	gusalkhana	7 2
+10 Mohit dhoodh chod aaya.
+11 Mohit dhoodh le aaya.
+12 Seb ab kahan hai?	gusalkhana	7 2
+13 Sita sayanakaksh mein gayi.
+14 Priya rasoi ghar mein gayi.
+15 Sita bagichey mein gayi.
+16 Badri bagichey mein chala gaya.
+17 Mohit daftar mein chala gaya.
+18 Priya galiyarey mein gayi.
+19 Badri gayend chod aaya.
+20 Badri gayend le aaya.
+21 Badri galiyarey mein chala gaya.
+22 Badri gayend rakh aaya.
+23 Gayend is samay kahan hai?	galiyara	22 21
+1 Priya rasoi ghar mein chali gayi.
+2 Sita seb le kar aayi.
+3 Sita seb chod aayi.
+4 Priya seb le aayi.
+5 Priya seb rakh aayi.
+6 Badri bagichey gaya.
+7 Seb is samay kahan hai?	rasoi ghar	5 1
+8 Mohit galiyarey mein chala gaya.
+9 Badri rasoi ghar gaya.
+10 Seb is samay kahan hai?	rasoi ghar	5 1
+11 Sita dhoodh le kar aayi.
+12 Priya seb le aayi.
+13 Sita dhoodh rakh aayi.
+14 Mohit gusalkhaney mein chala gaya.
+15 Badri dhoodh le aaya.
+16 Priya seb chod aayi.
+17 Seb is samay kahan hai?	rasoi ghar	16 1
+18 Mohit gayend le kar aaya.
+19 Priya seb le kar aayi.
+20 Mohit gayend chod aaya.
+21 Mohit bagichey mein gaya.
+22 Gayend is samay kahan hai?	gusalkhana	20 14
+23 Badri dhoodh rakh aaya.
+24 Badri dhoodh le kar aaya.
+25 Gayend ab kahan hai?	gusalkhana	20 14
+1 Priya bagichey gayi.
+2 Sita galiyarey gayi.
+3 Mohit rasoi ghar mein gaya.
+4 Badri rasoi ghar gaya.
+5 Badri bagichey mein gaya.
+6 Badri rasoi ghar mein chala gaya.
+7 Badri galiyarey mein gaya.
+8 Mohit bagichey mein chala gaya.
+9 Mohit sayanakaksh mein gaya.
+10 Priya sayanakaksh mein chali gayi.
+11 Sita gusalkhaney mein chali gayi.
+12 Sita bagichey gayi.
+13 Sita gusalkhaney mein chali gayi.
+14 Sita daftar mein gayi.
+15 Mohit rasoi ghar gaya.
+16 Sita seb le kar aayi.
+17 Sita seb chod aayi.
+18 Priya gusalkhaney mein chali gayi.
+19 Seb ab kahan hai?	daftar	17 14
+20 Mohit dhoodh le kar aaya.
+21 Sita rasoi ghar mein gayi.
+22 Seb is samay kahan hai?	daftar	17 14
+23 Priya daftar mein gayi.
+24 Priya gusalkhaney mein gayi.
+25 Priya daftar mein gayi.
+26 Badri sayanakaksh mein chala gaya.
+27 Priya seb le aayi.
+28 Mohit gusalkhaney gaya.
+29 Priya seb chod aayi.
+30 Mohit dhoodh rakh aaya.
+31 Seb is samay kahan hai?	daftar	29 25
+32 Priya bagichey gayi.
+33 Sita galiyarey gayi.
+34 Dhoodh is samay kahan hai?	gusalkhana	30 28
+35 Badri gusalkhaney gaya.
+36 Priya sayanakaksh gayi.
+37 Dhoodh ab kahan hai?	gusalkhana	30 28
+1 Mohit daftar mein gaya.
+2 Mohit bagichey gaya.
+3 Badri galiyarey mein chala gaya.
+4 Priya galiyarey mein chali gayi.
+5 Badri sayanakaksh mein chala gaya.
+6 Sita galiyarey mein gayi.
+7 Badri dhoodh le aaya.
+8 Priya rasoi ghar gayi.
+9 Badri dhoodh chod aaya.
+10 Mohit gayend le kar aaya.
+11 Dhoodh ab kahan hai?	sayanakaksh	9 5
+12 Mohit rasoi ghar mein chala gaya.
+13 Mohit gayend chod aaya.
+14 Gayend ab kahan hai?	rasoi ghar	13 12
+15 Priya gayend le aayi.
+16 Badri daftar gaya.
+17 Mohit galiyarey gaya.
+18 Badri seb le aaya.
+19 Sita gusalkhaney mein chali gayi.
+20 Sita galiyarey gayi.
+21 Mohit gusalkhaney mein chala gaya.
+22 Priya daftar mein gayi.
+23 Priya gayend rakh aayi.
+24 Priya gayend le aayi.
+25 Priya gayend chod aayi.
+26 Badri rasoi ghar gaya.
+27 Gayend ab kahan hai?	daftar	25 22
+28 Priya gayend le aayi.
+29 Sita daftar mein gayi.
+30 Sita rasoi ghar mein gayi.
+31 Priya gayend rakh aayi.
+32 Gayend is samay kahan hai?	daftar	31 22
+33 Mohit rasoi ghar mein gaya.
+34 Badri gusalkhaney mein chala gaya.
+35 Gayend is samay kahan hai?	daftar	31 22
+1 Priya dhoodh le aayi.
+2 Priya dhoodh chod aayi.
+3 Priya dhoodh le kar aayi.
+4 Badri daftar mein chala gaya.
+5 Mohit galiyarey gaya.
+6 Sita gayend le aayi.
+7 Mohit sayanakaksh mein gaya.
+8 Mohit bagichey gaya.
+9 Badri rasoi ghar mein gaya.
+10 Mohit galiyarey mein chala gaya.
+11 Sita gayend chod aayi.
+12 Sita daftar mein gayi.
+13 Mohit seb le aaya.
+14 Mohit rasoi ghar mein gaya.
+15 Seb ab kahan hai?	rasoi ghar	13 14
+16 Badri sayanakaksh mein chala gaya.
+17 Priya dhoodh chod aayi.
+18 Seb is samay kahan hai?	rasoi ghar	13 14
+19 Mohit seb rakh aaya.
+20 Mohit seb le kar aaya.
+21 Badri bagichey mein gaya.
+22 Badri rasoi ghar mein gaya.
+23 Priya galiyarey gayi.
+24 Sita dhoodh le kar aayi.
+25 Priya daftar gayi.
+26 Badri daftar gaya.
+27 Priya gusalkhaney mein chali gayi.
+28 Badri galiyarey mein chala gaya.
+29 Priya gayend le aayi.
+30 Mohit seb chod aaya.
+31 Seb is samay kahan hai?	rasoi ghar	30 14
+32 Mohit seb le kar aaya.
+33 Priya gayend chod aayi.
+34 Gayend is samay kahan hai?	gusalkhana	33 27
+35 Badri daftar mein gaya.
+36 Priya gayend le kar aayi.
+37 Mohit sayanakaksh mein chala gaya.
+38 Priya rasoi ghar mein chali gayi.
+39 Gayend ab kahan hai?	rasoi ghar	36 38
+1 Mohit dhoodh le aaya.
+2 Mohit daftar gaya.
+3 Dhoodh ab kahan hai?	daftar	1 2
+4 Sita gayend le kar aayi.
+5 Mohit seb le kar aaya.
+6 Dhoodh ab kahan hai?	daftar	1 2
+7 Sita gayend chod aayi.
+8 Sita rasoi ghar mein chali gayi.
+9 Priya gayend le kar aayi.
+10 Priya gayend rakh aayi.
+11 Priya gayend le aayi.
+12 Mohit galiyarey gaya.
+13 Priya gayend chod aayi.
+14 Badri rasoi ghar mein gaya.
+15 Mohit seb rakh aaya.
+16 Mohit gusalkhaney mein chala gaya.
+17 Seb ab kahan hai?	galiyara	15 12
+18 Mohit dhoodh chod aaya.
+19 Mohit sayanakaksh gaya.
+20 Dhoodh is samay kahan hai?	gusalkhana	18 16
+21 Priya dhoodh le aayi.
+22 Badri gusalkhaney mein chala gaya.
+23 Priya galiyarey gayi.
+24 Badri sayanakaksh mein chala gaya.
+25 Dhoodh ab kahan hai?	galiyara	21 23
+1 Badri gayend le aaya.
+2 Badri rasoi ghar gaya.
+3 Gayend ab kahan hai?	rasoi ghar	1 2
+4 Priya galiyarey gayi.
+5 Priya gusalkhaney mein chali gayi.
+6 Gayend is samay kahan hai?	rasoi ghar	1 2
+7 Badri daftar gaya.
+8 Badri gayend rakh aaya.
+9 Gayend ab kahan hai?	daftar	8 7
+10 Badri galiyarey mein gaya.
+11 Mohit seb le aaya.
+12 Gayend is samay kahan hai?	daftar	8 7
+13 Sita daftar mein gayi.
+14 Mohit sayanakaksh gaya.
+15 Seb is samay kahan hai?	sayanakaksh	11 14
+1 Mohit bagichey gaya.
+2 Priya daftar mein chali gayi.
+3 Sita rasoi ghar gayi.
+4 Mohit sayanakaksh mein chala gaya.
+5 Mohit rasoi ghar gaya.
+6 Priya gusalkhaney gayi.
+7 Mohit daftar mein gaya.
+8 Sita daftar gayi.
+9 Mohit gusalkhaney mein chala gaya.
+10 Priya galiyarey mein gayi.
+11 Badri daftar mein chala gaya.
+12 Badri bagichey gaya.
+13 Mohit bagichey gaya.
+14 Mohit galiyarey gaya.
+15 Badri rasoi ghar mein chala gaya.
+16 Mohit rasoi ghar mein chala gaya.
+17 Badri bagichey mein gaya.
+18 Mohit dhoodh le aaya.
+19 Badri gusalkhaney mein chala gaya.
+20 Mohit dhoodh rakh aaya.
+21 Dhoodh is samay kahan hai?	rasoi ghar	20 16
+22 Priya gusalkhaney gayi.
+23 Priya rasoi ghar mein gayi.
+24 Dhoodh ab kahan hai?	rasoi ghar	20 16
+25 Priya sayanakaksh gayi.
+26 Mohit dhoodh le kar aaya.
+27 Badri galiyarey mein gaya.
+28 Priya gusalkhaney mein gayi.
+29 Mohit gayend le kar aaya.
+30 Badri daftar mein gaya.
+31 Mohit gusalkhaney gaya.
+32 Mohit dhoodh rakh aaya.
+33 Gayend ab kahan hai?	gusalkhana	29 31
+34 Priya daftar mein chali gayi.
+35 Priya gusalkhaney mein gayi.
+36 Dhoodh is samay kahan hai?	gusalkhana	32 31
+37 Sita rasoi ghar mein chali gayi.
+38 Mohit daftar mein chala gaya.
+39 Dhoodh is samay kahan hai?	gusalkhana	32 31
+1 Mohit sayanakaksh gaya.
+2 Priya rasoi ghar gayi.
+3 Badri sayanakaksh mein gaya.
+4 Mohit gusalkhaney mein gaya.
+5 Mohit sayanakaksh gaya.
+6 Priya galiyarey mein chali gayi.
+7 Mohit gayend le kar aaya.
+8 Mohit gusalkhaney mein chala gaya.
+9 Gayend is samay kahan hai?	gusalkhana	7 8
+10 Mohit gayend chod aaya.
+11 Badri dhoodh le aaya.
+12 Gayend is samay kahan hai?	gusalkhana	10 8
+13 Badri dhoodh rakh aaya.
+14 Mohit gayend le aaya.
+15 Dhoodh is samay kahan hai?	sayanakaksh	13 3
+16 Priya sayanakaksh mein gayi.
+17 Mohit daftar mein chala gaya.
+18 Gayend is samay kahan hai?	daftar	14 17
+19 Badri rasoi ghar mein chala gaya.
+20 Mohit gayend chod aaya.
+21 Gayend ab kahan hai?	daftar	20 17
+1 Sita daftar gayi.
+2 Sita bagichey mein gayi.
+3 Sita gayend le aayi.
+4 Priya bagichey mein gayi.
+5 Sita gayend rakh aayi.
+6 Badri gayend le kar aaya.
+7 Badri gayend rakh aaya.
+8 Priya daftar gayi.
+9 Mohit seb le kar aaya.
+10 Badri gayend le kar aaya.
+11 Mohit seb chod aaya.
+12 Priya galiyarey mein gayi.
+13 Mohit seb le aaya.
+14 Badri rasoi ghar gaya.
+15 Gayend ab kahan hai?	rasoi ghar	10 14
+16 Mohit dhoodh le kar aaya.
+17 Priya rasoi ghar mein chali gayi.
+18 Mohit bagichey mein gaya.
+19 Mohit daftar gaya.
+20 Dhoodh is samay kahan hai?	daftar	16 19
+21 Badri gayend rakh aaya.
+22 Mohit galiyarey mein gaya.
+23 Gayend is samay kahan hai?	rasoi ghar	21 14
+24 Badri gayend le kar aaya.
+25 Mohit gusalkhaney gaya.
+26 Mohit daftar mein gaya.
+27 Sita daftar mein gayi.
+28 Sita rasoi ghar gayi.
+29 Mohit dhoodh rakh aaya.
+30 Dhoodh ab kahan hai?	daftar	29 26
+31 Badri galiyarey mein chala gaya.
+32 Priya bagichey mein gayi.
+33 Dhoodh ab kahan hai?	daftar	29 26
+1 Sita galiyarey mein gayi.
+2 Sita daftar mein chali gayi.
+3 Priya daftar gayi.
+4 Sita seb le aayi.
+5 Priya bagichey gayi.
+6 Badri gusalkhaney mein chala gaya.
+7 Mohit dhoodh le kar aaya.
+8 Priya galiyarey gayi.
+9 Mohit dhoodh chod aaya.
+10 Mohit dhoodh le kar aaya.
+11 Mohit gusalkhaney gaya.
+12 Priya bagichey mein gayi.
+13 Dhoodh ab kahan hai?	gusalkhana	10 11
+14 Priya rasoi ghar gayi.
+15 Badri gayend le kar aaya.
+16 Dhoodh is samay kahan hai?	gusalkhana	10 11
+17 Sita seb rakh aayi.
+18 Priya bagichey mein gayi.
+19 Seb is samay kahan hai?	daftar	17 2
+20 Priya rasoi ghar gayi.
+21 Mohit sayanakaksh mein gaya.
+22 Seb ab kahan hai?	daftar	17 2
+23 Sita rasoi ghar mein chali gayi.
+24 Sita galiyarey mein gayi.
+25 Priya bagichey mein gayi.
+26 Mohit dhoodh rakh aaya.
+27 Dhoodh ab kahan hai?	sayanakaksh	26 21
+1 Priya galiyarey mein chali gayi.
+2 Priya bagichey gayi.
+3 Priya galiyarey mein chali gayi.
+4 Sita galiyarey mein gayi.
+5 Sita bagichey mein gayi.
+6 Priya rasoi ghar mein gayi.
+7 Badri galiyarey mein chala gaya.
+8 Mohit gayend le aaya.
+9 Sita daftar gayi.
+10 Mohit rasoi ghar gaya.
+11 Gayend is samay kahan hai?	rasoi ghar	8 10
+12 Mohit gusalkhaney mein gaya.
+13 Mohit rasoi ghar mein chala gaya.
+14 Gayend is samay kahan hai?	rasoi ghar	8 13
+15 Mohit gayend chod aaya.
+16 Badri daftar mein chala gaya.
+17 Gayend ab kahan hai?	rasoi ghar	15 13
+18 Mohit gayend le kar aaya.
+19 Priya daftar mein gayi.
+20 Badri galiyarey gaya.
+21 Priya rasoi ghar mein chali gayi.
+22 Badri sayanakaksh mein gaya.
+23 Badri daftar gaya.
+24 Badri galiyarey mein gaya.
+25 Mohit gayend rakh aaya.
+26 Gayend ab kahan hai?	rasoi ghar	25 13
+27 Mohit gayend le aaya.
+28 Mohit galiyarey mein chala gaya.
+29 Gayend is samay kahan hai?	galiyara	27 28
+1 Mohit galiyarey mein gaya.
+2 Mohit dhoodh le kar aaya.
+3 Priya galiyarey gayi.
+4 Sita gusalkhaney mein gayi.
+5 Mohit gusalkhaney mein chala gaya.
+6 Sita rasoi ghar mein gayi.
+7 Dhoodh ab kahan hai?	gusalkhana	2 5
+8 Badri bagichey gaya.
+9 Mohit dhoodh rakh aaya.
+10 Dhoodh ab kahan hai?	gusalkhana	9 5
+11 Badri rasoi ghar mein chala gaya.
+12 Sita galiyarey gayi.
+13 Dhoodh is samay kahan hai?	gusalkhana	9 5
+14 Badri galiyarey mein gaya.
+15 Mohit galiyarey mein gaya.
+16 Dhoodh ab kahan hai?	gusalkhana	9 5
+17 Mohit sayanakaksh mein chala gaya.
+18 Mohit seb le kar aaya.
+19 Priya sayanakaksh gayi.
+20 Mohit seb rakh aaya.
+21 Seb ab kahan hai?	sayanakaksh	20 17
+1 Priya rasoi ghar mein gayi.
+2 Badri galiyarey mein chala gaya.
+3 Sita gayend le kar aayi.
+4 Sita gayend rakh aayi.
+5 Badri daftar mein chala gaya.
+6 Mohit daftar mein gaya.
+7 Badri gusalkhaney mein chala gaya.
+8 Priya bagichey mein gayi.
+9 Mohit gayend le kar aaya.
+10 Priya daftar gayi.
+11 Badri galiyarey mein chala gaya.
+12 Badri daftar mein gaya.
+13 Priya sayanakaksh mein gayi.
+14 Priya seb le kar aayi.
+15 Badri rasoi ghar gaya.
+16 Priya daftar mein chali gayi.
+17 Seb is samay kahan hai?	daftar	14 16
+18 Priya rasoi ghar mein chali gayi.
+19 Priya seb chod aayi.
+20 Seb is samay kahan hai?	rasoi ghar	19 18
+21 Priya seb le kar aayi.
+22 Mohit sayanakaksh mein chala gaya.
+23 Priya bagichey mein gayi.
+24 Mohit gayend chod aaya.
+25 Gayend is samay kahan hai?	sayanakaksh	24 22
+26 Priya seb chod aayi.
+27 Badri sayanakaksh mein gaya.
+28 Gayend is samay kahan hai?	sayanakaksh	24 22
+29 Badri gayend le kar aaya.
+30 Badri bagichey gaya.
+31 Seb ab kahan hai?	bagicha	26 23
+1 Mohit daftar mein gaya.
+2 Badri galiyarey gaya.
+3 Priya gusalkhaney mein gayi.
+4 Badri gusalkhaney mein gaya.
+5 Mohit galiyarey gaya.
+6 Badri seb le kar aaya.
+7 Sita daftar mein chali gayi.
+8 Priya bagichey mein chali gayi.
+9 Badri seb rakh aaya.
+10 Sita gusalkhaney mein chali gayi.
+11 Seb ab kahan hai?	gusalkhana	9 4
+12 Sita seb le kar aayi.
+13 Sita seb chod aayi.
+14 Seb is samay kahan hai?	gusalkhana	13 10
+15 Priya dhoodh le kar aayi.
+16 Priya gusalkhaney gayi.
+17 Seb is samay kahan hai?	gusalkhana	13 10
+18 Sita rasoi ghar gayi.
+19 Sita gayend le aayi.
+20 Dhoodh ab kahan hai?	gusalkhana	15 16
+21 Priya dhoodh chod aayi.
+22 Badri sayanakaksh gaya.
+23 Dhoodh ab kahan hai?	gusalkhana	21 16
+1 Mohit bagichey mein gaya.
+2 Badri sayanakaksh mein gaya.
+3 Priya sayanakaksh gayi.
+4 Badri rasoi ghar mein gaya.
+5 Badri sayanakaksh mein chala gaya.
+6 Priya rasoi ghar mein chali gayi.
+7 Mohit dhoodh le kar aaya.
+8 Mohit dhoodh rakh aaya.
+9 Dhoodh is samay kahan hai?	bagicha	8 1
+10 Priya galiyarey mein gayi.
+11 Sita bagichey mein gayi.
+12 Dhoodh ab kahan hai?	bagicha	8 1
+13 Sita daftar mein chali gayi.
+14 Mohit dhoodh le kar aaya.
+15 Priya rasoi ghar mein chali gayi.
+16 Sita seb le aayi.
+17 Priya sayanakaksh gayi.
+18 Priya daftar mein chali gayi.
+19 Mohit daftar mein gaya.
+20 Priya bagichey gayi.
+21 Badri rasoi ghar mein chala gaya.
+22 Badri bagichey mein gaya.
+23 Badri gayend le aaya.
+24 Badri gayend chod aaya.
+25 Gayend ab kahan hai?	bagicha	24 22
+26 Badri rasoi ghar gaya.
+27 Badri daftar mein gaya.
+28 Gayend ab kahan hai?	bagicha	24 22
+29 Badri galiyarey mein gaya.
+30 Badri gusalkhaney gaya.
+31 Gayend ab kahan hai?	bagicha	24 22
+1 Badri sayanakaksh gaya.
+2 Mohit bagichey gaya.
+3 Priya gayend le aayi.
+4 Mohit galiyarey mein chala gaya.
+5 Mohit gusalkhaney mein gaya.
+6 Badri gusalkhaney gaya.
+7 Mohit rasoi ghar gaya.
+8 Sita rasoi ghar mein gayi.
+9 Mohit seb le kar aaya.
+10 Mohit seb chod aaya.
+11 Seb ab kahan hai?	rasoi ghar	10 7
+12 Priya gayend rakh aayi.
+13 Mohit seb le aaya.
+14 Priya gusalkhaney mein gayi.
+15 Mohit seb chod aaya.
+16 Seb is samay kahan hai?	rasoi ghar	15 7
+17 Sita seb le kar aayi.
+18 Priya bagichey mein chali gayi.
+19 Sita seb rakh aayi.
+20 Sita seb le aayi.
+21 Sita seb chod aayi.
+22 Priya dhoodh le kar aayi.
+23 Seb is samay kahan hai?	rasoi ghar	21 8
+24 Priya gusalkhaney mein chali gayi.
+25 Mohit daftar gaya.
+26 Seb ab kahan hai?	rasoi ghar	21 8
+27 Mohit sayanakaksh mein chala gaya.
+28 Mohit bagichey gaya.
+29 Dhoodh ab kahan hai?	gusalkhana	22 24
+1 Mohit bagichey gaya.
+2 Mohit gayend le kar aaya.
+3 Badri sayanakaksh mein gaya.
+4 Priya daftar mein chali gayi.
+5 Priya sayanakaksh mein chali gayi.
+6 Mohit gayend chod aaya.
+7 Gayend ab kahan hai?	bagicha	6 1
+8 Mohit gayend le aaya.
+9 Sita rasoi ghar gayi.
+10 Mohit galiyarey mein gaya.
+11 Mohit gayend rakh aaya.
+12 Gayend is samay kahan hai?	galiyara	11 10
+13 Mohit daftar mein gaya.
+14 Mohit bagichey mein gaya.
+15 Gayend ab kahan hai?	galiyara	11 10
+16 Mohit sayanakaksh mein gaya.
+17 Sita galiyarey mein gayi.
+18 Gayend ab kahan hai?	galiyara	11 10
+19 Mohit bagichey mein gaya.
+20 Mohit rasoi ghar mein chala gaya.
+21 Badri rasoi ghar mein gaya.
+22 Sita seb le aayi.
+23 Sita seb chod aayi.
+24 Sita gayend le aayi.
+25 Seb ab kahan hai?	galiyara	23 17
+1 Sita sayanakaksh mein gayi.
+2 Badri galiyarey mein chala gaya.
+3 Priya seb le kar aayi.
+4 Mohit galiyarey gaya.
+5 Priya seb rakh aayi.
+6 Sita daftar gayi.
+7 Mohit bagichey gaya.
+8 Priya gayend le kar aayi.
+9 Priya seb le aayi.
+10 Sita rasoi ghar gayi.
+11 Sita dhoodh le aayi.
+12 Priya gayend chod aayi.
+13 Mohit sayanakaksh mein chala gaya.
+14 Priya rasoi ghar mein chali gayi.
+15 Mohit rasoi ghar mein chala gaya.
+16 Sita dhoodh chod aayi.
+17 Dhoodh ab kahan hai?	rasoi ghar	16 10
+18 Sita bagichey mein gayi.
+19 Mohit dhoodh le aaya.
+20 Mohit daftar gaya.
+21 Mohit dhoodh chod aaya.
+22 Dhoodh is samay kahan hai?	daftar	21 20
+23 Badri gusalkhaney mein gaya.
+24 Priya galiyarey gayi.
+25 Dhoodh ab kahan hai?	daftar	21 20
+26 Priya seb rakh aayi.
+27 Badri gayend le aaya.
+28 Seb is samay kahan hai?	galiyara	26 24
+29 Badri sayanakaksh mein chala gaya.
+30 Priya daftar gayi.
+31 Gayend ab kahan hai?	sayanakaksh	27 29
+1 Mohit gayend le aaya.
+2 Mohit gusalkhaney mein chala gaya.
+3 Gayend ab kahan hai?	gusalkhana	1 2
+4 Priya rasoi ghar gayi.
+5 Mohit dhoodh le kar aaya.
+6 Gayend ab kahan hai?	gusalkhana	1 2
+7 Mohit sayanakaksh mein chala gaya.
+8 Badri seb le kar aaya.
+9 Dhoodh ab kahan hai?	sayanakaksh	5 7
+10 Mohit dhoodh rakh aaya.
+11 Mohit dhoodh le aaya.
+12 Mohit rasoi ghar mein chala gaya.
+13 Sita gusalkhaney gayi.
+14 Dhoodh ab kahan hai?	rasoi ghar	11 12
+15 Badri seb rakh aaya.
+16 Sita sayanakaksh gayi.
+17 Dhoodh ab kahan hai?	rasoi ghar	11 12
+1 Sita seb le kar aayi.
+2 Sita seb rakh aayi.
+3 Badri rasoi ghar mein chala gaya.
+4 Mohit galiyarey gaya.
+5 Sita seb le kar aayi.
+6 Badri bagichey mein chala gaya.
+7 Priya gayend le aayi.
+8 Sita seb rakh aayi.
+9 Sita seb le kar aayi.
+10 Priya gayend chod aayi.
+11 Sita seb rakh aayi.
+12 Sita gusalkhaney gayi.
+13 Mohit bagichey mein gaya.
+14 Priya gusalkhaney gayi.
+15 Sita sayanakaksh gayi.
+16 Sita gayend le kar aayi.
+17 Sita gayend chod aayi.
+18 Mohit galiyarey mein gaya.
+19 Gayend ab kahan hai?	sayanakaksh	17 15
+20 Sita gayend le aayi.
+21 Sita rasoi ghar mein chali gayi.
+22 Gayend ab kahan hai?	rasoi ghar	20 21
+23 Badri galiyarey mein chala gaya.
+24 Mohit gusalkhaney mein chala gaya.
+25 Gayend is samay kahan hai?	rasoi ghar	20 21
+26 Mohit sayanakaksh mein chala gaya.
+27 Sita gayend rakh aayi.
+28 Gayend is samay kahan hai?	rasoi ghar	27 21
+29 Sita daftar mein chali gayi.
+30 Badri gusalkhaney gaya.
+31 Gayend is samay kahan hai?	rasoi ghar	27 21
+1 Mohit dhoodh le kar aaya.
+2 Badri galiyarey mein chala gaya.
+3 Priya rasoi ghar mein chali gayi.
+4 Mohit dhoodh rakh aaya.
+5 Badri daftar mein chala gaya.
+6 Mohit daftar gaya.
+7 Badri seb le aaya.
+8 Sita gayend le kar aayi.
+9 Badri rasoi ghar mein gaya.
+10 Badri dhoodh le kar aaya.
+11 Seb is samay kahan hai?	rasoi ghar	7 9
+12 Priya sayanakaksh mein chali gayi.
+13 Badri bagichey mein chala gaya.
+14 Dhoodh is samay kahan hai?	bagicha	10 13
+15 Badri dhoodh chod aaya.
+16 Sita gayend chod aayi.
+17 Dhoodh is samay kahan hai?	bagicha	15 13
+18 Priya bagichey mein gayi.
+19 Priya sayanakaksh mein chali gayi.
+20 Dhoodh is samay kahan hai?	bagicha	15 13
+21 Sita gayend le aayi.
+22 Badri galiyarey gaya.
+23 Mohit rasoi ghar mein gaya.
+24 Mohit gusalkhaney gaya.
+25 Priya daftar mein gayi.
+26 Sita gayend chod aayi.
+27 Priya bagichey gayi.
+28 Priya dhoodh le kar aayi.
+29 Sita bagichey mein gayi.
+30 Sita galiyarey gayi.
+31 Badri daftar mein gaya.
+32 Mohit sayanakaksh mein chala gaya.
+33 Badri sayanakaksh mein gaya.
+34 Priya rasoi ghar gayi.
+35 Mohit daftar mein gaya.
+36 Badri daftar mein chala gaya.
+37 Sita daftar mein gayi.
+38 Priya dhoodh rakh aayi.
+39 Dhoodh ab kahan hai?	rasoi ghar	38 34
+1 Priya seb le aayi.
+2 Mohit bagichey mein chala gaya.
+3 Priya gusalkhaney mein chali gayi.
+4 Mohit gusalkhaney mein gaya.
+5 Seb is samay kahan hai?	gusalkhana	1 3
+6 Sita bagichey mein chali gayi.
+7 Badri daftar gaya.
+8 Mohit bagichey mein chala gaya.
+9 Priya seb rakh aayi.
+10 Seb ab kahan hai?	gusalkhana	9 3
+11 Mohit galiyarey gaya.
+12 Sita dhoodh le kar aayi.
+13 Seb ab kahan hai?	gusalkhana	9 3
+14 Priya sayanakaksh mein gayi.
+15 Badri galiyarey mein gaya.
+16 Seb ab kahan hai?	gusalkhana	9 3
+17 Badri rasoi ghar gaya.
+18 Sita daftar mein chali gayi.
+19 Dhoodh is samay kahan hai?	daftar	12 18
+1 Priya rasoi ghar mein chali gayi.
+2 Sita dhoodh le kar aayi.
+3 Mohit bagichey mein gaya.
+4 Sita dhoodh chod aayi.
+5 Badri daftar gaya.
+6 Sita dhoodh le aayi.
+7 Mohit gusalkhaney gaya.
+8 Mohit bagichey gaya.
+9 Badri rasoi ghar mein chala gaya.
+10 Mohit galiyarey mein chala gaya.
+11 Sita dhoodh chod aayi.
+12 Sita daftar mein chali gayi.
+13 Priya gusalkhaney gayi.
+14 Badri dhoodh le kar aaya.
+15 Badri daftar gaya.
+16 Sita rasoi ghar mein chali gayi.
+17 Dhoodh is samay kahan hai?	daftar	14 15
+18 Priya daftar gayi.
+19 Priya rasoi ghar mein chali gayi.
+20 Dhoodh ab kahan hai?	daftar	14 15
+21 Priya bagichey mein chali gayi.
+22 Mohit gusalkhaney gaya.
+23 Mohit galiyarey mein chala gaya.
+24 Badri sayanakaksh mein chala gaya.
+25 Priya galiyarey gayi.
+26 Priya gusalkhaney mein gayi.
+27 Badri galiyarey mein gaya.
+28 Badri dhoodh chod aaya.
+29 Dhoodh ab kahan hai?	galiyara	28 27
+30 Priya sayanakaksh mein gayi.
+31 Mohit rasoi ghar mein gaya.
+32 Dhoodh is samay kahan hai?	galiyara	28 27
+33 Badri dhoodh le aaya.
+34 Sita galiyarey gayi.
+35 Badri bagichey gaya.
+36 Badri seb le kar aaya.
+37 Dhoodh is samay kahan hai?	bagicha	33 35
+1 Priya galiyarey mein chali gayi.
+2 Badri sayanakaksh mein gaya.
+3 Priya gusalkhaney gayi.
+4 Badri gayend le kar aaya.
+5 Badri gayend rakh aaya.
+6 Badri gayend le kar aaya.
+7 Priya bagichey gayi.
+8 Priya dhoodh le kar aayi.
+9 Mohit sayanakaksh mein chala gaya.
+10 Mohit daftar gaya.
+11 Mohit seb le aaya.
+12 Badri rasoi ghar mein gaya.
+13 Badri gayend chod aaya.
+14 Badri gayend le aaya.
+15 Badri gayend rakh aaya.
+16 Priya dhoodh chod aayi.
+17 Gayend ab kahan hai?	rasoi ghar	15 12
+18 Priya dhoodh le aayi.
+19 Sita sayanakaksh gayi.
+20 Gayend ab kahan hai?	rasoi ghar	15 12
+21 Mohit bagichey gaya.
+22 Priya dhoodh rakh aayi.
+23 Dhoodh ab kahan hai?	bagicha	22 7
+24 Sita bagichey mein gayi.
+25 Sita sayanakaksh mein chali gayi.
+26 Dhoodh is samay kahan hai?	bagicha	22 7
+27 Priya dhoodh le aayi.
+28 Mohit galiyarey gaya.
+29 Badri gayend le kar aaya.
+30 Badri gayend rakh aaya.
+31 Gayend ab kahan hai?	rasoi ghar	30 12
+1 Sita gusalkhaney gayi.
+2 Mohit galiyarey mein gaya.
+3 Sita daftar mein gayi.
+4 Badri galiyarey mein gaya.
+5 Mohit gusalkhaney mein gaya.
+6 Badri gusalkhaney mein chala gaya.
+7 Priya daftar gayi.
+8 Priya gusalkhaney mein gayi.
+9 Badri bagichey gaya.
+10 Sita sayanakaksh mein gayi.
+11 Mohit bagichey mein chala gaya.
+12 Sita galiyarey mein gayi.
+13 Badri sayanakaksh gaya.
+14 Mohit rasoi ghar mein gaya.
+15 Badri galiyarey mein gaya.
+16 Mohit dhoodh le aaya.
+17 Mohit galiyarey mein gaya.
+18 Mohit dhoodh chod aaya.
+19 Dhoodh is samay kahan hai?	galiyara	18 17
+20 Priya galiyarey gayi.
+21 Priya dhoodh le kar aayi.
+22 Mohit rasoi ghar gaya.
+23 Sita rasoi ghar gayi.
+24 Priya daftar gayi.
+25 Badri daftar mein gaya.
+26 Dhoodh ab kahan hai?	daftar	21 24
+27 Priya dhoodh rakh aayi.
+28 Sita daftar mein gayi.
+29 Dhoodh ab kahan hai?	daftar	27 24
+30 Priya sayanakaksh gayi.
+31 Priya rasoi ghar mein chali gayi.
+32 Dhoodh is samay kahan hai?	daftar	27 24
+33 Badri dhoodh le kar aaya.
+34 Priya sayanakaksh mein gayi.
+35 Badri rasoi ghar mein gaya.
+36 Sita rasoi ghar gayi.
+37 Dhoodh is samay kahan hai?	rasoi ghar	33 35
+1 Sita rasoi ghar mein gayi.
+2 Badri sayanakaksh mein chala gaya.
+3 Sita bagichey mein gayi.
+4 Sita galiyarey mein chali gayi.
+5 Sita bagichey mein gayi.
+6 Sita seb le kar aayi.
+7 Sita seb rakh aayi.
+8 Sita seb le aayi.
+9 Mohit rasoi ghar gaya.
+10 Sita seb chod aayi.
+11 Seb ab kahan hai?	bagicha	10 5
+12 Mohit sayanakaksh mein chala gaya.
+13 Priya galiyarey mein chali gayi.
+14 Seb ab kahan hai?	bagicha	10 5
+15 Sita seb le kar aayi.
+16 Mohit bagichey mein gaya.
+17 Sita seb rakh aayi.
+18 Badri rasoi ghar gaya.
+19 Seb ab kahan hai?	bagicha	17 5
+20 Badri dhoodh le kar aaya.
+21 Mohit seb le kar aaya.
+22 Badri bagichey mein gaya.
+23 Badri daftar gaya.
+24 Dhoodh is samay kahan hai?	daftar	20 23
+25 Badri bagichey gaya.
+26 Badri dhoodh rakh aaya.
+27 Dhoodh is samay kahan hai?	bagicha	26 25
+1 Mohit galiyarey mein gaya.
+2 Priya gusalkhaney gayi.
+3 Badri seb le aaya.
+4 Priya dhoodh le kar aayi.
+5 Badri seb rakh aaya.
+6 Priya gayend le aayi.
+7 Sita galiyarey gayi.
+8 Sita gusalkhaney mein chali gayi.
+9 Priya sayanakaksh gayi.
+10 Sita rasoi ghar mein chali gayi.
+11 Gayend ab kahan hai?	sayanakaksh	6 9
+12 Sita bagichey mein gayi.
+13 Badri seb le kar aaya.
+14 Badri seb chod aaya.
+15 Priya gayend rakh aayi.
+16 Gayend ab kahan hai?	sayanakaksh	15 9
+17 Badri rasoi ghar gaya.
+18 Priya dhoodh rakh aayi.
+19 Gayend ab kahan hai?	sayanakaksh	15 9
+20 Sita gusalkhaney gayi.
+21 Sita bagichey gayi.
+22 Gayend is samay kahan hai?	sayanakaksh	15 9
+23 Sita sayanakaksh gayi.
+24 Sita dhoodh le aayi.
+25 Priya rasoi ghar mein gayi.
+26 Mohit sayanakaksh gaya.
+27 Sita dhoodh chod aayi.
+28 Mohit bagichey gaya.
+29 Dhoodh is samay kahan hai?	sayanakaksh	27 23
+1 Priya galiyarey mein gayi.
+2 Priya daftar gayi.
+3 Priya galiyarey mein gayi.
+4 Priya dhoodh le aayi.
+5 Mohit galiyarey mein gaya.
+6 Priya dhoodh rakh aayi.
+7 Dhoodh ab kahan hai?	galiyara	6 3
+8 Priya dhoodh le kar aayi.
+9 Badri rasoi ghar mein gaya.
+10 Priya rasoi ghar gayi.
+11 Mohit rasoi ghar mein chala gaya.
+12 Dhoodh ab kahan hai?	rasoi ghar	8 10
+13 Sita sayanakaksh mein chali gayi.
+14 Sita seb le aayi.
+15 Sita gusalkhaney mein gayi.
+16 Priya bagichey mein chali gayi.
+17 Seb ab kahan hai?	gusalkhana	14 15
+18 Mohit sayanakaksh mein gaya.
+19 Sita seb rakh aayi.
+20 Seb ab kahan hai?	gusalkhana	19 15
+21 Mohit gayend le kar aaya.
+22 Priya dhoodh rakh aayi.
+23 Seb is samay kahan hai?	gusalkhana	19 15
+1 Sita daftar gayi.
+2 Mohit seb le kar aaya.
+3 Priya dhoodh le aayi.
+4 Sita galiyarey mein gayi.
+5 Priya dhoodh rakh aayi.
+6 Priya dhoodh le aayi.
+7 Mohit galiyarey gaya.
+8 Priya dhoodh rakh aayi.
+9 Sita sayanakaksh gayi.
+10 Priya dhoodh le aayi.
+11 Mohit seb chod aaya.
+12 Priya dhoodh chod aayi.
+13 Seb ab kahan hai?	galiyara	11 7
+14 Badri galiyarey gaya.
+15 Priya daftar mein gayi.
+16 Seb is samay kahan hai?	galiyara	11 7
+17 Sita galiyarey gayi.
+18 Sita rasoi ghar mein gayi.
+19 Priya gayend le kar aayi.
+20 Priya gusalkhaney gayi.
+21 Gayend is samay kahan hai?	gusalkhana	19 20
+22 Priya gayend chod aayi.
+23 Sita galiyarey mein chali gayi.
+24 Gayend ab kahan hai?	gusalkhana	22 20
+25 Priya daftar gayi.
+26 Mohit seb le aaya.
+27 Gayend is samay kahan hai?	gusalkhana	22 20
+1 Mohit sayanakaksh mein chala gaya.
+2 Badri sayanakaksh mein chala gaya.
+3 Sita galiyarey mein chali gayi.
+4 Sita gusalkhaney mein chali gayi.
+5 Sita bagichey gayi.
+6 Priya sayanakaksh mein gayi.
+7 Sita daftar mein gayi.
+8 Sita sayanakaksh mein chali gayi.
+9 Priya galiyarey mein chali gayi.
+10 Mohit galiyarey mein chala gaya.
+11 Badri bagichey mein chala gaya.
+12 Priya sayanakaksh gayi.
+13 Mohit daftar mein chala gaya.
+14 Mohit galiyarey gaya.
+15 Sita gusalkhaney gayi.
+16 Badri sayanakaksh mein chala gaya.
+17 Sita rasoi ghar mein chali gayi.
+18 Badri galiyarey mein chala gaya.
+19 Badri rasoi ghar mein gaya.
+20 Badri gusalkhaney gaya.
+21 Priya bagichey mein gayi.
+22 Sita bagichey gayi.
+23 Sita galiyarey mein chali gayi.
+24 Priya dhoodh le kar aayi.
+25 Priya sayanakaksh mein chali gayi.
+26 Priya rasoi ghar mein gayi.
+27 Dhoodh is samay kahan hai?	rasoi ghar	24 26
+28 Priya daftar mein chali gayi.
+29 Badri daftar mein chala gaya.
+30 Dhoodh is samay kahan hai?	daftar	24 28
+31 Priya dhoodh rakh aayi.
+32 Badri dhoodh le aaya.
+33 Sita bagichey gayi.
+34 Badri seb le kar aaya.
+35 Mohit sayanakaksh mein chala gaya.
+36 Badri dhoodh rakh aaya.
+37 Dhoodh ab kahan hai?	daftar	36 29
+38 Priya dhoodh le kar aayi.
+39 Priya dhoodh chod aayi.
+40 Dhoodh ab kahan hai?	daftar	39 28
+41 Badri seb chod aaya.
+42 Badri dhoodh le aaya.
+43 Seb ab kahan hai?	daftar	41 29
+1 Mohit seb le kar aaya.
+2 Priya gusalkhaney mein chali gayi.
+3 Mohit seb chod aaya.
+4 Sita seb le aayi.
+5 Priya sayanakaksh mein chali gayi.
+6 Badri sayanakaksh mein gaya.
+7 Sita gusalkhaney mein chali gayi.
+8 Badri galiyarey gaya.
+9 Seb is samay kahan hai?	gusalkhana	4 7
+10 Priya rasoi ghar gayi.
+11 Badri sayanakaksh gaya.
+12 Mohit daftar gaya.
+13 Sita galiyarey mein gayi.
+14 Sita seb rakh aayi.
+15 Mohit galiyarey gaya.
+16 Seb ab kahan hai?	galiyara	14 13
+17 Sita dhoodh le kar aayi.
+18 Badri bagichey gaya.
+19 Seb ab kahan hai?	galiyara	14 13
+20 Sita gusalkhaney mein gayi.
+21 Priya daftar mein gayi.
+22 Dhoodh is samay kahan hai?	gusalkhana	17 20
+23 Badri sayanakaksh mein gaya.
+24 Mohit seb le aaya.
+25 Sita galiyarey gayi.
+26 Sita gayend le aayi.
+27 Mohit gusalkhaney mein gaya.
+28 Priya sayanakaksh gayi.
+29 Seb ab kahan hai?	gusalkhana	24 27
+1 Priya sayanakaksh mein chali gayi.
+2 Mohit dhoodh le kar aaya.
+3 Priya daftar mein chali gayi.
+4 Mohit gusalkhaney mein gaya.
+5 Dhoodh is samay kahan hai?	gusalkhana	2 4
+6 Priya sayanakaksh mein gayi.
+7 Sita gayend le kar aayi.
+8 Dhoodh ab kahan hai?	gusalkhana	2 4
+9 Priya galiyarey gayi.
+10 Sita sayanakaksh mein chali gayi.
+11 Gayend is samay kahan hai?	sayanakaksh	7 10
+12 Mohit dhoodh chod aaya.
+13 Mohit dhoodh le kar aaya.
+14 Gayend ab kahan hai?	sayanakaksh	7 10
+15 Priya seb le kar aayi.
+16 Mohit dhoodh rakh aaya.
+17 Dhoodh is samay kahan hai?	gusalkhana	16 4
+1 Priya sayanakaksh mein gayi.
+2 Mohit rasoi ghar mein gaya.
+3 Priya daftar mein chali gayi.
+4 Badri seb le aaya.
+5 Badri dhoodh le aaya.
+6 Badri rasoi ghar mein gaya.
+7 Seb is samay kahan hai?	rasoi ghar	4 6
+8 Badri bagichey mein gaya.
+9 Badri galiyarey mein chala gaya.
+10 Dhoodh is samay kahan hai?	galiyara	5 9
+11 Badri dhoodh chod aaya.
+12 Sita dhoodh le aayi.
+13 Mohit galiyarey gaya.
+14 Sita gusalkhaney mein gayi.
+15 Dhoodh ab kahan hai?	gusalkhana	12 14
+16 Mohit rasoi ghar gaya.
+17 Sita gayend le aayi.
+18 Dhoodh ab kahan hai?	gusalkhana	12 14
+19 Mohit bagichey mein chala gaya.
+20 Badri bagichey mein gaya.
+21 Sita daftar mein chali gayi.
+22 Badri galiyarey gaya.
+23 Gayend is samay kahan hai?	daftar	17 21
+1 Priya gayend le aayi.
+2 Mohit gusalkhaney mein chala gaya.
+3 Sita bagichey mein chali gayi.
+4 Mohit bagichey mein gaya.
+5 Badri galiyarey gaya.
+6 Sita dhoodh le aayi.
+7 Sita sayanakaksh gayi.
+8 Mohit galiyarey mein gaya.
+9 Dhoodh is samay kahan hai?	sayanakaksh	6 7
+10 Sita galiyarey mein gayi.
+11 Mohit sayanakaksh mein chala gaya.
+12 Dhoodh is samay kahan hai?	galiyara	6 10
+13 Badri rasoi ghar gaya.
+14 Priya bagichey gayi.
+15 Sita gusalkhaney mein chali gayi.
+16 Sita dhoodh rakh aayi.
+17 Dhoodh is samay kahan hai?	gusalkhana	16 15
+18 Priya gayend chod aayi.
+19 Badri gusalkhaney gaya.
+20 Gayend ab kahan hai?	bagicha	18 14
+21 Priya gayend le aayi.
+22 Priya sayanakaksh mein chali gayi.
+23 Gayend ab kahan hai?	sayanakaksh	21 22
+1 Mohit seb le aaya.
+2 Sita bagichey gayi.
+3 Priya rasoi ghar gayi.
+4 Mohit gusalkhaney mein gaya.
+5 Seb ab kahan hai?	gusalkhana	1 4
+6 Mohit daftar mein chala gaya.
+7 Priya galiyarey mein gayi.
+8 Mohit seb chod aaya.
+9 Priya sayanakaksh mein chali gayi.
+10 Seb ab kahan hai?	daftar	8 6
+11 Priya daftar gayi.
+12 Priya gusalkhaney mein chali gayi.
+13 Seb ab kahan hai?	daftar	8 6
+14 Mohit rasoi ghar mein gaya.
+15 Priya daftar mein gayi.
+16 Mohit bagichey mein chala gaya.
+17 Badri bagichey mein chala gaya.
+18 Badri galiyarey gaya.
+19 Sita daftar mein gayi.
+20 Mohit sayanakaksh mein chala gaya.
+21 Sita gayend le aayi.
+22 Sita gayend chod aayi.
+23 Badri rasoi ghar mein chala gaya.
+24 Gayend is samay kahan hai?	daftar	22 19
+25 Sita gayend le aayi.
+26 Sita sayanakaksh gayi.
+27 Gayend is samay kahan hai?	sayanakaksh	25 26
+1 Mohit gusalkhaney gaya.
+2 Priya rasoi ghar mein gayi.
+3 Sita gusalkhaney mein chali gayi.
+4 Priya galiyarey mein chali gayi.
+5 Priya daftar mein gayi.
+6 Priya gayend le aayi.
+7 Mohit rasoi ghar mein chala gaya.
+8 Priya sayanakaksh gayi.
+9 Gayend ab kahan hai?	sayanakaksh	6 8
+10 Mohit bagichey gaya.
+11 Mohit dhoodh le aaya.
+12 Gayend is samay kahan hai?	sayanakaksh	6 8
+13 Sita bagichey gayi.
+14 Mohit dhoodh chod aaya.
+15 Dhoodh ab kahan hai?	bagicha	14 10
+16 Sita dhoodh le aayi.
+17 Sita dhoodh chod aayi.
+18 Dhoodh is samay kahan hai?	bagicha	17 13
+19 Mohit gusalkhaney mein gaya.
+20 Badri daftar gaya.
+21 Dhoodh is samay kahan hai?	bagicha	17 13
+1 Priya sayanakaksh gayi.
+2 Priya rasoi ghar mein gayi.
+3 Mohit gusalkhaney mein chala gaya.
+4 Priya daftar mein chali gayi.
+5 Priya gusalkhaney gayi.
+6 Priya galiyarey mein gayi.
+7 Sita gusalkhaney mein gayi.
+8 Mohit galiyarey mein gaya.
+9 Sita rasoi ghar mein chali gayi.
+10 Sita sayanakaksh gayi.
+11 Priya sayanakaksh mein chali gayi.
+12 Badri galiyarey mein chala gaya.
+13 Badri gayend le aaya.
+14 Sita galiyarey mein chali gayi.
+15 Priya galiyarey mein gayi.
+16 Priya daftar gayi.
+17 Priya dhoodh le aayi.
+18 Priya seb le kar aayi.
+19 Sita daftar gayi.
+20 Sita gusalkhaney mein gayi.
+21 Mohit daftar mein gaya.
+22 Badri rasoi ghar gaya.
+23 Priya galiyarey gayi.
+24 Priya sayanakaksh mein gayi.
+25 Priya dhoodh rakh aayi.
+26 Badri daftar gaya.
+27 Dhoodh is samay kahan hai?	sayanakaksh	25 24
+28 Priya seb rakh aayi.
+29 Priya dhoodh le aayi.
+30 Seb is samay kahan hai?	sayanakaksh	28 24
+31 Badri gayend rakh aaya.
+32 Sita sayanakaksh mein gayi.
+33 Gayend is samay kahan hai?	daftar	31 26
+34 Badri gayend le aaya.
+35 Priya gusalkhaney gayi.
+36 Dhoodh ab kahan hai?	gusalkhana	29 35
+37 Sita galiyarey gayi.
+38 Sita bagichey gayi.
+39 Mohit bagichey mein chala gaya.
+40 Sita gusalkhaney mein gayi.
+41 Badri gayend chod aaya.
+42 Priya dhoodh chod aayi.
+43 Dhoodh is samay kahan hai?	gusalkhana	42 35
+1 Badri gayend le kar aaya.
+2 Badri galiyarey mein chala gaya.
+3 Gayend ab kahan hai?	galiyara	1 2
+4 Mohit galiyarey mein gaya.
+5 Badri gayend chod aaya.
+6 Gayend is samay kahan hai?	galiyara	5 2
+7 Sita galiyarey mein gayi.
+8 Mohit gayend le aaya.
+9 Badri daftar mein chala gaya.
+10 Mohit gayend rakh aaya.
+11 Gayend is samay kahan hai?	galiyara	10 4
+12 Sita rasoi ghar gayi.
+13 Mohit gayend le kar aaya.
+14 Mohit daftar mein gaya.
+15 Mohit gayend rakh aaya.
+16 Gayend is samay kahan hai?	daftar	15 14
+17 Sita bagichey mein chali gayi.
+18 Mohit bagichey mein chala gaya.
+19 Gayend is samay kahan hai?	daftar	15 14
+1 Priya seb le kar aayi.
+2 Badri galiyarey gaya.
+3 Mohit gusalkhaney gaya.
+4 Priya bagichey mein gayi.
+5 Seb is samay kahan hai?	bagicha	1 4
+6 Mohit galiyarey gaya.
+7 Sita gusalkhaney gayi.
+8 Priya rasoi ghar mein gayi.
+9 Sita gayend le kar aayi.
+10 Priya bagichey mein chali gayi.
+11 Badri rasoi ghar mein gaya.
+12 Priya rasoi ghar gayi.
+13 Priya sayanakaksh gayi.
+14 Priya seb rakh aayi.
+15 Priya seb le aayi.
+16 Badri gusalkhaney gaya.
+17 Sita rasoi ghar gayi.
+18 Sita dhoodh le aayi.
+19 Mohit sayanakaksh gaya.
+20 Sita gayend rakh aayi.
+21 Sita dhoodh rakh aayi.
+22 Dhoodh ab kahan hai?	rasoi ghar	21 17
+23 Priya seb chod aayi.
+24 Mohit bagichey gaya.
+25 Dhoodh ab kahan hai?	rasoi ghar	21 17
+26 Badri bagichey mein gaya.
+27 Sita daftar gayi.
+28 Dhoodh ab kahan hai?	rasoi ghar	21 17
+29 Priya daftar gayi.
+30 Badri rasoi ghar gaya.
+31 Mohit sayanakaksh mein gaya.
+32 Sita gusalkhaney mein chali gayi.
+33 Sita daftar mein chali gayi.
+34 Sita galiyarey mein gayi.
+35 Badri sayanakaksh mein gaya.
+36 Badri seb le aaya.
+37 Badri seb rakh aaya.
+38 Badri galiyarey mein chala gaya.
+39 Seb is samay kahan hai?	sayanakaksh	37 35
+1 Priya dhoodh le kar aayi.
+2 Priya sayanakaksh mein gayi.
+3 Dhoodh ab kahan hai?	sayanakaksh	1 2
+4 Badri gusalkhaney mein chala gaya.
+5 Badri bagichey mein gaya.
+6 Dhoodh is samay kahan hai?	sayanakaksh	1 2
+7 Sita seb le kar aayi.
+8 Priya dhoodh chod aayi.
+9 Dhoodh ab kahan hai?	sayanakaksh	8 2
+10 Sita gusalkhaney mein gayi.
+11 Mohit dhoodh le kar aaya.
+12 Seb is samay kahan hai?	gusalkhana	7 10
+13 Priya rasoi ghar gayi.
+14 Sita bagichey mein chali gayi.
+15 Badri gusalkhaney gaya.
+16 Sita seb rakh aayi.
+17 Seb ab kahan hai?	bagicha	16 14
+1 Badri sayanakaksh mein chala gaya.
+2 Priya galiyarey gayi.
+3 Priya gayend le aayi.
+4 Priya gayend rakh aayi.
+5 Gayend ab kahan hai?	galiyara	4 2
+6 Sita bagichey mein gayi.
+7 Mohit gayend le aaya.
+8 Mohit gayend rakh aaya.
+9 Priya gayend le aayi.
+10 Sita rasoi ghar mein chali gayi.
+11 Priya daftar gayi.
+12 Gayend ab kahan hai?	daftar	9 11
+13 Priya gayend chod aayi.
+14 Priya sayanakaksh gayi.
+15 Gayend is samay kahan hai?	daftar	13 11
+16 Sita bagichey mein chali gayi.
+17 Badri bagichey gaya.
+18 Gayend is samay kahan hai?	daftar	13 11
+19 Priya rasoi ghar mein gayi.
+20 Sita sayanakaksh gayi.
+21 Sita rasoi ghar mein chali gayi.
+22 Sita daftar mein chali gayi.
+23 Sita seb le kar aayi.
+24 Sita gusalkhaney mein gayi.
+25 Seb is samay kahan hai?	gusalkhana	23 24
+1 Badri galiyarey mein gaya.
+2 Priya daftar gayi.
+3 Sita rasoi ghar gayi.
+4 Badri dhoodh le kar aaya.
+5 Badri bagichey mein gaya.
+6 Badri dhoodh chod aaya.
+7 Dhoodh ab kahan hai?	bagicha	6 5
+8 Badri dhoodh le aaya.
+9 Mohit gayend le aaya.
+10 Mohit gayend chod aaya.
+11 Mohit gayend le aaya.
+12 Priya sayanakaksh mein chali gayi.
+13 Mohit gusalkhaney gaya.
+14 Gayend ab kahan hai?	gusalkhana	11 13
+15 Mohit sayanakaksh gaya.
+16 Badri sayanakaksh gaya.
+17 Gayend is samay kahan hai?	sayanakaksh	11 15
+18 Mohit gayend chod aaya.
+19 Badri daftar mein gaya.
+20 Gayend ab kahan hai?	sayanakaksh	18 15
+21 Priya gayend le aayi.
+22 Sita gusalkhaney mein chali gayi.
+23 Badri dhoodh rakh aaya.
+24 Mohit rasoi ghar mein gaya.
+25 Dhoodh ab kahan hai?	daftar	23 19
+1 Priya bagichey mein gayi.
+2 Priya seb le kar aayi.
+3 Mohit galiyarey mein gaya.
+4 Sita gayend le aayi.
+5 Priya seb rakh aayi.
+6 Priya seb le kar aayi.
+7 Sita daftar gayi.
+8 Priya seb chod aayi.
+9 Gayend is samay kahan hai?	daftar	4 7
+10 Mohit gusalkhaney gaya.
+11 Badri gusalkhaney gaya.
+12 Seb ab kahan hai?	bagicha	8 1
+13 Priya gusalkhaney mein gayi.
+14 Priya rasoi ghar mein chali gayi.
+15 Seb ab kahan hai?	bagicha	8 1
+16 Sita gayend rakh aayi.
+17 Priya daftar mein chali gayi.
+18 Gayend is samay kahan hai?	daftar	16 7
+19 Priya bagichey gayi.
+20 Priya seb le aayi.
+21 Gayend ab kahan hai?	daftar	16 7
+1 Sita bagichey gayi.
+2 Badri dhoodh le aaya.
+3 Badri galiyarey mein chala gaya.
+4 Priya galiyarey gayi.
+5 Dhoodh is samay kahan hai?	galiyara	2 3
+6 Sita seb le aayi.
+7 Priya sayanakaksh mein chali gayi.
+8 Dhoodh is samay kahan hai?	galiyara	2 3
+9 Sita seb rakh aayi.
+10 Mohit rasoi ghar mein gaya.
+11 Seb ab kahan hai?	bagicha	9 1
+12 Sita sayanakaksh gayi.
+13 Badri sayanakaksh mein gaya.
+14 Seb ab kahan hai?	bagicha	9 1
+15 Priya bagichey mein chali gayi.
+16 Badri dhoodh chod aaya.
+17 Dhoodh is samay kahan hai?	sayanakaksh	16 13
+1 Badri sayanakaksh mein gaya.
+2 Sita seb le aayi.
+3 Sita gusalkhaney mein gayi.
+4 Mohit daftar gaya.
+5 Seb ab kahan hai?	gusalkhana	2 3
+6 Mohit gayend le kar aaya.
+7 Sita seb rakh aayi.
+8 Seb is samay kahan hai?	gusalkhana	7 3
+9 Mohit gayend rakh aaya.
+10 Badri daftar gaya.
+11 Gayend ab kahan hai?	daftar	9 4
+12 Mohit sayanakaksh gaya.
+13 Sita bagichey mein gayi.
+14 Seb ab kahan hai?	gusalkhana	7 3
+15 Mohit bagichey gaya.
+16 Mohit gusalkhaney mein chala gaya.
+17 Sita gusalkhaney mein gayi.
+18 Priya daftar mein gayi.
+19 Priya gayend le aayi.
+20 Mohit bagichey gaya.
+21 Priya sayanakaksh mein chali gayi.
+22 Priya bagichey mein chali gayi.
+23 Gayend is samay kahan hai?	bagicha	19 22
+1 Mohit rasoi ghar mein chala gaya.
+2 Sita sayanakaksh gayi.
+3 Priya dhoodh le kar aayi.
+4 Sita galiyarey mein chali gayi.
+5 Sita gusalkhaney gayi.
+6 Priya sayanakaksh mein gayi.
+7 Dhoodh ab kahan hai?	sayanakaksh	3 6
+8 Badri rasoi ghar gaya.
+9 Mohit daftar gaya.
+10 Sita gayend le kar aayi.
+11 Mohit rasoi ghar mein gaya.
+12 Priya rasoi ghar mein chali gayi.
+13 Sita sayanakaksh mein gayi.
+14 Gayend is samay kahan hai?	sayanakaksh	10 13
+15 Sita gayend rakh aayi.
+16 Sita gayend le kar aayi.
+17 Sita gusalkhaney mein chali gayi.
+18 Sita gayend chod aayi.
+19 Gayend ab kahan hai?	gusalkhana	18 17
+20 Sita gayend le kar aayi.
+21 Mohit gusalkhaney mein gaya.
+22 Sita gayend chod aayi.
+23 Sita gayend le aayi.
+24 Priya dhoodh chod aayi.
+25 Priya galiyarey mein gayi.
+26 Dhoodh ab kahan hai?	rasoi ghar	24 12
+27 Mohit galiyarey gaya.
+28 Badri gusalkhaney mein gaya.
+29 Dhoodh is samay kahan hai?	rasoi ghar	24 12
+1 Mohit seb le aaya.
+2 Mohit sayanakaksh mein chala gaya.
+3 Seb is samay kahan hai?	sayanakaksh	1 2
+4 Priya dhoodh le kar aayi.
+5 Priya dhoodh chod aayi.
+6 Seb ab kahan hai?	sayanakaksh	1 2
+7 Sita rasoi ghar mein gayi.
+8 Mohit gayend le kar aaya.
+9 Priya dhoodh le kar aayi.
+10 Mohit gayend rakh aaya.
+11 Gayend ab kahan hai?	sayanakaksh	10 2
+12 Badri rasoi ghar mein chala gaya.
+13 Mohit bagichey mein gaya.
+14 Gayend is samay kahan hai?	sayanakaksh	10 2
+15 Priya gusalkhaney mein chali gayi.
+16 Priya dhoodh rakh aayi.
+17 Dhoodh is samay kahan hai?	gusalkhana	16 15
+1 Mohit daftar gaya.
+2 Sita daftar gayi.
+3 Badri gusalkhaney gaya.
+4 Mohit rasoi ghar gaya.
+5 Mohit sayanakaksh gaya.
+6 Sita sayanakaksh mein gayi.
+7 Sita daftar mein gayi.
+8 Mohit galiyarey gaya.
+9 Mohit dhoodh le aaya.
+10 Badri galiyarey mein gaya.
+11 Badri gusalkhaney gaya.
+12 Mohit dhoodh rakh aaya.
+13 Dhoodh is samay kahan hai?	galiyara	12 8
+14 Sita rasoi ghar mein gayi.
+15 Mohit dhoodh le kar aaya.
+16 Mohit seb le aaya.
+17 Mohit dhoodh chod aaya.
+18 Dhoodh ab kahan hai?	galiyara	17 8
+19 Sita daftar gayi.
+20 Mohit rasoi ghar mein chala gaya.
+21 Dhoodh is samay kahan hai?	galiyara	17 8
+22 Badri sayanakaksh gaya.
+23 Badri gayend le aaya.
+24 Dhoodh ab kahan hai?	galiyara	17 8
+25 Badri galiyarey mein chala gaya.
+26 Mohit seb chod aaya.
+27 Seb is samay kahan hai?	rasoi ghar	26 20
+1 Mohit galiyarey mein gaya.
+2 Priya gayend le aayi.
+3 Mohit bagichey mein gaya.
+4 Badri gusalkhaney mein gaya.
+5 Sita sayanakaksh mein chali gayi.
+6 Sita bagichey gayi.
+7 Mohit daftar mein gaya.
+8 Priya bagichey mein chali gayi.
+9 Badri galiyarey mein gaya.
+10 Sita sayanakaksh mein gayi.
+11 Mohit rasoi ghar mein chala gaya.
+12 Priya rasoi ghar mein chali gayi.
+13 Badri bagichey gaya.
+14 Mohit sayanakaksh gaya.
+15 Priya gayend chod aayi.
+16 Priya gayend le aayi.
+17 Sita gusalkhaney gayi.
+18 Badri dhoodh le kar aaya.
+19 Sita galiyarey gayi.
+20 Priya gayend chod aayi.
+21 Gayend is samay kahan hai?	rasoi ghar	20 12
+22 Mohit rasoi ghar mein gaya.
+23 Badri seb le kar aaya.
+24 Gayend is samay kahan hai?	rasoi ghar	20 12
+25 Badri dhoodh rakh aaya.
+26 Sita bagichey mein gayi.
+27 Dhoodh is samay kahan hai?	bagicha	25 13
+28 Badri dhoodh le aaya.
+29 Badri dhoodh chod aaya.
+30 Dhoodh ab kahan hai?	bagicha	29 13
+31 Sita sayanakaksh gayi.
+32 Priya daftar mein chali gayi.
+33 Dhoodh ab kahan hai?	bagicha	29 13
+1 Mohit daftar mein gaya.
+2 Badri daftar gaya.
+3 Priya rasoi ghar gayi.
+4 Mohit galiyarey mein chala gaya.
+5 Mohit sayanakaksh mein chala gaya.
+6 Mohit gayend le kar aaya.
+7 Mohit gayend chod aaya.
+8 Mohit gayend le aaya.
+9 Badri sayanakaksh mein gaya.
+10 Mohit gusalkhaney mein chala gaya.
+11 Gayend is samay kahan hai?	gusalkhana	8 10
+12 Badri rasoi ghar mein gaya.
+13 Badri galiyarey mein chala gaya.
+14 Gayend is samay kahan hai?	gusalkhana	8 10
+15 Mohit gayend rakh aaya.
+16 Mohit gayend le aaya.
+17 Badri bagichey gaya.
+18 Badri rasoi ghar mein chala gaya.
+19 Mohit galiyarey mein gaya.
+20 Badri daftar mein chala gaya.
+21 Gayend ab kahan hai?	galiyara	16 19
+22 Mohit rasoi ghar mein gaya.
+23 Mohit bagichey gaya.
+24 Sita sayanakaksh mein gayi.
+25 Priya gusalkhaney mein chali gayi.
+26 Badri galiyarey mein chala gaya.
+27 Badri bagichey gaya.
+28 Badri galiyarey mein chala gaya.
+29 Priya seb le kar aayi.
+30 Badri gusalkhaney mein gaya.
+31 Badri sayanakaksh gaya.
+32 Mohit gayend chod aaya.
+33 Sita daftar gayi.
+34 Gayend is samay kahan hai?	bagicha	32 23
+35 Mohit galiyarey mein chala gaya.
+36 Priya galiyarey gayi.
+37 Gayend is samay kahan hai?	bagicha	32 23
+1 Badri daftar mein chala gaya.
+2 Priya daftar gayi.
+3 Badri rasoi ghar gaya.
+4 Priya rasoi ghar mein chali gayi.
+5 Priya galiyarey mein gayi.
+6 Sita bagichey mein gayi.
+7 Sita gusalkhaney gayi.
+8 Badri galiyarey mein chala gaya.
+9 Badri rasoi ghar gaya.
+10 Sita sayanakaksh mein chali gayi.
+11 Badri gusalkhaney mein gaya.
+12 Sita seb le kar aayi.
+13 Priya rasoi ghar mein gayi.
+14 Badri rasoi ghar mein gaya.
+15 Mohit bagichey mein chala gaya.
+16 Priya dhoodh le kar aayi.
+17 Priya gayend le aayi.
+18 Priya dhoodh rakh aayi.
+19 Dhoodh is samay kahan hai?	rasoi ghar	18 13
+20 Badri dhoodh le kar aaya.
+21 Badri bagichey gaya.
+22 Dhoodh is samay kahan hai?	bagicha	20 21
+23 Sita seb rakh aayi.
+24 Badri dhoodh rakh aaya.
+25 Seb is samay kahan hai?	sayanakaksh	23 10
+26 Sita seb le kar aayi.
+27 Mohit sayanakaksh gaya.
+28 Dhoodh ab kahan hai?	bagicha	24 21
+29 Priya gayend chod aayi.
+30 Priya bagichey mein gayi.
+31 Dhoodh ab kahan hai?	bagicha	24 21
+1 Badri gusalkhaney gaya.
+2 Priya gusalkhaney mein gayi.
+3 Priya dhoodh le kar aayi.
+4 Priya dhoodh rakh aayi.
+5 Dhoodh ab kahan hai?	gusalkhana	4 2
+6 Priya dhoodh le aayi.
+7 Mohit gayend le aaya.
+8 Badri bagichey mein chala gaya.
+9 Badri gusalkhaney mein gaya.
+10 Sita sayanakaksh gayi.
+11 Priya sayanakaksh mein gayi.
+12 Mohit gusalkhaney mein gaya.
+13 Sita daftar mein gayi.
+14 Badri bagichey gaya.
+15 Sita bagichey mein chali gayi.
+16 Mohit daftar mein gaya.
+17 Mohit gayend rakh aaya.
+18 Gayend is samay kahan hai?	daftar	17 16
+19 Sita gusalkhaney mein chali gayi.
+20 Mohit galiyarey mein gaya.
+21 Gayend ab kahan hai?	daftar	17 16
+22 Badri seb le kar aaya.
+23 Priya dhoodh chod aayi.
+24 Dhoodh ab kahan hai?	sayanakaksh	23 11
+25 Priya dhoodh le aayi.
+26 Sita rasoi ghar mein gayi.
+27 Badri seb chod aaya.
+28 Badri seb le aaya.
+29 Sita daftar mein chali gayi.
+30 Sita rasoi ghar mein chali gayi.
+31 Priya dhoodh rakh aayi.
+32 Badri seb chod aaya.
+33 Seb is samay kahan hai?	bagicha	32 14
+1 Mohit bagichey mein chala gaya.
+2 Priya daftar gayi.
+3 Badri gusalkhaney gaya.
+4 Mohit rasoi ghar mein chala gaya.
+5 Priya rasoi ghar mein gayi.
+6 Priya sayanakaksh mein gayi.
+7 Badri sayanakaksh mein gaya.
+8 Priya bagichey gayi.
+9 Priya sayanakaksh mein gayi.
+10 Mohit sayanakaksh gaya.
+11 Badri bagichey gaya.
+12 Badri dhoodh le kar aaya.
+13 Mohit daftar mein chala gaya.
+14 Mohit bagichey gaya.
+15 Priya gusalkhaney mein chali gayi.
+16 Priya gayend le aayi.
+17 Sita gusalkhaney gayi.
+18 Badri dhoodh rakh aaya.
+19 Dhoodh ab kahan hai?	bagicha	18 11
+20 Sita bagichey gayi.
+21 Priya galiyarey mein gayi.
+22 Dhoodh is samay kahan hai?	bagicha	18 11
+23 Priya bagichey mein chali gayi.
+24 Sita sayanakaksh mein chali gayi.
+25 Dhoodh ab kahan hai?	bagicha	18 11
+26 Badri sayanakaksh mein gaya.
+27 Priya gayend rakh aayi.
+28 Gayend ab kahan hai?	bagicha	27 23
+29 Priya gayend le kar aayi.
+30 Priya gayend rakh aayi.
+31 Gayend ab kahan hai?	bagicha	30 23
+1 Mohit galiyarey mein gaya.
+2 Priya bagichey mein gayi.
+3 Priya daftar gayi.
+4 Priya gusalkhaney mein chali gayi.
+5 Priya daftar mein gayi.
+6 Priya dhoodh le kar aayi.
+7 Priya dhoodh chod aayi.
+8 Mohit sayanakaksh gaya.
+9 Dhoodh is samay kahan hai?	daftar	7 5
+10 Sita gusalkhaney mein gayi.
+11 Badri galiyarey mein chala gaya.
+12 Dhoodh is samay kahan hai?	daftar	7 5
+13 Priya bagichey mein gayi.
+14 Mohit daftar gaya.
+15 Badri gusalkhaney mein chala gaya.
+16 Mohit sayanakaksh mein chala gaya.
+17 Priya rasoi ghar gayi.
+18 Mohit gusalkhaney mein gaya.
+19 Sita gayend le kar aayi.
+20 Badri seb le aaya.
+21 Sita gayend chod aayi.
+22 Badri seb chod aaya.
+23 Seb ab kahan hai?	gusalkhana	22 15
+24 Mohit seb le kar aaya.
+25 Priya daftar mein chali gayi.
+26 Gayend is samay kahan hai?	gusalkhana	21 10
+27 Sita sayanakaksh mein gayi.
+28 Priya dhoodh le aayi.
+29 Badri gayend le kar aaya.
+30 Mohit rasoi ghar mein chala gaya.
+31 Sita gusalkhaney mein chali gayi.
+32 Mohit bagichey mein gaya.
+33 Mohit rasoi ghar mein chala gaya.
+34 Mohit seb rakh aaya.
+35 Seb ab kahan hai?	rasoi ghar	34 33
+1 Sita galiyarey mein chali gayi.
+2 Priya sayanakaksh gayi.
+3 Badri galiyarey gaya.
+4 Sita gusalkhaney mein chali gayi.
+5 Sita bagichey gayi.
+6 Badri gusalkhaney mein chala gaya.
+7 Sita gayend le aayi.
+8 Sita gayend rakh aayi.
+9 Gayend ab kahan hai?	bagicha	8 5
+10 Mohit daftar mein gaya.
+11 Badri rasoi ghar mein gaya.
+12 Gayend is samay kahan hai?	bagicha	8 5
+13 Sita sayanakaksh mein gayi.
+14 Mohit seb le aaya.
+15 Gayend ab kahan hai?	bagicha	8 5
+16 Mohit seb rakh aaya.
+17 Priya galiyarey mein gayi.
+18 Seb is samay kahan hai?	daftar	16 10
+19 Mohit seb le aaya.
+20 Priya rasoi ghar mein gayi.
+21 Mohit bagichey mein gaya.
+22 Mohit seb rakh aaya.
+23 Seb ab kahan hai?	bagicha	22 21
+1 Priya dhoodh le aayi.
+2 Sita gusalkhaney gayi.
+3 Priya rasoi ghar gayi.
+4 Badri seb le aaya.
+5 Dhoodh ab kahan hai?	rasoi ghar	1 3
+6 Badri seb rakh aaya.
+7 Sita seb le aayi.
+8 Sita sayanakaksh mein gayi.
+9 Sita bagichey mein chali gayi.
+10 Seb ab kahan hai?	bagicha	7 9
+11 Priya dhoodh rakh aayi.
+12 Badri daftar gaya.
+13 Dhoodh ab kahan hai?	rasoi ghar	11 3
+14 Sita seb chod aayi.
+15 Mohit sayanakaksh mein chala gaya.
+16 Seb is samay kahan hai?	bagicha	14 9
+17 Sita rasoi ghar mein chali gayi.
+18 Sita dhoodh le aayi.
+19 Seb ab kahan hai?	bagicha	14 9
+1 Badri rasoi ghar mein chala gaya.
+2 Priya dhoodh le aayi.
+3 Mohit rasoi ghar gaya.
+4 Badri galiyarey gaya.
+5 Mohit gayend le aaya.
+6 Priya dhoodh rakh aayi.
+7 Mohit gayend rakh aaya.
+8 Mohit bagichey mein chala gaya.
+9 Gayend ab kahan hai?	rasoi ghar	7 3
+10 Mohit sayanakaksh gaya.
+11 Priya dhoodh le kar aayi.
+12 Gayend is samay kahan hai?	rasoi ghar	7 3
+13 Badri bagichey gaya.
+14 Priya dhoodh rakh aayi.
+15 Sita rasoi ghar gayi.
+16 Mohit bagichey mein chala gaya.
+17 Priya dhoodh le kar aayi.
+18 Priya dhoodh chod aayi.
+19 Sita gayend le aayi.
+20 Mohit daftar mein chala gaya.
+21 Mohit dhoodh le kar aaya.
+22 Sita gayend chod aayi.
+23 Gayend ab kahan hai?	rasoi ghar	22 15
+24 Priya gusalkhaney mein gayi.
+25 Priya seb le kar aayi.
+26 Gayend is samay kahan hai?	rasoi ghar	22 15
+27 Mohit gusalkhaney mein chala gaya.
+28 Sita sayanakaksh mein gayi.
+29 Gayend ab kahan hai?	rasoi ghar	22 15
+1 Badri gusalkhaney gaya.
+2 Sita seb le aayi.
+3 Badri sayanakaksh mein gaya.
+4 Priya dhoodh le aayi.
+5 Badri galiyarey gaya.
+6 Priya dhoodh chod aayi.
+7 Badri daftar gaya.
+8 Priya dhoodh le aayi.
+9 Badri bagichey mein chala gaya.
+10 Sita seb chod aayi.
+11 Badri gusalkhaney mein gaya.
+12 Mohit seb le kar aaya.
+13 Priya dhoodh chod aayi.
+14 Priya bagichey mein chali gayi.
+15 Badri sayanakaksh gaya.
+16 Badri gayend le kar aaya.
+17 Badri gayend chod aaya.
+18 Mohit bagichey mein gaya.
+19 Gayend is samay kahan hai?	sayanakaksh	17 15
+20 Mohit seb rakh aaya.
+21 Badri galiyarey gaya.
+22 Gayend ab kahan hai?	sayanakaksh	17 15
+23 Priya rasoi ghar mein gayi.
+24 Mohit seb le kar aaya.
+25 Priya bagichey gayi.
+26 Mohit seb chod aaya.
+27 Seb is samay kahan hai?	bagicha	26 18
+28 Priya seb le kar aayi.
+29 Badri rasoi ghar gaya.
+30 Sita bagichey mein gayi.
+31 Priya galiyarey mein chali gayi.
+32 Seb ab kahan hai?	galiyara	28 31
+33 Priya bagichey gayi.
+34 Sita gusalkhaney mein chali gayi.
+35 Badri galiyarey mein gaya.
+36 Priya gusalkhaney mein chali gayi.
+37 Priya bagichey mein chali gayi.
+38 Priya seb chod aayi.
+39 Seb ab kahan hai?	bagicha	38 37
+1 Sita gayend le aayi.
+2 Mohit gusalkhaney mein gaya.
+3 Mohit dhoodh le aaya.
+4 Priya rasoi ghar gayi.
+5 Priya daftar mein chali gayi.
+6 Sita rasoi ghar gayi.
+7 Priya gusalkhaney mein chali gayi.
+8 Badri galiyarey mein chala gaya.
+9 Priya daftar gayi.
+10 Sita gayend chod aayi.
+11 Gayend is samay kahan hai?	rasoi ghar	10 6
+12 Mohit rasoi ghar gaya.
+13 Mohit gayend le aaya.
+14 Priya galiyarey gayi.
+15 Priya seb le aayi.
+16 Badri sayanakaksh gaya.
+17 Mohit gayend rakh aaya.
+18 Gayend is samay kahan hai?	rasoi ghar	17 12
+19 Mohit galiyarey mein chala gaya.
+20 Mohit dhoodh rakh aaya.
+21 Dhoodh is samay kahan hai?	galiyara	20 19
+22 Mohit dhoodh le aaya.
+23 Sita gayend le aayi.
+24 Priya gusalkhaney gayi.
+25 Mohit dhoodh rakh aaya.
+26 Dhoodh ab kahan hai?	galiyara	25 19
+27 Sita gusalkhaney mein gayi.
+28 Mohit bagichey mein chala gaya.
+29 Dhoodh ab kahan hai?	galiyara	25 19
+1 Priya sayanakaksh mein gayi.
+2 Mohit rasoi ghar mein gaya.
+3 Sita rasoi ghar mein gayi.
+4 Sita gayend le aayi.
+5 Sita sayanakaksh mein chali gayi.
+6 Sita rasoi ghar mein gayi.
+7 Gayend ab kahan hai?	rasoi ghar	4 6
+8 Priya dhoodh le aayi.
+9 Mohit galiyarey mein chala gaya.
+10 Gayend is samay kahan hai?	rasoi ghar	4 6
+11 Sita gayend rakh aayi.
+12 Badri galiyarey mein chala gaya.
+13 Gayend is samay kahan hai?	rasoi ghar	11 6
+14 Sita gayend le aayi.
+15 Sita daftar gayi.
+16 Gayend ab kahan hai?	daftar	14 15
+17 Badri rasoi ghar mein gaya.
+18 Priya dhoodh chod aayi.
+19 Dhoodh ab kahan hai?	sayanakaksh	18 1
+1 Badri seb le aaya.
+2 Badri seb rakh aaya.
+3 Mohit seb le kar aaya.
+4 Priya daftar gayi.
+5 Priya rasoi ghar mein chali gayi.
+6 Mohit seb chod aaya.
+7 Mohit gusalkhaney mein chala gaya.
+8 Badri seb le kar aaya.
+9 Badri seb rakh aaya.
+10 Badri seb le kar aaya.
+11 Sita rasoi ghar mein gayi.
+12 Badri seb rakh aaya.
+13 Badri gusalkhaney mein gaya.
+14 Sita dhoodh le kar aayi.
+15 Sita dhoodh chod aayi.
+16 Priya daftar mein chali gayi.
+17 Dhoodh is samay kahan hai?	rasoi ghar	15 11
+18 Priya sayanakaksh gayi.
+19 Sita galiyarey gayi.
+20 Dhoodh ab kahan hai?	rasoi ghar	15 11
+21 Mohit galiyarey mein gaya.
+22 Sita seb le aayi.
+23 Priya rasoi ghar mein gayi.
+24 Mohit daftar mein gaya.
+25 Sita daftar mein chali gayi.
+26 Badri galiyarey mein chala gaya.
+27 Seb is samay kahan hai?	daftar	22 25
+28 Badri sayanakaksh mein gaya.
+29 Sita rasoi ghar gayi.
+30 Sita seb rakh aayi.
+31 Sita seb le aayi.
+32 Badri daftar gaya.
+33 Badri bagichey gaya.
+34 Priya dhoodh le aayi.
+35 Priya galiyarey mein chali gayi.
+36 Dhoodh is samay kahan hai?	galiyara	34 35
+37 Sita seb chod aayi.
+38 Priya dhoodh rakh aayi.
+39 Seb ab kahan hai?	rasoi ghar	37 29
+1 Mohit sayanakaksh gaya.
+2 Sita galiyarey mein gayi.
+3 Badri sayanakaksh mein gaya.
+4 Badri rasoi ghar mein gaya.
+5 Badri gusalkhaney mein gaya.
+6 Sita rasoi ghar mein chali gayi.
+7 Sita daftar mein gayi.
+8 Badri daftar mein gaya.
+9 Priya daftar mein gayi.
+10 Sita gayend le kar aayi.
+11 Badri rasoi ghar mein gaya.
+12 Sita gayend chod aayi.
+13 Gayend is samay kahan hai?	daftar	12 7
+14 Sita gayend le kar aayi.
+15 Sita galiyarey mein chali gayi.
+16 Gayend is samay kahan hai?	galiyara	14 15
+17 Mohit rasoi ghar gaya.
+18 Priya bagichey mein gayi.
+19 Gayend is samay kahan hai?	galiyara	14 15
+20 Badri galiyarey mein chala gaya.
+21 Priya rasoi ghar mein gayi.
+22 Sita gayend chod aayi.
+23 Badri bagichey mein gaya.
+24 Gayend is samay kahan hai?	galiyara	22 15
+25 Badri seb le aaya.
+26 Badri daftar gaya.
+27 Gayend ab kahan hai?	galiyara	22 15
+1 Priya rasoi ghar gayi.
+2 Priya seb le aayi.
+3 Mohit sayanakaksh mein gaya.
+4 Priya gayend le aayi.
+5 Badri gusalkhaney gaya.
+6 Priya seb chod aayi.
+7 Seb ab kahan hai?	rasoi ghar	6 1
+8 Badri galiyarey mein gaya.
+9 Priya seb le kar aayi.
+10 Mohit bagichey mein chala gaya.
+11 Priya seb chod aayi.
+12 Seb is samay kahan hai?	rasoi ghar	11 1
+13 Priya bagichey gayi.
+14 Mohit dhoodh le kar aaya.
+15 Seb is samay kahan hai?	rasoi ghar	11 1
+16 Priya galiyarey gayi.
+17 Mohit dhoodh chod aaya.
+18 Seb ab kahan hai?	rasoi ghar	11 1
+19 Priya gayend chod aayi.
+20 Priya bagichey mein gayi.
+21 Gayend ab kahan hai?	galiyara	19 16
+1 Badri gayend le kar aaya.
+2 Sita rasoi ghar gayi.
+3 Badri daftar mein chala gaya.
+4 Priya daftar gayi.
+5 Gayend is samay kahan hai?	daftar	1 3
+6 Sita bagichey mein chali gayi.
+7 Priya gusalkhaney mein gayi.
+8 Mohit rasoi ghar mein chala gaya.
+9 Priya dhoodh le kar aayi.
+10 Badri gusalkhaney mein chala gaya.
+11 Badri gayend chod aaya.
+12 Gayend ab kahan hai?	gusalkhana	11 10
+13 Sita rasoi ghar mein gayi.
+14 Mohit gusalkhaney gaya.
+15 Gayend ab kahan hai?	gusalkhana	11 10
+16 Mohit gayend le kar aaya.
+17 Sita gusalkhaney mein gayi.
+18 Priya dhoodh chod aayi.
+19 Sita dhoodh le kar aayi.
+20 Mohit gayend rakh aaya.
+21 Badri gayend le aaya.
+22 Badri gayend rakh aaya.
+23 Sita dhoodh rakh aayi.
+24 Gayend ab kahan hai?	gusalkhana	22 10
+25 Sita daftar mein gayi.
+26 Badri daftar mein chala gaya.
+27 Dhoodh ab kahan hai?	gusalkhana	23 17
+1 Mohit sayanakaksh mein chala gaya.
+2 Priya daftar mein gayi.
+3 Mohit galiyarey gaya.
+4 Badri dhoodh le aaya.
+5 Badri dhoodh rakh aaya.
+6 Mohit daftar mein gaya.
+7 Priya bagichey gayi.
+8 Mohit rasoi ghar mein gaya.
+9 Mohit galiyarey mein gaya.
+10 Sita rasoi ghar mein chali gayi.
+11 Priya dhoodh le aayi.
+12 Priya galiyarey mein gayi.
+13 Dhoodh is samay kahan hai?	galiyara	11 12
+14 Sita sayanakaksh gayi.
+15 Mohit daftar gaya.
+16 Dhoodh is samay kahan hai?	galiyara	11 12
+17 Mohit gayend le kar aaya.
+18 Priya dhoodh rakh aayi.
+19 Dhoodh is samay kahan hai?	galiyara	18 12
+20 Mohit gayend rakh aaya.
+21 Priya bagichey mein gayi.
+22 Dhoodh is samay kahan hai?	galiyara	18 12
+23 Mohit galiyarey mein chala gaya.
+24 Mohit rasoi ghar mein gaya.
+25 Gayend ab kahan hai?	daftar	20 15
+1 Priya galiyarey mein chali gayi.
+2 Sita galiyarey gayi.
+3 Priya sayanakaksh gayi.
+4 Badri sayanakaksh mein gaya.
+5 Badri seb le kar aaya.
+6 Mohit gusalkhaney gaya.
+7 Badri seb rakh aaya.
+8 Sita daftar gayi.
+9 Seb is samay kahan hai?	sayanakaksh	7 4
+10 Badri seb le aaya.
+11 Sita rasoi ghar gayi.
+12 Mohit rasoi ghar mein chala gaya.
+13 Sita daftar gayi.
+14 Mohit bagichey mein gaya.
+15 Badri gusalkhaney mein chala gaya.
+16 Sita gayend le aayi.
+17 Badri sayanakaksh gaya.
+18 Sita dhoodh le aayi.
+19 Sita galiyarey mein chali gayi.
+20 Gayend ab kahan hai?	galiyara	16 19
+21 Mohit sayanakaksh mein gaya.
+22 Mohit daftar mein chala gaya.
+23 Dhoodh ab kahan hai?	galiyara	18 19
+24 Priya gusalkhaney mein gayi.
+25 Badri gusalkhaney gaya.
+26 Sita daftar gayi.
+27 Sita dhoodh chod aayi.
+28 Dhoodh ab kahan hai?	daftar	27 26
+29 Sita galiyarey mein gayi.
+30 Sita gayend chod aayi.
+31 Dhoodh is samay kahan hai?	daftar	27 26
+1 Badri seb le kar aaya.
+2 Badri seb rakh aaya.
+3 Priya dhoodh le aayi.
+4 Mohit sayanakaksh mein chala gaya.
+5 Badri galiyarey gaya.
+6 Sita bagichey gayi.
+7 Sita daftar mein chali gayi.
+8 Badri sayanakaksh gaya.
+9 Mohit bagichey mein gaya.
+10 Priya rasoi ghar mein gayi.
+11 Sita gusalkhaney mein gayi.
+12 Mohit seb le kar aaya.
+13 Mohit seb chod aaya.
+14 Priya gayend le kar aayi.
+15 Seb ab kahan hai?	bagicha	13 9
+16 Priya sayanakaksh mein gayi.
+17 Sita galiyarey mein chali gayi.
+18 Seb ab kahan hai?	bagicha	13 9
+19 Badri rasoi ghar mein chala gaya.
+20 Mohit seb le aaya.
+21 Gayend is samay kahan hai?	sayanakaksh	14 16
+22 Badri sayanakaksh mein chala gaya.
+23 Priya gayend chod aayi.
+24 Gayend is samay kahan hai?	sayanakaksh	23 16
+25 Priya rasoi ghar gayi.
+26 Badri gayend le aaya.
+27 Mohit rasoi ghar mein gaya.
+28 Badri gusalkhaney gaya.
+29 Gayend is samay kahan hai?	gusalkhana	26 28
+1 Badri bagichey gaya.
+2 Mohit rasoi ghar mein chala gaya.
+3 Mohit gayend le kar aaya.
+4 Sita galiyarey mein gayi.
+5 Mohit daftar gaya.
+6 Priya sayanakaksh mein chali gayi.
+7 Gayend ab kahan hai?	daftar	3 5
+8 Sita gusalkhaney mein gayi.
+9 Sita daftar mein gayi.
+10 Badri daftar mein gaya.
+11 Mohit gayend rakh aaya.
+12 Gayend ab kahan hai?	daftar	11 5
+13 Sita gayend le kar aayi.
+14 Priya galiyarey gayi.
+15 Priya seb le kar aayi.
+16 Mohit galiyarey mein gaya.
+17 Sita bagichey mein gayi.
+18 Mohit rasoi ghar mein chala gaya.
+19 Priya rasoi ghar mein gayi.
+20 Sita gayend rakh aayi.
+21 Gayend ab kahan hai?	bagicha	20 17
+22 Sita galiyarey mein chali gayi.
+23 Priya seb chod aayi.
+24 Seb ab kahan hai?	rasoi ghar	23 19
+25 Priya seb le aayi.
+26 Sita rasoi ghar mein gayi.
+27 Gayend is samay kahan hai?	bagicha	20 17
+1 Sita sayanakaksh gayi.
+2 Sita seb le aayi.
+3 Badri gayend le aaya.
+4 Sita seb chod aayi.
+5 Seb is samay kahan hai?	sayanakaksh	4 1
+6 Mohit daftar mein chala gaya.
+7 Badri gayend chod aaya.
+8 Seb ab kahan hai?	sayanakaksh	4 1
+9 Sita rasoi ghar mein gayi.
+10 Badri gayend le aaya.
+11 Seb is samay kahan hai?	sayanakaksh	4 1
+12 Priya galiyarey gayi.
+13 Priya sayanakaksh mein chali gayi.
+14 Priya seb le aayi.
+15 Badri gayend rakh aaya.
+16 Priya seb chod aayi.
+17 Priya bagichey gayi.
+18 Seb is samay kahan hai?	sayanakaksh	16 13
+19 Badri gayend le aaya.
+20 Badri galiyarey mein gaya.
+21 Gayend ab kahan hai?	galiyara	19 20
+1 Priya sayanakaksh mein gayi.
+2 Sita dhoodh le kar aayi.
+3 Sita dhoodh chod aayi.
+4 Sita dhoodh le kar aayi.
+5 Badri galiyarey mein chala gaya.
+6 Sita dhoodh rakh aayi.
+7 Priya seb le kar aayi.
+8 Mohit bagichey gaya.
+9 Mohit gusalkhaney mein gaya.
+10 Sita daftar mein chali gayi.
+11 Priya rasoi ghar gayi.
+12 Mohit rasoi ghar mein gaya.
+13 Priya gayend le kar aayi.
+14 Priya gayend chod aayi.
+15 Gayend is samay kahan hai?	rasoi ghar	14 11
+16 Priya seb chod aayi.
+17 Sita rasoi ghar gayi.
+18 Gayend is samay kahan hai?	rasoi ghar	14 11
+19 Mohit gayend le kar aaya.
+20 Priya galiyarey mein gayi.
+21 Seb is samay kahan hai?	rasoi ghar	16 11
+22 Sita seb le kar aayi.
+23 Priya rasoi ghar gayi.
+24 Mohit gayend rakh aaya.
+25 Badri daftar mein chala gaya.
+26 Gayend is samay kahan hai?	rasoi ghar	24 12
+27 Priya gayend le aayi.
+28 Sita seb chod aayi.
+29 Seb is samay kahan hai?	rasoi ghar	28 17
+1 Mohit gusalkhaney mein gaya.
+2 Sita bagichey gayi.
+3 Sita gayend le kar aayi.
+4 Mohit seb le kar aaya.
+5 Priya galiyarey gayi.
+6 Mohit galiyarey mein chala gaya.
+7 Seb is samay kahan hai?	galiyara	4 6
+8 Priya sayanakaksh gayi.
+9 Sita gusalkhaney gayi.
+10 Seb is samay kahan hai?	galiyara	4 6
+11 Mohit sayanakaksh mein gaya.
+12 Mohit bagichey mein chala gaya.
+13 Badri galiyarey gaya.
+14 Mohit seb chod aaya.
+15 Seb ab kahan hai?	bagicha	14 12
+16 Badri gusalkhaney gaya.
+17 Mohit seb le aaya.
+18 Priya daftar mein gayi.
+19 Badri daftar mein chala gaya.
+20 Sita gayend rakh aayi.
+21 Sita gayend le aayi.
+22 Sita gayend chod aayi.
+23 Sita gayend le aayi.
+24 Sita gayend rakh aayi.
+25 Sita bagichey mein chali gayi.
+26 Gayend is samay kahan hai?	gusalkhana	24 9
+27 Mohit seb chod aaya.
+28 Mohit seb le kar aaya.
+29 Gayend is samay kahan hai?	gusalkhana	24 9
+1 Priya bagichey mein gayi.
+2 Mohit bagichey gaya.
+3 Sita sayanakaksh mein gayi.
+4 Priya galiyarey mein gayi.
+5 Sita gusalkhaney gayi.
+6 Badri rasoi ghar mein chala gaya.
+7 Sita rasoi ghar mein gayi.
+8 Sita seb le kar aayi.
+9 Sita gusalkhaney mein chali gayi.
+10 Sita seb chod aayi.
+11 Seb is samay kahan hai?	gusalkhana	10 9
+12 Badri galiyarey mein chala gaya.
+13 Priya sayanakaksh gayi.
+14 Seb is samay kahan hai?	gusalkhana	10 9
+15 Badri bagichey mein gaya.
+16 Priya dhoodh le aayi.
+17 Seb ab kahan hai?	gusalkhana	10 9
+18 Mohit gusalkhaney gaya.
+19 Sita seb le kar aayi.
+20 Priya dhoodh chod aayi.
+21 Mohit sayanakaksh mein gaya.
+22 Dhoodh is samay kahan hai?	sayanakaksh	20 13
+23 Mohit rasoi ghar mein gaya.
+24 Priya dhoodh le kar aayi.
+25 Mohit gayend le aaya.
+26 Sita seb rakh aayi.
+27 Seb ab kahan hai?	gusalkhana	26 9
+1 Priya galiyarey mein gayi.
+2 Mohit gusalkhaney gaya.
+3 Priya rasoi ghar mein gayi.
+4 Mohit rasoi ghar mein chala gaya.
+5 Mohit daftar gaya.
+6 Sita galiyarey gayi.
+7 Badri galiyarey mein chala gaya.
+8 Priya sayanakaksh mein gayi.
+9 Mohit gayend le aaya.
+10 Sita rasoi ghar mein gayi.
+11 Sita sayanakaksh mein gayi.
+12 Mohit galiyarey gaya.
+13 Gayend ab kahan hai?	galiyara	9 12
+14 Badri seb le kar aaya.
+15 Mohit sayanakaksh mein chala gaya.
+16 Priya gusalkhaney mein gayi.
+17 Priya galiyarey mein gayi.
+18 Sita galiyarey mein chali gayi.
+19 Sita daftar mein chali gayi.
+20 Badri seb chod aaya.
+21 Priya seb le aayi.
+22 Priya seb rakh aayi.
+23 Sita bagichey gayi.
+24 Seb is samay kahan hai?	galiyara	22 17
+25 Sita rasoi ghar mein chali gayi.
+26 Priya seb le aayi.
+27 Priya sayanakaksh mein gayi.
+28 Mohit gayend rakh aaya.
+29 Seb is samay kahan hai?	sayanakaksh	26 27
+30 Priya seb chod aayi.
+31 Mohit gayend le aaya.
+32 Seb is samay kahan hai?	sayanakaksh	30 27
+33 Priya gusalkhaney gayi.
+34 Mohit gayend chod aaya.
+35 Seb is samay kahan hai?	sayanakaksh	30 27
+1 Sita seb le aayi.
+2 Mohit sayanakaksh mein gaya.
+3 Badri gayend le kar aaya.
+4 Sita gusalkhaney mein chali gayi.
+5 Seb is samay kahan hai?	gusalkhana	1 4
+6 Priya galiyarey mein gayi.
+7 Priya rasoi ghar mein gayi.
+8 Badri daftar mein chala gaya.
+9 Mohit bagichey gaya.
+10 Sita galiyarey mein gayi.
+11 Mohit dhoodh le kar aaya.
+12 Priya sayanakaksh gayi.
+13 Badri gayend rakh aaya.
+14 Gayend is samay kahan hai?	daftar	13 8
+15 Badri gayend le kar aaya.
+16 Mohit daftar gaya.
+17 Dhoodh is samay kahan hai?	daftar	11 16
+18 Sita rasoi ghar mein gayi.
+19 Mohit rasoi ghar mein gaya.
+20 Mohit dhoodh rakh aaya.
+21 Sita dhoodh le aayi.
+22 Priya gusalkhaney mein chali gayi.
+23 Priya galiyarey mein chali gayi.
+24 Sita gusalkhaney mein chali gayi.
+25 Badri gayend chod aaya.
+26 Gayend ab kahan hai?	daftar	25 8
+27 Sita seb rakh aayi.
+28 Mohit gusalkhaney mein gaya.
+29 Gayend is samay kahan hai?	daftar	25 8
+1 Badri gayend le kar aaya.
+2 Mohit gusalkhaney gaya.
+3 Priya bagichey gayi.
+4 Badri daftar mein gaya.
+5 Gayend ab kahan hai?	daftar	1 4
+6 Badri gayend rakh aaya.
+7 Badri galiyarey mein gaya.
+8 Gayend is samay kahan hai?	daftar	6 4
+9 Badri seb le kar aaya.
+10 Badri seb chod aaya.
+11 Gayend ab kahan hai?	daftar	6 4
+12 Priya rasoi ghar mein gayi.
+13 Priya gusalkhaney mein gayi.
+14 Seb is samay kahan hai?	galiyara	10 7
+15 Priya rasoi ghar mein chali gayi.
+16 Priya daftar gayi.
+17 Seb is samay kahan hai?	galiyara	10 7
+1 Sita rasoi ghar mein gayi.
+2 Priya gayend le kar aayi.
+3 Mohit daftar mein gaya.
+4 Priya gayend chod aayi.
+5 Sita daftar gayi.
+6 Sita gusalkhaney gayi.
+7 Sita dhoodh le aayi.
+8 Sita bagichey mein chali gayi.
+9 Dhoodh is samay kahan hai?	bagicha	7 8
+10 Sita dhoodh chod aayi.
+11 Priya gayend le kar aayi.
+12 Dhoodh ab kahan hai?	bagicha	10 8
+13 Priya gayend rakh aayi.
+14 Sita dhoodh le aayi.
+15 Priya sayanakaksh mein gayi.
+16 Sita rasoi ghar mein gayi.
+17 Dhoodh is samay kahan hai?	rasoi ghar	14 16
+18 Sita dhoodh chod aayi.
+19 Priya daftar mein chali gayi.
+20 Dhoodh is samay kahan hai?	rasoi ghar	18 16
+21 Priya sayanakaksh mein gayi.
+22 Sita bagichey mein gayi.
+23 Dhoodh is samay kahan hai?	rasoi ghar	18 16
+1 Mohit rasoi ghar mein chala gaya.
+2 Sita bagichey gayi.
+3 Mohit sayanakaksh mein gaya.
+4 Priya daftar mein chali gayi.
+5 Priya sayanakaksh mein chali gayi.
+6 Priya galiyarey mein gayi.
+7 Priya rasoi ghar mein chali gayi.
+8 Priya bagichey mein gayi.
+9 Priya gusalkhaney mein gayi.
+10 Priya bagichey mein gayi.
+11 Priya daftar mein gayi.
+12 Mohit daftar mein chala gaya.
+13 Mohit dhoodh le kar aaya.
+14 Sita galiyarey mein gayi.
+15 Badri gusalkhaney mein gaya.
+16 Mohit gayend le kar aaya.
+17 Sita rasoi ghar gayi.
+18 Mohit rasoi ghar gaya.
+19 Gayend is samay kahan hai?	rasoi ghar	16 18
+20 Priya bagichey mein chali gayi.
+21 Badri sayanakaksh gaya.
+22 Gayend is samay kahan hai?	rasoi ghar	16 18
+23 Mohit dhoodh rakh aaya.
+24 Priya galiyarey mein gayi.
+25 Dhoodh is samay kahan hai?	rasoi ghar	23 18
+26 Mohit dhoodh le kar aaya.
+27 Sita bagichey mein chali gayi.
+28 Mohit gayend rakh aaya.
+29 Mohit gayend le aaya.
+30 Priya rasoi ghar gayi.
+31 Mohit galiyarey gaya.
+32 Gayend ab kahan hai?	galiyara	29 31
+33 Priya bagichey mein chali gayi.
+34 Sita sayanakaksh mein chali gayi.
+35 Gayend ab kahan hai?	galiyara	29 31
+1 Sita rasoi ghar gayi.
+2 Badri daftar mein chala gaya.
+3 Badri gusalkhaney mein gaya.
+4 Sita gusalkhaney mein gayi.
+5 Priya dhoodh le aayi.
+6 Badri bagichey mein gaya.
+7 Priya dhoodh rakh aayi.
+8 Badri gayend le aaya.
+9 Badri gayend rakh aaya.
+10 Badri gayend le kar aaya.
+11 Priya dhoodh le kar aayi.
+12 Priya rasoi ghar gayi.
+13 Dhoodh ab kahan hai?	rasoi ghar	11 12
+14 Mohit daftar mein chala gaya.
+15 Badri gayend rakh aaya.
+16 Gayend ab kahan hai?	bagicha	15 6
+17 Priya dhoodh chod aayi.
+18 Badri gayend le kar aaya.
+19 Dhoodh ab kahan hai?	rasoi ghar	17 12
+20 Badri gayend chod aaya.
+21 Priya sayanakaksh gayi.
+22 Gayend ab kahan hai?	bagicha	20 6
+23 Sita daftar mein chali gayi.
+24 Badri gayend le aaya.
+25 Badri gayend rakh aaya.
+26 Priya daftar gayi.
+27 Gayend ab kahan hai?	bagicha	25 6
+1 Mohit bagichey mein gaya.
+2 Priya seb le aayi.
+3 Badri galiyarey mein chala gaya.
+4 Sita gusalkhaney mein gayi.
+5 Badri gusalkhaney mein chala gaya.
+6 Priya galiyarey mein chali gayi.
+7 Seb ab kahan hai?	galiyara	2 6
+8 Badri rasoi ghar gaya.
+9 Sita bagichey mein gayi.
+10 Sita galiyarey mein chali gayi.
+11 Priya seb rakh aayi.
+12 Seb ab kahan hai?	galiyara	11 6
+13 Sita seb le aayi.
+14 Sita seb chod aayi.
+15 Seb ab kahan hai?	galiyara	14 10
+16 Badri galiyarey gaya.
+17 Priya rasoi ghar mein gayi.
+18 Seb ab kahan hai?	galiyara	14 10
+19 Mohit daftar gaya.
+20 Mohit gusalkhaney mein chala gaya.
+21 Seb is samay kahan hai?	galiyara	14 10
+1 Badri gayend le kar aaya.
+2 Badri rasoi ghar mein chala gaya.
+3 Gayend ab kahan hai?	rasoi ghar	1 2
+4 Mohit galiyarey mein gaya.
+5 Mohit rasoi ghar gaya.
+6 Gayend is samay kahan hai?	rasoi ghar	1 2
+7 Sita dhoodh le kar aayi.
+8 Sita daftar mein gayi.
+9 Dhoodh ab kahan hai?	daftar	7 8
+10 Sita dhoodh rakh aayi.
+11 Mohit bagichey mein gaya.
+12 Dhoodh is samay kahan hai?	daftar	10 8
+13 Priya bagichey gayi.
+14 Sita dhoodh le aayi.
+15 Mohit seb le aaya.
+16 Mohit sayanakaksh gaya.
+17 Seb ab kahan hai?	sayanakaksh	15 16
+1 Mohit galiyarey mein chala gaya.
+2 Badri sayanakaksh gaya.
+3 Badri dhoodh le aaya.
+4 Mohit daftar mein chala gaya.
+5 Priya galiyarey gayi.
+6 Badri daftar mein gaya.
+7 Dhoodh ab kahan hai?	daftar	3 6
+8 Mohit rasoi ghar gaya.
+9 Badri rasoi ghar mein chala gaya.
+10 Badri dhoodh chod aaya.
+11 Badri dhoodh le kar aaya.
+12 Mohit gayend le aaya.
+13 Mohit gayend chod aaya.
+14 Gayend is samay kahan hai?	rasoi ghar	13 8
+15 Mohit gusalkhaney mein chala gaya.
+16 Mohit bagichey gaya.
+17 Gayend ab kahan hai?	rasoi ghar	13 8
+18 Sita gusalkhaney gayi.
+19 Badri galiyarey mein chala gaya.
+20 Gayend ab kahan hai?	rasoi ghar	13 8
+21 Mohit daftar mein chala gaya.
+22 Priya gusalkhaney mein chali gayi.
+23 Badri rasoi ghar mein chala gaya.
+24 Mohit seb le aaya.
+25 Priya sayanakaksh gayi.
+26 Badri sayanakaksh gaya.
+27 Sita bagichey mein gayi.
+28 Priya gusalkhaney gayi.
+29 Priya sayanakaksh mein gayi.
+30 Badri dhoodh rakh aaya.
+31 Dhoodh is samay kahan hai?	sayanakaksh	30 26
+1 Sita sayanakaksh gayi.
+2 Priya daftar mein chali gayi.
+3 Sita rasoi ghar gayi.
+4 Mohit sayanakaksh gaya.
+5 Sita gusalkhaney mein gayi.
+6 Badri galiyarey mein chala gaya.
+7 Sita rasoi ghar gayi.
+8 Priya bagichey mein gayi.
+9 Sita galiyarey gayi.
+10 Mohit bagichey gaya.
+11 Priya galiyarey mein gayi.
+12 Mohit gayend le kar aaya.
+13 Badri sayanakaksh mein chala gaya.
+14 Priya sayanakaksh mein chali gayi.
+15 Mohit gayend chod aaya.
+16 Priya rasoi ghar mein chali gayi.
+17 Gayend ab kahan hai?	bagicha	15 10
+18 Mohit gusalkhaney mein chala gaya.
+19 Sita bagichey gayi.
+20 Gayend ab kahan hai?	bagicha	15 10
+21 Sita daftar mein gayi.
+22 Priya bagichey gayi.
+23 Mohit dhoodh le aaya.
+24 Priya gayend le aayi.
+25 Priya gayend rakh aayi.
+26 Mohit dhoodh chod aaya.
+27 Dhoodh is samay kahan hai?	gusalkhana	26 18
+28 Badri rasoi ghar mein gaya.
+29 Badri daftar gaya.
+30 Gayend is samay kahan hai?	bagicha	25 22
+31 Sita bagichey mein gayi.
+32 Mohit rasoi ghar mein gaya.
+33 Dhoodh is samay kahan hai?	gusalkhana	26 18
+1 Badri daftar mein gaya.
+2 Mohit sayanakaksh mein chala gaya.
+3 Priya bagichey mein chali gayi.
+4 Priya gayend le aayi.
+5 Mohit rasoi ghar mein chala gaya.
+6 Mohit seb le kar aaya.
+7 Priya sayanakaksh mein gayi.
+8 Priya gusalkhaney gayi.
+9 Gayend is samay kahan hai?	gusalkhana	4 8
+10 Priya gayend rakh aayi.
+11 Mohit galiyarey mein gaya.
+12 Seb ab kahan hai?	galiyara	6 11
+13 Mohit seb rakh aaya.
+14 Badri gusalkhaney gaya.
+15 Gayend is samay kahan hai?	gusalkhana	10 8
+16 Badri galiyarey mein chala gaya.
+17 Badri seb le aaya.
+18 Mohit sayanakaksh mein chala gaya.
+19 Priya gayend le kar aayi.
+20 Priya gayend chod aayi.
+21 Priya dhoodh le kar aayi.
+22 Gayend is samay kahan hai?	gusalkhana	20 8
+23 Mohit rasoi ghar mein chala gaya.
+24 Mohit bagichey mein gaya.
+25 Gayend is samay kahan hai?	gusalkhana	20 8
+1 Priya sayanakaksh mein chali gayi.
+2 Sita gusalkhaney gayi.
+3 Sita bagichey gayi.
+4 Priya dhoodh le kar aayi.
+5 Badri galiyarey gaya.
+6 Sita gayend le kar aayi.
+7 Sita galiyarey mein chali gayi.
+8 Sita gayend rakh aayi.
+9 Gayend ab kahan hai?	galiyara	8 7
+10 Priya dhoodh rakh aayi.
+11 Sita gayend le aayi.
+12 Dhoodh is samay kahan hai?	sayanakaksh	10 1
+13 Sita gusalkhaney mein gayi.
+14 Priya dhoodh le aayi.
+15 Gayend ab kahan hai?	gusalkhana	11 13
+16 Sita galiyarey mein chali gayi.
+17 Sita daftar mein gayi.
+18 Gayend ab kahan hai?	daftar	11 17
+19 Sita gayend rakh aayi.
+20 Sita galiyarey mein gayi.
+21 Gayend ab kahan hai?	daftar	19 17
+1 Priya gusalkhaney mein chali gayi.
+2 Priya daftar gayi.
+3 Priya seb le aayi.
+4 Priya sayanakaksh mein gayi.
+5 Seb is samay kahan hai?	sayanakaksh	3 4
+6 Priya daftar mein chali gayi.
+7 Badri sayanakaksh gaya.
+8 Seb is samay kahan hai?	daftar	3 6
+9 Mohit bagichey mein gaya.
+10 Priya seb rakh aayi.
+11 Seb is samay kahan hai?	daftar	10 6
+12 Priya bagichey gayi.
+13 Mohit dhoodh le kar aaya.
+14 Seb ab kahan hai?	daftar	10 6
+15 Badri bagichey mein chala gaya.
+16 Priya rasoi ghar mein chali gayi.
+17 Seb is samay kahan hai?	daftar	10 6
+1 Priya sayanakaksh gayi.
+2 Priya galiyarey mein chali gayi.
+3 Priya seb le kar aayi.
+4 Sita galiyarey gayi.
+5 Mohit daftar mein chala gaya.
+6 Priya dhoodh le aayi.
+7 Priya seb rakh aayi.
+8 Badri sayanakaksh gaya.
+9 Seb ab kahan hai?	galiyara	7 2
+10 Mohit galiyarey mein chala gaya.
+11 Badri galiyarey gaya.
+12 Seb ab kahan hai?	galiyara	7 2
+13 Mohit gusalkhaney mein gaya.
+14 Sita bagichey mein gayi.
+15 Priya seb le kar aayi.
+16 Badri daftar mein gaya.
+17 Sita gusalkhaney gayi.
+18 Priya dhoodh rakh aayi.
+19 Dhoodh is samay kahan hai?	galiyara	18 2
+20 Priya dhoodh le aayi.
+21 Priya dhoodh chod aayi.
+22 Dhoodh ab kahan hai?	galiyara	21 2
+23 Badri galiyarey gaya.
+24 Badri gusalkhaney mein gaya.
+25 Dhoodh is samay kahan hai?	galiyara	21 2
+1 Sita bagichey mein gayi.
+2 Priya seb le kar aayi.
+3 Priya seb chod aayi.
+4 Sita sayanakaksh gayi.
+5 Sita gusalkhaney mein gayi.
+6 Badri rasoi ghar gaya.
+7 Mohit bagichey mein gaya.
+8 Priya seb le kar aayi.
+9 Sita sayanakaksh mein gayi.
+10 Priya seb chod aayi.
+11 Mohit sayanakaksh gaya.
+12 Sita rasoi ghar mein gayi.
+13 Mohit daftar gaya.
+14 Sita gayend le kar aayi.
+15 Badri galiyarey mein gaya.
+16 Sita gayend rakh aayi.
+17 Gayend is samay kahan hai?	rasoi ghar	16 12
+18 Sita galiyarey mein gayi.
+19 Mohit dhoodh le kar aaya.
+20 Gayend ab kahan hai?	rasoi ghar	16 12
+21 Priya gusalkhaney mein chali gayi.
+22 Priya galiyarey gayi.
+23 Gayend ab kahan hai?	rasoi ghar	16 12
+24 Mohit dhoodh rakh aaya.
+25 Sita sayanakaksh mein chali gayi.
+26 Dhoodh ab kahan hai?	daftar	24 13
+27 Priya sayanakaksh mein gayi.
+28 Sita bagichey gayi.
+29 Dhoodh ab kahan hai?	daftar	24 13
+1 Mohit sayanakaksh mein chala gaya.
+2 Mohit rasoi ghar gaya.
+3 Priya rasoi ghar gayi.
+4 Badri seb le aaya.
+5 Badri galiyarey gaya.
+6 Priya gayend le kar aayi.
+7 Seb ab kahan hai?	galiyara	4 5
+8 Badri seb chod aaya.
+9 Priya galiyarey gayi.
+10 Gayend is samay kahan hai?	galiyara	6 9
+11 Mohit galiyarey mein gaya.
+12 Priya sayanakaksh mein chali gayi.
+13 Seb is samay kahan hai?	galiyara	8 5
+14 Badri bagichey gaya.
+15 Sita galiyarey mein gayi.
+16 Mohit seb le aaya.
+17 Mohit seb chod aaya.
+18 Seb ab kahan hai?	galiyara	17 11
+19 Badri sayanakaksh mein chala gaya.
+20 Mohit bagichey mein gaya.
+21 Seb ab kahan hai?	galiyara	17 11
+1 Mohit galiyarey mein chala gaya.
+2 Badri dhoodh le kar aaya.
+3 Mohit gusalkhaney mein chala gaya.
+4 Badri galiyarey gaya.
+5 Dhoodh ab kahan hai?	galiyara	2 4
+6 Badri dhoodh chod aaya.
+7 Badri bagichey mein chala gaya.
+8 Dhoodh is samay kahan hai?	galiyara	6 4
+9 Mohit galiyarey mein chala gaya.
+10 Mohit dhoodh le kar aaya.
+11 Sita bagichey mein gayi.
+12 Mohit sayanakaksh mein chala gaya.
+13 Dhoodh ab kahan hai?	sayanakaksh	10 12
+14 Mohit dhoodh chod aaya.
+15 Mohit dhoodh le kar aaya.
+16 Priya bagichey gayi.
+17 Mohit dhoodh chod aaya.
+18 Dhoodh is samay kahan hai?	sayanakaksh	17 12
+19 Priya gusalkhaney mein chali gayi.
+20 Priya daftar mein chali gayi.
+21 Dhoodh ab kahan hai?	sayanakaksh	17 12
+1 Sita gusalkhaney mein gayi.
+2 Priya galiyarey mein gayi.
+3 Mohit gusalkhaney mein gaya.
+4 Mohit galiyarey gaya.
+5 Sita bagichey mein gayi.
+6 Mohit bagichey mein chala gaya.
+7 Sita sayanakaksh mein gayi.
+8 Sita seb le aayi.
+9 Sita gusalkhaney gayi.
+10 Sita seb chod aayi.
+11 Seb ab kahan hai?	gusalkhana	10 9
+12 Mohit dhoodh le kar aaya.
+13 Sita galiyarey gayi.
+14 Seb is samay kahan hai?	gusalkhana	10 9
+15 Mohit dhoodh rakh aaya.
+16 Sita gusalkhaney mein gayi.
+17 Dhoodh ab kahan hai?	bagicha	15 6
+18 Badri rasoi ghar gaya.
+19 Mohit dhoodh le aaya.
+20 Mohit dhoodh rakh aaya.
+21 Sita galiyarey gayi.
+22 Dhoodh is samay kahan hai?	bagicha	20 6
+23 Mohit dhoodh le kar aaya.
+24 Mohit daftar mein chala gaya.
+25 Dhoodh ab kahan hai?	daftar	23 24
+1 Priya dhoodh le kar aayi.
+2 Sita daftar mein chali gayi.
+3 Sita seb le aayi.
+4 Priya dhoodh rakh aayi.
+5 Priya dhoodh le aayi.
+6 Mohit daftar mein gaya.
+7 Sita bagichey gayi.
+8 Mohit rasoi ghar mein chala gaya.
+9 Sita daftar gayi.
+10 Priya bagichey mein gayi.
+11 Priya dhoodh rakh aayi.
+12 Priya galiyarey mein chali gayi.
+13 Dhoodh is samay kahan hai?	bagicha	11 10
+14 Badri bagichey gaya.
+15 Mohit sayanakaksh gaya.
+16 Dhoodh ab kahan hai?	bagicha	11 10
+17 Priya daftar mein gayi.
+18 Sita rasoi ghar gayi.
+19 Mohit rasoi ghar mein chala gaya.
+20 Badri gusalkhaney gaya.
+21 Mohit bagichey mein gaya.
+22 Priya bagichey mein gayi.
+23 Mohit dhoodh le kar aaya.
+24 Sita seb rakh aayi.
+25 Seb ab kahan hai?	rasoi ghar	24 18
+26 Sita seb le kar aayi.
+27 Mohit dhoodh rakh aaya.
+28 Dhoodh ab kahan hai?	bagicha	27 21
+29 Mohit dhoodh le aaya.
+30 Sita seb rakh aayi.
+31 Seb is samay kahan hai?	rasoi ghar	30 18
+1 Priya daftar mein gayi.
+2 Mohit seb le kar aaya.
+3 Mohit sayanakaksh mein gaya.
+4 Priya sayanakaksh mein gayi.
+5 Seb is samay kahan hai?	sayanakaksh	2 3
+6 Sita galiyarey mein chali gayi.
+7 Sita daftar mein chali gayi.
+8 Seb ab kahan hai?	sayanakaksh	2 3
+9 Mohit seb chod aaya.
+10 Priya gusalkhaney mein chali gayi.
+11 Seb is samay kahan hai?	sayanakaksh	9 3
+12 Priya sayanakaksh gayi.
+13 Priya seb le aayi.
+14 Mohit daftar gaya.
+15 Priya seb chod aayi.
+16 Seb is samay kahan hai?	sayanakaksh	15 12
+17 Sita bagichey mein chali gayi.
+18 Mohit gusalkhaney mein chala gaya.
+19 Seb is samay kahan hai?	sayanakaksh	15 12
+1 Mohit bagichey mein gaya.
+2 Badri galiyarey mein gaya.
+3 Badri gayend le kar aaya.
+4 Mohit sayanakaksh mein gaya.
+5 Badri gusalkhaney mein chala gaya.
+6 Badri gayend chod aaya.
+7 Gayend is samay kahan hai?	gusalkhana	6 5
+8 Badri gayend le aaya.
+9 Mohit dhoodh le kar aaya.
+10 Mohit dhoodh rakh aaya.
+11 Badri gayend chod aaya.
+12 Gayend is samay kahan hai?	gusalkhana	11 5
+13 Badri gayend le aaya.
+14 Sita sayanakaksh gayi.
+15 Dhoodh is samay kahan hai?	sayanakaksh	10 4
+16 Mohit bagichey mein gaya.
+17 Badri sayanakaksh mein chala gaya.
+18 Gayend is samay kahan hai?	sayanakaksh	13 17
+19 Badri rasoi ghar mein gaya.
+20 Mohit sayanakaksh mein chala gaya.
+21 Badri daftar gaya.
+22 Mohit dhoodh le kar aaya.
+23 Mohit daftar mein chala gaya.
+24 Mohit galiyarey mein gaya.
+25 Dhoodh is samay kahan hai?	galiyara	22 24
+1 Badri daftar mein chala gaya.
+2 Badri gayend le aaya.
+3 Badri gayend rakh aaya.
+4 Mohit galiyarey mein chala gaya.
+5 Gayend is samay kahan hai?	daftar	3 1
+6 Badri galiyarey mein chala gaya.
+7 Mohit bagichey mein gaya.
+8 Gayend is samay kahan hai?	daftar	3 1
+9 Mohit rasoi ghar gaya.
+10 Mohit seb le kar aaya.
+11 Mohit daftar gaya.
+12 Mohit seb rakh aaya.
+13 Seb ab kahan hai?	daftar	12 11
+14 Mohit rasoi ghar mein chala gaya.
+15 Badri daftar mein gaya.
+16 Seb is samay kahan hai?	daftar	12 11
+17 Mohit daftar mein gaya.
+18 Sita daftar mein chali gayi.
+19 Seb ab kahan hai?	daftar	12 11
+1 Badri gayend le aaya.
+2 Priya sayanakaksh mein chali gayi.
+3 Mohit dhoodh le aaya.
+4 Badri galiyarey gaya.
+5 Gayend is samay kahan hai?	galiyara	1 4
+6 Badri gayend rakh aaya.
+7 Sita rasoi ghar mein gayi.
+8 Gayend is samay kahan hai?	galiyara	6 4
+9 Mohit gusalkhaney gaya.
+10 Badri rasoi ghar gaya.
+11 Gayend is samay kahan hai?	galiyara	6 4
+12 Badri bagichey mein chala gaya.
+13 Mohit dhoodh rakh aaya.
+14 Dhoodh ab kahan hai?	gusalkhana	13 9
+15 Badri daftar gaya.
+16 Sita gusalkhaney mein chali gayi.
+17 Dhoodh ab kahan hai?	gusalkhana	13 9
+1 Sita gayend le aayi.
+2 Badri sayanakaksh mein gaya.
+3 Sita gayend chod aayi.
+4 Sita gayend le aayi.
+5 Priya sayanakaksh mein gayi.
+6 Mohit bagichey mein chala gaya.
+7 Priya gusalkhaney mein gayi.
+8 Badri dhoodh le kar aaya.
+9 Sita sayanakaksh mein chali gayi.
+10 Badri gusalkhaney mein chala gaya.
+11 Dhoodh ab kahan hai?	gusalkhana	8 10
+12 Priya galiyarey gayi.
+13 Sita seb le kar aayi.
+14 Dhoodh is samay kahan hai?	gusalkhana	8 10
+15 Badri dhoodh chod aaya.
+16 Priya bagichey gayi.
+17 Dhoodh is samay kahan hai?	gusalkhana	15 10
+18 Badri dhoodh le kar aaya.
+19 Badri dhoodh rakh aaya.
+20 Dhoodh is samay kahan hai?	gusalkhana	19 10
+21 Sita gayend chod aayi.
+22 Sita rasoi ghar gayi.
+23 Dhoodh ab kahan hai?	gusalkhana	19 10
+1 Sita gusalkhaney mein gayi.
+2 Mohit bagichey gaya.
+3 Badri bagichey mein chala gaya.
+4 Sita sayanakaksh mein gayi.
+5 Mohit seb le aaya.
+6 Mohit seb rakh aaya.
+7 Seb ab kahan hai?	bagicha	6 2
+8 Badri galiyarey mein chala gaya.
+9 Badri sayanakaksh gaya.
+10 Seb ab kahan hai?	bagicha	6 2
+11 Mohit gayend le kar aaya.
+12 Sita bagichey mein chali gayi.
+13 Seb ab kahan hai?	bagicha	6 2
+14 Mohit seb le aaya.
+15 Mohit seb chod aaya.
+16 Seb is samay kahan hai?	bagicha	15 2
+17 Priya bagichey mein chali gayi.
+18 Priya gusalkhaney gayi.
+19 Seb is samay kahan hai?	bagicha	15 2
+1 Badri rasoi ghar mein gaya.
+2 Mohit sayanakaksh gaya.
+3 Sita dhoodh le kar aayi.
+4 Sita galiyarey gayi.
+5 Dhoodh ab kahan hai?	galiyara	3 4
+6 Sita bagichey mein gayi.
+7 Sita dhoodh chod aayi.
+8 Dhoodh is samay kahan hai?	bagicha	7 6
+9 Sita dhoodh le kar aayi.
+10 Mohit daftar mein chala gaya.
+11 Sita galiyarey mein gayi.
+12 Sita dhoodh rakh aayi.
+13 Dhoodh ab kahan hai?	galiyara	12 11
+14 Priya dhoodh le kar aayi.
+15 Badri galiyarey mein chala gaya.
+16 Badri gusalkhaney mein gaya.
+17 Badri gayend le aaya.
+18 Mohit seb le aaya.
+19 Priya sayanakaksh mein gayi.
+20 Badri gayend rakh aaya.
+21 Mohit seb rakh aaya.
+22 Gayend is samay kahan hai?	gusalkhana	20 16
+23 Priya dhoodh rakh aayi.
+24 Sita sayanakaksh mein chali gayi.
+25 Gayend ab kahan hai?	gusalkhana	20 16
+1 Badri dhoodh le aaya.
+2 Mohit seb le kar aaya.
+3 Mohit bagichey gaya.
+4 Priya sayanakaksh mein chali gayi.
+5 Seb is samay kahan hai?	bagicha	2 3
+6 Badri gusalkhaney gaya.
+7 Priya gayend le aayi.
+8 Seb is samay kahan hai?	bagicha	2 3
+9 Priya gayend rakh aayi.
+10 Sita rasoi ghar mein chali gayi.
+11 Gayend ab kahan hai?	sayanakaksh	9 4
+12 Badri dhoodh rakh aaya.
+13 Priya gayend le kar aayi.
+14 Dhoodh is samay kahan hai?	gusalkhana	12 6
+15 Priya gayend rakh aayi.
+16 Badri dhoodh le kar aaya.
+17 Gayend ab kahan hai?	sayanakaksh	15 4
+1 Sita rasoi ghar mein chali gayi.
+2 Mohit bagichey mein gaya.
+3 Mohit gayend le kar aaya.
+4 Mohit gayend rakh aaya.
+5 Gayend is samay kahan hai?	bagicha	4 2
+6 Priya rasoi ghar mein chali gayi.
+7 Mohit rasoi ghar mein gaya.
+8 Gayend ab kahan hai?	bagicha	4 2
+9 Sita sayanakaksh mein chali gayi.
+10 Sita galiyarey mein chali gayi.
+11 Gayend is samay kahan hai?	bagicha	4 2
+12 Sita gusalkhaney gayi.
+13 Mohit daftar mein gaya.
+14 Mohit dhoodh le aaya.
+15 Sita sayanakaksh mein chali gayi.
+16 Badri sayanakaksh gaya.
+17 Badri daftar gaya.
+18 Mohit seb le aaya.
+19 Priya gusalkhaney mein chali gayi.
+20 Badri gusalkhaney gaya.
+21 Mohit sayanakaksh mein gaya.
+22 Seb is samay kahan hai?	sayanakaksh	18 21
+23 Priya daftar gayi.
+24 Sita gusalkhaney gayi.
+25 Badri bagichey mein chala gaya.
+26 Badri gusalkhaney mein chala gaya.
+27 Mohit daftar mein gaya.
+28 Mohit gusalkhaney gaya.
+29 Badri galiyarey mein gaya.
+30 Sita galiyarey mein gayi.
+31 Mohit seb chod aaya.
+32 Badri rasoi ghar gaya.
+33 Seb is samay kahan hai?	gusalkhana	31 28
+1 Badri sayanakaksh gaya.
+2 Mohit gusalkhaney gaya.
+3 Sita galiyarey mein chali gayi.
+4 Mohit dhoodh le kar aaya.
+5 Mohit sayanakaksh gaya.
+6 Badri daftar mein chala gaya.
+7 Dhoodh ab kahan hai?	sayanakaksh	4 5
+8 Badri bagichey mein gaya.
+9 Mohit gayend le aaya.
+10 Dhoodh ab kahan hai?	sayanakaksh	4 5
+11 Mohit gayend rakh aaya.
+12 Mohit bagichey gaya.
+13 Gayend ab kahan hai?	sayanakaksh	11 5
+14 Badri daftar mein gaya.
+15 Badri seb le aaya.
+16 Gayend ab kahan hai?	sayanakaksh	11 5
+17 Badri seb chod aaya.
+18 Badri seb le kar aaya.
+19 Badri galiyarey mein chala gaya.
+20 Sita bagichey gayi.
+21 Seb ab kahan hai?	galiyara	18 19
+1 Badri sayanakaksh mein gaya.
+2 Sita gayend le aayi.
+3 Sita gayend chod aayi.
+4 Sita bagichey gayi.
+5 Sita galiyarey mein gayi.
+6 Mohit galiyarey gaya.
+7 Priya rasoi ghar gayi.
+8 Priya bagichey mein chali gayi.
+9 Sita sayanakaksh mein gayi.
+10 Sita gayend le aayi.
+11 Priya daftar mein chali gayi.
+12 Mohit bagichey mein chala gaya.
+13 Priya bagichey mein gayi.
+14 Badri gusalkhaney mein gaya.
+15 Sita gayend rakh aayi.
+16 Sita gayend le kar aayi.
+17 Priya seb le aayi.
+18 Sita rasoi ghar gayi.
+19 Gayend is samay kahan hai?	rasoi ghar	16 18
+20 Sita bagichey mein chali gayi.
+21 Badri rasoi ghar mein gaya.
+22 Gayend ab kahan hai?	bagicha	16 20
+23 Badri dhoodh le kar aaya.
+24 Mohit galiyarey gaya.
+25 Mohit daftar mein chala gaya.
+26 Priya daftar gayi.
+27 Sita rasoi ghar mein gayi.
+28 Badri daftar mein chala gaya.
+29 Sita galiyarey gayi.
+30 Badri bagichey mein chala gaya.
+31 Badri galiyarey mein chala gaya.
+32 Badri dhoodh rakh aaya.
+33 Dhoodh is samay kahan hai?	galiyara	32 31
+34 Sita gayend chod aayi.
+35 Sita bagichey mein chali gayi.
+36 Gayend ab kahan hai?	galiyara	34 29
+37 Priya bagichey mein chali gayi.
+38 Sita galiyarey mein chali gayi.
+39 Gayend is samay kahan hai?	galiyara	34 29
+1 Priya gayend le aayi.
+2 Mohit galiyarey gaya.
+3 Priya sayanakaksh gayi.
+4 Priya gayend rakh aayi.
+5 Gayend ab kahan hai?	sayanakaksh	4 3
+6 Priya gayend le kar aayi.
+7 Mohit gusalkhaney gaya.
+8 Sita gusalkhaney mein chali gayi.
+9 Priya gayend chod aayi.
+10 Gayend is samay kahan hai?	sayanakaksh	9 3
+11 Priya bagichey gayi.
+12 Priya rasoi ghar gayi.
+13 Gayend ab kahan hai?	sayanakaksh	9 3
+14 Sita sayanakaksh gayi.
+15 Priya gusalkhaney gayi.
+16 Gayend is samay kahan hai?	sayanakaksh	9 3
+17 Badri sayanakaksh gaya.
+18 Sita rasoi ghar mein gayi.
+19 Badri gayend le kar aaya.
+20 Sita galiyarey mein gayi.
+21 Badri gayend rakh aaya.
+22 Badri rasoi ghar gaya.
+23 Gayend ab kahan hai?	sayanakaksh	21 17
+1 Mohit daftar gaya.
+2 Mohit dhoodh le aaya.
+3 Mohit gayend le kar aaya.
+4 Badri seb le aaya.
+5 Badri seb rakh aaya.
+6 Sita sayanakaksh mein chali gayi.
+7 Mohit dhoodh chod aaya.
+8 Badri rasoi ghar mein chala gaya.
+9 Dhoodh is samay kahan hai?	daftar	7 1
+10 Mohit gayend rakh aaya.
+11 Priya sayanakaksh mein chali gayi.
+12 Gayend is samay kahan hai?	daftar	10 1
+13 Priya daftar mein chali gayi.
+14 Priya dhoodh le kar aayi.
+15 Gayend is samay kahan hai?	daftar	10 1
+16 Priya galiyarey mein chali gayi.
+17 Sita rasoi ghar gayi.
+18 Dhoodh ab kahan hai?	galiyara	14 16
+19 Sita galiyarey mein gayi.
+20 Mohit gayend le kar aaya.
+21 Dhoodh is samay kahan hai?	galiyara	14 16
+1 Mohit seb le aaya.
+2 Mohit seb chod aaya.
+3 Priya dhoodh le aayi.
+4 Mohit seb le kar aaya.
+5 Mohit daftar gaya.
+6 Priya dhoodh rakh aayi.
+7 Seb ab kahan hai?	daftar	4 5
+8 Mohit galiyarey mein chala gaya.
+9 Priya dhoodh le kar aayi.
+10 Seb is samay kahan hai?	galiyara	4 8
+11 Mohit seb chod aaya.
+12 Badri daftar gaya.
+13 Seb ab kahan hai?	galiyara	11 8
+14 Badri rasoi ghar mein chala gaya.
+15 Mohit bagichey mein chala gaya.
+16 Seb is samay kahan hai?	galiyara	11 8
+17 Priya dhoodh rakh aayi.
+18 Priya bagichey mein gayi.
+19 Badri galiyarey mein gaya.
+20 Priya gusalkhaney mein chali gayi.
+21 Mohit daftar gaya.
+22 Badri seb le aaya.
+23 Badri seb rakh aaya.
+24 Priya daftar mein gayi.
+25 Seb is samay kahan hai?	galiyara	23 19
+1 Sita daftar mein gayi.
+2 Priya rasoi ghar gayi.
+3 Sita seb le kar aayi.
+4 Badri sayanakaksh mein chala gaya.
+5 Sita seb chod aayi.
+6 Sita seb le kar aayi.
+7 Priya sayanakaksh mein gayi.
+8 Sita seb chod aayi.
+9 Seb is samay kahan hai?	daftar	8 1
+10 Mohit galiyarey mein chala gaya.
+11 Mohit sayanakaksh mein gaya.
+12 Seb ab kahan hai?	daftar	8 1
+13 Mohit bagichey gaya.
+14 Badri bagichey mein chala gaya.
+15 Seb ab kahan hai?	daftar	8 1
+16 Sita bagichey mein gayi.
+17 Sita dhoodh le kar aayi.
+18 Mohit rasoi ghar mein chala gaya.
+19 Sita gayend le aayi.
+20 Priya gusalkhaney mein gayi.
+21 Badri galiyarey gaya.
+22 Sita daftar gayi.
+23 Sita seb le aayi.
+24 Gayend ab kahan hai?	daftar	19 22
+25 Sita rasoi ghar mein gayi.
+26 Sita galiyarey mein chali gayi.
+27 Seb is samay kahan hai?	galiyara	23 26
+1 Priya dhoodh le aayi.
+2 Badri daftar gaya.
+3 Priya dhoodh rakh aayi.
+4 Sita dhoodh le kar aayi.
+5 Priya bagichey mein gayi.
+6 Priya daftar gayi.
+7 Sita dhoodh rakh aayi.
+8 Priya rasoi ghar mein gayi.
+9 Priya bagichey gayi.
+10 Mohit rasoi ghar mein gaya.
+11 Mohit galiyarey mein chala gaya.
+12 Mohit gusalkhaney mein chala gaya.
+13 Sita dhoodh le aayi.
+14 Mohit rasoi ghar mein chala gaya.
+15 Badri bagichey gaya.
+16 Sita sayanakaksh gayi.
+17 Dhoodh ab kahan hai?	sayanakaksh	13 16
+18 Priya gusalkhaney gayi.
+19 Badri seb le aaya.
+20 Badri seb chod aaya.
+21 Badri seb le kar aaya.
+22 Sita gayend le aayi.
+23 Mohit daftar mein gaya.
+24 Badri rasoi ghar mein chala gaya.
+25 Badri gusalkhaney gaya.
+26 Seb ab kahan hai?	gusalkhana	21 25
+27 Mohit gusalkhaney mein chala gaya.
+28 Badri seb chod aaya.
+29 Seb is samay kahan hai?	gusalkhana	28 25
+30 Priya seb le kar aayi.
+31 Badri bagichey mein gaya.
+32 Priya rasoi ghar mein chali gayi.
+33 Priya seb chod aayi.
+34 Seb ab kahan hai?	rasoi ghar	33 32
+35 Priya daftar mein gayi.
+36 Priya gusalkhaney mein gayi.
+37 Seb ab kahan hai?	rasoi ghar	33 32
+1 Priya gusalkhaney mein gayi.
+2 Mohit galiyarey gaya.
+3 Mohit gusalkhaney gaya.
+4 Mohit gayend le aaya.
+5 Badri galiyarey gaya.
+6 Badri seb le aaya.
+7 Badri seb chod aaya.
+8 Mohit galiyarey mein gaya.
+9 Seb is samay kahan hai?	galiyara	7 5
+10 Mohit bagichey mein gaya.
+11 Badri seb le aaya.
+12 Mohit galiyarey gaya.
+13 Sita bagichey gayi.
+14 Badri bagichey gaya.
+15 Priya bagichey mein gayi.
+16 Seb ab kahan hai?	bagicha	11 14
+17 Mohit gayend chod aaya.
+18 Mohit gayend le aaya.
+19 Mohit sayanakaksh mein chala gaya.
+20 Badri seb rakh aaya.
+21 Gayend is samay kahan hai?	sayanakaksh	18 19
+22 Badri seb le kar aaya.
+23 Badri seb rakh aaya.
+24 Seb ab kahan hai?	bagicha	23 14
+25 Mohit daftar mein gaya.
+26 Mohit rasoi ghar gaya.
+27 Seb ab kahan hai?	bagicha	23 14
+1 Mohit daftar mein gaya.
+2 Badri rasoi ghar mein gaya.
+3 Mohit bagichey mein chala gaya.
+4 Badri bagichey gaya.
+5 Priya bagichey mein chali gayi.
+6 Sita galiyarey mein chali gayi.
+7 Sita rasoi ghar mein chali gayi.
+8 Sita gusalkhaney mein gayi.
+9 Sita galiyarey mein gayi.
+10 Sita gusalkhaney mein gayi.
+11 Sita daftar gayi.
+12 Mohit rasoi ghar mein chala gaya.
+13 Sita sayanakaksh mein gayi.
+14 Priya sayanakaksh gayi.
+15 Badri galiyarey mein chala gaya.
+16 Badri rasoi ghar mein gaya.
+17 Mohit galiyarey gaya.
+18 Badri sayanakaksh mein chala gaya.
+19 Priya daftar mein gayi.
+20 Mohit sayanakaksh gaya.
+21 Mohit galiyarey mein chala gaya.
+22 Priya dhoodh le aayi.
+23 Priya dhoodh chod aayi.
+24 Priya sayanakaksh mein gayi.
+25 Dhoodh ab kahan hai?	daftar	23 19
+26 Mohit gusalkhaney mein gaya.
+27 Priya rasoi ghar mein chali gayi.
+28 Dhoodh is samay kahan hai?	daftar	23 19
+29 Mohit sayanakaksh mein chala gaya.
+30 Mohit gusalkhaney gaya.
+31 Mohit rasoi ghar gaya.
+32 Priya sayanakaksh mein chali gayi.
+33 Priya daftar gayi.
+34 Priya sayanakaksh gayi.
+35 Mohit galiyarey mein chala gaya.
+36 Badri rasoi ghar mein chala gaya.
+37 Mohit rasoi ghar mein gaya.
+38 Mohit galiyarey gaya.
+39 Sita rasoi ghar mein gayi.
+40 Badri sayanakaksh mein gaya.
+41 Priya gusalkhaney gayi.
+42 Priya galiyarey mein chali gayi.
+43 Badri bagichey mein gaya.
+44 Priya gusalkhaney mein gayi.
+45 Priya seb le kar aayi.
+46 Priya daftar gayi.
+47 Seb is samay kahan hai?	daftar	45 46
+48 Priya dhoodh le kar aayi.
+49 Badri daftar mein gaya.
+50 Seb ab kahan hai?	daftar	45 46
+51 Priya seb chod aayi.
+52 Badri seb le kar aaya.
+53 Priya dhoodh rakh aayi.
+54 Sita bagichey gayi.
+55 Dhoodh ab kahan hai?	daftar	53 46
+1 Priya daftar mein chali gayi.
+2 Sita rasoi ghar gayi.
+3 Badri rasoi ghar mein gaya.
+4 Priya dhoodh le aayi.
+5 Priya dhoodh chod aayi.
+6 Priya dhoodh le aayi.
+7 Sita daftar mein chali gayi.
+8 Badri galiyarey mein chala gaya.
+9 Priya dhoodh rakh aayi.
+10 Mohit galiyarey mein chala gaya.
+11 Dhoodh ab kahan hai?	daftar	9 1
+12 Badri rasoi ghar mein gaya.
+13 Badri galiyarey mein chala gaya.
+14 Dhoodh is samay kahan hai?	daftar	9 1
+15 Badri seb le kar aaya.
+16 Sita dhoodh le kar aayi.
+17 Badri seb rakh aaya.
+18 Sita dhoodh rakh aayi.
+19 Dhoodh ab kahan hai?	daftar	18 7
+20 Mohit seb le aaya.
+21 Sita dhoodh le aayi.
+22 Priya gusalkhaney gayi.
+23 Sita sayanakaksh gayi.
+24 Dhoodh is samay kahan hai?	sayanakaksh	21 23
+25 Sita dhoodh chod aayi.
+26 Sita bagichey mein gayi.
+27 Dhoodh ab kahan hai?	sayanakaksh	25 23
+1 Sita dhoodh le kar aayi.
+2 Mohit seb le kar aaya.
+3 Badri rasoi ghar mein chala gaya.
+4 Priya gusalkhaney mein chali gayi.
+5 Mohit gusalkhaney mein chala gaya.
+6 Mohit seb chod aaya.
+7 Seb ab kahan hai?	gusalkhana	6 5
+8 Priya seb le aayi.
+9 Priya sayanakaksh mein gayi.
+10 Seb is samay kahan hai?	sayanakaksh	8 9
+11 Sita dhoodh chod aayi.
+12 Mohit sayanakaksh mein gaya.
+13 Seb ab kahan hai?	sayanakaksh	8 9
+14 Priya seb chod aayi.
+15 Priya seb le aayi.
+16 Priya seb rakh aayi.
+17 Mohit rasoi ghar mein chala gaya.
+18 Seb is samay kahan hai?	sayanakaksh	16 9
+19 Sita seb le aayi.
+20 Priya dhoodh le kar aayi.
+21 Priya dhoodh rakh aayi.
+22 Mohit bagichey mein chala gaya.
+23 Dhoodh ab kahan hai?	sayanakaksh	21 9
+1 Priya rasoi ghar mein gayi.
+2 Sita seb le kar aayi.
+3 Sita sayanakaksh mein gayi.
+4 Priya gusalkhaney mein gayi.
+5 Seb is samay kahan hai?	sayanakaksh	2 3
+6 Priya daftar gayi.
+7 Badri sayanakaksh mein chala gaya.
+8 Seb ab kahan hai?	sayanakaksh	2 3
+9 Sita gayend le aayi.
+10 Sita gayend chod aayi.
+11 Gayend ab kahan hai?	sayanakaksh	10 3
+12 Sita seb chod aayi.
+13 Badri seb le aaya.
+14 Gayend ab kahan hai?	sayanakaksh	10 3
+15 Badri gayend le aaya.
+16 Priya rasoi ghar mein gayi.
+17 Sita gusalkhaney mein chali gayi.
+18 Mohit galiyarey mein gaya.
+19 Priya dhoodh le aayi.
+20 Priya gusalkhaney mein chali gayi.
+21 Dhoodh is samay kahan hai?	gusalkhana	19 20
+1 Priya gusalkhaney mein gayi.
+2 Priya sayanakaksh mein chali gayi.
+3 Mohit gusalkhaney gaya.
+4 Sita dhoodh le kar aayi.
+5 Sita daftar mein gayi.
+6 Priya seb le kar aayi.
+7 Dhoodh is samay kahan hai?	daftar	4 5
+8 Priya gayend le kar aayi.
+9 Sita bagichey gayi.
+10 Dhoodh ab kahan hai?	bagicha	4 9
+11 Priya daftar mein chali gayi.
+12 Priya gusalkhaney mein gayi.
+13 Seb is samay kahan hai?	gusalkhana	6 12
+14 Mohit bagichey mein chala gaya.
+15 Mohit sayanakaksh gaya.
+16 Sita sayanakaksh mein chali gayi.
+17 Sita dhoodh rakh aayi.
+18 Dhoodh is samay kahan hai?	sayanakaksh	17 16
+19 Mohit daftar mein gaya.
+20 Badri gusalkhaney mein gaya.
+21 Dhoodh ab kahan hai?	sayanakaksh	17 16
+1 Mohit sayanakaksh mein chala gaya.
+2 Sita gusalkhaney mein gayi.
+3 Sita sayanakaksh mein chali gayi.
+4 Mohit gayend le aaya.
+5 Priya rasoi ghar mein gayi.
+6 Badri seb le aaya.
+7 Badri seb chod aaya.
+8 Priya bagichey mein gayi.
+9 Badri seb le aaya.
+10 Badri gusalkhaney gaya.
+11 Seb ab kahan hai?	gusalkhana	9 10
+12 Priya daftar mein chali gayi.
+13 Badri seb chod aaya.
+14 Seb ab kahan hai?	gusalkhana	13 10
+15 Badri seb le aaya.
+16 Mohit bagichey mein gaya.
+17 Priya bagichey mein chali gayi.
+18 Badri seb chod aaya.
+19 Seb ab kahan hai?	gusalkhana	18 10
+20 Badri daftar mein chala gaya.
+21 Mohit gayend chod aaya.
+22 Gayend is samay kahan hai?	bagicha	21 16
+23 Priya daftar mein chali gayi.
+24 Mohit gayend le aaya.
+25 Seb is samay kahan hai?	gusalkhana	18 10
+1 Badri galiyarey mein gaya.
+2 Priya galiyarey gayi.
+3 Mohit gusalkhaney mein chala gaya.
+4 Sita daftar mein gayi.
+5 Badri gusalkhaney mein chala gaya.
+6 Mohit galiyarey mein chala gaya.
+7 Badri rasoi ghar mein gaya.
+8 Priya gusalkhaney gayi.
+9 Badri sayanakaksh mein gaya.
+10 Priya rasoi ghar mein chali gayi.
+11 Badri dhoodh le kar aaya.
+12 Sita gusalkhaney gayi.
+13 Priya bagichey mein gayi.
+14 Sita galiyarey mein chali gayi.
+15 Priya gayend le aayi.
+16 Priya gayend rakh aayi.
+17 Gayend ab kahan hai?	bagicha	16 13
+18 Sita seb le kar aayi.
+19 Mohit daftar mein gaya.
+20 Gayend ab kahan hai?	bagicha	16 13
+21 Priya rasoi ghar gayi.
+22 Sita seb chod aayi.
+23 Seb is samay kahan hai?	galiyara	22 14
+24 Mohit bagichey mein chala gaya.
+25 Mohit gayend le aaya.
+26 Seb is samay kahan hai?	galiyara	22 14
+27 Mohit gayend chod aaya.
+28 Badri bagichey mein chala gaya.
+29 Gayend ab kahan hai?	bagicha	27 24
+1 Mohit seb le kar aaya.
+2 Mohit seb chod aaya.
+3 Priya daftar mein chali gayi.
+4 Priya galiyarey gayi.
+5 Badri rasoi ghar gaya.
+6 Priya bagichey mein chali gayi.
+7 Mohit seb le kar aaya.
+8 Priya galiyarey mein chali gayi.
+9 Sita sayanakaksh mein gayi.
+10 Priya gusalkhaney mein gayi.
+11 Mohit seb rakh aaya.
+12 Priya bagichey mein chali gayi.
+13 Badri daftar mein gaya.
+14 Priya seb le kar aayi.
+15 Mohit gusalkhaney mein gaya.
+16 Mohit bagichey mein gaya.
+17 Sita galiyarey mein gayi.
+18 Badri bagichey mein chala gaya.
+19 Mohit galiyarey mein chala gaya.
+20 Mohit gusalkhaney mein chala gaya.
+21 Mohit sayanakaksh gaya.
+22 Priya seb chod aayi.
+23 Seb ab kahan hai?	bagicha	22 12
+24 Priya daftar mein chali gayi.
+25 Badri gusalkhaney mein gaya.
+26 Seb ab kahan hai?	bagicha	22 12
+27 Priya gusalkhaney mein gayi.
+28 Sita gusalkhaney gayi.
+29 Seb ab kahan hai?	bagicha	22 12
+30 Mohit bagichey mein chala gaya.
+31 Priya galiyarey mein gayi.
+32 Mohit sayanakaksh gaya.
+33 Sita daftar gayi.
+34 Priya bagichey gayi.
+35 Badri bagichey mein gaya.
+36 Badri seb le aaya.
+37 Badri seb chod aaya.
+38 Seb ab kahan hai?	bagicha	37 35
+39 Priya seb le aayi.
+40 Badri gusalkhaney mein chala gaya.
+41 Mohit bagichey gaya.
+42 Badri sayanakaksh gaya.
+43 Mohit rasoi ghar mein gaya.
+44 Mohit galiyarey mein gaya.
+45 Sita dhoodh le kar aayi.
+46 Priya seb chod aayi.
+47 Seb is samay kahan hai?	bagicha	46 34
+1 Mohit gayend le aaya.
+2 Priya daftar mein gayi.
+3 Mohit gayend rakh aaya.
+4 Priya seb le kar aayi.
+5 Badri daftar mein gaya.
+6 Priya gayend le kar aayi.
+7 Mohit galiyarey gaya.
+8 Badri galiyarey gaya.
+9 Badri gusalkhaney mein chala gaya.
+10 Mohit sayanakaksh mein gaya.
+11 Badri galiyarey gaya.
+12 Priya seb chod aayi.
+13 Seb ab kahan hai?	daftar	12 2
+14 Priya gayend rakh aayi.
+15 Priya sayanakaksh gayi.
+16 Seb is samay kahan hai?	daftar	12 2
+17 Mohit daftar mein chala gaya.
+18 Badri sayanakaksh mein chala gaya.
+19 Seb is samay kahan hai?	daftar	12 2
+20 Mohit rasoi ghar gaya.
+21 Badri gusalkhaney mein chala gaya.
+22 Badri bagichey mein chala gaya.
+23 Mohit gusalkhaney mein chala gaya.
+24 Badri galiyarey gaya.
+25 Badri daftar gaya.
+26 Badri gayend le kar aaya.
+27 Sita gusalkhaney gayi.
+28 Badri seb le kar aaya.
+29 Priya gusalkhaney mein chali gayi.
+30 Sita rasoi ghar mein gayi.
+31 Badri galiyarey gaya.
+32 Seb is samay kahan hai?	galiyara	28 31
+33 Priya bagichey gayi.
+34 Badri bagichey mein chala gaya.
+35 Priya dhoodh le aayi.
+36 Priya dhoodh rakh aayi.
+37 Dhoodh ab kahan hai?	bagicha	36 33
+1 Badri seb le kar aaya.
+2 Sita gusalkhaney mein gayi.
+3 Sita bagichey gayi.
+4 Priya gayend le aayi.
+5 Priya gusalkhaney mein gayi.
+6 Priya gayend rakh aayi.
+7 Gayend ab kahan hai?	gusalkhana	6 5
+8 Mohit bagichey gaya.
+9 Badri seb chod aaya.
+10 Gayend ab kahan hai?	gusalkhana	6 5
+11 Mohit gusalkhaney mein chala gaya.
+12 Mohit gayend le aaya.
+13 Badri seb le aaya.
+14 Priya rasoi ghar mein chali gayi.
+15 Badri seb rakh aaya.
+16 Priya seb le aayi.
+17 Mohit sayanakaksh mein chala gaya.
+18 Priya seb chod aayi.
+19 Seb ab kahan hai?	rasoi ghar	18 14
+20 Mohit daftar mein gaya.
+21 Mohit gayend chod aaya.
+22 Gayend ab kahan hai?	daftar	21 20
+23 Mohit gusalkhaney gaya.
+24 Mohit daftar gaya.
+25 Gayend ab kahan hai?	daftar	21 20
+1 Priya sayanakaksh mein chali gayi.
+2 Priya daftar gayi.
+3 Mohit seb le aaya.
+4 Badri daftar gaya.
+5 Priya sayanakaksh mein chali gayi.
+6 Sita sayanakaksh mein gayi.
+7 Sita gusalkhaney gayi.
+8 Mohit seb rakh aaya.
+9 Mohit seb le aaya.
+10 Sita daftar gayi.
+11 Badri galiyarey gaya.
+12 Sita rasoi ghar mein gayi.
+13 Mohit seb rakh aaya.
+14 Badri bagichey mein chala gaya.
+15 Badri sayanakaksh gaya.
+16 Priya bagichey mein gayi.
+17 Badri galiyarey gaya.
+18 Mohit seb le kar aaya.
+19 Mohit galiyarey mein gaya.
+20 Badri daftar mein chala gaya.
+21 Seb ab kahan hai?	galiyara	18 19
+22 Mohit seb rakh aaya.
+23 Priya galiyarey mein gayi.
+24 Seb ab kahan hai?	galiyara	22 19
+25 Badri rasoi ghar mein chala gaya.
+26 Priya seb le kar aayi.
+27 Sita dhoodh le aayi.
+28 Sita daftar gayi.
+29 Dhoodh is samay kahan hai?	daftar	27 28
+30 Sita dhoodh rakh aayi.
+31 Badri bagichey gaya.
+32 Dhoodh ab kahan hai?	daftar	30 28
+33 Mohit daftar mein gaya.
+34 Priya seb chod aayi.
+35 Dhoodh ab kahan hai?	daftar	30 28
+1 Priya rasoi ghar mein chali gayi.
+2 Sita dhoodh le aayi.
+3 Priya sayanakaksh mein chali gayi.
+4 Sita dhoodh rakh aayi.
+5 Mohit galiyarey mein gaya.
+6 Sita rasoi ghar mein gayi.
+7 Badri sayanakaksh mein chala gaya.
+8 Priya gayend le aayi.
+9 Priya bagichey mein chali gayi.
+10 Priya gayend chod aayi.
+11 Gayend is samay kahan hai?	bagicha	10 9
+12 Badri gusalkhaney mein gaya.
+13 Priya seb le kar aayi.
+14 Gayend is samay kahan hai?	bagicha	10 9
+15 Priya seb rakh aayi.
+16 Mohit dhoodh le kar aaya.
+17 Gayend ab kahan hai?	bagicha	10 9
+18 Badri galiyarey mein gaya.
+19 Mohit rasoi ghar gaya.
+20 Seb is samay kahan hai?	bagicha	15 9
+21 Mohit daftar mein gaya.
+22 Priya seb le aayi.
+23 Dhoodh ab kahan hai?	daftar	16 21
