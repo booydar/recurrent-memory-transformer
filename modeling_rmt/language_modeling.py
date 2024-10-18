@@ -186,10 +186,10 @@ class RecurrentWrapper(torch.nn.Module):
             segment_keys.append('hidden_states')
             out['hidden_states'] = full_hidden_states
 
-        for seg_num, o in enumerate(cell_outputs):
-            for key, value in o.items():
-                if any([sk in key for sk in segment_keys]):
-                    out[f'{key}_{seg_num}'] = value
+        # for seg_num, o in enumerate(cell_outputs):
+        #     for key, value in o.items():
+        #         if any([sk in key for sk in segment_keys]):
+        #             out[f'{key}_{seg_num}'] = value
 
         return out 
         
@@ -202,3 +202,6 @@ class RecurrentWrapper(torch.nn.Module):
         
         memory_state = memory_state.detach()
         return memory_state
+    
+    def gradient_checkpointing_enable(self, *args, **kwargs):
+        self.memory_cell.model.gradient_checkpointing_enable(*args, **kwargs)

@@ -1,0 +1,18 @@
+{
+    "zero_optimization": {
+      "stage": 3
+    },
+    "bf16": {
+      "enabled": true
+    },
+    "gradient_clipping": 1.0,
+    "train_batch_size": "auto",
+    "train_micro_batch_size_per_gpu": "auto",
+    "gradient_accumulation_steps": "auto",
+    "zero_allow_untested_optimizer": true,
+    "fp16_enabled": false,
+    "amp": {
+      "enabled": false
+    }
+  }
+  
