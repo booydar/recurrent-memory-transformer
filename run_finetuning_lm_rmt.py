@@ -91,7 +91,6 @@ parser.add_argument('--backbone_cpt', type=str, default=None, help='backbone mod
 
 
 # tokenizer
-# todo: add wordpiece tokenizers support?
 parser.add_argument('--tokenizer', type=str, default=None, help='path or name of pre-trained HF Tokenizer')
 
 # optimizer args
@@ -136,7 +135,6 @@ if __name__ == '__main__':
             dataset = datasets.load_from_disk(args.tokenized_dataset)
         else:
             raise NotImplementedError("Implemented only for pre-tokenized datasets")
-            raise ValueError(f"Unknown dataset {args.task_name}")
 
     segment_size = args.segment_size
     history_size = args.sample_size - segment_size
@@ -189,21 +187,8 @@ if __name__ == '__main__':
                     'labels_mask': labels_mask.bool()
                     }
 
-        # if getattr(args, 'vary_n_segments', False):
-        #     if getattr(args, 'sampling_prob', False):
-        #         random_value = torch.rand((1)).item()
-        #         if random_value > args.sampling_prob:
-        #             return collated
-
-        #     n_segments = random.randint(0, args.max_n_segments)
-        #     n_tokens = n_segments * args.segment_size
-        #     for k in collated:
-        #         collated[k] = collated[k][:, -n_tokens:]
-
         return collated
 
-    # def filter_by_len(samples):
-    #     return [len(s) > args.min_sample_len for s in samples['tokens']
     def filter_by_len(sample, min_len=16000):
         return len(sample['tokens']) > min_len
     
@@ -216,24 +201,13 @@ if __name__ == '__main__':
         train_dataset = dataset['train'].filter(filter_by_16k)
     
     with accelerator.main_process_first():
-        # train_dataset = dataset["train"].filter(filter_by_len)
         train_dataset = train_dataset.select_columns(['tokens']).map(lambda x: group_texts(x, segment_size, history_size),
                                                         batched=True, desc=f"Grouping train in chunks of {segment_size} and history {history_size}")
-        # train_dataset = dataset["train"].select_columns(['tokens']).map(lambda x: group_texts(x, segment_size, history_size),
-        #                                                 batched=True, desc=f"Grouping train in chunks of {segment_size} and history {history_size}")
         valid_dataset = dataset["validation"].select_columns(['tokens']).map(lambda x: group_texts(x, segment_size, val_history_size), 
                                                              batched=True, desc=f"Grouping valid in chunks of {segment_size} and history {val_history_size}")
         test_dataset = dataset["test"].select_columns(['tokens']).map(lambda x: group_texts(x, segment_size, val_history_size), 
                                                              batched=True, desc=f"Grouping test in chunks of {segment_size} and history {val_history_size}")
 
-    
-    
-    # print(f'filtering samples shorter than {args.min_sample_len} tokens')
-    # train_dataset = train_ dataset.map(lambda sample: filter_by_len(sample, args.min_sample_len))
-    # train_dataset = train_dataset.filter(lambda sample: filter_by_len(sample, args.min_sample_len))
-    # train_dataset = train_dataset.filter(filter_by_len)
-    # print(train_dataset)
-    
     
     num_valid_examples = 100
     valid_inds = np.linspace(1, len(valid_dataset)-1, num_valid_examples).astype(int).tolist()
@@ -302,53 +276,14 @@ if __name__ == '__main__':
     training_args_dict['label_names'] = ['labels']
 
     training_args_dict['evaluation_strategy'] = 'steps'
-    training_args_dict['per_device_eval_batch_size'] = 4
+    training_args_dict['per_device_eval_batch_size'] = training_args_dict.get('per_device_train_batch_size') // 2
     training_args_dict['eval_accumulation_steps'] = 32
-
-    # training_args_dict['per_device_eval_batch_size'] = training_args_dict.get('per_device_train_batch_size')
-    
     training_args_dict['gradient_checkpointing'] = True
     training_args_dict['gradient_checkpointing_kwargs'] = {'use_reentrant':False}
-
-
     training_args_dict['log_level'] = 'debug'
-
-    # print(f"training_args_dict['per_device_eval_batch_size'], {training_args_dict.get('per_device_train_batch_size')}")
-
-
-    # gradient_checkpointing_kwargs={'use_reentrant':False}
-    # model.memory_cell.model.gradient_checkpointing_enable(use_reentrant=False)
-    # model.memory_cell.model._set_static_graph()
-
     
-
     training_args = TrainingArguments(**training_args_dict)
-
-    
-    # def compute_metrics(data):
-    #     print('\n\n\n\n\nEval data')
-    #     print(data)
-    #     1/0
-        
-    #     metrics = {}
-    #     for i in range(args.max_n_segments):
-    #         if f'ce_loss_{i}' in data:
-    #             metrics[f'ce_loss_{i}'] = data[f'ce_loss_{i}'].mean()
-
-    #     return metrics
-    def compute_metrics(eval_pred):
-        # eval_pred is an instance of EvalPrediction
-        predictions = eval_pred.predictions.argmax(axis=-1)  # Access the predictions
-        labels = eval_pred.label_ids         # Access the ground truth labels
-
-        # # Now you can perform any computations, like accuracy, precision, etc.
-        # print(predictions)
-        # print(labels)
-
-        # Example: return some dummy metrics
-        return {"accuracy": (predictions == labels).mean()}
-    
-    args.gradient_checkpointing = True
+    # args.gradient_checkpointing = True
 
     trainer = Trainer(
         model=model,
@@ -358,11 +293,9 @@ if __name__ == '__main__':
         # test_dataset=test_dataset,
         # compute_metrics=compute_metrics,
         data_collator=collate_fn,
-        # callbacks=[EarlyStoppingCallback(early_stopping_patience=args.early_stopping_patience),
-        #            TensorBoardCallbackWithTokens
-        #            ],
     )
     print("Trainer Gradient Checkpointing Enabled:", trainer.args.gradient_checkpointing)
     
     trainer.evaluate()
-    trainer.train(resume_from_checkpoint=args.checkpoint)
+    if not args.validate_only:
+        trainer.train(resume_from_checkpoint=args.checkpoint)
